@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>rs1126</title>
+				<author>Linda Paterson</author>
+			</titleStmt>
+			<editionStmt>
+				<p> Edition Barbieri 2001, with a few modifications (vv. 11, 39 and 43). </p>
+				
+				
+				
+				
+				<edition>
+					<date>2014-01-20</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<p>unknown</p>
+			</publicationStmt>
+			<sourceDesc>
+			<listBibl type="previous_editions">
+				<bibl> de la Borde1780, II, 304; Michel 1830, 89; Le Roux de Lincy 1841, I, 101;
+					Keller 1844, 257; Tarbé 1851, 65; Mætzner 1853, 93-96; Fath 1883, 91; Engelcke
+					1886, 169; Bédier-Aubry 1909, 119; Beck 1937, 94; Gennrich 1953, I, 4; Blume
+					1957, VI, 872; Lerond 1964, 178; Dufournet 1989, 104; Dijkstra 1995a, 199;
+					Barbieri 2001, 237. </bibl>
+
+			</listBibl>
+			<listBibl type="manuscripts">
+				<head>Mss. (17)</head>
+				<bibl> A 135d [158d] (<hi rend="italic">mesire Uges de Bregi</hi> ; vv. 1-12 only),
+					C 221v-222r (<hi rend="italic">li rois de Naivairez</hi>), D 1rv [37rv] (<hi
+						rend="italic">Hughes de Bregi chevaliers</hi>), H 226d-227a (anon.), K
+					106d-107b (<hi rend="italic">li chastelains de Couci</hi>), L <hi
+						rend="superscript">n</hi> 14rv (anon.), M<hi rend="superscript">i</hi> Bc (
+						<hi rend="italic">me sire Huges de Bregi</hi> , only the incipit in the
+					table), O 131ac (anon., modern attribution <hi rend="italic">Chastelains de
+						Coucy</hi>), O<hi rend="superscript">p</hi> 54b-55b (anon.), P 38c-39b (
+						<hi rend="italic">li chastelains de Couci</hi>), Q<hi rend="superscript"
+						>p</hi> 112cd (<hi rend="italic">Çirardus</hi> [ <hi rend="italic"
+						>Brunelus</hi> ]), R<hi rend="superscript">3</hi> 123r-124r (anon.), T 103v
+					(<hi rend="italic">me sire Hughes de Bregi</hi>), U 99rv (anon.), V 79c-80a
+					(anon.), X 75d-76c (<hi rend="italic">li chastelains de Couci</hi>), a 26ac (
+						<hi rend="italic">mesire Uges de Bregi</hi>). </bibl>
+			</listBibl>
+				<listBibl type="essential_bibliography">
+					<bibl><hi rend="underline">Arveiller-Gouiran 1987</hi>: Raymond Arveiller, Gérard Gouiran,
+						<hi rend="italic">L’œuvre poétique de Falquet de Romans, troubadour</hi>, Aix-en
+						Provence, Université de Provence, 1987.</bibl>
+					<bibl><hi rend="underline">Barbieri 1997</hi>: Luca Barbieri, «Signori-trovieri in
+						Borgogna: una lirica attribuita a Gautier de Berzé», <hi rend="italic">Medioevo
+							romanzo</hi>, 21 (1997), pp. 107-131.</bibl>
+					<bibl><hi rend="underline">Barbieri 2001</hi>: Luca Barbieri, <hi rend="italic">Le liriche
+						di Hugues de Berzé, edizione critica</hi>, Milano, CUSL, 2001.</bibl>
+					<bibl><hi rend="underline">Bédier 1906</hi>: Joseph Bédier, «Sur deux chansons de
+						croisade», <hi rend="italic">Romania</hi>, 35 (1906), pp. 387-393.</bibl>
+					<bibl><hi rend="underline">Bédier-Aubry 1909</hi>: Joseph Bédier, Pierre Aubry, <hi
+						rend="italic">Les chansons de croisade avec leurs mélodies</hi>, Paris,
+						Champion, 1909 (Genève, Slatkine, 2011).</bibl>
+					<bibl><hi rend="underline">Chaume 1938</hi>: Maurice Chaume, «Les premiers seigneurs de
+						Berzé», <hi rend="italic">Annales de l’Académie de Mâcon</hi>, s. III, 33 (1938),
+						pp. 161-172.</bibl>
+					<bibl><hi rend="underline">Engelcke 1886</hi>: Karl Engelcke, «Die Lieder des Hugues de
+						Bregi», <hi rend="italic">Archiv für das Studium des neueren Sprachen und
+							Literaturen</hi>, 75 (1886), pp. 147-176.</bibl>
+					<bibl><hi rend="underline">Gouiran 1994</hi>: Gérard Gouiran, «À propos de la vie de Hugues
+						de Berzé, trouvère bourguignon. Essai de nouvelle chronologie», in <hi rend="italic"
+							>Actas do XIX Congreso Internacional de Lingüística e Filoloxía Románicas</hi>,
+						publicadas por R. Lorenzo, VII, A Coruña, Fundación “Pedro Barrié de la Maza, Conde
+						de Fenosa”, 1994, pp. 339-351.</bibl>
+					<bibl><hi rend="underline">Langlois 1984</hi>: Charles-Victor Langlois, <hi rend="italic"
+						>La vie en France au Moyen Âge de la fin du XII</hi><hi
+							rend="italic superscript">e</hi><hi rend="italic"> au milieu du XIV</hi><hi
+								rend="italic superscript">e</hi><hi rend="italic"> siècle d’après des moralistes
+									du temps</hi>, II, Paris, Hachette, 1926 (= Genève, Slatkine, 1984), pp.
+						88-106.</bibl>
+					<bibl><hi rend="underline">Lecoy 1938</hi>: Felix Lecoy, <hi rend="italic">La</hi>Bible<hi
+						rend="italic"> au seigneur de Berzé</hi>, <hi rend="italic">édition critique
+							d’après tous les manuscrits connus</hi>, Paris, Droz, 1938.</bibl>
+					<bibl><hi rend="underline">Lecoy 1942-1943</hi>: Felix Lecoy, «Pour la chronologie de
+						Hugues de Berzé», <hi rend="italic">Romania</hi>, 67 (1942-1943), pp. 243-254.</bibl>
+					<bibl><hi rend="underline">Lerond 1964</hi>: Alain Lerond, <hi rend="italic">Chansons
+						attribuées au Chastelain de Couci (fin du XII</hi><hi rend="italic superscript"
+							>e</hi><hi rend="italic"> – début du XIII</hi><hi rend="italic superscript"
+								>e</hi><hi rend="italic"> siècle)</hi>, Paris, Presses Universitaires de France,
+						1964.</bibl>
+					<bibl><hi rend="underline">Paris 1889</hi>: Gaston Paris, «Hugues de Berzé», <hi
+						rend="italic">Romania</hi>, 18 (1889), pp. 553-570.</bibl>
+					<bibl><hi rend="underline">Schultz 1892</hi>: Oscar Schultz, «Urkundliches zu Hugues de
+						Berzé», <hi rend="italic">Zeitschrift für romanische Philologie</hi>, 16 (1892), pp.
+						504-508.</bibl>
+					<bibl><hi rend="underline">Zenker 1896</hi>: Rudolf Zenker, <hi rend="italic">Die Gedichte
+						des Folquet von Romans</hi>, Halle a. S., Niemeyer, 1896.</bibl>
+					<bibl><hi rend="bold">Edizioni precedenti.</hi></bibl>
+					<bibl><hi rend="underline">de la Borde 1780</hi>: Jean-Benjamin de la Borde, <hi
+						rend="italic">Essai sur la musique ancienne et moderne</hi>, II, Paris, Onfroy,
+						1780.</bibl>
+					<bibl><hi rend="underline">Michel 1830</hi>: Francisque Michel, <hi rend="italic">Chansons
+						du Châtelain de Couci, revues sur tous les manuscrits</hi>, Paris, Crapelet,
+						1830.</bibl>
+					<bibl><hi rend="underline">Le Roux de Lincy 1841</hi>: Antoine J. V. Le Roux de Lincy, <hi
+						rend="italic">Recueil de chants historiques français depuis le XII</hi><hi
+							rend="italic superscript">e</hi><hi rend="italic"> jusqu’au XVI</hi><hi
+								rend="italic superscript">e</hi><hi rend="italic"> siècle</hi>, I, Paris,
+						Gosselin, 1841.</bibl>
+					<bibl><hi rend="underline">Keller 1844</hi>: Adalbert Keller, <hi rend="italic">Romwart,
+						Beiträge zur Kunde mittelalterlichen Dicthung aus italianischen
+						Bibliotheken</hi>, Mannheim, Bassermann – Paris, Renouard, 1844.</bibl>
+					<bibl><hi rend="underline">Tarbé 1851</hi>: Prosper Tarbé, <hi rend="italic">Chansons de
+						Thibault V, comte de Champagne et de Brie, roi de Navarre</hi>, Reims, Reigner,
+						1851.</bibl>
+					<bibl><hi rend="underline">Mætzner 1853</hi>: Eduard Mætzner, <hi rend="italic"
+						>Altfranzösische Lieder, berichtigt und erläutert</hi>, Berlin, Dümmler,
+						1853.</bibl>
+					<bibl><hi rend="underline">Fath 1883</hi>: Fritz Fath, <hi rend="italic">Die Lieder des
+						Castellans von Coucy</hi>, Heidelberg, Hörning, 1883.</bibl>
+					<bibl><hi rend="underline">Beck 1937</hi>: Jean Beck, <hi rend="italic">Anthologie de cent
+						chansons de trouvères et de troubadours des XII</hi><hi
+							rend="italic superscript">e</hi><hi rend="italic"> et XIII</hi><hi
+								rend="italic superscript">e</hi><hi rend="italic"> siècles</hi>, Philadelphia,
+						University of Pennsylvania Press, 1937.</bibl>
+					<bibl><hi rend="underline">Gennrich 1953</hi>: Friedrich Gennrich, <hi rend="italic"
+						>Altfranzösische Lieder</hi>, I, Halle a. S., Niemeyer, 1953.</bibl>
+					<bibl><hi rend="underline">Blume 1957</hi>: Friedrich Blume, <hi rend="italic">Die Musik in
+						Geschichte und Gegenwart</hi>, VI, Kassel-Basel-London, Bärenreiter, 1957.</bibl>
+					<bibl><hi rend="underline">Dufournet 1989</hi>: Jean Dufournet, <hi rend="italic"
+						>Anthologie de la poésie lyrique française des XII</hi><hi
+							rend="italic superscript">e</hi><hi rend="italic"> et XIII</hi><hi
+								rend="italic superscript">e</hi><hi rend="italic"> siècles</hi>, Paris,
+						Gallimard, 1989.</bibl>
+				</listBibl>
+				
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<metDecl pattern="10 a’bba’cca’a’" xml:lang="en">
+				<p> 10 a’bba’cca’a’ (MW 1410,3 = Frank 549); 6 <hi rend="italic">coblas doblas</hi>
+					+ 1 four-line <hi rend="italic">envoi</hi> (cca’a’); rhyme a: <hi rend="italic"
+						>-ie</hi> , <hi rend="italic">-endre</hi> , <hi rend="italic">-ance</hi> ;
+					rhyme b: <hi rend="italic">-on</hi> , <hi rend="italic">-i</hi> , <hi
+						rend="italic">-ier</hi> ; rhyme c: <hi rend="italic">-is</hi> , <hi
+						rend="italic">-or</hi> , <hi rend="italic">-er</hi> . The metrical shape is
+					imited by Thibaut de Champagne in RS 1469 (with a f. c rhyme); melody in ADKOL
+						<hi rend="superscript">n</hi> PR<hi rend="superscript">3</hi> TVXa; the
+					groups KOPX+D and ATa+V+L<hi rend="superscript">n</hi> have two similar
+					melodies with few variants but diverging by a fifth; however ms. R<hi
+						rend="superscript">3</hi> presents an independent melody. </p>
+			</metDecl>
+			<metDecl pattern="10 a’bba’cca’a’" xml:lang="it">
+				<p> 10 a’bba’cca’a’ (MW 1410,3 = Frank 549); 6 <hi rend="italic">coblas doblas</hi>
+					con un <hi rend="italic">envoi</hi> di 4 versi (cca’a’); rima a: <hi
+						rend="italic">-ie</hi>, <hi rend="italic">-endre</hi>, <hi rend="italic"
+						>-ance</hi>; rima b: <hi rend="italic">-on</hi>, <hi rend="italic">-i</hi>,
+						<hi rend="italic">-ier</hi>; rima c: <hi rend="italic">-is</hi>, <hi
+						rend="italic">-or</hi>, <hi rend="italic">-er</hi>; questo schema è ripreso
+					da Thibaut de Champagne nella canzone RS 1469 (con la rima c femminile); melodia
+					in ADKOL<hi rend="superscript">n</hi>PR<hi rend="superscript">3</hi>TVXa; i
+					gruppi KOPX+D e ATa+V+L<hi rend="superscript">n</hi> hanno due linee melodiche
+					simili con poche varianti ma divergenti di una quinta; il ms. R<hi
+						rend="superscript">3</hi> presenta invece una linea melodica
+					indipendente.</p>
+
+			</metDecl>
+			<appInfo>
+				<application ident="TEI_fromDOCX" version="2.15.0">
+					<label>DOCX to TEI</label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<revisionDesc>
+			<change>
+				<date>$LastChangedDate: 2014-01-20T11:06:30Z$</date>
+				<name>Linda Paterson</name>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>
+				<hi rend="bold">Hugues de Berzé</hi>
+			</p>
+			<p>
+				<hi rend="italic bold">S’onques nuns hons por dure departie</hi> (RS 1126) </p>
+
+		</front>
+		<body>
+			<div type="poem" xml:id="RS.1126.fro" xml:lang="fro">
+				<lg type="stanza" n="1">
+					<l>S’onques nuns hons por dure departie</l>
+					<l>ot cuer dolant, dont l’ai je par raison,</l>
+					<l>c’onques tortre qui pert son compaingnon</l>
+					<l>ne fut un jor de moi plus esbahie.</l>
+					<l>Chascuns ploure sa terre et son païs</l>
+					<l>cant il se part de ses coraus amis,</l>
+					<l>mais il n’est nuns congiés, que que nuns die,</l>
+					<l>si dolerous com d’amin et d’amie.</l>
+				</lg>
+				<lg type="stanza" n="2">
+					<l>Li reveoirs m’a mis en la folie,</l>
+					<l>dont je m’iere gardeis mainte saison,</l>
+					<l>d’aler a li; or ai quis’ ochoison</l>
+					<l>dont je morai, et se je vif, ma vie</l>
+					<l>vaudra bien mort, car cil qui ait apris</l>
+					<l>estre anvoisiés et chantans et jolis</l>
+					<l>a aseis pis, cant sa joie est faillie,</l>
+					<l>que s’il moroit tout a une foïe.</l>
+				</lg>
+				<lg type="stanza" n="3">
+					<l>Se je seüsse autretant a l’enprendre</l>
+					<l>que li congiés me tormentaist ensi,</l>
+					<l>je laissasse m’ame en vostre merci,</l>
+					<l>s’alaisse a Deu graces et mercis randre</l>
+					<l>de ceu que ainz soffristes a nul jor</l>
+					<l>que je fusse beans a vostre amour;</l>
+					<l>mais je me teing apaiés de l’atandre,</l>
+					<l>puis que chescuns vos aime ensi sans prendre.</l>
+				</lg>
+				<lg type="stanza" n="4">
+					<l>Mult a croissiés amorous a contendre</l>
+					<l>d’aler a Dieu ou de remanoir ci,</l>
+					<l>car nesuns hom, puis k’Amors l’a saisi,</l>
+					<l>ne devroit ja si grief fais entreprendre:</l>
+					<l>on ne puet pas servir a tant seignor;</l>
+					<l>proec qe fins cuers qi bet a haute honor</l>
+					<l>ne se poroit de tel chose deffendre,</l>
+					<l>por ce, dame, ne m’en devés reprendre.</l>
+				</lg>
+				<lg type="stanza" n="5">
+					<l>Un confort voi en vostre dessevrance,</l>
+					<l>que je n’avrai a Deu que reprochier;</l>
+					<l>mais quant por li me covient vos laissier,</l>
+					<l>je ne sai rien de greingnor reprochance;</l>
+					<l>car cil qui voit tel amor dessevrer</l>
+					<l>et n’a pooir qu’il puisse recovrer</l>
+					<l>a assez plus de duel et de pesance</l>
+					<l>que n’avroit ja li rois s’il perdoit France.</l>
+				</lg>
+				<lg type="stanza" n="6">
+					<l>Ahï, dame, tout est fors de balance,</l>
+					<l>partir m’estuet de vos sans recovrier;</l>
+					<l>tant en ai fait que je nel puis laissier,</l>
+					<l>mais s’il ne fust de remanoir viltance</l>
+					<l>et reproche, j’alaisse demander</l>
+					<l>as fins amans congié de demorer;</l>
+					<l> mais vos estes de si tres grant vaillance </l>
+					<l>que vostre amins ne doit faire faillance.</l>
+				</lg>
+				<lg type="stanza" n="7">
+					<l> Merveille moi coment puet cuers durer (mss. DT) </l>
+					<l>ki prent congié a sa dame a l’aler;</l>
+					<l>mais mandast li de Lombardie en France,</l>
+					<l>car lons consirs doble la desevrance.</l>
+				</lg>
+				<lg type="stanza" n="7">
+					<l> Mout par est fols cil qui vait oltre mer (mss. L<hi rend="superscript"
+							>n</hi> HO<hi rend="superscript">p</hi> Q<hi rend="superscript">p</hi>
+						) </l>
+					<l>qui prent congié a sa dame a l’aler;</l>
+					<l>mais mande li de Lombardie en France,</l>
+					<l>que li congiés doble la desirance.</l>
+				</lg>
+			</div>
+
+
+
+			<div type="translation" xml:lang="it" xml:id="RS.1126.it">
+				<div type="stanza" n="1">
+					<p>Se mai qualcuno ebbe il cuore triste per una crudele separazione, io ho ben
+						ragione di averlo, poiché mai una tortora che ha perso il proprio compagno
+						fu più sconsolata di me. Ognuno piange la propria terra e il proprio paese,
+						quando si separa dai propri amici intimi, ma non vi è nessun addio, per
+						quanto si dica, più doloroso di quello tra amante e amata.</p>
+				</div>
+				<div type="stanza" n="2">
+					<p>Il desiderio di rivederla mi ha suggerito l’idea folle (da cui mi sono
+						guardato per molto tempo) di andare da lei; dunque mi sono messo in una
+						situazione che mi farà morire e, se vivrò, la mia vita sarà come morte,
+						poiché colui che ha cominciato ad essere allegro, gioioso e felice ha una
+						sorte peggiore, quando la sua gioia viene meno, che se morisse sul
+						colpo.</p>
+				</div>
+				<div type="stanza" n="3">
+					<p>Se avessi saputo altrettanto bene, quando ho preso la decisione, che il
+						congedo da voi mi avrebbe causato tanti tormenti, avrei lasciato la mia
+						anima al vostro servizio e sarei andato a rendere grazie a Dio del fatto che
+						voi mi abbiate concesso di poter aspirare al vostro amore; ma io mi
+						accontento dell’attesa, poiché ognuno vi ama senza ricevere nulla.</p>
+				</div>
+				<div type="stanza" n="4">
+					<p>Un crociato innamorato deve ben ponderare se debba andare verso Dio o
+						rimanere qui, poiché nessuno, dopo che Amore l’ha preso, dovrebbe addossarsi
+						un simile peso. Non si possono servire tanti padroni, ma poiché un cuore
+						nobile che aspira ad un grande onore non può evitarlo, non mi dovete,
+						signora, biasimare per questo.</p>
+				</div>
+				<div type="stanza" n="5">
+					<p>Trovo nella nostra separazione almeno un conforto: che io non avrò niente da
+						rimproverarmi davanti a Dio; anzi, poiché per causa sua sono costretto a
+						lasciarvi, non vi è nulla più di questo che meriti un grande biasimo. Poiché
+						colui che Dio fa partire ed allontanare da un tale amore, in modo tale che
+						non può tornare sui suoi passi, ha più dolore e tristezza di quanto avrebbe
+						mai il re se perdesse la Francia.</p>
+				</div>
+				<div type="stanza" n="6">
+					<p>Ahimè, signora, non c’è più spazio per i ripensamenti, sono costretto a
+						separarmi da voi senza indugio: ho fatto tanto che non posso più tirarmi
+						indietro. Ma se restare non fosse una viltà e una vergogna, andrei a
+						domandare ai veri amanti il permesso di trattenermi ancora; ma voi siete di
+						così grande valore che il vostro amico non può venir meno al proprio
+						compito.</p>
+				</div>
+				<div type="stanza" n="7">
+					<p>Mi stupisco che possa resistere il cuore di chi prende commiato dalla sua
+						dama prima di partire; le trasmetta piuttosto l’addio in Francia dalla
+						Lombardia, perché un lungo struggimento raddoppia (il dolore del)la
+						separazione.</p>
+				</div>
+				<div type="stanza" n="7">
+					<p>È davvero folle colui che va oltremare e prende commiato dalla sua dama prima
+						di partire; le trasmetta piuttosto l’addio in Francia dalla Lombardia,
+						perché il commiato raddoppia il desiderio.</p>
+				</div>
+
+			</div>
+
+
+			<div type="translation" xml:lang="en" xml:id="RS.1126.eng">
+				<div type="stanza" n="1">
+					<p> If ever a man had a sorrowful heart because of a cruel separation, then it
+						is right that I should have one, since a turtle-dove which loses its
+						companion was never more disconsolate than I. Everyone pines for his country
+						and his land when he leaves his close friends, but whatever anyone may say,
+						there is no parting as painful as that between lover and beloved. </p>
+				</div>
+				<div type="stanza" n="2">
+					<p> The desire to see her again has given me the insane idea (which I have
+						resisted for a long time) of going back to her; so I have put myself in a
+						situation which will bring about my death, and if I live, my life will be
+						like death, for a man who has learned to be merry and joyful and glad is
+						much worse off, once his joy is over, than if he died straight away. </p>
+				</div>
+				<div type="stanza" n="3">
+					<p> Had I known as well, when I decided on this parting, that it would have
+						tormented me so, I should have left my soul in your service and gone to
+						thank God for ever allowing me to aspire to your love; but I am content to
+						wait, since everyone loves you like this without receiving anything. </p>
+				</div>
+				<div type="stanza" n="4">
+					<p> A crusader in love must well ponder whether to go towards God or to remain
+						here, for no-one, once Love has taken hold of him, ought ever to assume such
+						a heavy burden: one cannot serve more than one lord; but since a noble heart
+						that aspires to high honour cannot avoid doing this, you ought not, my lady,
+						to blame me for it. </p>
+				</div>
+				<div type="stanza" n="5">
+					<p> I see one comfort in parting from you: I will have nothing for which to
+						reproach myself before God. On the contrary, I know nothing more blameworthy
+						than being made to leave you for Him, since a man who sees such love being
+						split apart without him being able to go back on his decision has much
+						greater grief and sorrow than the king would were he to lose France. </p>
+				</div>
+				<div type="stanza" n="6">
+					<p> Ah, lady, there is no more room for indecision! – I have to leave you
+						without delay; I have gone so far that I cannot turn back. But if staying
+						behind were not a base and shameful thing, I would go and ask true lovers
+						for permission to remain; yet you are of such great worth that your lover
+						ought not to fail in his duty. </p>
+				</div>
+				<div type="stanza" n="7">
+					<p> I marvel how a man’s heart can hold out when he bids his lady farewell at
+						the moment of his departure; instead he should send it to her in France from
+						Lombardy, for lingering heartache doubles the [grief of the] separation.
+					</p>
+				</div>
+				<div type="stanza" n="7">
+					<p> A man going overseas is out of his mind if he bids farewell to his lady
+						before leaving; instead he sends it to her in France from Lombardy, because
+						the farewell doubles desire. </p>
+				</div>
+
+			</div>
+
+
+
+
+
+		</body>
+		<back>
+			<div type="historical" xml:lang="en">
+				<p> Born in all probability around 1170, the castellan Hugues V de Berzé (now
+					Berzé-le-Chatel, 15 km northwest of Mâcon, Saône-et-Loire) took part in the
+					Fourth Crusade, as he himself testifies in his moralising <hi rend="italic"
+						>Bible</hi> , and as Villehardouin’s chronicle confirms (<hi rend="italic"
+						>La conquête de Constantinople</hi> , § 45). According to the latter, Hugues
+					took the cross together with his father and other Burgundian knights after the
+					chapter of Cîteaux on 14 September 1201 and embarked at Venice in the autumn of
+					the following year, having as his travelling companions, among others, Conon de
+					Béthune and the Châtelain de Couci, who died during the undertaking. The French
+					crusaders set out after Pentecost (8 June) 1202, crossed the Alps near the pass
+					of Moncenisio and passed through <hi rend="italic">Lombardie</hi> (northern
+					Italy), probably arriving in Venice at the end of June or beginning of July.
+					From there, after overcoming some serious financial difficulties and resolving
+					differences over their strategy, they set out to sea in the direction of the
+					Holy Land (1-8 October according to the prevalent hypothesis, 8 November
+					according to Runciman). As is well known, in the course of the journey the
+					leaders of the expedition changed their objective and headed for Constantinople,
+					besieging and conquering the city between the summer of 1203 and spring of 1204,
+					and establishing the seat of a Latin empire. According to the meagre allusions
+					contained in the <hi rend="italic">Bible</hi> , Hugues de Berzé participated in
+					all operations, remained in the East until at least 1205, and probably also
+					completed a pilgrimage to the Holy Land. In 1207 he was probably not yet back in
+					Burgundy, since during the course of that year it is his brother Gautier who
+					signs an official act regarding the family fief; Hugues appears in a document of
+					1216 and perhaps also one of 1212, but the exact time of his return is unknown.
+					As the Fourth Crusade is the only one in which Hugues took part, the song RS
+					1126, a farewell to his lady, must have been composed when the trouvère had
+					already taken the cross (vv. 17 and 25) before his departure between 14
+					September 1201 and 8 June 1202; however the allusion contained in v. 52 of the
+						<hi rend="italic">envoi</hi> , in which the author says that to avoid the
+					pain of separation it is preferable to send greetings to the lady from <hi
+						rend="italic">Lombardie</hi> , suggests that it may have been written during
+					the journey in Italy, hence probably during the second half of June 1202. Since
+					some of the features of the manuscript tradition are compatible with the
+					presence of authorial variants, the song may have been written on two occasions,
+					first in Burgundy before departure and then during the journey in Italy. </p>
+			</div>
+			<div type="historical" xml:lang="it">
+				<p> Nato con tutta probabilità intorno al 1170, il castellano Hugues V di Berzé
+					(oggi Berzé-le-Chatel, 15 km a nord-ovest di Mâcon, Saône-et-Loire) partecipò
+					alla quarta crociata, come testimonia egli stesso nella sua <hi rend="italic"
+						>Bible</hi> morale, e come ci conferma la cronaca di Villehardouin (<hi
+						rend="italic">La conquête de Constantinople</hi>, § 45). Secondo
+					quest’ultimo, Hugues de Berzé prese la croce insieme al padre e ad altri
+					cavalieri borgognoni dopo il capitolo di Cîteaux del 14 settembre 1201 e
+					s’imbarcò a Venezia nell’autunno dell’anno successivo, avendo come compagni
+					d’avventura tra gli altri Conon de Béthune e il Castellano di Couci, che morì
+					durante l’impresa. I crociati francesi si misero in movimento dopo la Pentecoste
+					(8 giugno) del 1202, valicarono le Alpi presso il passo del Moncenisio e
+					attraversarono la <hi rend="italic">Lombardie</hi> per giungere a Venezia
+					verosimilmente a fine giugno o inizio luglio; da qui, superate alcune importanti
+					difficoltà economiche e risolte le divergenze sulla strategia da seguire,
+					presero il mare in direzione della Terra Santa (1-8 ottobre secondo l’ipotesi
+					prevalente, 8 novembre secondo lo storico inglese Runciman). Com’è noto, durante
+					il viaggio i capi della spedizione cambiarono obiettivo e si diressero verso
+					Costantinopoli, assediando e conquistando la città tra l’estate del 1203 e la
+					primavera del 1204, stabilendovi la sede di un impero latino. Stando agli scarni
+					riferimenti contenuti nella <hi rend="italic">Bible</hi>, Hugues de Berzé
+					partecipò a tutte le operazioni e si trattenne in Oriente almeno fino al 1205 e
+					probabilmente completò anche un pellegrinaggio in Terra Santa. Nel 1207 non
+					aveva ancora fatto ritorno in Borgogna, poiché nel corso di quell’anno è il
+					fratello Gautier a firmare un atto ufficiale che riguarda il feudo di famiglia;
+					Hugues ricompare in un documento del 1216 e forse già in uno del 1212, ma non è
+					dato di conoscere il momento preciso del suo ritorno. Poiché la quarta crociata
+					è l’unica alla quale Hugues de Berzé abbia partecipato, la canzone RS 1126, un
+					congedo dalla dama amata, dovrebbe essere stata scritta dal troviero già
+					crociato (vv. 17 e 25) prima della partenza, cioè tra il 14 settembre 1201 e l’8
+					giugno 1202; tuttavia l’accenno contenuto nel v. 52 del congedo, nel quale
+					l’autore dice che per evitare il dolore della separazione è preferibile mandare
+					i saluti alla dama dalla <hi rend="italic">Lombardie</hi>, sembra aprire
+					all’ipotesi che la canzone possa essere stata scritta durante il viaggio in
+					Italia, cioè verosimilmente nella seconda metà del mese di giugno del 1202.
+					Poiché alcune caratteristiche della tradizione manoscritta sono compatibili con
+					la presenza di varianti d’autore, non si può neppure escludere che la canzone
+					sia stata scritta in due tempi, dapprima in Borgogna prima della partenza e poi
+					durante il viaggio in Italia.</p>
+
+			</div>
+			<div type="notes" xml:lang="en">
+				<p> Rather than a true crusade song this is a song of farewell to the beloved lady
+					on the part of a knight leaving on crusade. If its model is indeed the song RS
+					1125 of Conon de Béthune, as indicated by the incipit, Hugues de Berzé’s text
+					does not take up the solemn, hortatory tone of its second part but instead
+					delves more deeply into the dilemma introduced in the first stanza concerning
+					the impossibility of choosing between serving God and serving the lady. The
+					theme of the bond with the lady is developed in stanzas II and III, and the
+					dilemma culminates in stanza IV where it is formulated explicitly and then
+					resolved, not without anxiety and resistance, into the unavoidable choice of
+					divine service. But the grief of separation becomes the protagonist of the last
+					two stanzas, and is overcome only through the awareness that the lady’s worth
+					can but enhance the knightly virtues of the lover; this worth will be
+					demonstrated by the knight’s exploits, while in the final analysis it would only
+					be debased by his desistance. The <hi rend="italic">envoi</hi> , which appears
+					in two interesting variant versions, closes with the advice, perhaps followed by
+					the author himself, to avoid a farewell which involves the unbearable vision of
+					the beloved lady, and to opt for a greeting sent from a distance after the
+					parting. The author is inspired by the most classical models of OF lyric, in
+					particular those within the crusade song sub-genre: Conon de Béthune (not only
+					RS 1125 echoed from the first line, but also RS 1314) and the Châtelain de Couci
+					(especially RS 679, also a farewell to a lady), and constitutes a sort of
+					mediation between these authors and the synthesis produced by the last great
+					trouvère, Thibaut de Champagne (see in particular RS 757). For a more detailed
+					commentary see Barbieri 2001, pp. 258-272. </p>
+				
+
+					<p corresp="#RS.1126.fro[range(@n=19,@n=22)]">The poet wishes to thank God and the lady for having allowed him at
+						least to be able to aspire to love and declares he is content with waiting,
+						which is the lover’s normal condition according to courtly ideology and has no
+						impediment in departure on crusade. </p>
+				<p corresp="#RS.1126.fro[range(@n=34,@n=36)]">This line must mean ‘I will have nothing for which to reproach myself
+						before God’, whether <hi rend="italic">reprochier</hi> is taken as a noun or a
+						verb. In the expression <hi rend="italic">a Dieu</hi> , the preposition <hi
+							rend="italic">a</hi> means either ‘near/around, before, in the face of’, or
+						‘on the part of’ (see the examples in Ménard, § 316). The most obvious sense (‘I
+						shall have nothing for which to reproach God’) would contradict what is said in
+						v. 36, the sense in 35-36 being that the trouvère is blaming God for forcing
+						this terrible, and uncourtly, choice upon him. Blaming God for the separation of
+						the lovers is typical of the crusade song (see for example RS 191, 12-13; Guiot
+						de Dijon RS 21, 30-32; Thibaut de Champagne RS 757, 5-6 and especially Châtelain
+						de Couci RS 679, 29-30, with <hi rend="italic">dessevrer</hi> at the rhyme). </p>
+				<p corresp="#RS.1126.fro:(n=36)">The noun <hi rend="italic">reprochance</hi> is a hapax in OF, perhaps an
+						occitanism (see Levy SW 7, 251). </p>
+				<p corresp="#RS.1126.fro[range(@n=44,@n=48)]">After remembering that he can do nothing to go back on his decision to
+						leave, the trouvère says that if it were not considered unworthy and base, he
+						would go and ask permission to remain. The tradition is divided as to the
+						addressee of this request (<hi rend="italic">fin’amor</hi> , <hi rend="italic"
+							>fins amans</hi> , <hi rend="italic">ma dame</hi>); the reading <hi
+								rend="italic">as fins amans</hi> of CU seems the most satisfactory, on the
+						one hand because the interlocutors are more unexpected, on the other because the
+						request for advice from collective true lovers is found elsewhere in trouvère
+						lyric: RS 679 of the Châtelain de Couci in particular begins with an appeal
+						directed towards the <hi rend="italic">amant</hi> . </p>
+				<p corresp="#RS.1126.fro[range(@n=49,@n=52)]">The <hi rend="italic">envoi</hi> presents two distinct versions
+						transmitted by the mss. DT and HO<hi rend="superscript">p</hi> Q <hi
+							rend="superscript">p</hi> +L<hi rend="superscript">n</hi> . It has been
+						decided to print both versions: the first for the sake of coherence with the
+						version with the rest of the text that is substantially followed for the whole
+						edition, the second because it refers explicitly to the voyage overseas and,
+						given the agreement of the mss. from the peripheral regions, it may constitute
+						the authentic or definitive version of the author. </p>
+				<p corresp="#RS.1126.fro:(n=51)">Both Bédier and Lérond link the verb <hi rend="italic">mander</hi> to the
+						news of departure, but more probably the trouvère is referring to the gesture of
+						leave-taking and farewell (<hi rend="italic">congié</hi> in the preceding
+						line), identifiable in this case with the text of the song itself. </p>
+				
+			</div>
+			<div type="notes" xml:lang="it">
+				<p>Più che di una vera e propria canzone di crociata si tratta del congedo dalla
+					dama amata di un cavaliere che parte per la crociata. Se il modello di
+					riferimento dichiarato nell’incipit è infatti la canzone RS 1125 di Conon de
+					Béthune, il testo di Hugues de Berzé non ne riprende il tono solenne e
+					esortativo della seconda parte ma approfondisce piuttosto il dilemma introdotto
+					nella prima strofe sull’impossibilità di scegliere tra il servizio a Dio e il
+					servizio alla dama. Il tema del legame con la dama è sviluppato nelle strofi ii
+					e iii, e il dilemma raggiunge l’acme nella strofe iv dove trova una formulazione
+					esplicita che si risolve, non senza patemi e resistenze, con l’ineluttabile
+					scelta del servizio divino. Ma il dolore della separazione torna protagonista
+					nelle ultime due strofi, e viene superato solo attraverso la consapevolezza che
+					il valore della dama non può che esaltare le virtù cavalleresche dell’amico;
+					esso verrà testimoniato dalle imprese del cavaliere mentre verrebbe in ultima
+					analisi svilito dalla sua desistenza. Il congedo, che si presenta in due
+					interessanti varianti redazionali, si chiude con il consiglio, forse seguito
+					dallo stesso autore, di evitare un addio che implichi l’intollerabile visione
+					della dama amata, optando per un saluto inviato a distanza dopo la partenza.
+					L’autore si ispira ai modelli più classici della lirica oitanica in particolare
+					all’interno del sottogenere della canzone di crociata: Conon de Béthune (non
+					solo la canzone RS 1125 riecheggiata fin dal primo verso, ma anche la RS 1314) e
+					il Castellano di Couci (soprattutto la canzone RS 679, anch’essa un congedo
+					dalla dama) e costituisce una sorta di mediazione tra questi autori e la sintesi
+					operata dall’ultimo grande troviero Thibaut de Champagne (si veda in particolare
+					la canzone RS 757). Per un commento più dettagliato si rimanda a Barbieri 2001,
+					pp. 258-272.</p>
+				<p corresp="#RS.1126.fro[range(@n=19,@n=22)]">Il poeta vuole ringraziare Dio e la dama di avergli permesso almeno di
+					poter ambire all’amore e dichiara di accontentarsi dell’attesa, che è la
+					condizione normale dell’amante secondo l’ideologia cortese e non è impedita
+					dalla partenza per la crociata.</p>
+				<p  corresp="#RS.1126.fro:(n=34)">Mi pare necessario attribuire a questo verso il senso di “non aver nulla da
+					rimproverarsi davanti a Dio”, sia che si intenda <hi rend="italic"
+						>reprochier</hi> con valore di sostantivo, sia che si preferisca
+					interpretarlo come un verbo. Nell’espressione <hi rend="italic">a Dieu</hi>, la
+					preposizione <hi rend="italic">a</hi> esprimerà il senso di “presso, davanti a,
+					nei confronti di” oppure anche di “da parte di” (si vedano gli esempi forniti da
+					Ménard, § 316). Il senso più ovvio e banale (“non avrei niente da rimproverare a
+					Dio”) sarebbe realmente in contraddizione con l’affermazione del v. 36; inoltre
+					il tema del rimprovero a Dio per la separazione degli amanti è tipico delle
+					canzoni di crociata (si veda per esempio RS 191, 12-13; Guiot de Dijon RS 21,
+					30-32; Thibaut de Champagne RS 757, 5-6 e soprattutto Castellano di Couci RS
+					679, 29-30, con <hi rend="italic">dessevrer</hi> in rima).</p>
+				<p  corresp="#RS.1126.fro:(n=36)">Il sostantivo <hi rend="italic">reprochance</hi> è un hapax in francese
+					antico, forse un provenzalismo (si veda Levy SW 7, 251).</p>
+				<p corresp="#RS.1126.fro[range(@n=44,@n=48)]">Dopo aver ricordato che non può far nulla per recedere dalla sua decisione
+					di partire, il troviero dice che se un ripensamento non fosse ritenuto indegno e
+					vile, egli andrebbe a chiedere il permesso di restare. La tradizione si divide
+					sui destinatari di questa richiesta (<hi rend="italic">fin’amor</hi>, <hi
+						rend="italic">fins amans</hi>, <hi rend="italic">ma dame</hi>); la lezione
+						<hi rend="italic">as fins amans</hi> di CU sembra la più soddisfacente, da
+					un lato perché si tratta degli interlocutori meno scontati e meno attesi,
+					dall’altro perché la richiesta di consiglio al consesso dei veri amanti ha
+					qualche riscontro nella lirica dei trovieri, e in particolare la canzone RS 679
+					del Castellano di Couci inizia proprio con un appello indirizzato agli <hi
+						rend="italic">amant</hi>.</p>
+				<p corresp="#RS.1126.fro[range(@n=49,@n=52)]">Anche il congedo presenta due redazioni diverse trasmesse dai mss. DT e
+						HO<hi rend="superscript">p</hi>Q<hi rend="superscript">p</hi>+L<hi
+						rend="superscript">n</hi>. Si è deciso in questo caso di fornire il testo di
+					entrambe: la prima per coerenza con la redazione che si è sostanzialmente
+					seguita per tutta l’edizione, la seconda perché si riferisce esplicitamente al
+					viaggio oltremare e perché, visto l’accordo dei testimoni delle due aree
+					periferiche, potrebbe costituire la versione autentica o definitiva
+					dell’autore.</p>
+				<p  corresp="#RS.1126.fro:(n=51)">Tanto Bédier quanto Lérond legano il verbo <hi rend="italic">mander</hi> alla
+					notizia della partenza, ma più probabilmente il troviero fa riferimento al gesto
+					del congedo e dell’addio (<hi rend="italic">congié</hi> del verso precedente),
+					identificabile in questo caso col testo stesso della canzone. Si tratterebbe
+					quindi di un vero e proprio <hi rend="italic">envoi</hi> del testo, con la
+					precisazione del luogo in cui si trova l’autore.</p>
+			</div>
+			
+		</back>
+	</text>
+</TEI>

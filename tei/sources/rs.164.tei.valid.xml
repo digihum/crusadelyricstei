@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../poem-strict.xsl"?>
+<?xml-stylesheet type="text/css" href="../poem-author.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Linda Paterson</author>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					<date>2013-11-03</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<p>unknown</p>
+			</publicationStmt>
+			<sourceDesc>
+				<listBibl type="manuscripts">
+					<head>Mss. (5).</head>
+					<bibl>Baltimore, Walters Art Museum, W.142 (B), 310ab;</bibl>
+					<bibl>Paris, BnF, fr. 9083 (P1), 316ab;</bibl>
+					<bibl>Paris, BnF, fr. 22495 (P2), 283r;</bibl>
+					<bibl>Paris, BnF, fr. 24209 (P3), 320ab;</bibl>
+					<bibl> Turin, Biblioteca nazionale universitaria, L.I.5 (T), 490c-491a. </bibl>
+				</listBibl>
+				<listBibl type="previous_editions" >
+					<bibl>
+						<hi rend="italic">Histoire littéraire de la France</hi>, XXIII, 675;</bibl>
+					 <bibl>
+						<hi rend="italic">Continuation Rothelin</hi>, 548; Bédier-Aubry 1909, 217;
+						Dufournet 1989, 188; Guida 1992, 115; Dijkstra 1995a, 209.</bibl>
+				</listBibl>
+				<listBibl type="essential_bibliography" >
+					<bibl>
+						<hi rend="underline">Edbury 2007</hi>: Peter Edbury, «The French
+						Translation of William of Tyre’s <hi rend="italic">Historia</hi>: the
+						Manuscript Tradition», <hi rend="italic">Crusades</hi>, 6, 2007, pp.
+						69-105. </bibl>
+					<bibl>
+						<hi rend="underline">Grossel 2000</hi>: Marie-Geneviève Grossel, «Les
+						Champenois et l’appel de l’outremer au XIII<hi rend="superscript">e</hi>
+						siècle», in <hi rend="italic">Mémoire de Champagne</hi>, <hi rend="italic">
+							Actes du troisième mois médiéval, Centre d’études médiévales de la
+							région Champagne-Ardenne</hi>, II, Langres, Guéniot, 2000, pp.
+						105-131. </bibl>
+					<bibl>
+						<hi rend="underline">Jackson 1987</hi>: Peter Jackson, «The crusades of
+						1239-41 and their aftermath», <hi rend="italic">Bulletin of the School of
+							Oriental and African Studies</hi>, 50, 1987, pp. 32-60. </bibl>
+					<bibl>
+						<hi rend="underline">Lower 2005</hi>: Michael Lower, <hi rend="italic">The
+							Baron’s Crusade: a call to arms and its consequences</hi>,
+						Philadelphia, University of Pennsylvania Press, 2005. </bibl>
+					<bibl>
+						<hi rend="underline">Melani 1999</hi>: Silvio Melani, «Aimeric de Belenoi,
+						Thibaut de Champagne e le crociate», <hi rend="italic">Rivista di studi
+							testuali</hi>, 1, 1999, pp. 137-157. </bibl>
+					<bibl>
+						<hi rend="underline">Morgan 1982</hi>: Margaret R. Morgan, «The Rothelin
+						Continuation of William of Tyre», in <hi rend="italic"> Outremer. Studies in
+							the history of the Crusading Kingdom of Jerusalem presented to Joshua
+							Prawer</hi>, edited by Benjamin Z. Kedar, Hans E. Mayer, Raymond C.
+						Smail, Jerusalem, Yad Izhak Ben-Zvi Institute, 1982, pp. 244-257. </bibl>
+					<bibl>
+						<hi rend="underline">Painter 1989</hi>: Sidney Painter, «The Crusade of
+						Theobald of Champagne and Richard of Cornwall, 1239-1241», in <hi
+							rend="italic">A History of the Crusades</hi> (Editor in Chief, Kenneth
+						Meyer Setton), II, <hi rend="italic">The Later Crusades, 1189-1311</hi>,
+						Edited by R. L. Wolff and Harry W. Hazard, Madison, University of Wisconsin
+						Press, 1989, pp. 463-487. </bibl>
+					<bibl>
+						<hi rend="underline">Röhricht 1886</hi>: Reinhold Röhrich, «Die Kreuzzüge
+						des Grafen Theobald von Navarra und Richard von Cornwallis, nach dem
+						heiligen Lande», <hi rend="italic">Forschungen zur deutschen Geschichte</hi>, 26, 1886, pp. 67-102. </bibl>
+				</listBibl>
+				<listBibl type="annals">
+					<bibl>
+						<hi rend="underline">Alberico delle Tre Fontane,</hi>
+						<hi rend="italic underline">Chronica</hi>: <hi rend="italic"> Chronica
+							Albrici monachi Trium Fontium, a monacho Novi Monasterii Hoiensis
+							interpolata</hi>, ed. Paul Scheffer-Boichorst, Hannover, Hahn, 1874 (
+							<hi rend="italic">MGH</hi> SS 23, pp. 631-950). </bibl>
+					<bibl>
+						<hi rend="italic underline">Annales de Terre Sainte</hi>: <hi rend="italic"
+							>Annales de Terre Sainte 1095-1291</hi>, publiés par Reinhold Röhrich
+						et Gaston Raynaud, Paris, Leroux, 1884 (estratto da <hi rend="italic"
+							>Archives de l’Orient latin</hi>, 2, 1883, pp. 427-461). </bibl>
+					<bibl>
+						<hi rend="italic underline">Continuation Rothelin</hi>: <hi rend="italic">
+							Continuation de Guillaume de Tyr, de 1229 à 1261, dite du manuscrit de
+							Rothelin</hi>, in <hi rend="italic">Recueil des historiens des
+							croisades</hi>, publié par les soins de l’Académie des Inscriptions et
+						des Belles-Lettres, <hi rend="italic">Historiens occidentaux</hi>, II,
+						Paris, Imprimerie impériale, 1859, pp. 485-639 (traduz. inglese: <hi
+							rend="italic"> Crusader Syria in the Thirteenth Century. The Rothelin
+							Continuation of the History of William of Tyre with part of the Eracles
+							or Acre text</hi> . Edited by Janet Shirley. Aldershot: Ashgate, 1999). </bibl>
+					<bibl>
+						<hi rend="italic underline">Eracles</hi>: <hi rend="italic"> L’estoire de
+							Eracles empereur et la conqueste de la terre d’Outremer</hi>, in <hi
+							rend="italic">Recueil des historiens des croisades</hi>, publié par les
+						soins de l’Académie des Inscriptions et des Belles-Lettres, <hi
+							rend="italic">Historiens occidentaux</hi>, II, Paris, Imprimerie
+						impériale, 1859, pp. 1-481 (traduz. inglese: <hi rend="italic"> Crusader
+							Syria in the Thirteenth Century. The Rothelin Continuation of the
+							History of William of Tyre with part of the Eracles or Acre text</hi> .
+						Edited by Janet Shirley. Aldershot: Ashgate, 1999). </bibl>
+					<bibl>
+						<hi rend="italic underline">Gestes des Chiprois</hi>: <hi rend="italic"
+							>Guerra di Federico II in Oriente (1223-1242)</hi>, introduzione, testo
+						critico, traduzione e note a cura di Silvio Melani, Napoli, Liguori, 1994. </bibl>
+					<bibl>
+						<hi rend="underline">Joinville,</hi>
+						<hi rend="italic underline">Vie de saint Louis</hi>: Jean de Joinville, <hi
+							rend="italic">Vie de saint Louis</hi>, texte établi, traduit, annoté et
+						présenté par Jacques Monfrin, Paris, Garnier, 2010. </bibl>
+					<bibl>
+						<hi rend="underline">Matthieu Paris,</hi>
+						<hi rend="italic underline">Chronica majora</hi>: Matthaei Parisiensis,
+						monachi Sancti Albani, <hi rend="italic">Chronica majora</hi>, edited by
+						Henry Richards Luard, IV, <hi rend="italic">A.D. 1240 to A.D. 1247</hi>,
+						London, Longman etc., 1877. </bibl>
+				</listBibl>
+			</sourceDesc>
+			<sourceDesc>
+				<p>Converted from a Word document</p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<editorialDecl xml:lang="it">
+				<p> Dei dodici testimoni manoscritti completi della cosiddetta <hi rend="italic"
+						>Continuation Rothelin</hi> della cronaca di Guglielmo di Tiro, solo cinque
+					riportano anche il testo delle due canzoni menzionate dall’autore. Tali
+					manoscritti, tutti risalenti al secondo o terzo quarto del XIV secolo, ad
+					eccezione del manoscritto di Torino che è del pieno XV secolo, costituiscono un
+					gruppo compatto riconosciuto da tutti gli studiosi che si sono occupati di
+					questo testo. L’archetipo delle canzoni risulta evidentemente corrotto: alcuni
+					versi mancano, le rime non sono sempre rispettate, alcune lezioni appaiono
+					estremamente banali. </p>
+			</editorialDecl>
+			<editorialDecl xml:lang="en">
+				<p> Of the twelve complete manuscript witnesses of the so-called <hi rend="italic"
+						>Continuation Rothelin</hi> of the chronicle of William of Tyre, only five
+					include the text of the two songs mentioned by the author. These mss., all
+					dating from the second or third quarter of the 14th c. except Turin ms. dating
+					from the 15th c., constitute a compact group recognised by all scholars who have
+					worked on this text. The archetype of the songs is clearly corrupt: some lines
+					are missing, there are irregularities in the rhyme-scheme, and some readings
+					appear extremely banal. </p>
+			</editorialDecl>
+			<metDecl pattern="7a’ba’bc’dc’c’dd" xml:lang="en" >
+
+				<p> 7a’ba’bc’dc’c’dd (MW 1262,1); 5 <hi rend="italic">coblas singulars</hi> ; a =
+						<hi rend="italic">-aire</hi>, <hi rend="italic">-ee</hi>, <hi
+						rend="italic">-aite / -elle</hi>, <hi rend="italic">-emple(s)</hi>, <hi
+						rend="italic">-ee / -ie</hi> ; b = <hi rend="italic">-er</hi>, <hi
+						rend="italic">-er</hi>, <hi rend="italic">-ont</hi>, <hi rend="italic"
+						>-ier</hi>, <hi rend="italic">-ié</hi> ; c = <hi rend="italic">-ie</hi>,
+						<hi rend="italic">-ue</hi>, <hi rend="italic">-ee</hi>, <hi rend="italic"
+						>-ie</hi>, <hi rend="italic">-ie</hi> ; d = <hi rend="italic">-ier</hi>,
+						<hi rend="italic">-us / -ue</hi>, <hi rend="italic">-ier</hi>, <hi
+						rend="italic">-on(s)</hi>, <hi rend="italic">-oir</hi> . Respect for
+					metrical norms is far from uniform*: despite the <hi rend="italic">coblas
+						singulars</hi> structure many identical rhyme-words are repeated in several
+					stanzas, and other more major irregularities include the following: the ‘a’
+					rhyme of st. III alternates between two forms ( <hi rend="italic">-eite
+						/-elle</hi> ), and two forms in stanza V ( <hi rend="italic">-ee / -ie</hi>
+					), while the ‘d’ rhyme in st. II even presents a f. form <hi rend="italic"
+						>-ue</hi> identical to the ‘c’ rhyme. In the whole ms. tradition two lines
+					are missing (one line of the ‘d’ rhyme in st. II and one line in st. II has the
+					‘c’ rhyme of st. II and one has the ‘c’ rhyme of st. III), without there being
+					any perceptible interruption in the sense; given the impossibility of
+					establishing their exact position or cause, such gaps are not indicated in the
+					text. No ms. has preserved the tune. </p>
+			</metDecl>
+			<metDecl pattern="7a’ba’bc’dc’c’dd" xml:lang="it">
+				<p> 7a’ba’bc’dc’c’dd (MW 1262,1); 5 <hi rend="italic">coblas singulars</hi> ; rima a
+					= <hi rend="italic">-aire</hi>, <hi rend="italic">-ee</hi>, <hi rend="italic"
+						>-aite / -elle</hi>, <hi rend="italic">-emple(s)</hi>, <hi rend="italic"
+						>-ee / -ie</hi> ; rima b = <hi rend="italic">-er</hi>, <hi rend="italic"
+						>-er</hi>, <hi rend="italic">-ont</hi>, <hi rend="italic">-ier</hi>, <hi
+						rend="italic">-ié</hi> ; rima c = <hi rend="italic">-ie</hi>, <hi
+						rend="italic">-ue</hi>, <hi rend="italic">-ee</hi>, <hi rend="italic"
+						>-ie</hi>, <hi rend="italic">-ie</hi> ; rima d = <hi rend="italic"
+						>-ier</hi>, <hi rend="italic">-us / -ue</hi>, <hi rend="italic">-ier</hi>
+					, <hi rend="italic">-on(s)</hi>, <hi rend="italic">-oir</hi> ; il rispetto
+					delle norme metriche è tutt’altro che impeccabile; malgrado la struttura a <hi
+						rend="italic">coblas singulars</hi> molte rime si ripetono identiche in più
+					strofi; altre infrazioni più gravi si trovano nel testo: la rima ‘a’ nella terza
+					strofe alterna due forme <hi rend="italic">-eite /-elle</hi> e nella quinta due
+					forme <hi rend="italic">-ee / -ie</hi>, mentre la rima ‘d’ nella seconda strofe
+					presenta addirittura una forma femminile <hi rend="italic">-ue</hi> identica
+					alla rima ‘c’; in tutta la tradizione manoscritta mancano due versi (un verso a
+					rima ‘d’ nella seconda strofe e un verso a rima ‘c’ nella terza strofe) senza
+					che si notino interruzioni nel discorso; nell’impossibilità di stabilirne la
+					posizione esatta e di determinare l’origine, tali lacune non vengono segnalate
+					graficamente nel testo; la melodia non è conservata da nessun testimone. </p>
+			</metDecl>
+			<appInfo>
+				<application ident="TEI_fromDOCX" version="2.15.0">
+					<label>DOCX to TEI</label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<revisionDesc>
+			<change>
+				<date>$LastChangedDate: 2014-01-13T11:14:41Z$</date>
+				<name>Linda Paterson</name>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<div type="preface">
+				<p>
+					<hi rend="bold">Philippe de Nanteuil (?)</hi>
+				</p>
+				<p>
+					<hi rend="italic bold">En chantant vueil mon duel faire</hi> (RS 164) </p>
+
+				<p xml:lang="fro">
+					<hi rend="italic">Des chançons que Phelippes de Nantueil fist en Babyloine.</hi>
+				</p>
+				<p xml:lang="en">
+					<hi rend="italic"> Concerning the songs which Philip of Nanteuil composed in
+						Babylon.</hi>
+				</p>
+				<p xml:lang="it">
+					<hi rend="italic">Sulle canzoni che Filippo di Nanteuil compose a Babilonia</hi>
+				</p>
+
+				<p xml:lang="fro"> Phelippes de Nantueil fu menez avec les autres prisons en
+					Babyloine. En la prison ou il fu mis, il fist pluseurs chançons; aucune il en
+					envoia en l’ost des crestiens, que nous dirons a ceuls qui oïr les voudront. </p>
+				<p xml:lang="en"> Philip of Nanteuil was taken with the other prisoners to Babylon.
+					In the prison where he was thrown he composed several songs; some he sent to the
+					Christian army, and we shall relate them to those who would like to hear them. </p>
+				<p xml:lang="it"> Filippo di Nanteuil fu condotto a Babilonia con gli altri
+					prigionieri. Nella prigione dove fu posto, scrisse diverse canzoni; ne inviò
+					alcune alle truppe cristiane, e noi le riporteremo per coloro che le vorranno
+					ascoltare. </p>
+
+			</div>
+
+		</front>
+		<body>
+
+			<div type="poem" xml:id="RS.164.fro" xml:lang="fro">
+				<lg type="stanza" n="1">
+					<l n="1">En chantant vueil mon duel faire</l>
+					<l n="2">pour ma dolour conforter</l>
+					<l n="3">du preu conte debonnaire,</l>
+					<l n="4">qui seult los et pris porter,</l>
+					<l n="5">de Montfort, qui en Surie</l>
+					<l n="6">ert venus pour guerroier,</l>
+					<l n="7">dont France est moult mal baillie;</l>
+					<l n="8">mais la guerre est tost faillie,</l>
+					<l n="9">car de son assaut premier</l>
+					<l n="10">nel laissa Diex repairier.</l>
+				</lg>
+				<lg type="stanza" n="2">
+					<l n="11">Ha! France, douce contree</l>
+					<l n="12">que touz seulent honorer,</l>
+					<l n="13">vostre joie est atornee</l>
+					<l n="14">du tout en tout au pluerer.</l>
+					<l n="15">Touz jourz mais serez plus mue,</l>
+					<l n="16">trop vous est mesavenue!</l>
+					<l n="17">Tel dolours est avenue</l>
+					<l n="18">qu’a la premiere venue</l>
+					<l n="19">avez vos contes perdus.</l>
+				</lg>
+				<lg type="stanza" n="3">
+					<l n="20">Ha! cuens de Bar, quel souffraite</l>
+					<l n="21">de vous li François avront!</l>
+					<l n="22">Quant il savront la nouvelle</l>
+					<l n="23">de vous, grant duel en feront,</l>
+					<l n="24">quant France est desheritee</l>
+					<l n="25">de si vaillant chevalier.</l>
+					<l n="26">Maudite soit la jornee</l>
+					<l n="27">dont tant hardi soudoier</l>
+					<l n="28">sont esclave et prisonnier.</l>
+				</lg>
+				<lg type="stanza" n="4">
+					<l n="29">Se l’Ospitaus et li Temples</l>
+					<l n="30">et li frere chevalier</l>
+					<l n="31">eüssent donné example</l>
+					<l n="32">a noz genz de chevauchier,</l>
+					<l n="33">nostre granz chevalerie</l>
+					<l n="34">ne fust or pas en prison,</l>
+					<l n="35">ne li Sarrazin en vie;</l>
+					<l n="36">mais ainsi nel firent mie,</l>
+					<l n="37">dont ce fu granz mesprisons</l>
+					<l n="38">et samblanz de traïzon.</l>
+				</lg>
+				<lg type="stanza" n="5">
+					<l n="39">Chançons, qui fus compensee</l>
+					<l n="40">de dolour et de pitié,</l>
+					<l n="41">va a Pitié, si li prie</l>
+					<l n="42">pour Dieu et pour amistié</l>
+					<l n="43">qu’aille en l’ost, et si leur die</l>
+					<l n="44">et si leur face a savoir</l>
+					<l n="45">qu’il ne se recroient mie,</l>
+					<l n="46">mais metent force et aïe</l>
+					<l n="47">qu’il puissent noz genz ravoir,</l>
+					<l n="48">par bataille ou par avoir.</l>
+				</lg>
+			</div>
+			<div type="translation" xml:id="RS.164.eng" corresp="RS.164.fro" xml:lang="en">
+				<div type="stanza" n="1">
+					<p> In song, to alleviate my grief, I want to make my lament over the good and
+						valiant Count of Montfort, who used to receive praise and honour, and who
+						came to Syria to wage war, through which France came to a dreadful pass; but
+						the war is suddenly over, for God has not allowed it to be renewed after its
+						first assault. </p>
+				</div>
+				<div type="stanza" n="2">
+					<p> Ah, France, sweet country customarily honoured by all, your joy has been
+						utterly and completely transformed to weeping. You will be grieving for ever
+						more, such is the misfortune you have suffered! The tragedy is that as soon
+						as you arrived you lost your counts. </p>
+				</div>
+				<div type="stanza" n="3">
+					<p> Ah, Count of Bar, how the French will miss you! When they hear the news
+						about you they will make a huge lament, when France is deprived of such a
+						valiant knight. A curse on the day when such brave soldiers are slaves and
+						prisoners! </p>
+				</div>
+				<div type="stanza" n="4">
+					<p> If the Hospitallers and the Templars and the brother (Teutonic) knights had
+						given the example to our people to ride in pursuit, our great cavalry would
+						not now be in prison, or the Saracens alive; but this they did not do, and
+						it was a great mistake and virtually treasonable. </p>
+				</div>
+				<div type="stanza" n="5">
+					<p> Song, composed in equal measure of grief and compassion, go to Pity and beg
+						her in the name of God and friendship to go among the troops, and speak to
+						them to urge them not to give up, but to gather their strength and mutual
+						aid so that they can recover our people, either through battle or through
+						money. </p>
+				</div>
+			</div>
+			<div type="translation" xml:id="RS.164.it" xml:lang="it" corresp="RS.164.fro">
+				<div type="stanza" n="1">
+					<p> Voglio fare cantando, per confortare il mio dolore, il mio lamento per il
+						buon conte valoroso – che era solito ricevere lode e onore – di Montfort,
+						che era venuto in Siria per combattere, per cui la Francia è assai malmessa;
+						ma la guerra è subito finita, perché Dio non lo ha lasciato tornare dal suo
+						primo assalto. </p>
+				</div>
+				<div type="stanza" n="2">
+					<p> Ah, Francia! dolce paese che tutti solevano onorare, la vostra gioia è
+						mutata completamente in pianto. Sarete per sempre dolente, tale è la
+						sventura che vi ha colpita! È capitato qualcosa di tragico, perché alla
+						prima occasione avete perso i vostri conti. </p>
+				</div>
+				<div type="stanza" n="3">
+					<p> Ah, conte di Bar, che mancanza sentiranno di voi i francesi! Quando
+						conosceranno la notizia che vi riguarda, ne faranno un grande lamento,
+						poiché la Francia è privata di un cavaliere così valoroso. Sia maledetto il
+						giorno in cui tanti combattenti coraggiosi sono fatti schiavi e prigionieri.
+					</p>
+				</div>
+				<div type="stanza" n="4">
+					<p> Se gli Ospedalieri e i Templari, e i fratelli cavalieri (i cavalieri
+						Teutonici) avessero incitato con il loro esempio i nostri uomini
+						all’inseguimento, la nostra grande cavalleria ora non sarebbe imprigionata,
+						e i saraceni non sarebbero in vita; ma così non fecero, e fu un grave errore
+						e quasi un tradimento. </p>
+				</div>
+				<div type="stanza" n="5">
+					<p> Canzone, che fosti composta in parti eguali di dolore e di compassione, vai
+						da Pietà e pregala, in nome di Dio e dell’amicizia, di andare fra le truppe
+						e di parlare loro per incitarli a non cedere allo scoramento, ma a
+						riprendere piuttosto forza e concordia per riavere la nostra gente, con la
+						guerra o con il denaro. </p>
+				</div>
+			</div>
+		</body>
+		<back>
+			<div type="historical" xml:lang="en">
+				<p> The song refers to an episode of the barons’ crusade led by Count Thibaut of
+					Champagne, King of Navarre. After arriving in the Holy Land at the beginning of
+					September 1239 crusaders assembled in Acre, but the fluid situation of the enemy
+					and tensions between the sultanates of Syria and Egypt suggested it would be
+					better to delay action and await favourable developments. Some barons decided to
+					act independently and during the course of one such undertaking, on 13 November,
+					they were ambushed and encircled near Gaza: some nobles were slain, others
+					imprisoned and taken off to Cairo. The surviving French crusaders wanted to
+					pursue the enemy and try to free the prisoners, but the Templars and
+					Hospitallers disagreed and convinced Thibaut that there was too great a risk of
+					the hostages being killed in reprisal. To free the prisoners the French
+					undertook a long and complex series of negotiations and alliances which involved
+					all Christian parties, Syria and Egypt. The negotiations were slow to bear fruit
+					and Thibaut, discouraged and annoyed by the continual internal tensions among
+					the Christians, carried out a swift pilgrimage to Jerusalem and departed for
+					France during September 1240, before being able to establish the hoped-for
+					truce. The negotiations were brought to a conclusion by Richard of Cornwall, who
+					had arrived in the Holy Land after Thibaut’s departure, and the prisoners were
+					freed on 23 April 1241. The numerous specific references contained in the song
+					indicate that it was composed after the disaster of Gaza and before the
+					prisoners’ release, hence between 13 November 1239 and 23 April 1241; but it is
+					highly probable that it preceded the departure of Thibaut and part of the
+					contingent of French crusaders which had arrived towards the middle of September
+					1240. The tone of the first stanzas, typical of the <hi rend="italic"
+						>planctus</hi>, and the absence of any reference to the long negotiations
+					undertaken to free the prisoners (except perhaps in the final line, which is
+					very general) seem to suggest that the song must have been composed not long
+					after the ambush of 13 November 1239. </p>
+			</div>
+
+			<div type="historical" xml:lang="it">
+				<p> La canzone si riferisce a un episodio della crociata dei baroni guidata da
+					Thibaut IV conte di Champagne e re di Navarra. Giunti in Terra Santa all’inizio
+					di settembre del 1239, i crociati si attestarono a Acri, ma la situazione fluida
+					e mutevole del nemico e le tensioni tra i sultanati di Siria e d’Egitto
+					suggerirono di temporeggiare in attesa di un’evoluzione favorevole. Alcuni
+					baroni decisero di intraprendere azioni individuali e nel corso di una di esse,
+					il 13 novembre, caddero in un’imboscata presso Gaza e vennero accerchiati:
+					alcuni nobili furono uccisi, altri imprigionati e condotti verso il Cairo. I
+					crociati francesi superstiti avrebbero voluto inseguire il nemico e liberare i
+					prigionieri, ma Templari e Ospedalieri si opposero e convinsero Thibaut de
+					Champagne a desistere, paventandogli il rischio che una rappresaglia potesse
+					mettere in pericolo la vita degli ostaggi. Per liberare i prigionieri, i
+					francesi intavolarono una lunga e complessa serie di trattative e alleanze che
+					coinvolsero tutte le parti cristiane, la Siria e l’Egitto. I negoziati tardarono
+					a dare frutti e Thibaut, scoraggiato e irritato dalle continue tensioni interne
+					tra i cristiani, compì un rapido pellegrinaggio a Gerusalemme e ripartì per la
+					Francia nel mese di settembre del 1240, prima di poter concludere la tregua
+					sperata. Le trattative furono condotte a termine da Riccardo di Cornovaglia,
+					giunto in Terra Santa dopo la partenza di Thibaut, e i prigionieri furono
+					liberati il 23 aprile 1241. I numerosi riferimenti concreti contenuti nella
+					canzone indicano che essa è stata scritta dopo il disastro di Gaza e prima della
+					liberazione dei prigionieri, quindi tra il 13 novembre 1239 e il 23 aprile 1241;
+					ma è molto probabile che essa preceda la partenza di Thibaut de Champagne e di
+					una parte dei crociati francesi avvenuta verso la metà di settembre 1240. Il
+					tono tipico del <hi rend="italic">planctus</hi> delle prime strofi e l’assenza
+					di ogni riferimento alle lunghe trattative intavolate per liberare i prigionieri
+					(con l’eccezione forse dell’ultimo verso, molto generico) sembrano suggerire che
+					la canzone debba essere stata composta a non molta distanza dall’imboscata del
+					13 novembre 1239. </p>
+			</div>
+			<div type="notes" xml:lang="en">
+				<p> The typology of the songs RS 164 and RS 1133 and their placing within such a
+					richly detailed chronicle as William of Tyre’s <hi rend="italic">Continuation
+						Rothelin</hi> mean that these texts are valuable and original documents for
+					our understanding of the genre of Old French crusading songs. The chronicle uses
+					them to underpin the events of the narrative, bringing out their historical and
+					political, rather than their (rather indifferent) aesthetic or literary,
+					character. The unusual function of these lines, which are as it were political
+					pamphlets of one of the sides involved, perfectly introduced into the historical
+					context, is repeated in song RS 1887 – though this one has much greater
+					rhetorical and artistic depth – which is introduced into the debate arising
+					later from Louis IX’s request for advice over whether he should remain in the
+					Holy Land after the failure of the seventh crusade. The rough-and-ready
+					versification and rhetoric of these two songs may be due to their essentially
+					documentary nature, whether they are the result, as Bédier (Bédier-Aubry 1909,
+					p. 225 n. 41) seems to suggest, of reconstruction through memory by the
+					chronicle’s compiler, or whether the text as it is preserved reflects the
+					precarious conditions in which the authors must have found themselves and in
+					which the transmission in any case took place. It is also possible that some
+					allusions to later developments of the episode, closer to the actual events,
+					were woven into the original text during later stages of transmission. </p>
+				<p> The attribution to Philippe de Nanteuil is attested by the introductory rubric
+					present in all manuscripts of the chronicle. Philippe II, lord of
+					Nanteuil-le-Haudouin, now in the départment of the Oise in Picardy, was a
+					companion of Thibaut de Champagne, to whom he dedicated numerous songs and with
+					whom he exchanged a <hi rend="italic">jeu-parti</hi> and two <hi rend="italic"
+						>débats</hi> . He arrived with him in the Holy Land and figures in the list
+					of the barons taken prisoner and taken to Cairo after the Gaza ambush ( <hi
+						rend="italic">Continuation Rothelin</hi>, p. 546). Once back in France
+					after the liberation, he was to take the Cross again and accompany King Louis IX
+					of France on his first expedition to Egypt (his name is mentioned twice by
+					Joinville, <hi rend="italic">Vie de saint Louis</hi>, §§ 138 e 173). Historians
+					studying the Nanteuil family date his death to 1258. No philological element
+					casts doubt on this attribution; however stanza IV refers to the animated
+					discussion arising among the crusaders over whether to pursue the enemy, an
+					event of which the prisoners could hardly have been aware, even if we disregard
+					the fact that the references to the captured barons are always expressed in the
+					third person (vv. 19, 28, 33 and 47). These details notably weaken the
+					attribution to Philippe. It may have been induced by the trouvère’s fame, and it
+					would seem more prudent to assign the song to one of the French crusaders who
+					escaped capture, a baron or a young knight, if not the actual author of the
+					chronicle. For a possible attribution to the count of Brittany see the
+					commentary to song RS 1133. </p>
+				<p corresp="#RS.37a.fro[range(@n=3,@n=5)]"> Count Amalric VI of Montfort, son of
+					Simon de Montfort and protagonist of the Albigensian crusade who died in 1218
+					during the siege of Toulouse, was one of the prisoners taken to Egypt after the
+					Gaza ambush, as is clear from all the relevant sources. He was freed together
+					with the other hostages on 23 April 1241 following the negotiations concluded by
+					Richard of Cornwall. After embarking for France along with the other French
+					prisoners he died in Otranto on the return journey, probably debilitated by his
+					long imprisonment and the exhausting journey. </p>
+				<p corresp="#RS.37a.fro:(n=11)"> The emphasis on a national ‘identity’ of the
+					crusaders is made explicit for the first time in this song and is widely
+					developed in songs composed at the time of St Louis’ crusade. This, together
+					with the personal interests and ambitions of individual barons, is probably one
+					reason for the disintegration of the original idea of crusade. </p>
+				<p corresp="#RS.37a.fro:(n=20)"> Count Henry of Bar-le-Duc was a friend and
+					companion of Thibaut de Champagne and sided with him at the time of the conflict
+					over the Champagne succession (1216-1221), forming with him and other companions
+					a league of barons rebelling against the French crown (1226-1227, see the
+					introduction to RS 273). Thibaut’s unexpected change of position in subsequently
+					seeking closer alliance with the regent Bianca of Castile provoked a reaction
+					among his former companions who joined forces to besiege the city of Troyes, one
+					of the comital seats of Champagne. However this did not prevent the Count of Bar
+					and the other barons from participating in the 1239 crusade alongside Thibaut,
+					or recognising him as the designated leader of the expedition. Henry of Bar is
+					indicated by the <hi rend="italic">Continuation Rothelin</hi> as the man chiefly
+					responsible for the defeat at Gaza, because of his obstinacy which was deaf to
+					all counsel of caution and all realistic evalutation of the situation. The death
+					of the Count of Bar on the battlefield or immediately afterwards is attested by
+					all the sources other than the <hi rend="italic">Continuation Rothelin</hi>,
+					which explicitly declares it does not know whether Henry of Bar was killed or
+					taken prisoner (p. 546, with a curious addition on p. 555). The <hi
+						rend="italic">Continuation</hi> may possibly have based itself on the text
+					of our song which, by omitting any precise reference to the fate of the Count of
+					Bar and Amalric of Montfort (who was certainly captured and taken to Cairo),
+					treats them symetrically. The chronicle of Alberic of Three Fountains mentions
+					the Count of Bar being captured but fatally wounded (p. 946). The uncertainty
+					nevertheless seems resolved by v. 8 of the song RS 1133 which explicitly refers
+					to the death of Henry of Bar. </p>
+				<p corresp="#RS.37a.fro[range(@n=29,@n=38)]"> This stanza contributes to the
+					depiction of internal divisions of the Christian front attested in contemporary
+					chronicles and highlighted by historians. Immediately after this episode Thibaut
+					had great difficulty in maintaining his authority and found himself having to
+					mediate between the positions of the two main factions that emerged among the
+					Christian knights. The political-military stalemate and wait-and-see tactics
+					imposed by the complex situation of the Muslim world increased the impatience of
+					crusaders newly arrived from France, who were eager for action and instant glory
+					and had little inclination for long and costly inactivity. They were opposed by
+					the alliance of the Franks of the Holy Land and the military orders: subtle
+					conoisseurs of the pitfalls of the region and of the enemy’s ways, these
+					favoured caution and the search for allies among one or other enemy faction. The
+					defeat at Gaza further complicated the Christians’ plans and provoked a fresh
+					split over how to proceed (see “Historical context and dating”, above). The
+					song’s author seems to espouse the position of the French crusaders, accusing
+					the military orders openly of ‘betrayal’ for having advised against pursuit when
+					they ought to have been the first to set an example. </p>
+				<p corresp="#RS.37a.fro[range(@n=47,@n=48)]"> The final line seems to some extent to
+					anticipate the actual outcome of the long negotiations concluded by Richard of
+					Cornwall which would lead to the freeing of the hostages. </p>
+			</div>
+
+			<div type="notes" xml:lang="it">
+				<p> La particolare tipologia delle canzoni RS 164 e RS 1133 e la loro collocazione
+					all’interno di una cronaca ricca e dettagliata come la <hi rend="italic"
+						>continuation Rothelin</hi> attribuiscono a questi testi un valore
+					documentario nuovo e inedito per il genere delle canzoni di crociata francesi.
+					La cronaca se ne serve in guisa di pezze d’appoggio a conferma degli eventi
+					narrati, esaltandone il carattere storico e politico più che quello
+					estetico-letterario, peraltro assai scarso. L’insolita funzione di questi versi,
+					manifesti delle posizioni di una parte politica in gioco perfettamente inseriti
+					nel contesto storico, sarà ripresa dalla canzone RS 1887 – provvista però di ben
+					altro spessore retorico e artistico – che s’inserisce vivacemente nel dibattito
+					suscitato dalla richiesta di consiglio manifestata dal re Luigi IX circa
+					l’opportunità di una sua permanenza in Terra Santa dopo il fallimento della
+					settima crociata. Si deve forse al carattere prettamente documentario di queste
+					due canzoni il carattere approssimativo della loro struttura metrica e
+					dell’efficacia retorica, sia che si tratti, come sembra suggerire Bédier
+					(Bédier-Aubry 1909, p. 225 n. 41), di una ricostruzione mnemonica del
+					compilatore della cronaca, sia che il testo giunto fino a noi rispecchi le
+					precarie condizioni in cui si dovevano trovare gli autori e in cui in ogni caso
+					si è svolta la trasmissione. Non si può escludere peraltro che alcuni
+					riferimenti agli sviluppi successivi della vicenda siano stati integrati proprio
+					durante le fasi della trasmissione all’interno del tessuto originale del testo
+					più aderente agli eventi. </p>
+				<p> L’attribuzione a Philippe de Nanteuil è attestata dalla rubrica introduttiva
+					presente in tutti i testimoni della cronaca. Philippe II, signore di
+					Nanteuil-le-Haudouin, attualmente nel dipartimento dell’Oise in Piccardia, è un
+					sodale di Thibaut de Champagne, che gli dedica numerose canzoni e con il quale
+					scambia un <hi rend="italic">jeu-parti</hi> e due <hi rend="italic">débats</hi>
+					. Giunto in Terra Santa con il re di Navarra, Philippe figura nella lista dei
+					baroni fatti prigionieri e condotti al Cairo dopo l’imboscata di Gaza ( <hi
+						rend="italic">Continuation Rothelin</hi>, p. 546). Tornato in Francia dopo
+					la liberazione, egli riprenderà la croce e accompagnerà il re di Francia Luigi
+					IX nella sua prima spedizione in Egitto (il suo nome è evocato due volte da
+					Joinville, <hi rend="italic">Vie de saint Louis</hi>, §§ 138 e 173). Gli
+					studiosi del casato di Nanteuil fissano la sua morte al 1258. Nessun elemento
+					filologico induce a dubitare dell’attribuzione; tuttavia la quarta strofe della
+					canzone si riferisce alla vivace discussione sorta tra i crociati francesi circa
+					l’opportunità di inseguire il nemico, evento di cui difficilmente i prigionieri
+					potevano essere a conoscenza, senza contare che i riferimenti ai baroni
+					catturati sono sempre espressi in terza persona (vv. 19, 28, 33 e 47). Alla luce
+					di questi elementi l’attribuzione a Philippe de Nanteuil risulta notevolmente
+					indebolita, forse indotta dalla sua fama di troviero, e sembrerebbe più prudente
+					assegnare la canzone a uno dei crociati francesi scampati alla cattura, un
+					barone o un giovane cavaliere, se non allo stesso autore della cronaca. Per una
+					possibile attribuzione al conte di Bretagna si veda il commento alla canzone RS
+					1133. </p>
+				<p corresp="#RS.37a.fro[range(@n=3,@n=5)]"> Amalrico VI conte di Montfort, succeduto
+					al padre Simone di Montfort, protagonista della crociata albigese morto nel 1218
+					durante l’assedio di Tolosa, è tra i prigionieri deportati in Egitto dopo
+					l’imboscata di Gaza, come risulta da tutte le fonti che narrano la vicenda. Egli
+					fu liberato insieme agli altri ostaggi il 23 aprile 1241 in seguito alle
+					trattative portate a termine da Riccardo di Cornovaglia. Imbarcatosi per tornare
+					in Francia insieme agli altri prigionieri francesi, morirà sulla via del ritorno
+					a Otranto, probabilmente debilitato dalla lunga prigionia e provato dal viaggio. </p>
+				<p corresp="#RS.37a.fro:(n=11)"> La sottolineatura di un’identità “nazionale” dei
+					crociati viene esplicitata per la prima volta in questa canzone e troverà ampio
+					spazio nelle canzoni composte al tempo delle crociate di san Luigi. Essa,
+					insieme ai personalismi e alle ambizioni di gloria dei singoli baroni,
+					costituisce probabilmente uno dei motivi dello sgretolamento dell’idea
+					originaria di crociata. </p>
+				<p corresp="#RS.37a.fro:(n=20)"> Il conte Enrico II di Bar-le-Duc è un compagno e
+					amico di Thibaut de Champagne con il quale si schiererà già al tempo del
+					conflitto per la successione della Champagne (1216-1221), fino a formare con lui
+					e altri sodali una lega di baroni ribelli alla corona francese (1226-1227, si
+					veda l’introduzione alla canzone RS 273). L’improvviso ripensamento di Thibaut,
+					riavvicinatosi alla reggente Bianca di Castiglia, provocherà la reazione degli
+					antichi compagni che giungeranno ad assediare la città di Troyes, una delle sedi
+					comitali della Champagne. Questo episodio tuttavia non impedirà al conte di Bar
+					e agli altri baroni di aderire alla crociata del 1239 insieme a Thibaut, né di
+					riconoscerlo quale capo designato della spedizione. Enrico di Bar è indicato
+					dalla <hi rend="italic">Continuation Rothelin</hi> come il principale
+					responsabile della disfatta di Gaza, a causa della sua caparbietà sorda ad ogni
+					consiglio di prudenza e ad ogni valutazione realistica della situazione. La
+					morte del conte di Bar sul campo di battaglia o in un momento immediatamente
+					successivo è attestata da tutte le fonti ad eccezione proprio della <hi
+						rend="italic">Continuation Rothelin</hi>, che dichiara esplicitamente di
+					ignorare se Enrico di Bar fu ucciso o fatto prigioniero (p. 546, con una curiosa
+					aggiunta alla p. 555), forse basandosi sul testo della nostra canzone, che pur
+					tacendo ogni riferimento preciso alla loro sorte tratta in modo simmetrico del
+					conte di Bar e di Amalrico di Montfort, quest’ultimo certamente fatto
+					prigioniero e condotto al Cairo. Anche la cronaca di Alberico delle Tre Fontane
+					parla del conte di Bar catturato, ma ferito a morte (p. 946). L’incertezza
+					sembrerebbe tuttavia risolta dal v. 8 della canzone RS 1133 che si riferisce in
+					modo esplicito alla morte di Enrico di Bar. </p>
+				<p corresp="#RS.37a.fro[range(@n=29,@n=38)]"> I versi di questa strofe
+					contribuiscono ad illustrare le divisioni interne del fronte cristiano
+					testimoniate dalle cronache contemporanee e sottolineate dagli storici. Thibaut
+					de Champagne ebbe da subito grosse difficoltà a far rispettare la propria
+					autorità, e si trovò a dover mediare tra le posizioni di due fazioni principali
+					createsi tra i cavalieri cristiani. Lo stallo politico-militare e la tattica
+					attendista imposta dalla situazione complessa del mondo musulmano accresceva
+					l’impazienza dei nuovi crociati giunti dalla Francia, desiderosi d’azione e di
+					gloria immediata e poco inclini ad una lunga permanenza inattiva troppo costosa.
+					Ad essi si opponeva il fronte dei franchi di Terra Santa e degli ordini
+					cavallereschi, fini conoscitori delle insidie del luogo e delle abitudini del
+					nemico e perciò favorevoli a una condotta prudente e alla ricerca di alleanze
+					con l’una o l’altra delle fazioni avverse. La disfatta di Gaza complicò
+					ulteriormente i piani dei cristiani e provocò una nuova frattura circa il
+					comportamento da tenere (vedi sopra “Contesto storico e datazione”). Thibaut
+					scelse la prudenza e accolse i propositi degli ordini cavallereschi. L’autore
+					della canzone sembra invece sposare la posizione dei crociati francesi,
+					accusando apertamente gli ordini militari di “tradimento” per aver consigliato
+					di rinunciare all’inseguimento allorché avrebbero dovuto essere i primi a dare
+					l’esempio. </p>
+				<p corresp="#RS.37a.fro[range(@n=47,@n=48)]"> L’ultimo verso sembra in qualche modo
+					anticipare l’esito effettivo delle lunghe trattative concluse da Riccardo di
+					Cornovaglia che portarono alla liberazione degli ostaggi. </p>
+			</div>
+		</back>
+	</text>
+</TEI>

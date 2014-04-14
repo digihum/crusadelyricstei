@@ -11,7 +11,7 @@
     	
         <html>
             <head>
-                <title>Poem</title>
+                <title>Text</title>
                 <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 
                 <link rel="stylesheet" href="../bootstrap.min.css"></link>
@@ -50,16 +50,6 @@
                             <div class="lang-it">
                                 <h3>Mss.</h3>
                                 <xsl:apply-templates select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl[contains(@type,'manuscripts') and contains(@xml:lang,'it')]" />
-                            </div>
-                        </xsl:if>
-                        <xsl:if test="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl[contains(@type,'manuscripts') and not(@xml:lang)]">
-                            <div class="lang-en">
-                                <h3>Mss.</h3>
-                                <xsl:apply-templates select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl[contains(@type,'manuscripts')]" />
-                            </div>
-                            <div class="lang-it">
-                                <h3>Mss.</h3>
-                                <xsl:apply-templates select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl[contains(@type,'manuscripts')]" />
                             </div>
                         </xsl:if>
                         <!-- Versification-->
@@ -164,6 +154,8 @@
     </xsl:template>
 
 
+<xsl:template match="tei:head"/><!-- removes all redundant head fields -->
+
     <xsl:template match="//tei:text/tei:body"><!-- This holds the poetry itself -->
         <div class="poem-container">
             <div class="row">
@@ -175,7 +167,7 @@
                     
                         <div id="top-lhs" >
                             <div id="fro" class="lang-fro poem text " >
-                                <xsl:apply-templates  select="tei:div[contains(@type,'poem')]"/>
+                                <xsl:apply-templates  select="tei:div[contains(@type,'text')]"/>
                             </div>
                         </div>
                     
@@ -186,9 +178,6 @@
                             <a class="btn btn-default" role="menuitem" tabindex="1" id="showNotes" href="notes" data-toggle="tab">Notes</a>
                         </div>
                       
-                             
-
-                        <!--<h2 class="poem-heading">Showing <a role="menuitem" tabindex="2" id="showTranslation"  href="#">translation</a> or <a role="menuitem" tabindex="1" id="showNotes" href="#">notes</a> </h2>-->
                     </div>
                     
                     <div id="top-rhs">
