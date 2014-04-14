@@ -109,10 +109,9 @@
       <body>
         <xsl:apply-templates mode="pass3" select="tei:body/*"/>
       </body>
-      <!-- temlplate had bibliography in here
+      
       <back>
-
-   <xsl:for-each select="//tei:div[@type='historical' or @type='essential_bibliography' or @type='notes']">
+      <xsl:for-each select="//tei:div[@type='historical' or @type='notes']">
           <xsl:element name="div">
             <xsl:attribute name="type" select="@type" />
             <xsl:if test="@xml:lang">
@@ -121,7 +120,7 @@
             <xsl:apply-templates mode="pass3"/>       
           </xsl:element>
         </xsl:for-each>
-      </back> -->
+      </back> 
     </text>
   </xsl:template>
 
@@ -404,8 +403,8 @@
   <xsl:template match="@rend[.='Text Body']" mode="pass2"/>
   <xsl:template match="@rend[.='Text body']" mode="pass2"/>
   <xsl:template match="@rend[.='Body Text Indent']" mode="pass2"/>
-  <!--<xsl:template match="tei:div[@type='previous_editions']" mode="pass2"/>
-  <xsl:template match="tei:div[@type='manuscripts']" mode="pass2"/>-->
+  <xsl:template match="tei:body/tei:div/tei:div[@type='historical']" mode="pass4"/>
+  <xsl:template match="tei:body/tei:div/tei:div[@type='notes']" mode="pass4"/>
 
 
   <!-- customisations from Steve -->
