@@ -52,6 +52,12 @@
                                 <xsl:apply-templates select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl[contains(@type,'manuscripts') and contains(@xml:lang,'it')]" />
                             </div>
                         </xsl:if>
+                        <xsl:if test="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl[contains(@type,'manuscripts') and not(@xml:lang)]">
+                            <div class="lang-en">
+                                <h3>Mss.</h3>
+                                <xsl:apply-templates select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl[contains(@type,'manuscripts')]" />
+                            </div>
+                        </xsl:if>
                         <!-- Versification-->
                         <xsl:if test="//tei:teiHeader/tei:encodingDesc/tei:metDecl[contains(@xml:lang,'en')]">
                             <div class="lang-en">
