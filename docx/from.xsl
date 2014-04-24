@@ -250,7 +250,7 @@
               <xsl:attribute name="corresp">
                 <xsl:text>#</xsl:text>
                 <xsl:value-of select="//tei:div[contains(@type,'text')]/@xml:id"/>
-                <xsl:text>:[range(@n=</xsl:text>
+                <xsl:text>[range(@n=</xsl:text>
                 <xsl:value-of select="replace(tokenize(.,'-')[1],'\[n=','')"/>
                 <!-- has gone through without testing -->
                 <xsl:text>,@n=</xsl:text>
