@@ -245,22 +245,22 @@
       <xsl:when test="ancestor::tei:div[contains(@type,'notes')]">
         <p>
           <xsl:choose>
-            <xsl:when test="matches(.,'\[@n=')">
-              <!-- matches range -->
+            <xsl:when test="matches(.,'\[n=[0-9]+-')">
+              <!-- matches range in the format [n=1-2]-->
               <xsl:attribute name="corresp">
                 <xsl:text>#</xsl:text>
                 <xsl:value-of select="//tei:div[contains(@type,'text')]/@xml:id"/>
                 <xsl:text>:[range(@n=</xsl:text>
-                <xsl:value-of select="replace(tokenize(.,',')[1],'[','')"/>
+                <xsl:value-of select="replace(tokenize(.,'-')[1],'\[n=','')"/>
                 <!-- has gone through without testing -->
                 <xsl:text>,@n=</xsl:text>
-                <xsl:value-of select="replace(tokenize(.,',')[2],']','')"/>
+                <xsl:value-of select="tokenize(tokenize(.,'\]')[1],'-')[2]"/>
                 <xsl:text>)]</xsl:text>
               </xsl:attribute>
               <xsl:value-of select="tokenize(.,'\]')[2]"/>
               <!-- might ignore some styling -->
             </xsl:when>
-            <!-- matches single line -->
+            <!-- matches single line in the format [n=3] -->
             <xsl:when test="matches(.,'\[n=')">
               <xsl:attribute name="corresp">
                 <xsl:text>#</xsl:text>
