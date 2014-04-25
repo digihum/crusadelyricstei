@@ -33,8 +33,6 @@
                     </div>
                 <div class="tab-content">
                 <div id="page1" class="tab-pane active">
-                <xsl:apply-templates select="//tei:front"/>
-
                 <xsl:apply-templates select="//tei:body"/>
                     <div class="metadata">
 
@@ -159,31 +157,33 @@
 
     </xsl:template>
 
-
+<xsl:template match="//tei:front/tei:titlePage/tei:docTitle">
+    <h3><xsl:apply-templates /></h3>
+</xsl:template>
 <xsl:template match="tei:head"/><!-- removes all redundant head fields -->
 
     <xsl:template match="//tei:text/tei:body"><!-- This holds the poetry itself -->
         <div class="poem-container">
             <div class="row">
                 <div class="ol-xs-10 col-xs-offset-2 col-sm-offset-0 col-sm-6 ">
-
-                        <div class="text-top-spacing">
-
-                        </div>
                     
-                        <div id="top-lhs" >
-                            <div id="fro" class="lang-fro poem text " >
-                                <xsl:apply-templates  select="tei:div[contains(@type,'text')]"/>
-                            </div>
+                    <div class="text-top-spacing">
+                       <xsl:apply-templates select="//tei:front"/>
+                    </div>
+                    
+                    <div id="top-lhs" >
+                        <div id="fro" class="lang-fro poem text " >
+                            <xsl:apply-templates  select="tei:div[contains(@type,'text')]"/>
                         </div>
+                    </div>
                     
                 </div>
                 <div class="ol-xs-10 col-xs-offset-2 col-sm-offset-0 col-sm-6">
                     <div class="text-top-spacing"><div id="switcher" class="btn-group">
-                            <a class="btn btn-default active"  role="menuitem" tabindex="2" id="showTranslation"  href="translation" data-toggle="tab" >Translation</a>
-                            <a class="btn btn-default" role="menuitem" tabindex="1" id="showNotes" href="notes" data-toggle="tab">Notes</a>
-                        </div>
-                      
+                        <a class="btn btn-default active"  role="menuitem" tabindex="2" id="showTranslation"  href="translation" data-toggle="tab" >Translation</a>
+                        <a class="btn btn-default" role="menuitem" tabindex="1" id="showNotes" href="notes" data-toggle="tab">Notes</a>
+                    </div>
+                        
                     </div>
                     
                     <div id="top-rhs">
@@ -195,11 +195,11 @@
                             </xsl:for-each>
                         </div>
                         <div id="notes-container" style="display:none;" >
-    
+                            
                             <div class="lang-en" >
                                 <xsl:apply-templates select="//tei:back/tei:div[contains(@type,'notes') and contains(@xml:lang,'en')]"/>
                             </div>
-    
+                            
                             <div class="lang-it">
                                 <xsl:apply-templates select="//tei:back/tei:div[contains(@type,'notes') and contains(@xml:lang,'it')]"/>
                             </div>
