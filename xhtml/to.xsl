@@ -114,12 +114,16 @@
                     <xsl:if test="//tei:back/tei:div[contains(@type,'historical') and contains(@xml:lang,'en')]">
                         <div class="lang-en">
                         <h3 >Historical context and dating</h3>
-                        <xsl:apply-templates select="//tei:back/tei:div[contains(@type,'historical') and contains(@xml:lang,'en')]" />
+                            <div class="two-col">
+                                <xsl:apply-templates select="//tei:back/tei:div[contains(@type,'historical') and contains(@xml:lang,'en')]" />
+                            </div>
                         </div>
                     </xsl:if>
                     <xsl:if test="//tei:back/tei:div[contains(@type,'historical') and contains(@xml:lang,'it')]">
                         <div class="lang-it"><h3>Contesto storico e datazione</h3>
+                            <div class="two-col">
                         <xsl:apply-templates select="//tei:back/tei:div[contains(@type,'historical') and contains(@xml:lang,'it')]" />
+                            </div>
                         </div>
                     </xsl:if>
                 </div>
