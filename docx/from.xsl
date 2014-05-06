@@ -559,7 +559,7 @@
       <xsl:if test="matches(.,'translation') and matches(.,'xml:lang=en')"> Translation </xsl:if>
       <xsl:if test="matches(.,'notes') and matches(.,'xml:lang=it')"> Note </xsl:if>
       <xsl:if test="matches(.,'notes') and matches(.,'xml:lang=en')"> Notes </xsl:if>
-      <xsl:if test="matches(.,'text') and matches(.,'xml:lang=fro')"></xsl:if>
+      <xsl:if test="matches(.,'text') and matches(.,'xml:lang=fro')"/>
       <xsl:for-each select="$tokenizeVars">
         <xsl:variable name="theKey" select="replace(replace(tokenize(.,'=')[1],'\[',''),'@','')"/>
         <xsl:if test="contains($theKey,'type')">
