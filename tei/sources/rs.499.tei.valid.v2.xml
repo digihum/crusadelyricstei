@@ -143,7 +143,7 @@
         </front>
         <body>
 
-            <div type="poem" id="rs.499.fro" xml:lang="fro">
+            <div type="text" xml:id="rs.499.fro" xml:lang="fro">
 
                 <lg type="stanza" n="1">
                     <l n="1">Li departirs de la douce contree</l>
