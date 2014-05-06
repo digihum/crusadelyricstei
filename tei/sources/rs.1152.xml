@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2014-05-06</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>La Ravallière 1742, <hi rend="smallcaps">ii</hi> 134; Auguis 1824, <hi
+              rend="smallcaps">ii</hi> 6; Leroux de Lincy 1841, <hi rend="smallcaps">i</hi> 128;
+            Tarbé 1850, 112; Bédier-Aubry 1909, 175; Wallensköld 1925, 189; Brahney 1989, 234; Guida
+            1992, 110; Dijkstra 1995a, 205; Sánchez Palomino 2005, 184.</bibl>
+        </listBibl>
+        <listBibl type="essential_bibliography">
+          <bibl>Buchon 1840: Jean Alexandre C. Buchon, Recherches et matériaux pour servir à une
+            histoire de la domination française aux XIIIe, XIVe et XVe siècles dans les provinces
+            démembrées de l’Empire grec à la suite de la quatrième croisade, Paris, Desrez,
+            1840.</bibl>
+          <bibl>De Bartholomaeis 1906: Vincenzo De Bartholomaeis, «Il troviero Chardon de
+            Croisilles», Studj romanzi, 4, 1906, pp. 261-297.</bibl>
+          <bibl>Guesnon 1909: Adolphe-Henri Guesnon, «Publications nouvelles sur les trouvères
+            artésiens», Le Moyen Âge, 13, 1909, pp. 65-93, alle pp. 89-93.</bibl>
+          <bibl>Paris (Louis) 1855: «Champagne – XIV. – Cardons de Reims», Le Cabinet historique, 1,
+            1855, pp. 56-58.</bibl>
+          <bibl>Paris (Paulin) 1856: Histoire littéraire de la France, 23, Paris, Académie des
+            Inscriptions et Belles-Lettres, 1856, pp. 536-537.</bibl>
+          <bibl>Radaelli 2007: Anna Radaelli, «Una donna per due uomini o due uomini per una donna?
+            La tenzo del Chardo e d’En Ugo (BdT 114.1 = 448.2)», Cultura neolatina, 67, 2007, pp.
+            235-251.</bibl>
+          <bibl>Schultz-Gora 1884: Oskar Schultz-Gora, «Das Verhältnis der provenzalischen
+            Pastourelle zur altfranzösischen», Zeitschrift für romanische Philologie, 8, 1884, pp.
+            106-112.</bibl>
+          <bibl>Suchier 1907: Hermann Suchier, «Der Minnesänger Chardon», Zeitschrift für romanische
+            Philologie, 31, 1907, pp. 129-156.</bibl>
+          <bibl>Tarbé 1850: Prosper Tarbé, Les chansonniers de Champagne aux XIIe et XIIIe siècles,
+            Reims, Regnier, 1850.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts">
+          <head> Mss. </head>
+          <bibl>(7). K 25b-26b (li rois de Navarre), Mt 74d-75a (anon.), O 2bc (anon.), R3 182v-183v
+            (anon.), T 12rv (li rois de Navare), V 13c-14a (anon.), X 24c-25a (li rois de
+            Navarre).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl type="music" xml:lang="en" pattern="10a’ba’bba’ba’">7a’bba’bccbb (MW 1391,1;
+        corrected on the basis of the new choice of base; <hi rend="italic">coblas doblas</hi>
+        (2+2+1) with a 4-line <hi rend="italic">envoi</hi> (ccbb); rhymes a = <hi rend="italic"
+          >-ie</hi>, <hi rend="italic">-oie</hi>, <hi rend="italic">-aindre</hi>; b = <hi
+          rend="italic">-on</hi>, <hi rend="italic">-is</hi>, <hi rend="italic">-ir</hi>; c = <hi
+          rend="italic">-ier</hi>, <hi rend="italic">-oir</hi>, <hi rend="italic">-ent</hi>;
+        equivocal rhyme <hi rend="italic">non</hi> in vv. 14 and 17; melody in KM<hi
+          rend="superscript">t</hi>OR<hi rend="superscript">3</hi>VX, with very few variants except
+        in the case of R<hi rend="superscript">3</hi>, whose reading is more individual (van der
+        Werf 1979, II, p. 146; Tischler 1997, V n° 443).</metDecl>
+      <metDecl type="music" xml:lang="it" pattern="10a’ba’bba’ba’">7a’bba’bccbb (MW 1391,1; corretto
+        in base alla nuova scelta testuale); <hi rend="italic">coblas doblas</hi> (2+2+1) con un <hi
+          rend="italic">envoi</hi> di 4 versi (ccbb); rima a = <hi rend="italic">-ie</hi>, <hi
+          rend="italic">-oie</hi>, <hi rend="italic">-aindre</hi>; rima b = <hi rend="italic"
+          >-on</hi>, <hi rend="italic">-is</hi>, <hi rend="italic">-ir</hi>; rima c = <hi
+          rend="italic">-ier</hi>, <hi rend="italic">-oir</hi>, <hi rend="italic">-ent</hi>; rima
+        equivoca <hi rend="italic">non</hi> ai vv. 14 e 17; melodia in KM<hi rend="superscript"
+          >t</hi>OR<hi rend="superscript">3</hi>VX, con pochissime varianti tranne nel caso di R<hi
+          rend="superscript">3</hi>, che mostra una lezione più autonoma (van der Werf 1979, II, p.
+        146; Tischler 1997, V n° 443).</metDecl>
+      <editorialDecl type="analysis" xml:lang="en">The variants suggest a two-branched stemma with R
+        isolated on one side and the other manuscripts united on the other by errors which must have
+        already been present in the archetype of Thibaut de Champagne’s <hi rend="italic"
+          >Liederbuch</hi>. Within this second branch a few readings indicate the division O-KVX,
+        and while there are no common errors in M<hi rend="superscript">t</hi>T, they can still be
+        grouped together on the strength of their usual clear affinity in Thibaut’s <hi
+          rend="italic">Liederbuch</hi> tradition. The metrical oscillations in the 6th and 7th
+        lines of each stanza also appear to confirm this stemma.The text is published here for the
+        first time on base R (suppleted by M<hi rend="superscript">t</hi> in v. 18 and the <hi
+          rend="italic">envoi</hi>), at the cost of accepting a few of its poorer variants, the aim
+        being to avoid blind subservience to the <hi rend="italic">Liederbuch</hi>’s readings which,
+        as I have tried to demonstrate elsewhere, point to a late and overly homogenising collection
+        (see Barbieri 1999 and Barbieri 2011). In fact ms. R offers an exemplary reading from the
+        metrical point of view in all the heptasyllabic lines, without apparently resorting to
+        strained morpho-syntactic constructions. As regards the attribution, what has been said with
+        respect to M<hi rend="superscript">t</hi> and V in the song RS 6 also applies here; in ms. O
+        it is the fourth song to begin with the letter A, the last of the texts attributable to
+        Thibaut de Champagne, and is followed by the Gace Brulé group; in ms. R it is the
+        penultimate song of the collection, included in a section of twenty texts all attributable
+        to Thibaut, despite some disagreements. The attribution can therefore be considered
+        unanimous.</editorialDecl>
+      <editorialDecl type="analysis" xml:lang="it">Le varianti della tradizione manoscritta
+        permettono di configurare uno stemma a due rami con R isolato da una parte e gli altri
+        testimoni a formare l’altro ramo, uniti da errori che dovevano già trovarsi nell’archetipo
+        del <hi rend="italic">Liederbuch</hi> di Thibaut de Champagne. All’interno di questo secondo
+        ramo, alcune lezioni permettono di separare il gruppo di testimoni O-KVX, mentre nessun
+        elemento permette di unire in errore i mss. M<hi rend="superscript">t</hi>T, che potranno
+        tuttavia essere raggruppati in forza della parentela evidente e costante che li unisce nella
+        tradizione del <hi rend="italic">Liederbuch</hi> di Thibaut. Anche le oscillazioni metriche
+        riguardanti i sesti e settimi versi di ogni strofe sembrano confermare questa struttura.Si è
+        scelto di pubblicare il testo per la prima volta secondo la versione di R (supplito da M<hi
+          rend="superscript">t</hi> nel caso del v. 18 e del congedo), a costo di accreditare anche
+        qualche sua variante scadente, per non conformarsi alla cieca osservanza della lezione del
+          <hi rend="italic">Liederbuch</hi>, del quale si è tentato altrove di dimostrare la natura
+        di raccolta tarda ed eccessivamente omologante (si veda Barbieri 1999 e Barbieri 2011). Il
+        ms. R offre infatti una lezione metricamente ineccepibile di tutti versi ettasillabici senza
+        apparentemente ricorrere a forzature morfo-sintattiche.Riguardo all’attribuzione del testo,
+        per M<hi rend="superscript">t</hi> e V vale quanto detto per la canzone RS 6; in O è la
+        quarta canzone che comincia con la lettera <hi rend="italic">A</hi>, ultimo dei testi
+        attribuibili a Thibaut de Champagne, seguito dal gruppo di Gace Brulé; in R è la penultima
+        canzone della raccolta, inserita in una sezione di venti testi tutti attribuibili a Thibaut,
+        malgrado qualche contraddizione. L’attribuzione può quindi essere considerata
+        unanime.</editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2014-05-06T16:06:10Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Thibaut de Champagne</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+
+        <div type="text" xml:id="rs.1152.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Au temps plain de felonnie,</l>
+            <l n="2">d’envie et de traïson,</l>
+            <l n="3">de tort et de mesproison,</l>
+            <l n="4"> sanz bien et sanz courtoisie,</l>
+            <l n="5">et que entre maint baron</l>
+            <l n="6">veons le siecle empirier,</l>
+            <l n="7">et voi esconmunnïer</l>
+            <l n="8"> ceus qui plus offrent raison,</l>
+            <l n="9">lors vuel faire une chançon.</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="10">Li royaumez de Surie</l>
+            <l n="11">nous dist et crie a haut ton,</l>
+            <l n="12">se nouz ne nouz amendon,</l>
+            <l n="13">pour Dieu que n’i alons mie:</l>
+            <l n="14">n’i feriemes se mal non.</l>
+            <l n="15">Diex aime cuer droiturier:</l>
+            <l n="16">se tel gent se veult aidier,</l>
+            <l n="17">cil essauceront Son non</l>
+            <l n="18">et conquerront Sa maison.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="19">Encor vaut miex toute voie</l>
+            <l n="20">demourer en son païs</l>
+            <l n="21">qu’aler povrez ne chaitis</l>
+            <l n="22">ou il n’a soulas ne joie. –</l>
+            <l n="23">Philippe, on doit paradis</l>
+            <l n="24">conquerre par mal avoir,</l>
+            <l n="25">car là ne trouverés voir</l>
+            <l n="26">bon estre ne jeu ne ris,</l>
+            <l n="27">ensi que avés apris.</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="28">Amours a courut sa proie</l>
+            <l n="29">et si m’en mainne tous pris</l>
+            <l n="30">en l’ostel, ce m’est avis,</l>
+            <l n="31">dont ja issir ne querroie,</l>
+            <l n="32">s’il estoit a mon devis.</l>
+            <l n="33">Dame, cui Biautez fait oir,</l>
+            <l n="34">je vous fac bien assavoir:</l>
+            <l n="35">ja de prison n’istrai vis,</l>
+            <l n="36">ains mourrai loiaus amis.</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="37">Dame, moi couvient remaindre,</l>
+            <l n="38">de vous ne me puis partir;</l>
+            <l n="39">de vous amer et servir</l>
+            <l n="40">ne me soi onques refraindre,</l>
+            <l n="41">si me vient bien pour mourir</l>
+            <l n="42">l’amours qui m’assaut souvent;</l>
+            <l n="43">adés vo merci atent,</l>
+            <l n="44">car biens ne me puet venir</l>
+            <l n="45">se n’est par vostre plaisir.</l>
+          </lg>
+          <lg n="6" type="stanza">
+            <l n="46">Chançon, va dire Lorent</l>
+            <l n="47">qu’il se gart outreement</l>
+            <l n="48">de grant folie envahir,</l>
+            <l n="49">qu’en li avroit faus mantir.</l>
+          </lg>
+        </div>
+        <div type="translation" xml:id="rs.1152.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>In this time full of treachery, envy and betrayal, of injustice and error, deprived
+              of goodness and courtliness, when amongst many barons we see the decline of the world,
+              and I see excommunicated those who would make the best contribution, then I wish to
+              compose a song.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>The kingdom of Syria tells us and cries aloud that if we do not amend our lives, it
+              is better for God if we not go there: we shall do nothing but harm. God loves an
+              upright heart: if people like this wish to lend their support, they will exalt His
+              name and win back His dwelling-place.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>– All the same it would be better to remain in one’s own country than to go poor and
+              sad to where there is no pleasure or joy. – Philip, paradise must be won through
+              suffering, for you will certainly not find good living there, or play or laughter,
+              which you are used to.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Love has worn out his prey and leads me captive to the lodgings where, it seems to
+              me, I shall never wish to leave, even if it were within my power to do so. Lady, whom
+              Beauty makes its heir, I tell you clearly: I shall never leave your prison alive, but
+              shall die a loyal lover.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Lady, I shall have to stay behind, I cannot leave you; I have never been able to
+              refrain from loving and serving you, so the love which continually assails me will
+              surely make me die; I constantly await your mercy, for nothing good can come to me
+              unless it is by your pleasure.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Song, go and tell Lorent that he should be exceedingly careful not to undertake a
+              great folly, for he would have to lie falsely. </p>
+          </div>
+        </div>
+        <div type="translation" xml:id="rs.1152.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>In questo tempo pieno di cattiveria, d’invidia e di tradimento, d’ingiustizia e
+              d’errore, privo di bene e di cortesia, mentre fra molti baroni vediamo il mondo
+              decadere, e vedo scomunicare coloro che danno maggiori garanzie, io voglio comporre
+              una canzone.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Il regno di Siria ci dice e grida ad altra voce che se non ci convertiamo, per Dio è
+              meglio che non ci andiamo: non faremmo altro che male. Dio ama il cuore giusto: se
+              gente così vuole dare il suo contributo, esalteranno il Suo nome e conquisteranno la
+              Sua dimora.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Tuttavia sarebbe preferibile restare nel proprio paese che andare povero e triste
+              dove non vi è piacere né gioia. – Filippo, il paradiso si conquista attraverso la
+              sofferenza, poiché là non troverete la bella vita, il gioco e il riso, ai quali siete
+              abituato.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Amore ha sfiancato la sua preda e mi conduce così prigioniero all’alloggio dal quale,
+              mi sembra chiaro, non vorrei mai uscire, anche se fosse in mio potere. Signora, che la
+              Bellezza ha fatto sua erede, ve lo dico chiaramente: non uscirò vivo dalla prigione,
+              ma morirò da amante fedele.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Signora, devo proprio restare, non mi posso separare da voi; non ho mai potuto fare a
+              meno di amarvi e servirvi, così l’amore che mi assale di continuo mi farà morire;
+              attendo sempre la vostra grazia, poiché nessun bene mi può venire se non per piacer
+              vostro.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Canzone, vai a dire a Lorenzo che si guardi dall’intraprendere una grande follia,
+              poiché dovrebbe mentire falsamente.</p>
+          </div>
+        </div>
+      
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>Bédier’s long chronological note, while containing some inaccuracies, remains a solid
+          starting-point for dating. Understood literally, vv. 7-8 refer to Pope Gregory IX’s
+          excommunication of the emperor, Frederick II, who was refusing to take on the leadership
+          of a crusade before the end of the ten-year truce he had concluded in 1229 with Saladin’s
+          nephew, the sultan of Egypt al-Malik al-Kāmil. In this case the song must have been
+          composed after 20 March 1239, the date of the excommunication by which the Pope freed
+          Frederick’s subjects from their duty of fidelity, or alternatively after 7 April of the
+          same year, when the sentence was announced to the whole of Christendom. The typical debate
+          over whether to depart from the beloved lady contained in the second part of the song,
+          stanza V in particular, would seem to suggest that such a separation had not yet taken
+          place. This would allow us to fix the <hi rend="italic">terminus ante quem</hi> to the
+          first days of August 1239, when the crusaders left the port of Marseille, or perhaps, as
+          Wallensköld suggests, 24 June of the same year, when Thibaut probably left Champagne for
+          Lyon where the crusaders were assembling to await departure and were still hoping for
+          Frederick’s involvement.</p>
+        <p>But the verb <hi rend="italic">esconmunnier</hi> may be interpreted more broadly, and
+          might then refer to the threats made by the Pope in a letter of 18 February 1236 against
+          Thibaut and more than forty other French barons that he would reduce the prerogatives of
+          their ecclesiastical courts (threats which carried little conviction, given that in June
+          of that year Gregory intervened in favour of the crusader Thibaut, defending him from an
+          attack by King Louis IX). One might also take into account the opposition to the Pope on
+          the part of some barons, including Thibaut, in their refusal to direct the crusade to
+          Constantinople in support of the Latin empire, rather than to the Holy Land. This
+          hypothesis would move the <hi rend="italic">terminus post quem</hi> back to 16 December
+          1235, date of the first papal letter to the barons of France which was announcing the new
+          objective, but is weakened by the recent tendency of historians to reinterpret and reduce
+          the scope of the new papal initiative (Chrissis 2010).</p>
+        <p>The impression gained from reading the text is that of an appeal from a man who already
+          feels invested with a certain authority – officially recognised or due to his social
+          position – over the other crusaders, and that in exhorting his companions to action he is
+          also intending to seek precise guarantees from them, being aware that conflicts,
+          divisions, acts of insubordination and individual interests can only damage the outcome of
+          the expedition and personal prestige (on this see Melani 1999, p. 144).</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>La lunga nota cronologica di Bédier, benché non priva di qualche imprecisione, resta un
+          solido punto di partenza per la datazione di questo testo. Se presi alla lettera, i vv.
+          7-8 fanno riferimento alla scomunica lanciata dal papa Gregorio IX all’imperatore Federico
+          II, che temporeggiava rifiutandosi di assumere la guida della spedizione prima della
+          scadenza della tregua decennale da lui firmata nel 1229 con il sultano d’Egitto al-Malik
+          al-Kāmil, nipote di Saladino. In questo caso la composizione della canzone sarebbe
+          avvenuta dopo il 20 marzo 1239, data della scomunica con la quale il papa svincolava i
+          sudditi di Federico dall’obbligo di fedeltà, oppure dopo il 7 aprile dello stesso anno,
+          quando la sentenza fu annunciata a tutta la cristianità. Il tipico dibattito
+          sull’opportunità di separarsi dalla dama amata contenuto nella seconda parte della
+          canzone, e in particolare nella quinta strofe, suggerirebbe infine che tale separazione
+          non sia ancora avvenuta. Questo ci permetterebbe di fissare il <hi rend="italic">terminus
+            ante quem</hi> ai primi giorni dell’agosto 1239, data della partenza dei crociati dal
+          porto di Marsiglia o forse, come suggerisce Wallensköld, al 24 giugno dello stesso anno,
+          quando verosimilmente Thibaut lasciò la Champagne per recarsi a Lione dove i crociati si
+          riunirono in attesa della partenza, sperando ancora nel coinvolgimento dell’imperatore
+          Federico.</p>
+        <p>Ma il verbo <hi rend="italic">esconmunnier</hi> può essere interpretato anche in senso
+          meno ristretto, e in questo caso esso potrebbe riferirsi alle minacce indirizzate dal papa
+          in una lettera del 18 febbraio 1236 contro Thibaut e più di quaranta altri baroni francesi
+          rei di ingerenze a danno delle prerogative delle corti ecclesiastiche (minacce poco
+          convinte, visto che già nel giugno dello stesso anno Gregorio interviene a favore del
+          crociato Thibaut difendendolo dall’attacco del re Luigi IX). Si potrebbe pensare anche al
+          rifiuto opposto da alcuni baroni, tra i quali lo stesso Thibaut, alla volontà del papa di
+          dirigere la crociata a Costantinopoli in soccorso dell’impero latino piuttosto che in
+          Terra Santa. Quest’ultima ipotesi sposterebbe il <hi rend="italic">terminus post quem</hi>
+          indietro fino al 16 dicembre 1235, data della prima lettera papale ai baroni di Francia
+          che annunciava il nuovo obiettivo, ma risulta tuttavia indebolita dalla tendenza recente
+          degli studi storici a reinterpretare e ridimensionare la nuova iniziativa papale (Chrissis
+          2010).</p>
+        <p>L’impressione che si evince dalla lettura del testo è quella dell’appello di un uomo che
+          si sente già in qualche modo investito di una certa autorità sugli altri crociati –
+          riconosciuta ufficialmente o dovuta alla sua posizione sociale – e che, nell’esortare
+          all’azione i compagni, intenda anche chiedere garanzie precise, essendo consapevole che i
+          contrasti, le divisioni, le insubordinazioni e gli interessi particolari non potranno che
+          nuocere al buon esito della spedizione e al proprio prestigio personale (si veda in questo
+          senso Melani 1999, p. 144).</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>1-3. Guida 1992, p. 330 and Sanchez Palomino 2005, p. 188 emphasise the way in which the
+          initial figure of <hi rend="italic">accumulatio</hi> serves to express the author’s state
+          of mind. Compare stanza II of the song RS 273.</p>
+        <p>5-6. The decline-of-the-world theme is one of the commonest <hi rend="italic">topoi</hi>
+          of medieval literature, present in innumerable Latin and vernacular works, above all in an
+          introductory position. It is repeated several times in Thibaut de Champagne’s songs, for
+          example in stanza I of the religious song RS 1843, 1-9. The responsibility of the barons
+          for the decline of the world, well expressed by the preposition <hi rend="italic"
+            >entre</hi>, is confirmed in RS 273, 23-24; <hi rend="italic">maint baron</hi> is a
+          collective singular as in RS 757, 6.</p>
+        <p>7-8. Concerning Frederick II’s excommunication in March 1239, two recent studies of the
+          so-called ‘barons’ crusade’ examine the subject of the difficult relations between Gregory
+          IX and Frederick, and the Pope’s resultant changeable and inconsistent approach to the
+          question of the crusade. Lower 2005 particularly emphasises the Pope’s wish to divert the
+          crusade to Constantinople, whereas Chrissis 2010 limits the extent of this attempt.
+          According to Chrissis, Gregory introduced the two projects in parallel and never attempted
+          to use force and threats to persuade the crusading barons to change their objective, even
+          during the aftermath of the excommunication imposed on Frederick in 1239, although this
+          does nothing to mitigate the poisonous atmosphere of the struggle between Pope and
+          Emperor. But in this song the author undeniably shows that he feels invested with a
+          certain civil and moral authority, and the historical documents, corroborated by the
+          crusade songs, seem to attest a drive and motivation in the convictions and intentions of
+          the crusaders stronger than the Pope’s hesitations and strategems. This pressure “from
+          below”, often emphasised in the history of the crusades, yet rather surprising in such a
+          late expedition, shows that the religious aspect of the pilgrimage never diminished, and
+          that while it became progressively more attended by more political and opportunistic
+          motives, these never completely replaced them.</p>
+        <p>Despite the assertions of the continutor of the chronicle of William of Tyre (<hi
+            rend="italic">Continuation Rothelin</hi>, 528), according to which the French barons
+          considered the Emperor to be a collaborator of the Moslem enemy, and therefore would have
+          set out without him, the official documents speak of a much more diplomatic relationship
+          between the Emperor and the crusaders. Frederick, caught up in his political interests and
+          the conflict with the Pope which made him reluctant to waste time on a new crusade, seems
+          to have offered the crusaders all the help he could, leaving them to believe until the
+          last minute that he really did wish to head the expedition; for their part the crusaders
+          postponed departure several times until the end of the Emperor’s involvement, and the
+          latter’s letter of 9 March 1239 seems to support the idea of his participation; but only a
+          few days later, the papal interdict precipitated matters by making this impossible, and
+          further delay pointless.</p>
+        <p>According to Godefroy 6, 568a, who supplies no examples, the expression <hi rend="italic"
+            >offrir raison</hi> means “to give satisfaction”. From the context and the example in
+          the <hi rend="italic">Mort Artu</hi> (Hult) 17, 14 I would interpret it in the sense of
+          “to give guarantees”, “to commit to making one’s own contribution”, including armed
+          support.</p>
+        <p corresp="#rs.1152.fro:(n=10)">Surie or regne de Surie are the names commonly used for the
+          Holy land, from a designation established in the Middle Ages which included, apart from
+          present-day Syria, Palestine and a good area of the western Middle East up to the boundary
+          with Egypt. This remains standard designation even if the political rulers of Palestine
+          during nearly all the crusade period were the Fatimid and then Ayyubid sultans of
+          Egypt.</p>
+        <p corresp="#rs.1152.fro:(n=12)">Thibaut’s appeal is not for a general and practical
+          conversio morum, but for a genuine conversio cordis. It is not just a question of
+          renouncing comfort and riches in the service of God: the failures of preceding expeditions
+          invoked the question of what caused such defeats, the cause generally being ascribed to
+          the Christians’ sins (see for example Siberry 1988, p. 43 and Guida 1992, p. 17). Note
+          again the parallel with the song RS 6, 33-35.</p>
+        <p corresp="#rs.1152.fro:(n=18)">The line is omitted by R and supplied thanks to the
+          unanimous testimony of the rest of the tradition. According to Micha 1991, p. 136 n. 3 the
+          maison strictly speaking indicates the Holy Sepulchre rather than the whole of the Holy
+          Land. </p>
+        <p corresp="#rs.1152.fro:(n=20)">The presence of the verb demourer, together with that of
+          the noun mal in v. 24, clearly refers back to vv. 29-32 of RS 6. Since demourer always has
+          a negative connotation in crusade songs and Thibaut’s texts in particular, it seems
+          reasonable to adopt such an interpretation here. </p>
+        <p corresp="#rs.1152.fro:(n=22)">The insistence on joie as characteristic of the presence of
+          the beloved lady, and hence its impossibility in the case of departure on crusade, is a
+          frequent theme in crusade songs and especially in Thibaut de Champagne (RS 1469; RS 757,
+          18; RS 273, 49).</p>
+        <p>Guida interprets <hi rend="italic">soulas</hi> in the sense of <hi rend="italic"
+            >consolatio</hi>, but in view of the context it seems closer to that of the nouns in v.
+          26.</p>
+        <p corresp="#rs.1152.fro:(n=23)">Philippe: most probably Philippe de Nanteuil-le-Haoudouin,
+          Thibaut’s fellow-trouvère at the time when Thibaut was composing love lyrics (he was his
+          partner in the jeux-partis/débats RS 334, RS 333 and RS 1111 and addressee of songs RS
+          884, RS 1440, RS 1476 and RS 1410), and his companion in the Holy Land, where he was taken
+          prisoner after the defeat at Gaza. He is considered to be the author of a crusade song (RS
+          164) perhaps composed during his imprisonment.</p>
+        <p corresp="#rs.1152.fro[range(@n=23,@n=24)]">On the theme of the suffering necessary for
+          the conquest of paradise see the parallel already indicated with the beginning of RS 6 and
+          in particular vv. 10-11 (cfr. Dijkstra 1995, p. 120, n. 167).</p>
+        <p corresp="#rs.1152.fro:(n=28)">From stanza IV onwards the song’s tone suddenly changes:
+          the crusade disappears, or remains in the background, and in its place emerges the love
+          theme which occupies virtually all of the remaining two stanzas, following the pattern
+          inaugurated by Conon de Béthune’s song RS 1125, but with a singular inversion of the two
+          parts with respect to the common model of the chansons de départie, where the part
+          reserved for the separation of lovers usually falls at the beginning. On the somewhat
+          rigid juxtaposition of the two main themes of the song and the possibility of anchoring it
+          in a tradition that stems from Occitan lyric and Jaufre Rudel in particular see Bédier
+          1909, p. 180.</p>
+        <p>For transitive <hi rend="italic">corir</hi> as synonymous with “to hunt” see <hi
+            rend="italic">TL</hi> 2, 867, 1-3; but the expression may also be interpreted by analogy
+          with the formula <hi rend="italic">corir un cheval</hi>, which means “to make a horse
+          gallop at top speed”. The metaphor of Love as huntsman is frequent in trouvère lyrics and
+          probably stems from Ovid (see for example the emphasis on <hi rend="italic">praeda</hi> in
+            <hi rend="italic">Amores</hi> I, 2, 17-20 e 29-32). Cfr. Ménard 1987, pp. 73-74.</p>
+        <p corresp="#rs.1152.fro:(n=35)">prison: the image of love’s prison emerges from a long
+          medieval Latin and romance tradition (Guida 1992, p. 330) and is frequent in the OF lyric,
+          being particularly favoured by Thibaut. These lines, linked to the previous vv. 29-31,
+          express the contradiction typical of the courtly love relationship by which the lover does
+          not wish to leave the prison in which he finds himself. The prison of love expresses the
+          unbreakable bond established between poet and lady, based exclusively on desire in the
+          absence of any reward. According to a recurring image, the poet prefers to die remaining
+          faithful to his beloved lady rather than obtain easy satisfaction from any other woman
+          (Brahney 1989, p. xix; Micha 1991, p. 9; Grossel 1994, pp. 442-443).</p>
+        <p corresp="#rs.1152.fro:(n=37)">The apparent inconsistence between the reference to the
+          impossibility of parting from the beloved within a context of departure on crusade is to
+          be interpreted in the light of Chardon de Croisilles RS 499, 5-8.</p>
+        <p corresp="#rs.1152.fro:(n=39)">The verb servir, which recurs particularly often in Thibaut
+          de Champagne (Micha 1991, p. 8), is nearly always used in the crusade songs to designate
+          service of God, with the exception of RS 1636, 26 and in part, RS 1582, 44.</p>
+        <p corresp="#rs.1152.fro[range(@n=41,@n=42)]">It is possible that the reading of these lines
+          was already corrupt or problematic at the level of the archetype. The interpretation of
+          the sense is in any case not in doubt, since it is set in the highly stereotyped context
+          of dying for love, amply attested in OF lyrics.</p>
+        <p corresp="#rs.1152.fro[range(@n=46,@n=49)]">The ambiguity of these lines, frequently
+          stressed by editors, is probably due to the fact that they refer to a precise context and
+          situation that is nowadays impossible to reconstruct. For a summary of the hypotheses
+          concerning the interpretation of this envoi see Melani 1999, pp. 143-145. According to
+          this scholar (p. 143) the final two lines constitute an admonishment not to become
+          involved in an irrational love, or else not to take too lightly one’s crusading vows, or
+          not to commit – in view of the expedition – some grave error of a political nature.</p>
+        <p corresp="#rs.1152.fro:(n=46)">Lorent: an unidentified addressee, also found in Thibaut’s
+          song RS 1440; it may be the same person evoked in an envoi of Gace Brulé (RS 565, 51).</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p corresp="#rs.1152.fro[range(@n=1,@n=3)]">Guida 1992, p. 330 e Sanchez Palomino 2005, p.
+          188 insistono sulla figura d’accumulatio iniziale sottolineandone la funzionalità ad
+          esprimere lo stato d’animo dell’autore. Si vedano le analogie con la seconda strofe della
+          canzone RS 273.</p>
+        <p corresp="#rs.1152.fro[range(@n=5,@n=6)]">Il tema della decadenza del mondo è uno dei
+          topoi più diffusi nella letteratura medievale, presente in innumerevoli opere latine e
+          vernacolari, soprattutto in posizione incipitaria, e ripreso più volte da Thibaut de
+          Champagne, come per esempio nella prima strofe della canzone religiosa RS 1843, 1-9. La
+          responsabilità dei baroni nella decadenza del mondo, ben espressa dalla preposizione
+          entre, trova conferma in RS 273, 23-24; maint baron sarà un singolare collettivo come nel
+          caso di RS 757, 6.</p>
+        <p corresp="#rs.1152.fro[range(@n=7,@n=8)]">A proposito della scomunica di Federico II del
+          marzo 1239, due contributi recenti sulla cosiddetta “crociata dei Baroni” affrontano anche
+          il tema dei difficili rapporti tra Gregorio IX e Federico II e il conseguente approccio
+          ondivago e contraddittorio del papa alla questione della crociata: Lower 2005 insiste
+          particolarmente sulla volontà del papa di deviare la crociata verso Costantinopoli, mentre
+          Chrissis 2010 ridimensiona la portata di questo tentativo. Secondo Chrissis, Gregorio
+          portò avanti i due progetti in parallelo e non tentò mai di convincere con la forza e con
+          le minacce i baroni già crociati a cambiare obiettivo, anche se ciò nulla toglie al clima
+          avvelenato dalla lotta tra il papa e l’imperatore, nonché alle conseguenze della scomunica
+          che colpisce Federico nel 1239. Pur senza indulgere a letture troppo fantasiose, non si
+          potrà negare che in questa canzone l’autore si senta investito di un’autorità civile e
+          morale, e che i documenti storici corroborati dalle canzoni di crociata sembrano attestare
+          nella convinzione e nelle intenzioni dei crociati una spinta e una motivazione più forti
+          delle esitazioni e delle strategie del papa. Questa pressione “dal basso” più volte
+          sottolineata nella storia delle crociate, ma assai sorprendente in una spedizione così
+          tarda, testimonia almeno che la dimensione religiosa del pellegrinaggio non è mai venuta
+          meno ed è stata progressivamente affiancata ma mai completamente sostituita
+          dall’affermarsi di motivazioni più politiche e opportunistiche.</p>
+        <p>Malgrado le asserzioni del continuatore della cronaca di Guglielmo di Tiro (<hi
+            rend="italic">Continuation Rothelin</hi>, 528), secondo il quale i baroni francesi
+          consideravano l’imperatore come un collaboratore del nemico musulmano, e si sarebbero per
+          questo messi in marcia senza di lui, i documenti ufficiali parlano di un rapporto molto
+          più diplomatico tra l’imperatore e i crociati: Federico, preso tra i suoi interessi
+          politici e il contrasto col papa che gli sconsigliavano di affrettare i tempi di una nuova
+          crociata, sembra aver offerto ai crociati tutto l’aiuto che poteva permettersi di offrire,
+          lasciando credere fino all’ultimo di volersi davvero mettere alla guida della spedizione;
+          da parte loro, i crociati hanno più volte rinviato la partenza sperando fino alla fine nel
+          coinvolgimento dell’imperatore, e la lettera di quest’ultimo del 9 marzo 1239 sembrava
+          ancora confortarli in questo senso; ma solo pochi giorni dopo, la scomunica papale fece
+          precipitare le cose rendendo di fatto impossibile la partecipazione di Federico e inutile
+          un ulteriore rinvio.</p>
+        <p>Secondo Godefroy 6, 568a, che però non fornisce esempi, la locuzione <hi rend="italic"
+            >offrir raison</hi> significa “dare soddisfazione”. Sulla base del contesto e
+          dell’esempio di <hi rend="italic">Mort Artu</hi> (Hult) 17, 14 interpreterei l’espressione
+          nel senso di “dare garanzie”, “impegnarsi a dare proprio contributo”, anche con le
+          armi.</p>
+        <p corresp="#rs.1152.fro:(n=10)">Surie o regne de Surie sono i nomi comunemente usati per la
+          Terra Santa, sulla base di una denominazione invalsa nel Medioevo che comprendeva, oltre
+          alla Siria attuale, la Palestina e buona parte del Medio Oriente occidentale fino al
+          confine con l’Egitto. Questo resta il nome di riferimento anche se per quasi tutto il
+          periodo delle crociate i referenti politici della Palestina sono stati i sultani d’Egitto
+          dapprima di origine fatimida e in seguito appartenenti alla dinastia ayyubida.</p>
+        <p corresp="#rs.1152.fro:(n=12)">Quella invocata da Thibaut non è una conversio morum
+          generica e pragmatica, ma una vera e propria conversio cordis. Non si tratta solo di
+          abbandonare gli agi e le ricchezze per il servizio di Dio, perché gli insuccessi delle
+          spedizioni precedenti hanno fatto emergere anche nelle canzoni di crociata la questione
+          della causa delle sconfitte, generalmente imputate ai peccati dei cristiani (si veda per
+          esempio Siberry 1988, p. 43 e Guida 1992, p. 17). Si noti ancora una volta il parallelo
+          con la canzone RS 6, 33-35.</p>
+        <p corresp="#rs.1152.fro:(n=18)">Il verso è omesso da R e reintegrato grazie alla
+          testimonianza unanime del resto della tradizione. Secondo Micha 1991, p. 136 n. 3 la
+          maison indicherebbe in senso stretto il Santo Sepolcro piuttosto che tutta la Terra
+          Santa.</p>
+        <p corresp="#rs.1152.fro:(n=20)">La presenza del verbo demourer, unita a quella del
+          sostantivo mal del v. 24, rimanda evidentemente ai vv. 29-32 della canzone RS 6. Poiché
+          demourer ha sempre una connotazione negativa nelle canzoni di crociata e in particolare
+          nei testi di Thibaut, mi pare ragionevole adottare tale interpretazione anche in questo
+          caso.</p>
+        <p corresp="#rs.1152.fro:(n=22)">L’insistenza sulla joie come caratteristica della presenza
+          della donna amata, e quindi sulla sua impossibilità in caso di partenza per la crociata, è
+          un tema ben presente nelle canzoni di crociata e soprattutto in Thibaut de Champagne (RS
+          1469; RS 757, 18; RS 273, 49).</p>
+        <p>Guida interpreta <hi rend="italic">soulas</hi> nel senso di <hi rend="italic"
+            >consolatio</hi>, ma visto all’interno del contesto il senso sarà piuttosto vicino a
+          quello dei sostantivi del v. 26.</p>
+        <p corresp="#rs.1152.fro:(n=23)">Philippe: si tratta con tutta probabilità di Philippe de
+          Nanteuil-le-Haoudouin, sodale di Thibaut de Champagne fin dai tempi della lirica amorosa
+          (suo partner nei jeux-partis/débats RS 334, RS 333 e RS 1111 e destinatario delle canzoni
+          RS 884, RS 1440, RS 1476 e RS 1410) e suo compagno in Terra Santa, dove fu fatto
+          prigioniero dopo la sconfitta di Gaza. Egli stesso è ritenuto l’autore di una canzone di
+          crociata (RS 164) scritta forse durante la prigionia.</p>
+        <p corresp="#rs.1152.fro[range(@n=23,@n=24)]">Sul tema della sofferenza necessaria per
+          conquistare il paradiso si veda il parallelo già segnalato con l’inizio della canzone RS 6
+          e in particolare con i vv. 10-11 (cfr. Dijkstra 1995, p. 120, n. 167).</p>
+        <p corresp="#rs.1152.fro:(n=28)">A partire dalla quarta strofe la tonalità della canzone
+          cambia improvvisamente: la crociata scompare, o resta sullo sfondo, e al suo posto emerge
+          la tematica amorosa che occupa quasi per intero le due strofi rimanenti, secondo lo schema
+          inaugurato dalla canzone RS 1125 di Conon de Béthune, ma con una singolare inversione tra
+          le due parti rispetto al modello comune delle chansons de départie, nelle quali
+          solitamente la parte riservata alla separazione dall’amata si trova all’inizio. Sulla
+          giustapposizione piuttosto rigida dei due temi principali della canzone e sulla
+          possibilità di ancorarla ad una tradizione che risale alla lirica occitanica e a Jaufre
+          Rudel in particolare si veda Bédier 1909, p. 180.</p>
+        <p>Per <hi rend="italic">corir</hi> transitivo come sinonimo di “cacciare” si veda <hi
+            rend="italic">TL</hi> 2, 867, 1-3; ma si può anche interpretare l’espressione ricorrendo
+          all’analogia con la formula <hi rend="italic">corir un cheval</hi>, che significa lanciare
+          un cavallo al galoppo a piena velocità. La metafora di Amore cacciatore è frequente nella
+          lirica dei trovieri ed è di probabile ascendenza ovidiana (si veda per esempio
+          l’insistenza sul sostantivo <hi rend="italic">praeda</hi> in <hi rend="italic">Amores</hi>
+          I, 2, 17-20 e 29-32). Cfr. Ménard 1987, pp. 73-74.</p>
+        <p corresp="#rs.1152.fro:(n=35)">prison: l’immagine della prigione amorosa emerge da «una
+          lunga tradizione letteraria mediolatina e romanza» (Guida 1992, p. 330) ed è frequente
+          nella lirica oitanica e particolarmente amata da Thibaut. Questi versi, legati ai
+          precedenti 29-31, esprimono la contraddizione tipica della relazione amorosa cortese per
+          la quale l’amante non desidera uscire dalla prigione nella quale si trova. La prigione
+          amorosa esprime il legame irreversibile instaurato tra il poeta e la dama, fondato
+          esclusivamente sul desiderio nell’assenza di ogni ricompensa. Secondo un’immagine
+          ricorrente, il poeta preferisce morire di desiderio restando fedele alla dama amata
+          piuttosto che ottenere una facile soddisfazione da qualsiasi altra donna (Brahney 1989, p.
+          xix; Micha 1991, p. 9; Grossel 1994, pp. 442-443).</p>
+        <p corresp="#rs.1152.fro:(n=37)">L’apparente incongruenza dell’accenno all’impossibilità di
+          separarsi dall’amata all’interno di un contesto di partenza per la crociata andrà
+          interpretata alla luce di Chardon de Croisilles RS 499, 5-8.</p>
+        <p>39. Il verbo <hi rend="italic">servir</hi>, particolarmente ricorrente in Thibaut de
+          Champagne (Micha 1991, p. 8), nelle canzoni di crociata è quasi sempre usato per indicare
+          il servizio a Dio, con l’eccezione di RS 1636, 26 e in parte di RS 1582, 44.</p>
+        <p corresp="#rs.1152.fro[range(@n=41,@n=42)]">È possibile che la lezione di questi versi
+          fosse corrotta o problematica già all’altezza dell’archetipo. L’interpretazione del
+          significato non pare in ogni caso in discussione, poiché s’inserisce in un contesto
+          fortemente tipizzato e ampiamente attestato nella lirica oitanica, quello della morte per
+          amore.</p>
+        <p corresp="#rs.1152.fro[range(@n=46,@n=49)]">L’ambiguità di questi versi, più volte
+          sottolineata dagli editori, è dovuta verosimilmente al fatto che essi si riferiscono ad
+          una preciso contesto e ad una situazione concreta impossibile da ricostruire per i critici
+          moderni. Per un riassunto delle ipotesi interpretative riguardanti questo congedo si veda
+          Melani 1999, pp. 143-145. Secondo lo stesso Melani (p. 143) gli ultimi due versi
+          costituirebbero un ammonimento a non implicarsi in un amore irragionevole, oppure «a non
+          prendere troppo alla leggera i voti dei crociati», o ancora «a non commettere – in vista
+          della spedizione – qualche grave scorrettezza di genere politico».</p>
+        <p corresp="#rs.1152.fro:(n=46)">Lorent: destinatario non identificato, che si trova anche
+          nel congedo della canzone RS 1440 di Thibaut de Champagne; potrebbe trattarsi dello stesso
+          personaggio evocato in un congedo da Gace Brulé (RS 565, 51).</p>
+      </div>
+    </back>
+  </text>
+</TEI>
