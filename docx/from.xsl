@@ -160,8 +160,38 @@
   </xsl:template>
 
 
+  <xsl:template match="tei:div[@type='analysis']" mode="pass2">
+    <!-- creates editorialDecl -->
+    <editorialDecl>
+      <xsl:attribute name="type" select="@type"/>
+      <xsl:if test="@xml:lang">
+        <xsl:attribute name="xml:lang" select="@xml:lang"/>
+      </xsl:if>
+      <xsl:for-each select="tei:p">
+        <xsl:apply-templates mode="pass2"/>
+      </xsl:for-each>
+    </editorialDecl>
+
+  </xsl:template>
+  
+  <xsl:template match="tei:div[@type='music']" mode="pass2">
+    <!-- creates editorialDecl -->
+    <metDecl>
+      <xsl:attribute name="type" select="@type"/>
+      <xsl:if test="@xml:lang">
+        <xsl:attribute name="xml:lang" select="@xml:lang"/>
+      </xsl:if>
+      <xsl:if test="@pattern">
+        <xsl:attribute name="pattern" select="@pattern"/>
+      </xsl:if>
+      <xsl:for-each select="tei:p">
+        <xsl:apply-templates mode="pass2"/>
+      </xsl:for-each>
+    </metDecl>
+    
+  </xsl:template>
+
   <!-- fix up the default header -->
-  <xsl:template match="tei:encodingDesc" mode="pass3"/>
   <xsl:template match="tei:titleStmt/tei:author" mode="pass3">
     <xsl:choose>
       <xsl:when test="tei:surname and tei:name">
@@ -491,11 +521,13 @@
 
   <xsl:template match="tei:encodingDesc" mode="pass3">
     <encodingDesc>
-      <xsl:apply-templates select="//tei:div[contains(@type,'music')]" mode="pass2"/>
+      <xsl:apply-templates select="//tei:metDecl" mode="pass3"/>
+      <xsl:apply-templates select="//tei:editorialDecl" mode="pass3"/>
     </encodingDesc>
   </xsl:template>
 
-  <xsl:template match="tei:body//tei:div[contains(@type,'music')]" mode="pass3"/>
+  <xsl:template match="tei:body/tei:div/tei:metDecl" mode="pass4"/>
+  <xsl:template match="tei:body/tei:div/tei:editorialDecl" mode="pass4"/>
 
 
 
