@@ -109,18 +109,18 @@
       <body>
         <xsl:apply-templates mode="pass3" select="tei:body/*"/>
       </body>
-      
+
       <back>
-      <xsl:for-each select="//tei:div[@type='historical' or @type='notes']">
+        <xsl:for-each select="//tei:div[@type='historical' or @type='notes']">
           <xsl:element name="div">
-            <xsl:attribute name="type" select="@type" />
+            <xsl:attribute name="type" select="@type"/>
             <xsl:if test="@xml:lang">
-            <xsl:attribute name="xml:lang" select="@xml:lang" />
+              <xsl:attribute name="xml:lang" select="@xml:lang"/>
             </xsl:if>
-            <xsl:apply-templates mode="pass3"/>       
+            <xsl:apply-templates mode="pass3"/>
           </xsl:element>
         </xsl:for-each>
-      </back> 
+      </back>
     </text>
   </xsl:template>
 
@@ -303,16 +303,16 @@
   </xsl:template>
 
   <xsl:template match="tei:div[contains(@type,'text')]//tei:lg/text()" mode="pass3">
-      <l>
-        <xsl:attribute name="n">
-          <!-- generates stanza numbers automatically -->
-          <xsl:number from="tei:div" count="text()[not(self::head)]" level="any"/>
-        </xsl:attribute>  
-        
-        <xsl:value-of select="."/>
-      
-      </l>
-    
+    <l>
+      <xsl:attribute name="n">
+        <!-- generates stanza numbers automatically -->
+        <xsl:number from="tei:div" count="text()[not(self::head)]" level="any"/>
+      </xsl:attribute>
+
+      <xsl:value-of select="."/>
+
+    </l>
+
   </xsl:template>
 
 
