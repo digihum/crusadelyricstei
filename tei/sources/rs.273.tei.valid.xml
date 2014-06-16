@@ -151,19 +151,6 @@
 
 
 		<encodingDesc>
-			<editorialDecl xml:lang="it">
-				<p> Due datazioni sono possibili per questo testo: la canzone potrebbe riferirsi
-					agli eventi degli anni 1236-1239, teatro dei continui contrasti tra il papa
-					Gregorio IX e l’imperatore Federico II e dei preparativi lunghi e tormentati
-					della spedizione in Terra Santa che sarà guidata proprio da Thibaut de Champagne
-					(si vedano i numerosi punti di contatto con la canzone RS 1152, scritta
-					verosimilmente a ridosso della partenza per la spedizione del 1239) oppure, più
-					probabilmente, al periodo della crociata albigese successivo all’assedio di
-					Avignone (1226-1229, ma certamente prima della partenza di Federico II per la
-					Terra Santa, avvenuta nell’estate del 1228). Sono caratteristiche dei
-					componimenti di questi anni la condanna dell’ipocrisia e la polemica contro il
-					clero. </p>
-			</editorialDecl>
 			<metDecl pattern="10abbaccddaa" xml:lang="it">
 				<p>10abbaccddaa (MW 1432,1 = Frank 579); 5 <hi rend="italic">coblas doblas</hi>
 					(2+2+1) con un <hi rend="italic">envoi</hi> di 4 versi (ddaa); rima a = <hi
@@ -400,6 +387,10 @@
 					(1226-1229, but certainly before Frederick left for the Holy Land in the summer
 					of 1228). Characteristic of compositions of these years are the condemnation of
 					hypocrisy and anti-clerical polemics. </p>
+			</div>
+			
+			<div type="historical" xml:lang="it">
+			<p>Due datazioni sono possibili per questo testo: la canzone potrebbe riferirsi agli eventi degli anni 1236-1239, teatro dei continui contrasti tra il papa Gregorio IX e l’imperatore Federico II e dei preparativi lunghi e tormentati della spedizione in Terra Santa che sarà guidata proprio da Thibaut de Champagne (si vedano i numerosi punti di contatto con la canzone RS 1152, scritta verosimilmente a ridosso della partenza per la spedizione del 1239) oppure, più probabilmente, al periodo della crociata albigese successivo all’assedio di Avignone (1226-1229, ma certamente prima della partenza di Federico II per la Terra Santa, avvenuta nell’estate del 1228). Sono caratteristiche dei componimenti di questi anni la condanna dell’ipocrisia e la polemica contro il clero.</p>
 			</div>
 			<div type="notes" xml:lang="en">
 				<p> For a more detailed commentary see my edition, Barbieri 2014, in press. </p>
