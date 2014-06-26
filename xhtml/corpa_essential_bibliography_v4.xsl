@@ -19,7 +19,7 @@
 	                    
 	<xsl:for-each-group select="li"
                     group-by="substring(.,1,1)">
-	<xsl:call-template name="anchor"/>
+	<xsl:call-template name="indexanchor"/>
 		                    	
    <xsl:apply-templates select="current-group()"/>
                 
@@ -29,7 +29,7 @@
 
 
 	<xsl:template match="//i" mode="textTransform">
-		<i>
+		<i><xsl:call-template name="anchor"/>
 			<xsl:apply-templates/>
 		</i>
 	</xsl:template>
@@ -46,12 +46,20 @@
 	<xsl:template name="anchor">
 		<xsl:element name="a">
 			<xsl:attribute name="name" >
-				<xsl:value-of select="substring(tokenize(.,':')[1],1,1)" />
+				<xsl:value-of select="tokenize(.,':')[1]" />
 				
 			</xsl:attribute>
 		</xsl:element>
 	</xsl:template>
 
+	<xsl:template name="indexanchor">
+		<xsl:element name="a">
+			<xsl:attribute name="name" >
+				<xsl:value-of select="substring(tokenize(.,':')[1],1,1)" />
+				
+			</xsl:attribute>
+		</xsl:element>
+	</xsl:template>
 
 <xsl:template match="/" >
 	<ul>
