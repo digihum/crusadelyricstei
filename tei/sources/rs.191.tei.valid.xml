@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2014-06-25</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Du Méril 1850, 334; Schultz 1891, 237; Lindelöf-Wallensköld 1901, 98; Bédier-Aubry
+            1909, 277-79; Rosenberg-Tischler 1981, 107-108; Mölk 1989, 92 e 216; Kasten 1990, 190;
+            Rosenberg, Tischler, Grossel 1995, 250; Rosenberg, Switten, Le Vot 1998, 214;
+            Doss-Quinby et al. 2001, 146-47.</bibl>
+        </listBibl>
+        <listBibl type="essential_bibliography">
+          <bibl>Crépet 1861: E. Crépet, Les Poëtes français. Recueil des chefs-d’oeuvre de la poésie
+            française depuis les origines jusqu’à nos jours, I, Paris 1861.</bibl>
+          <bibl>Antonelli 2008: R. Antonelli, I poeti della scuola siciliana. I. Giacomo da Lentini,
+            Milano 2008. </bibl>
+          <bibl>Asensio 1960: E. Asensio, ¡Ay Jherusalem! Planto narrativo del siglo XIII, in «Nueva
+            Revista de Filología Hispánica», XIV (1960), pp. 251-270.</bibl>
+          <bibl>Battelli 1993: M. C. Battelli, «Il codice Parigi, Bibl. Nat. f.fr 844: un canzoniere
+            disordinato?», in La filologia romanza e i codici. Atti del Convegno, Messina,
+            Università degli studi - Facoltà di Lettere e Filosofia (19-22 Dicembre 1991), a c. di
+            S. Guida e F. Latella, 2 voll, Messina 1993, I, pp. 273-308, a pp. 277-78.</bibl>
+          <bibl>Di Girolamo 2008: C. Di Girolamo, I poeti della scuola siciliana. II. Poeti della
+            corte di Federico II, Milano 2008.</bibl>
+          <bibl>Dijkstra 1995: C. Th. J. Dijkstra, La chanson de croisade. Etude thématique d’un
+            genre hybride, Amsterdam 1995.</bibl>
+          <bibl>Doss-Quinby et al. 2001: E. Doss-Quinby, J. Tasker Grimbert, W. Pfeffer, E. Aubrey,
+            Songs of the women trouvères, New Haven. London 2001.</bibl>
+          <bibl>Dronke 19963: P. Dronke, The Medieval Lyric. Suffolk 19963.</bibl>
+          <bibl>du Méril 1850: E. du Méril, De l'origine et de la nature de la poésie lyrique en
+            France pendant les XIIe et XIIIe siecles, in Id., Mélanges Archéologiques et
+            littérarires, Paris 1850, pp. 303-339.</bibl>
+          <bibl>Franceschini 2005: E. Franceschini, «Ay, Iherusalem: nuevas fuentes y fecha de
+            composició», in <seg rend="italic">Revista</seg><seg rend="italic"> de </seg><seg
+              rend="italic">poética</seg><seg rend="italic"> medieval</seg>, 15 (2005), pp.
+            11-38.</bibl>
+          <bibl>Gaunt, Harvey and Paterson 2000: S. Gaunt, R. Harvey and L. Paterson, Marcabru: A
+            Critical Edition, Cambridge 2000.</bibl>
+          <bibl>Kasten 1990: I. Kasten, Frauenlieder des Mittelalters, Stuttgart 1990.</bibl>
+          <bibl>Kolve 2009: V. A. Kolve, «God-Denying Fools and the Medieval ‘Religion of Love’», in
+              <seg rend="italic">Telling</seg><seg rend="italic"> Images: Chaucer and the Imagery of
+              Narrative</seg> II, Stanford University Press 2009, pp. 223-256.</bibl>
+          <bibl>Lindelöf - Wallensköld 1901: U. Lindelöf et A. Wallensköld, Les Chansons de Gautier
+            d'Epinal, Helsingfors 1901. </bibl>
+          <bibl>Mölk 1989: U. Mölk, Romanische Frauenlieder. Eingeleitet, herausgegeben, übersetzt
+            und kommentiert, München 1989.</bibl>
+          <bibl>Petersen Diggve 1934: H. Petersen Dyggve, Onomastique des trouvères. Annales
+            Academiæ Scientiarum Fennicæ, Helsinki 1934.</bibl>
+          <bibl>Petersen Diggve 1935: H. Petersen Dyggve, Personnages historiques figurant dans la
+            poésie lyrique française des xiie et xiiie siècles. II, Gautier d'Épinal, in
+            «Neuphilologische Mitteilungen», XXXVI (1935), pp. 19-29.</bibl>
+          <bibl>Richter 1904: M. Richter, Die Lieder des altfranzösischen Lyrikers Jehan de
+            Nueville, diss. Halle 1904.</bibl>
+          <bibl>Roncaglia 1991: Au. Roncaglia nell'intervento seguito alla comunicazione di M.
+            Tyssens, Les copistes du chansonnier français U, in Lyrique romane médiévale: la
+            tradition des chansonniers, Actes du Colloque de Liège 1989, Liège 1991, pp. 379-397, a
+            pp. 396-97. </bibl>
+          <bibl>Rosenberg 1995: S. Rosenberg, H. Tischler, M.-G. Grossel, Chansons des trouveres:
+            Chanter m’estuet. Paris 1995.</bibl>
+          <bibl>Rosenberg 1998: S. Rosenberg, M. Switten, G. Le Vot, Songs of the Troubadours and
+            Trouveres: An Anthology of Poems and Melodies, NewYork 1998.</bibl>
+          <bibl>Rosenberg 2007: S. N. Rosenberg, K. Fresco, W. Pfeffer, Chançon legiere a chanter:
+            essays on old French literature in honor of Samuel N. Rosenberg, Birmingham (Al) 2007. </bibl>
+          <bibl>Schultz 1891: O. Schultz, Ein Lied von Gautier d'Espinau, in «Zeitschrift für
+            romanische Philologie», 15 (1891), p. 237.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl>M 180bc (<hi rend="italic">Gautiers despinau</hi>). The Table attributes the song to
+              <hi rend="italic">Jehans de nueuile</hi>.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl>M 180bc (Gautiers despinau). La Tavola attribuisce la canzone a Jehans de
+            nueuile.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl type="music" xml:lang="en" pattern="10a’ba’bba’ba’"><p>10ab'ab'aab' (MW 626,3 = Frank
+        215:1); the possible models are to be found in <hi rend="italic">Plaindre m’estuet de la
+          bele en chantant</hi> (RS 319) of Robert de Reins, who probably belonged to the first
+        generation of Old French trouvères composing between the end of the XIIth and the early
+        years of the XIIIth centuries (see Roncaglia 1991, 396-97), or in <hi rend="italic">En
+          chantant veul ma dolor descovrir</hi> (RS 1397) of Thibaut de Champagne. The troubadour
+        model is the song <hi rend="italic">Be m’an perdut lai enves Ventadorn</hi> of BnVent (BdT
+        70.12) also structured in <hi rend="italic">coblas doblas</hi>; 3 <hi rend="italic">coblas
+          doblas</hi> (1+2); rhyme a: -<hi rend="italic">ais</hi>, -<hi rend="italic">er</hi>; rhyme
+        b: -<hi rend="italic">oie</hi>, -<hi rend="italic">ee</hi>; lyric caesura: vv. 9, 14, 20;
+        epic caesura: vv. 12, 13; elision: vv. 7, 19, 21; blank staves above stanza I. The song
+        appears incomplete, to judge by the blank space left at the end of the column allowing room
+        for at least two further stanzas, and by the succession of stanzas II and III whose
+        identical rhymes suggest a missing stanza in a structure of <hi rend="italic">coblas
+          doblas</hi> (Bédier 1909, 277, see the Notes below). The way in which the text is set out
+        with blank spaces and the exact estimation of the necessary number of lines for the
+        transcription of possible missing stanzas is found in the manuscript as a whole.</p></metDecl>
+      <metDecl type="music" xml:lang="it" pattern="10a’ba’bba’ba’"><p>10ab'ab'aab' (MW 626,3 = Frank
+        215:1); i possibili modelli sono da ricercarsi in <hi rend="italic">Plaindre m’estuet de la
+          bele en chantant</hi> (RS 319) di Robert de Reins, probabile esponente della prima
+        generazione oitanica, collocabile tra la fine del XII e i primi anni del XIII (cfr.
+        Roncaglia 1991, 396-397), o in <hi rend="italic">En chantant veul ma dolor descovrir</hi>
+        (RS 1397) di Thibaut de Champagne. Il modello trobadorico è la canzone <hi rend="italic">Be
+          m’an perdut lai enves Ventadorn</hi> di BnVent (BdT 70,12) anch’essa strutturata in coblas
+        doblas; 3 <hi rend="italic">coblas doblas</hi> (1+2); rima: a: -<hi rend="italic">ais</hi>,
+          -<hi rend="italic">er</hi>; rima b: -<hi rend="italic">oie</hi>, -<hi rend="italic"
+          >ee</hi>; cesura lirica: vv. 9, 14, 20; cesura epica: vv. 12, 13; sinalefe: vv. 7, 19, 21;
+        il tetragramma è privo di notazione. La canzone pare incompleta. Lo comproverebbero sia lo
+        spazio bianco lasciato a fine colonna nel ms, in misura tale da poter contenere la
+        trascrizione di almeno altre due coblas, sia la successione delle strofi II e III che,
+        presentando rime identiche, fa pensare a una configurazione in <hi rend="italic">coblas
+          doblas</hi> (Bédier 1909, 277). Le modalità della disposizione con la presenza degli spazi
+        bianchi e la stima esatta delle righe necessarie per la trascrizione delle eventuali strofi
+        mancanti è diffusa in tutto il manoscritto.</p></metDecl>
+      <editorialDecl type="analysis" xml:lang="en">The song is ascribed to Gautier d'Espinal by Du
+        Méril 1850 («une de ses plus jolies chansons») and Schultz 1891 («das hübsche Lied»).
+        Lindelöf and Wallensköld 1901, 60, place it in an appendix among the <hi rend="italic"
+          >chansons incertaines</hi>, considering this attribution as «plus que douteuse» and also
+        basing their rejection of this attribution on the presence of the two epic caesuras in vv.
+        12 and 13, these being the only examples in the Lorraine trouvère’s corpuswhich they
+        regularise into lyric caesuras, and are followed in this by Bédier 1909. Lindelöf and
+        Wallensköld 1901 attribute the text to Jehan de Nuevile, to whom the song is assigned in the
+        Table at the beginning of the songbook. However, this attribution was in turn rejected by
+        Richter 1904, 15-16. The song is now generally regarded as anonymous, with recent editors
+        taking this view. The Table records 18 songs under <hi rend="italic">Jehans de Nuevile</hi>
+        but the ms. redistributes these songs between the two trouvères who are contiguous with
+        Jehan de Nuevile in the sequence of authors: Gujot de Dijon (for the two songs RS 1885 and
+        RS 771) and Gautier d'Espinal (for the group of five songs RS 501, 104, 191, 1988, 1816, all
+        unica in M bar the last one which is also found, classed as anonymous, in ms. C). The song
+          <hi rend="italic">Jherusalem, grant damage me fais</hi> is transcribed in the last part
+        (fasc. XXV, ff. 178-85) of the section where ms. M orders songs by author,in a sub-section
+        comprising composers of Old French lyrics of the Picard-Artois tradition, datable to the
+        second half of the XIIIth c. The sequence presents the corpus of the nine songs attributed
+        to Gautier d'Espinal (ff. 178v-181r) immediately after the last section devoted to <hi
+          rend="italic">Guios de Digon</hi> (ff. 176r-178r); after the insertion into f. 181r of the
+        stanza with musical notation <hi rend="italic">Mout m'abelist quant ie voi revenir</hi> (RS
+        1451), attributed to the <hi rend="italic">trouveresse</hi> Maroie de Dregnau de Lille and
+        not recorded in the Table, the sequence continues with the transcription of the corpus of
+        the eight songs attributed to Jehan de Nuevile (ff. 181v-183v). If the Table is to be
+        believed, the five texts which conclude Gautier’s corpus (including RS 191) should be
+        ascribed to Jehan de Nuevile, adding to the substantial group of eight texts belonging to
+        this trouvère. Since the ordering of the texts may have been influenced by material factors
+        such as a change of source, their displacement with respect to the order in the Table would
+        have occurred at the time of compilation, giving rise to the divergence of attributions
+        (cfr. Battelli 1993, 287, n. 17). I am therefore inclined to rescue from anonymity this
+        woman’s lament for her departed lover (a «<hi rend="italic">planh</hi> d'une femme» for
+        Bédier 1909) and to legitimise its assignment in the Table to the repertory of Jehan de
+        Nuevile, an exponent of the municipal poetic school of Arras of the second half of the
+        XIIIth c., whose collection of songs contains numerous unica preserved by M from an
+        individual source (see also Lindelöf and Wallensköld, p. 26).</editorialDecl>
+      <editorialDecl type="analysis" xml:lang="it">La canzone è assegnata a Gautier d'Espinal da Du
+        Méril 1850 («une de ses plus jolies chansons») e Schultz 1891 («das hübsche Lied»). Lindelöf
+        e Wallensköld 1901, 60, la mettono in Appendice tra le <hi rend="italic">chansons
+          incertaines</hi>, considerando la sua attribuzione «plus que douteuse» e fondando la
+        ricusazione di paternità anche sulla presenza delle due cesure epiche ai vv. 12 e 13, unici
+        esempi nel corpus del troviere lorenese. Di conseguenza pongono a testo i versi 12 e 13
+        regolarizzati con cesure liriche, seguiti in questo da Bédier 1909. I due editori di Gautier
+        attribuiscono quindi il testo a Jehan de Nuevile, cui la canzone viene assegnata dalla
+        Tavola a inizio del canzoniere. Tuttavia Richter 1904, 15-16, ha rigettato a sua volta
+        l'attribuzione. È invalsa dunque l’opinione che si tratti di una canzone anonima anche
+        presso gli editori più recenti. La Tavola registra sotto <hi rend="italic">Jehans de
+          Nuevile</hi> 18 canzoni che tuttavia nel codice subiscono una redistribuzione tra i due
+        trovieri che nella sequenza autoriale sono contigui a Jehan de Nuevile: Gujot de Dijon (per
+        le due canzoni RS 1885 e RS 771) e Gautier d'Espinal (per il gruppo di cinque canzoni RS
+        501, 104, 191, 1988, 1816, tutti unica di M tranne l'ultima che si trova anche, anonima, in
+        C). La canzone <hi rend="italic">Jherusalem, grant damage me fais</hi> si trova trascritta
+        nella parte finale (fasc. XXV, ff. 178-185) dell'ordinamento autoriale originario del
+        canzoniere M, in una sezione che accoglie esponenti della produzione lirica oitanica di
+        tradizione piccardo-artesiana, databili alla seconda metà del XIII secolo. La sequenza
+        presenta il corpus delle 9 canzoni attribuite a Gautier d'Espinal (ff. 178v-181r) subito
+        dopo l'ultima sezione dedicata a <hi rend="italic">Guios de Digon</hi> (ff. 176r-178r); dopo
+        l'inserzione al f. 181r della cobla notata <hi rend="italic">Mout m'abelist quant ie voi
+          revenir</hi> (RS 1451), attribuita alla <hi rend="italic">trouveresse</hi> Maroie de
+        Dregnau de Lille e non registrata nella Tavola, la successione riprende con la trascrizione
+        del corpus delle otto canzoni attribuite a Jehan de Nuevile (ff. 181v-183v). Se dessimo
+        credito alla registrazione della Tavola, i cinque testi che nel canzoniere chiudono il
+        corpus di Gautier (ivi compresa RS 191) andrebbero dunque assegnati a Jehan de Nuevile,
+        aggiungendosi al nutrito gruppo di 8 testi del troviere. Poiché la scelta della disposizione
+        dei testi può essere stata influenzata da fattori di carattere materiale come il cambio di
+        fonte, la loro dislocazione rispetto all'ordine della Tavola sarebbe intervenuta al momento
+        della confezione della silloge generando la divergenza di attribuzione (cfr. Battelli 1993,
+        287, nota 17). Sarei dunque propensa a togliere dall'anonimato questo lamento di donna per
+        l’amico andato oltremare («<hi rend="italic">planh</hi> d'une femme» per Bédier 1909) e
+        legittimare la assegnazione della Tavola al repertorio di Jehan de Nuevile, esponente della
+        scuola poetica municipale di Arras della seconda metà del XIII, il cui canzoniere conta
+        numerosi unica, forniti a M dall'apporto di una fonte peculiare (cfr. anche Lindelöf e
+        Wallensköld, p. 26).</editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2014-06-25T15:24:42Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Anonymous (Jehan de Nuevile ?)</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+        <div type="text" xml:id="rs.191.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Jherusalem, grant damage me fais </l>
+            <l n="2">qui m’as tolu ce que je pluz amoie!</l>
+            <l n="3">Sachiez de voir: ne vos amerai maiz</l>
+            <l n="4">quar c’est la rienz dont j’ai pluz male joie! </l>
+            <l n="5">Et bien sovent en souspir et pantais, </l>
+            <l n="6">si qu’a bien pou que vers Deu ne m’irais,</l>
+            <l n="7">qui m’a osté de grant joie ou j’estoie. </l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="8">Biauz dous amis, com porroiz endurer</l>
+            <l n="9">la grant painne por moi en mer salee,</l>
+            <l n="10">quant rienz qui soit ne porroit deviser</l>
+            <l n="11">la grant dolor qui m’est el cuer entree?</l>
+            <l n="12">Quant me remembre del douz viaire cler </l>
+            <l n="13">que je soloie baisier et acoler,</l>
+            <l n="14">granz merveille est que je ne sui dervee.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="15">Si m’aït Dex, ne puis pas eschaper:</l>
+            <l n="16">morir m’estuet! Teus est ma destinee.</l>
+            <l n="17">Si sai de voir que qui muert por amer</l>
+            <l n="18">trusques a Deu n’a pas c’une jornee, </l>
+            <l n="19">lasse! mieuz vueil en tel jornee entrer! </l>
+            <l n="20">Que je puisse mon douz ami trover, </l>
+            <l n="21">que je ne vueill ci remaindre esguaree.</l>
+          </lg>
+        </div>
+        <div type="translation" xml:id="rs.191.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Jerusalem, you do me great harm in robbing me of the one I loved most in the world!
+              Be assured I shall nevermore love you, for he is the creature who brings me the
+              saddest joy. And time and time again I sigh in anguish so that I am on the point of
+              railing at God, who has withdrawn me from the great joy in which I used to live. </p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Fair sweet love, how can you endure the great pain you feel for love of me on the
+              salt sea, when nothing in the world could describe the great grief that has entered my
+              heart? When I remember the sweet bright face I used to kiss and caress, it is a
+              miracle I have not gone mad. </p>
+          </div>
+          <div n="3" type="stanza">
+            <p>God help me, I cannot escape: I shall die, it is my destiny. But I know well that
+              anyone who dies for love is a long way off reaching God, and I, alas! would rather
+              start on the journey towards my sweet love than remain here alone and abandoned. </p>
+          </div>
+        </div>
+        <div type="translation" xml:id="rs.191.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Gerusalemme, quale danno mi fai ad avermi tolto colui che più amavo al mondo!
+              Sappiatelo: mai vi amerò, perché è la cosa da cui traggo la più triste gioia. E spesso
+              sospiro nel languore e manca un nulla che non m’arrabbi con Dio che mi ha impedito di
+              godere la gioia grande in cui mi trovavo.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Bello e dolce amico, come potrete resistere alla gran pena per amor mio sul mare
+              salato, quando niente al mondo potrebbe descrivere il gran dolore che a me è entrato
+              nel cuore? Quando mi sovviene del dolce viso radioso che baciavo e accarezzavo, è
+              davvero sorprendente che non esca pazza. </p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Che Dio mi aiuti! non ho via di scampo: morirò, è il mio destino. Lo so che per chi
+              muore per amore, nel cammino verso Dio non c'è una sola tratta, ma io, povera me!,
+              preferisco affrontare quel viaggio che mi faccia ritrovare il mio dolce amico,
+              piuttosto che rimanere qui sola e abbandonata.</p>
+          </div>
+        </div>
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>It is not possible to identify the crusade referred to in this text, but it is likely to
+          date from the time between the expedition of Frederick II (1228) and that of Thibaut de
+          Champagne (1239-1240), and hence from the second half of the XIIIth c. </p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Non è possibile individaure la crociata cui si fa cenno nel testo, ma è verosimile che la
+          canzone sia da collocare tra la spedizione di Federico II (1228) e quella di Thibaut de
+          Champagne (1239-1240), e comunque dalla seconda metà del XIII secolo.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>According to Bédier 1909, 277, the song should contain six <hi rend="italic">coblas
+            doblas</hi>; among the three missing would be the first stanza: ‘Les strophes que nous
+          avons sont les strophes II, III, IV’. His text therefore begins with stanza II. In
+          contrast Dronke, p. 106, n. 1, declares: ‘intuitively, I feel it is perfect as it stands,
+          and would only be spoilt by the addition of further stanzas (...). Or is this a purely
+          subjective and anachronistic judgement?’. </p>
+        <p corresp="#rs.191.fro:(n=1)">Jherusalem, grant damage me fais. The (opening?) address to
+          Jerusalem is a unicum in the corpus of Old French crusade songs, where the personified
+          holy city recurs three timesmore: in the refrain of the song Pour lou pueple resconforteir
+          (RS 886) of Maître Renaut at the time of the 1189 crusade: ‘Jerusalem plaint et ploure /
+          lou secors, ke trop demoure’, in the song Jerusalem se plaint et li pais of Huon de
+          Saint-Quentin (RS 1576), after the failure of the fifth crusade, and the anonymous
+          sirventes composed after Saint Louis' votum crucis, Un serventois, plaît de déduit, de
+          joie (RS 1729), vv. 19-20: ‘Jérusalem, tant es desconfortee / sur toi en est li domages
+          venuz’. In a Castilian setting it can be placed alongside the anonymous lament Ay,
+          Iherusalem! or Planto por la caída de Jerusalén of the mid-XIIIth c., on which see Asensio
+          1960 (who dates it between 1272 and 1276) and Franceschini 2005 (who dates it between 1245
+          and 1252). The specific motif from chansons d'ami and de départie of the imprecation
+          against the one who has caused the distancing of the lover slides in this stanza from the
+          lament directed at Jerusalem to anger against God, in v. 6: ‘si qu’a bien pou que vers Deu
+          ne m’irais’, which is also found in the probably contemporaneous chanson de femme of Guiot
+          de Dijon, Chanterai por mon corage (RS 21), where the girl turns to God with the same
+          complaining lines: ‘Sire Deus, por que·l feïs? / Quant l'une a l'autre atalente, / por coi
+          nos as departis?’ (vv. 30-32). Rinaldo d'Aquino in his lament for crusaders’ departure
+          Giamäi non mi conforto (7.6, Comes 2008) employs the same motif, but here the girl’s
+          complaint is addressed to Frederick II who is taking the lover away: ‘Lo 'mperadore con
+          pace / tuto lo mondo mantene / ed a meve guerra face, / che m'à tolta la mia speme’ (v.
+          33-36). In this case the reference to Frederick’s crusade allows us to date the text to
+          1228 (cfr. Antonelli 2008, XXXVIII). But the motif is above all present in A la fontana
+          del vergier of Marcabru (BdT 293.1), in lines 17-21: ‘“Jhesus”, dis elha, “reys del mon, /
+          per vos mi creys ma gran dolors, / quar vostra anta mi cofon, / quar li mellor de tot est
+          mon / vos van servir, mas a vos platz”’. In the following stanza the imprecation against
+          Luigi VII in v. 26 (‘“Ay! mala fos reys Lozoïcx”’) is evidently the ultimate source. The
+          presence of the stanza with melody of Maroie de Dregnau de Lille in the same section of M,
+          although not contiguous with RS 191, probably encouraged Dronke 19963, 106, n. 1, to think
+          of assigning the composition of this lament for the departure on crusade to a woman: ‘I
+          think it quite possible that the author was a woman’.</p>
+        <p corresp="#rs.191.fro:(n=3)">sachiez, vos. The passage from the 2nd p. singular to 2nd p.
+          plural may seem incongruous; the reason is perhaps to be found in the song’s declamatory
+          character, as if it were an extemporary address to the public. </p>
+        <p corresp="#rs.191.fro:(n=8)">porroiz: Lindelöff-Wallensköld, p. 98, print porrez.</p>
+        <p corresp="#rs.191.fro[range(@n=12,@n=13)]">Bédier, following Lindelöf and Wallensköld,
+          shortens the two lines «pour en écarter la 'césure épique'», printing: ‘Quant me membre
+          del douz viaire cler / que soloie baisier et acoler’. Rosenberg 1981, 108, restores the
+          ms. reading limiting himself to signalling the choices of previous editors. Mölk 1989,
+          217, considers syllabic normalisation unnecessary. </p>
+        <p corresp="#rs.191.fro:(n=14)">dervee: the motif of the madness of the crusading lover is
+          also found in Guiot de Dijon (RS 21), vv. 3-4: ‘car avec mon grant damage / ne vueill
+          morir n'afoler’; and in Rinaldo d'Aquino, Giamäi non mi conforto (7.6), vv. 25-26: ‘La
+          croce salva la gente / e me face disvïare’.</p>
+        <p corresp="#rs.191.fro[range(@n=17,@n=18)]">Si sai de voir que qui muert por amer /
+          trusques a Deu n’a pas c’une jornee. The girl places love for her beloved above love of
+          God and is aware this will cost her direct access to Paradise. Bédier translates: ‘a plus
+          d'une étape à fournir pour aller jusqu'à Dieu’. On the construction’s ambiguity, see
+          Rosenberg 1981, p. 108: ‘it is not clear whether n'a pas c'une is to be understood, as in
+          Bédier-Aubry, in its modern sense, “does not have only one”, or in the earlier sense, “has
+          only one”’. In his re-edition of 1998, 215, Rosenberg translates ‘Has more than one day’s
+          journey to God’, followed by Doss-Quinby et al. 2001, p. 146. For Dijkstra 1995, 160 vv.
+          17-18 ‘suggèrent que celui qui meurt par amour doit s’attendre à un long séjour au
+          purgatoire avant d'être admis au paradis’.</p>
+        <p corresp="#rs.191.fro:(n=19)">‘lasse! mieuz vueil en tel jornee entrer!’ is another echo
+          of Marcabru’s A la fontana dal vergier (BdT 293.1): ‘”Senher”, dis elha, “ben o crey / que
+          Dieus aya de mi mercey / en l’autre segle per jassey, / quon assatz d’autres peccadors; /
+          mas say mi tolh aquelha rey / don joy mi crec; mas pauc mi tey, / que trop s’es de mi
+          alonhatz”’ (vv. 36-42).</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Secondo Bédier 1909, 277, la canzone doveva avere sei coblas doblas; tra le tre mancanti,
+          la prima strofe: «Les strophes que nous avons sont les strophes II, III, IV». Il testo da
+          lui presentato inizia dunque dalla seconda cobla. Al contrario Dronke, p. 106, n. 1,
+          dichiara: «intuitively, I feel it is perfect as it stands, and would only be spoilt by the
+          addition of further stanzas (...). Or is this a purely subjective and anachronistic
+          judgement?».</p>
+        <p corresp="#rs.191.fro:(n=1)">Jherusalem, grant damage me fais. L'allocuzione
+          (incipitaria?) a Gerusalemme è un unicum nel corpus delle canzoni oitaniche di crociata,
+          dove la città santa personificata ricorre altre due volte: nel refrain della canzone Pour
+          lou pueple resconforteir (RS 886) di Maître Renaut ai tempi della crociata del 1189:
+          ‘Jerusalem plaint et ploure / lou secors, ke trop demoure’, nella canzone Jerusalem se
+          plaint et li pais di Huon de Saint-Quentin (RS 1576), dopo il fallimento della quinta
+          crociata; e nel sirventese anonimo composto dopo il votum crucis di san Luigi, Un
+          serventois, plaît de déduit, de joie (RS 1729), vv. 19-20: ‘Jérusalem, tant es
+          desconfortee / sur toi en est li domages venuz’. In ambito castigliano si affianca il
+          Pianto anonimo Ay, Iherusalem! o Planto por la caída de Jerusalén della metà del XIII
+          secolo, per cui si vedano Asensio 1960 (che lo data tra il 1272 e il 1276) e Franceschini
+          2005 (che lo data tra il 1245 e il 1252). Il motivo specifico nelle chansons d'ami e de
+          départie della imprecazione contro chi ha causato l'allontanamento dell'amato scivola in
+          questa strofe dal lamento rivolto a Gerusalemme alla ira contro Dio, al v. 6: ‘si qu’a
+          bien pou que vers Deu ne m’irais’, che ritroviamo anche nella chanson de femme di Guiot de
+          Dijon, probabilmente contemporanea a questa, Chanterai por mon corage (RS 21), in cui la
+          fanciulla si rivolge a Dio con gli stessi versi queruli: ‘Sire Deus, por que·l feïs? /
+          Quant l'une a l'autre atalente, / por coi nos as departis?’ (vv. 30-32). Rinaldo d'Aquino
+          nel lamento per la partenza del crociato Giamäi non mi conforto (7.6, Comes 2008) impiega
+          lo stesso motivo, ma qui la querela della fanciulla è rivolta a Federico II che le porta
+          via l'amato: ‘Lo 'mperadore con pace / tuto lo mondo mantene / ed a meve guerra face, /
+          che m'à tolta la mia speme’ (v. 33-36). In questo caso il riferimento alla crociata di
+          Federico permette di datare il testo al 1228 (cfr. Antonelli 2008, XXXVIII). Ma il motivo
+          è soprattutto presente in A la fontana del vergier di Marcabru (BdT 293.1), in particolar
+          modo ai versi 17-21: ‘Jhesus», dis elha, «reys del mon, / per vos mi creys ma gran dolors,
+          / quar vostra anta mi cofon, / quar li mellor de tot est mon / vos van servir, mas a vos
+          platz’. Nella cobla successiva la imprecazione contro Luigi VII al v. 26 («Ay! mala fos
+          reys Lozoïcx») è l'evidente fonte remota. La presenza nella stessa sezione di M della
+          strofe notata di Maroie de Dregnau de Lille, sebbene non contigua a RS 191, ha
+          probabilmente indotto Dronke 19963, 106, n. 1, a pensare di assegnare la composizione di
+          questo lamento per la partenza del crociato a una donna: «I think it quite possible that
+          the author was a woman».</p>
+        <p corresp="#rs.191.fro:(n=3)">sachiez, vos. Il passaggio dalla II ps. sing. alla II ps. pl.
+          sembrerebbe incongruo; forse la ragione potrebbe trovarsi nella natura recitativa della
+          canzone, come se si trattasse di una estemporanea allocuzione al pubblico.</p>
+        <p corresp="#rs.191.fro:(n=8)">porroiz: Lindelöff-Wallensköld, p. 98, stampano porrez.</p>
+        <p corresp="#rs.191.fro[range(@n=12,@n=13)]">Bédier, seguendo Lindelöf e Wallensköld,
+          raccorcia i due versi «pour en écarter la 'césure épique'» ponendo a testo: ‘Quant me
+          membre del douz viaire cler / que soloie baisier et acoler’. Rosenberg 1981, 108,
+          ripristina la lezione del codice limitandosi a segnalare le scelte degli editori
+          precedenti. Mölk 1989, 217, considera invece superflua la scelta di normalizzazione
+          sillabica. </p>
+        <p corresp="#rs.191.fro:(n=14)">dervee: anche il motivo della pazzia nel ricordo dell'amico
+          crociato si ritrova in Guiot de Dijon (RS 21), vv. 3-4: ‘car avec mon grant damage / ne
+          vueill morir n'afoler’»; e in Rinaldo d'Aquino, Giamäi non mi conforto (7.6), vv. 25-26:
+          ‘La croce salva la gente / e me face disvïare’. </p>
+        <p corresp="#rs.191.fro[range(@n=17,@n=18)]">Si sai de voir que qui muert por amer /
+          trusques a Deu n’a pas c’une jornee. La fanciulla pone l'amore per il suo amico più in
+          alto dell'amore per Dio ed è consapevole che le costerà l'accesso diretto al Paradiso.
+          Bédier traduce: «a plus d'une étape à fournir pour aller jusqu'à Dieu». Sull'ambiguità
+          della costruzione, cfr. Rosenberg 1981, p. 108: «it is no clear whether n'a pas c'une is
+          to be understood, as in Bédier-Aubry, in its modern sense, 'does not have only one', or in
+          the earlier sense, 'has only one'». Nella sua riedizione del 1998, 215, Rosenberg traduce:
+          «Has more than one day’s journey to God», seguito da Doss-Quinby et al. 2001, p, 146. Per
+          Dijkstra 1995, 160 i versi 17-18 «suggèrent que celui qui meurt par amour doit s’attendre
+          à un long séjour au purgatoire avant d'être admis au paradis».</p>
+        <p corresp="#rs.191.fro:(n=19)">lasse! mieuz vueil en tel jornee entrer!. Il richiamo va
+          ancora all'ultima cobla di A la fontana dal vergier di Marcabru (BdT 293,1), vv. 36-42;
+          ‘”Senher”, dis elha, “ben o crey / que Dieus aya de mi mercey / en l’autre segle per
+          jassey, / quon assatz d’autres peccadors; / mas say mi tolh aquelha rey / don joy mi crec;
+          mas pauc mi tey, / que trop s’es de mi alonhatz”’.</p>
+      </div>
+    </back>
+  </text>
+</TEI>
