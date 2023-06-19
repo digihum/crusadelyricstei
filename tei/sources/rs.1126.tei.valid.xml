@@ -8,13 +8,8 @@
 			</titleStmt>
 			<editionStmt>
 				<p> Edition Barbieri 2001, with a few modifications (vv. 11, 39 and 43). </p>
-				
-				
-				
-				
-				<edition>
-					<date>2014-01-20</date>
-				</edition>
+				<ab/>
+				<p/>
 			</editionStmt>
 			<publicationStmt>
 				<p>unknown</p>
@@ -609,3 +604,4 @@
 		</back>
 	</text>
 </TEI>
+<?oxy_options track_changes="on"?>
