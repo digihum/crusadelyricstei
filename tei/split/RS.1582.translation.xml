@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-12-02</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Bédier-Aubry 1909, p. 283.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Bédier-Aubry 1909, p. 283.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl>(1). U 161r-v (anon).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl>(1). U 161r-v (anon). </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10 abab c'c'dd (MW 1209:16); 5
+        8-line <hi rend="italic">coblas singulars</hi> + 2 4-line <hi rend="italic">envois</hi>.
+        Rhyme a = I <hi rend="italic">is,</hi> II <hi rend="italic">our</hi> (<hi rend="italic">or),</hi> III <hi rend="italic">ir,</hi> IV <hi rend="italic">os (ors),</hi> V <hi rend="italic">ant</hi>; rhyme b = I <hi rend="italic">ant,</hi> II <hi rend="italic">ir,</hi> III <hi rend="italic">er (eir),</hi> IV <hi rend="italic">i (it),</hi> V <hi rend="italic">er (eir)</hi>; rhyme c = I <hi rend="italic">oie (aie),</hi> II, III, IV <hi rend="italic">ance,</hi> V <hi rend="italic">ente,</hi> t1 <hi rend="italic">ante,</hi> t2
+          <hi rend="italic">ente</hi>; rhyme d = I <hi rend="italic">i</hi>, IV <hi rend="italic">ont</hi>; identical-equivocal rhyme: 13 <hi rend="italic">puissance</hi> : 29 <hi rend="italic">poussance</hi>; equivocal rhyme 37 <hi rend="italic">entente</hi> : 45 <hi rend="italic">antente</hi>; identical expression at the rhyme: 39 <hi rend="italic">leament ameir</hi> : 48 <hi rend="italic">leamant ameir</hi>. Medial caesura: 7, 8, 14,
+        32, 37; lyric caesura: 9, 13, 40. Diaeresis: 9, 16, 29, at the caesura: 7, 35; elision at
+        the caesura: 8, 14, 37. Enjambement: 19-20 (v. 20 without caesura). The verse form 1209
+        (=Frank 382) only actually corresponds to st. I and st. IV, which have the final couplet
+        rhyming <hi rend="italic">dd. </hi>In the middle part of the song the final couplet of
+        stanzas II and III repeats the rhyme <hi rend="italic">aa</hi> (= MW 1144 = Frank 360),
+        while the final stanza (V) and the two <hi rend="italic">envois</hi> end with <hi rend="italic">bb</hi> (MW 1163 = Frank 362). These metrical forms [OK?] reveal
+        particularly interesting points of contact. The versification of stanzas II and III (= MW
+        1144:3) is modelled on the love-song <hi rend="italic">Ne me sont pas achoison de
+          chanter</hi> (RS 787 = MW 1144:2, 5 <hi rend="italic">coblas unissonans</hi> of 8 vv. + 1
+        4-line <hi rend="italic">tornada</hi> di 4 vv., melody ABAB CDEB'), attributed to Gace Brulé
+        by mss. CKNPX, whereas ms. a assigns it to Guillaume le Vinier; mss. HLOUVza on the other
+        hand transmit it as anonymous and it is also so cited by Gerbert de Montreuil in his <hi rend="italic">Roman de la Violette</hi>. The versification of st. V and the two <hi rend="italic">envois</hi> of our RS 1582 (not registered in MW under 1163) is identical to
+        that of Andrieu Contredit d'Arras’s love-song<hi rend="italic">... ir / del gerredon ke
+          j'atenc a avoir</hi> (RS 1387b = 1163:3), 5 <hi rend="italic">coblas unissonans</hi> of 8
+        lines (v. 1 is missing) + 4-line <hi rend="italic">envoi</hi>, transmitted without
+        attribution (but with <hi rend="italic">autonominatio</hi> in v. 15) and provided with a
+        musical stave without notation in the Droz fragment (BnF, nouv.acq. fr. 15797, see Droz
+        1928, 540). Stanzas I and III of the song <hi rend="italic">Bele et blonde est cele pour qui
+          je chant</hi> (RS 308 = 1163:2) have this same versification, 4 <hi rend="italic">coblas
+          unissonans</hi> + 4-line <hi rend="italic">envoi</hi>, transmitted with two different
+        melodic versions in PU (ABAB CDEB' e ABCD EFGH). Of the three mss. preserving it, C 28
+        attributes it to Thibaut de Champagne (<hi rend="italic">li rois de Navaire</hi>) and P 109
+        to the Châtelain d'Arras (<hi rend="italic">Li chastelains d'Arraz</hi>), while U 67 gives
+        it as anonymous (<hi rend="italic">Li chastelain d'Arras</hi> only being added in the margin
+        by a later hand). Wallensköld 1915, p. 127, considers it the work of an anonymous author in
+        the first half of the 13th c., excluding it not only from Thibaut’s corpus but also from
+        that of the Châtelain d'Arras, and later (Wallensköld 1925, 224-227) inserts it in into his
+          <hi rend="italic">Appendice</hi> among Thibaut’s songs of doubtful attribution (see also
+        pp. LXVI and LXX-LXXI. For the possibility that RS 308 may be attributable to the Châtelain
+        d'Arras, author of the <hi rend="italic">chanson de départie</hi> RS 140, see Barbieri 2015,
+        Note). To the network of analogies described here we can add the third verse-form found in
+        stanzas I and IV of <hi rend="italic">Por joie avoir perfite en Paradis</hi>, with its final
+        decasyllabic couplet rhyming <hi rend="italic">dd </hi>(= MW 1209:16). This pattern also is
+        found in two songs from Arras datable to between the first and second quarter of the 13th c.
+        and which are associated with the same tune having the structure ABAB CDEF: the first is
+        attributed to Chardon de Croisilles in T 41 and C 209, <hi rend="italic">Rose ne lis ne me
+          done talent</hi> (RS 736 = MW 1209:15, 4 <hi rend="italic">coblas doblas</hi> of 8 vv. + 2
+        4-line <hi rend="italic">envois</hi>) and the second is <hi rend="italic">Par maintes fois
+          ai chanté liement</hi> by Robert de la Pierre (RS 696 = 1209:14, 5 <hi rend="italic">coblas unissonans</hi> of 8 vv. + 1 5-line <hi rend="italic">envoi</hi>, <hi rend="italic">unicum</hi> of ms. a). To these songs can be added two <hi rend="italic">jeux-partis</hi> by the <hi rend="italic">Prince del Puy </hi>of Arras Jehan Bretel: <hi rend="italic">Adan, mout fu Aristotes sachans</hi> (RS 277 = 1209:12) and <hi rend="italic">Jehan de Vergelai, vostre escient</hi> (RS 669 = MW 1209:13). Finally, the
+        versification and tune are also found in the gallicised version of Pistoleta’s <hi rend="italic">sirventes</hi> with a courtly tone, RS 641 <hi rend="italic">Quar eusse cent
+          mil mars d'argent</hi>, transmitted with two different melodic versions by U 82 and O 125
+        (original version: <hi rend="italic">Ar agues eu mil marcs de fin argen</hi>, BdT 372.3 =
+        Frank 382:25, 5 <hi rend="italic">coblas unissonans</hi> di 8 vv., melody ABAB CDEF). Also
+        linked to the Occitan tradition indicated under Frank 382 (= MW 1209) is another text
+        datable to between the first and second quarter of the 13th c.: the <hi rend="italic">tenso</hi> of Raimbaut de Vaqueiras and Conon de Bethune, <hi rend="italic">Seigner
+          Coine, jois e pretz et amors</hi> (BdT 392.29 = Frank 382:27, 4 <hi rend="italic">coblas
+          unissonans</hi> of 8 vv.), from the period of the Fourth Crusade (see Paterson 2012). In
+        summary, <hi rend="italic">Por joie avoir perfite en Paradis</hi> appears as a sort of
+        metrico-melodic collage of three verse-forms (MW 1144:3, 1209:16, 1163) whose models are to
+        be identified respectively with Gace Brulé’s song (the attribution in ms. a to the Arrageois
+        Guillaume le Vinier is significant, and is probably due to his admiration of Gace declared
+        in RS 1859), with the <hi rend="italic">tenso</hi> of Conon de Bethune and Raimbaut de
+        Vaqueiras, and with the song of Andrieu Contredit. These three configurations match those of
+        compositions by a sizeable group of poets gravitating around Arras and its poetic circle in
+        the first half of the 13th c. (the Châtelain d'Arras, Chardon de Croisilles, Andrieu
+        Contredit, Robert de la Pierre, Jehan Bretel). The presence of two different
+        metrical-melodic forms (MW 1144 and 1209) in the same song may conceivably be the result of
+        an attempt to update modes of performance, with adjustments being made to the basic
+        structure at the end (though the rhyme-words have the same tonic vowel), in a position
+        particularly susceptible to melodic variation. Note also that the texts following the
+        (triple) metrico-melodic model of RS 1582, apart from Gace Brulé RS 787 (f. 98v), are
+        preserved in U together with neumatic notation: Pistoleta’s <hi rend="italic">sirventes</hi>
+        BdT 372.3 (given as anonymous on f. 82r), Chardon de Croisilles’ song RS 736 (f. 58r) and
+        the <hi rend="italic">Chastelain</hi> d'Arras’s song RS 308 (f. 67r).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10 abab c'c'dd (MW 1209:16); 5
+          <hi rend="italic">coblas singulars</hi> di 8 vv. + 2 invii di 4 vv. Rima a = I <hi rend="italic">is,</hi> II <hi rend="italic">our</hi> (<hi rend="italic">or),</hi> III <hi rend="italic">ir,</hi> IV <hi rend="italic">os (ors),</hi> V <hi rend="italic">ant</hi>;
+        rima b = I <hi rend="italic">ant,</hi> II <hi rend="italic">ir,</hi> III <hi rend="italic">er (eir),</hi> IV <hi rend="italic">i (it),</hi> V <hi rend="italic">er (eir)</hi>; rima
+        c = I <hi rend="italic">oie (aie),</hi> II, III, IV <hi rend="italic">ance,</hi> V <hi rend="italic">ente,</hi> t1 <hi rend="italic">ante,</hi> t2 <hi rend="italic">ente</hi>;
+        rima d = I <hi rend="italic">i</hi>, IV <hi rend="italic">ont</hi>; rima identico-equivoca:
+        13 <hi rend="italic">puissance</hi> : 29 <hi rend="italic">poussance</hi>; rima equivoca 37
+          <hi rend="italic">entente</hi> : 45 <hi rend="italic">antente</hi>; identico sintagma in
+        rima: 39 <hi rend="italic">leament ameir</hi> : 48 <hi rend="italic">leamant ameir</hi>.
+        Cesura mediana: 7, 8, 14, 32, 37; lirica: 9, 13, 40. Dialefe: 9, 16, 29, in cesura: 7, 35;
+        elisione in cesura: 8, 14, 37. Enjambement: 19-20 (v. 20 senza cesura).In realtà lo schema
+        1209 (= Frank 382) corrisponde alle sole str. I e IV, che hanno il distico finale con rima
+          <hi rend="italic">dd. </hi>Nella parte centrale della canzone infatti, le str. II e III
+        presentano gli ultimi due versi con ripresa della rima <hi rend="italic">aa</hi> (MW 1144 =
+        Frank 360), mentre la str. V, l'ultima, e i due invii hanno la ripresa della rima <hi rend="italic">bb</hi> finale (MW 1163 = Frank 362). La distribuzione degli schemi metrici
+        permette di trovare dei punti di contatto particolarmente interessanti. La struttura delle
+        str. II e III (= MW 1144:3) ha il suo modello nella canzone <hi rend="italic">Ne me sont pas
+          achoison de chanter</hi> (RS 787 = MW 1144:2, 5 <hi rend="italic">coblas unissonans</hi>
+        di 8 vv. + 1 tornada di 4 vv., mel. ABAB CDEB'), attribuita a Gace Brulé dai mss. CKNPX,
+        contro a che la assegna a Guillaume le Vinier; i mss. HLOUVza invece la trasmettono anonima
+        ed è citata come tale anche da Gerbert de Montreuil nel suo <hi rend="italic">Roman de la
+          Violette</hi>. In secondo luogo, lo schema della str. V e dei due invii della nostra RS
+        1582 (non registrato in MW sotto l'articolo 1163) è identico a quello della canzone di
+        Andrieu Contredit d'Arras <hi rend="italic">... ir / del gerredon ke j'atenc a avoir</hi>
+        (RS 1387b = 1163:3), 5 <hi rend="italic">coblas unissonans</hi> di 8 vv (manca il v. 1) +
+        invio di 4 vv, trasmessa senza attribuzione (ma con <hi rend="italic">autonominatio</hi> al
+        v. 15) e provvista di rigo musicale senza notazione nel frammento Droz (BnF, nouv.acq. fr.
+        15797, cfr. Droz 1928, 540). Sempre con questa struttura, va ricordato il caso delle str. I
+        e III della canzone <hi rend="italic">Bele et blonde est cele pour qui je chant</hi> (RS 308
+        = 1163:2), 4 <hi rend="italic">coblas unissonans</hi> + invio di 4 vv., trasmessa con due
+        versioni melodiche diverse in PU (ABAB CDEB' e ABCD EFGH). Dei tre mss. che la tramandano, C
+        28 la attribuisce a Thibaut de Champagne (<hi rend="italic">li rois de Navaire</hi>), P 109
+        al Chastelain d'Arras (<hi rend="italic">Li chastelains d'Arraz</hi>), mentre U 67 la
+        trasmette anonima (solo una mano posteriore aggiunge a margine <hi rend="italic">Li
+          chastelain d'Arras</hi>). Wallensköld 1915, 127, la considera opera di un anonimo della
+        prima metà del XIII escludendola non solo dal corpus di Thibaut ma anche da quello del
+        Castellano d'Arras, e più tardi (Wallensköld 1925, 224-227), la inserisce in <hi rend="italic">Appendice</hi> tra le canzoni dubbie di Thibaut (cfr. anche pp. LXVI e
+        LXX-LXXI. Sulla possibilità che RS 308 sia attribuibile al Castellano d'Arras, autore della
+          <hi rend="italic">chanson de départie</hi> RS 140, cfr. Barbieri 2015, Note). Nella rete
+        di analogie che si va illustrando, va aggiunto il terzo schema coinvolto nelle strofi I e IV
+        di <hi rend="italic">Por joie avoir perfite en Paradis</hi>, con distico finale di
+        decasillabi con rima <hi rend="italic">dd </hi>(= MW 1209:16). Anch'esso accoglie due
+        canzoni di provenienza artesiana databili tra il primo e il secondo quarto del XIII secolo e
+        accomunate dalla medesima melodia secondo lo schema ABAB CDEF: la prima è attribuita a
+        Chardon de Croisilles in T 41 e C 209, <hi rend="italic">Rose ne lis ne me done talent</hi>
+        (RS 736 = MW 1209:15, 4 <hi rend="italic">coblas doblas</hi> di 8 vv. + 2 envois di 4 vv.) e
+        la seconda è <hi rend="italic">Par maintes fois ai chanté liement</hi> di Robert de la
+        Pierre (RS 696 = 1209:14, 5 <hi rend="italic">coblas unissonans</hi> di 8 vv. + 1 envoi di
+        5vv., unicum di a). A queste canzoni vanno aggiunti due <hi rend="italic">jeux</hi>-partis
+        del <hi rend="italic">Prince del Puy </hi>di Arras Jehan Bretel: <hi rend="italic">Adan,
+          mout fu Aristotes sachans</hi> (RS 277 = 1209:12) e <hi rend="italic">Jehan de Vergelai,
+          vostre escient</hi> (RS 669 = MW 1209:13). Infine, lo schema e la melodia si ritrovano
+        anche nella versione francesizzata del sirventese di tono cortese di Pistoleta, RS 641 <hi rend="italic">Quar eusse cent mil mars d'argent</hi>, trasmesso con due diverse versioni
+        melodiche in U 82 e O 125 (versione originale: <hi rend="italic">Ar agues eu mil marcs de
+          fin argen</hi>, BdT 372,3 = Frank 382:25, 5 <hi rend="italic">coblas unissonans</hi> di 8
+        vv., melodia ABAB CDEF). Rimanendo collegati alla tradizione occitana, sotto lo stesso
+        articolo Frank 382 (= MW 1209), è rintracciabile un altro testo localizzabile
+        cronologicamente entro il primo quarto del secolo XIII. Si tratta della tenzone di Raimbaut
+        de Vaqueiras e Conon de Bethune, <hi rend="italic">Seigner Coine, jois e pretz et amors</hi>
+        (BdT 392,29 = Frank 382:27, 4 <hi rend="italic">coblas unissonans</hi> di 8 vv.), risalente
+        al periodo della IV crociata (cfr. Paterson 2012). Riepilogando, <hi rend="italic">Por joie
+          avoir perfite en Paradis</hi> si presenta come una sorta di centone metrico-melodico
+        composto da tre schemi (MW 1144:3, 1209:16, 1163) i cui modelli sono identificabili
+        rispettivamente nella canzone di Gace Brulé (significativa l'attribuzione in a all'arrageois
+        Guillaume le Vinier, dovuta probabilmente alla sua ammirazione verso Gace dichiarata in RS
+        1859), nella tenzone di Conon de Bethune con Raimbaut de Vaqueiras, e nella canzone di
+        Andrieu Contredit. Queste tre configurazioni trovano riscontri in componimenti di un
+        consistente gruppo di poeti che gravitano attorno ad Arras e alla cerchia poetica arrageoise
+        nella prima metà del XIII secolo (Chastelain d'Arras, Chardon de Croisilles, Andrieu
+        Contredit, Robert de la Pierre, Jehan Bretel). Che la compresenza dei tre schemi nella
+        stessa canzone possa trattarsi di un caso di tentativo di aggiornamento dei modi esecutivi
+        consistente in un riassestamento della struttura proprio in <hi rend="italic">cauda </hi>(e
+        comunque le parole in rima presentano la medesima vocale tonica), cioè in una posizione
+        particolarmente sensibile alle variazioni melodiche, o piuttosto un semplice omaggio
+        formale, è difficile confermare. Segnalo inoltre che i testi che rappresentano il (triplice)
+        modello metrico-melodico di RS 1582, tranne Gace Brulé RS 787 (f. 98v), sono testimoniati in
+        U provvisti di notazione neumatica: il sirventese di Pistoleta BdT 372,3 (trasmesso anonimo
+        al f. 82r), la canzone di Chardon de Croisilles RS 736 (f. 58r) e la canzone del <hi rend="italic">Chastelain</hi> d'Arras RS 308 (f. 67r).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The first three lines of a blank four-line stave
+        are traced in red beneath the first line of the text, with space for musical notation in the
+        first stanza. The song was transcribed by the third hand at work in the ms. (ff. 110-168,
+        fasc. XXII) datable to the end of the 13<hi rend="superscript">th</hi> c. At the bottom of
+        f. 161v are two later additions (see Tyssens 1991, 387, and Tyssens 2007, 21-22). Bédier’s
+        emendations not accepted into the present edition are as follows: vv. 7 <hi rend="italic">je</hi> for <hi rend="italic">si</hi>; 11 eliminates <hi rend="italic">et</hi> and prints
+          <hi rend="italic">tante dousour</hi>; 17 <hi rend="italic">puet</hi> for <hi rend="italic">pui</hi>; 18 <hi rend="italic">ne ne l'en</hi> for <hi rend="italic">ne l’en neu</hi>; 19
+          <hi rend="italic">ke</hi> for <hi rend="italic">ki</hi>; 24 <hi rend="italic">l'avrai</hi>
+        for <hi rend="italic">l’aurei</hi>; 25 <hi rend="italic">ensi</hi> for <hi rend="italic">asi;</hi> 27 <hi rend="italic">siel</hi> for <hi rend="italic">sielz</hi>; 29 <hi rend="italic">poissance</hi> for <hi rend="italic">poussance</hi>; 41 <hi rend="italic">nest</hi> for <hi rend="italic">nast</hi>; 43 <hi rend="italic">revien</hi> for <hi rend="italic">revaig</hi>; 45 <hi rend="italic">entente</hi> for <hi rend="italic">antente</hi>; 48 <hi rend="italic">leament</hi> for <hi rend="italic">leamant</hi>.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Sono tracciati in rosso i primi tre righi del
+        tetragramma sotto il primo verso; lasciato spazio nella prima strofe per l'inserzione della
+        notazione. La canzone è stata trascritta dalla terza mano operante nel codice (ff. 110-168,
+        fasc. XXII) databile alla fine XIII secolo. In fondo al f. 161v si leggono due addizioni
+        posteriori (cfr. Tyssens 1991, 387, e Tyssens 2007, 21-22). Si segnalano di seguito gli
+        interventi al testo operati da Bédier e non accolti qui: vv. 7 <hi rend="italic">je</hi> per
+          <hi rend="italic">si</hi>; 11 elimina <hi rend="italic">et</hi> e pone a testo <hi rend="italic">tante dousour</hi>; 17 <hi rend="italic">puet</hi> per <hi rend="italic">pui</hi>; 18 <hi rend="italic">ne ne l'en</hi> per <hi rend="italic">ne l’en neu</hi>; 19
+          <hi rend="italic">ke</hi> per <hi rend="italic">ki</hi>; 24 <hi rend="italic">l'avrai</hi>
+        per <hi rend="italic">l’aurei</hi>; 25 <hi rend="italic">ensi</hi> per <hi rend="italic">asi;</hi> 27 <hi rend="italic">siel</hi> per <hi rend="italic">sielz</hi>; 29 <hi rend="italic">poissance</hi> per <hi rend="italic">poussance</hi>; 41 <hi rend="italic">nest</hi> per <hi rend="italic">nast</hi>; 43 <hi rend="italic">revien</hi> per <hi rend="italic">revaig</hi>; 45 <hi rend="italic">entente</hi> per <hi rend="italic">antente</hi>; 48 <hi rend="italic">leament</hi> per <hi rend="italic">leamant</hi>.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-12-10T17:35:41Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Anonymous</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1582.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>To have perfect joy in Paradise I must leave the land I love so well, where lives the
+              lady from whom I always have mercy, with her elegant, joyful person, and her fresh and
+              pleasing face. My true heart gives itself completely to her, but my body has to part
+              from her: thus I shall leave for the place where God suffered death to ransom us on
+              Good Friday.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Sweet love, I have felt a sharp pain now that I finally have to part from you, in
+              whom I have found so much kindness, such sweetness, joy and happiness, all to my
+              delight. But Fortune in her power has changed my joy to grief and torment, which I
+              shall feel on your account many a night and day. Thus do I go to serve my Creator.
+            </p>
+          </div>
+          <div n="3" type="stanza">
+            <p>I can endure hunger no more than can a child, and just as he cannot be stopped from
+              crying for it, I do not think that anyone can keep me away from you, whom I love to
+              kiss and embrace. I have no such power of abstinence in me! A hundred times a night I
+              gaze on your beauty in my imagination: it pleased me so much to hold you in my arms!
+              When I have this no more, I shall die of desire.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Fair Lord God, if for your sake I leave the land where lives the one I love so
+              dearly, grant in your mercy everlasting joy in the heavens for me and my beloved! And
+              give her the strength to continue to love me, so that she does not forget me because
+              of the long wait, for I love her more than anything else in the world, and I feel such
+              pity for it that my heart is melting!</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Fair Isabella, I commend you to Christ’s body. I may no longer remain with you: to
+              the unbelievers in pagan lands must I go for the love of God. To save my soul I go
+              with good intention. But be well aware, my beautiful, gracious love, if ever anyone
+              died for loving loyally, I do not think I shall live until I arrive at a safe sea
+              port. </p>
+          </div>
+          <div n="6" type="stanza">
+            <p>For as the flower is born of the anther, so is born of you the great sorrow which
+              torments me. But if I return, I can swear upon the saints that it will be to serve and
+              honour you.</p>
+          </div>
+          <div n="7" type="stanza">
+            <p>I sing of loyal love whereon I have my thoughts, and I seek not for my heart to
+              repent of it. But I wish my lord of Gisors to know that it is an honour to love
+              loyally.</p>
+          </div>
+        </div><div type="translation" xml:id="rs.1582.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Per aver gioia perfetta in paradiso, mi tocca lasciare il paese che amo tanto, dove
+              vive colei da cui ho sempre avuto grazia, dal corpo elegante e florido, dal viso
+              fresco e piacente. Il mio cuore leale si dona a lei completamente ma occorre che il
+              corpo si separi: così me ne potrò andare là dove Dio il giorno di Venerdì soffrì fino
+              alla morte per la nostra redenzione.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Dolce amica, ho sentito pungente un grande dolore perché alla fine dovrò separarmi da
+              voi, in cui ho trovato tanto bene, tanta dolcezza, gioia e letizia, del tutto a mio
+              piacere. Ma Fortuna nel suo potere ha rovesciato la mia gioia in dolore e tormento,
+              che proverò per voi per molte notti e molti giorni. Così andrò a servire il mio
+              Creatore.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Come un bambino, non posso sopportare la fame, e così come non si può nemmeno
+              impedirgli di piangere, non credo che nessuno possa tenermi lontano da voi, che amo
+              baciare e stringere fra le braccia. Non ho in me tanta forza di astinenza! Cento volte
+              di notte immagino la vostra bellezza: ero così contento di tenervi stretta a me! Non
+              vi avrò più, morirò di desiderio.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Bel Signore Dio, se lascio per voi il paese in cui vive colei che amo, compensateci
+              nella vostra bontà con la gioia eterna nei cieli per me e la mia amica! E datele la
+              forza di continuare ad amarmi, che non mi dimentichi nella lunga attesa, che io l'amo
+              più di qualsiasi altra cosa al mondo, e ne ho un tale languore che il cuore mi si
+              strugge!</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Bella Isabella, al corpo di Cristo vi raccomando, non posso più restare presso di
+              voi: in terra pagana, contro gli infedeli, devo andare dunque per amore di Dio. Per
+              salvare la mia anima, ci vado con un buon proposito. Ma sappiatelo bene, amica bella e
+              graziosa, se mai qualcuno morì per aver amato lealmente, io non credo di vivere fino
+              all'arrivo in un porto sicuro di mare.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Perché come il fiore nasce dall'antera, così da voi nasce il grande rimpianto che mi
+              tormenta. Ma, se ritorno, sono pronto a giurarlo sui santi, sarà per servirvi e
+              onorarvi.</p>
+          </div>
+          <div n="7" type="stanza">
+            <p>Io canto dell'amore leale dove sta il mio pensiero, e mi auguro che il mio cuore non
+              se ne penta. Ma voglio far sapere al mio signore di Gisors che è un onore amare
+              lealmente.</p>
+          </div>
+        </div></body></text></TEI>

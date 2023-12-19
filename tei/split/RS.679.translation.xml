@@ -1,0 +1,258 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-08-25</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde 1780, II, 300; Crapelet 1829, 137; Michel 1830, 79; Brakelmann
+            1870-1891, 103; Fath 1883, 36; Paris-Langlois 1897, 287; Bédier-Aubry 1909, 99;
+            Delbouille 1936, 238; Woledge 1961, 101; Lerond 1964, 57; Maillard 1967, 28; Mary 1967,
+            I, 206; Cluzel 1969, 109; Schöber 1976, 205; van der Werf 1977-1979, 224; Bec 1977-1978,
+            II, 96; Aspland 1979, 154; Collins 1982, 23; Baumgartner 1983, 236; Picot 1975, II, 6;
+            Dijkstra 1995a, 196; Rosenberg-Tischler 1995, 384; Gaullier-Bougassas 2009, 534 (as far
+            as romances containing quotations are concerned, references are given only to editions
+            of the <hi rend="italic">Roman du Châtelain de Coucy</hi>, which contains the complete
+            text).</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde 1780, II, 300; Crapelet 1829, 137; Michel 1830, 79; Brakelmann
+            1870-1891, 103; Fath 1883, 36; Paris-Langlois 1897, 287; Bédier-Aubry 1909, 99;
+            Delbouille 1936, 238; Woledge 1961, 101; Lerond 1964, 57; Maillard 1967, 28; Mary 1967,
+            I, 206; Cluzel 1969, 109; Schöber 1976, 205; van der Werf 1977-1979, 224; Bec 1977-1978,
+            II, 96; Aspland 1979, 154; Collins 1982, 23; Baumgartner 1983, 236; Picot 1975, II, 6;
+            Dijkstra 1995a, 196; Rosenberg-Tischler 1995, 384; Gaullier-Bougassas 2009, 534 (per
+            quanto riguarda i romanzi a citazioni, si danno solo i riferimenti alle edizioni del <hi rend="italic">Roman du Châtelain de Coucy</hi>, che contiene il testo
+            integrale).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss. (11+28)</hi>: A 153a (anonymous), C 17v (<hi rend="italic">li
+              Chaistelain de Cousi</hi>), K 107b (<hi rend="italic">li Chastelains de Couci</hi>), M
+            52d (anon.), O 4d (anon.), P 39b (<hi rend="italic">li Chastelains de Couci</hi>), R<hi rend="superscript">3</hi> 119r (anon.), T 155r (<hi rend="italic">li
+            Chastelains</hi>), U 19v (anon.), V 80a (anon.), X 76c (<hi rend="italic">li Chastelains
+              de Couci</hi>); <hi rend="italic">Roman du Châtelain de Coucy et de la Dame de
+              Fayel</hi> vv. 7347-7398 (2 mss.), <hi rend="italic">Roman de la Violette </hi>vv.
+            4624-4631 (vv. 9-16, 4 mss.), <hi rend="italic">La Châtelaine de Vergy</hi> vv. 295-302
+            (vv. 9-16, 22 mss.).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss</hi>. <hi rend="bold">(11+28)</hi>: A 153a (anonima), C 17v (<hi rend="italic">li Chaistelain de Cousi</hi>), K 107b (<hi rend="italic">li Chastelains
+              de Couci</hi>), M 52d (anon.), O 4d (anon.), P 39b (<hi rend="italic">li Chastelains
+              de Couci</hi>), R<hi rend="superscript">3</hi> 119r (anon.), T 155r (<hi rend="italic">li Chastelains</hi>), U 19v (anon.), V 80a (anon.), X 76c (<hi rend="italic">li
+              Chastelains de Couci</hi>); <hi rend="italic">Roman du Châtelain de Coucy et de la
+              Dame de Fayel</hi> vv. 7347-7398 (2 mss.), <hi rend="italic">Roman de la Violette
+            </hi>vv. 4624-4631 (vv. 9-16, 4 mss.), <hi rend="italic">La Châtelaine de Vergy</hi> vv.
+            295-302 (vv. 9-16, 22 mss.).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10 ab’ab’b’aac (MW 889,2); 6 <hi rend="italic">coblas doblas</hi>; the 4-line <hi rend="italic">envoi</hi> (b’aac) is found
+        only in U and is very probably spurious, even if confirmed by the version found in the <hi rend="italic">Roman du Châtelain de Coucy</hi>; rhyme a: <hi rend="italic">-ent</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-o(u)r</hi>; rhyme b: <hi rend="italic">-aigne</hi>, <hi rend="italic">-ie</hi>, <hi rend="italic">-oie/-aie</hi> (a licence also
+        found in Gace Brulé RS 787 and RS 1590); rhyme c: <hi rend="italic">-ais</hi> (rhyme c is
+        fixed in all stanzas). The unusual use of the isolated rhyme within the stanza is
+        compensated for by the repetition of the same rhyme in every stanza. The anonymous song <hi rend="italic">Li chastelains de Couci ama tant</hi> (RS 358) is a <hi rend="italic">contrafactum</hi> of our text. The author pays great attention to varying the rhymes and
+        to avoiding redundant effects, though there is a paranomous rhyme in vv. 37 and 44 (<hi rend="italic">voie-revoie</hi>), an equivocal rhyme in vv. 8 and 32 (<hi rend="italic">lais</hi>, in the first case a nominative noun and the second a verb), and an identical
+        rhyme in vv. 42 and 45, with repetition of the same formulaic expression (<hi rend="italic">en quel lieu ke je soie</hi>). The caesurae are also generally regular: there is a
+        feminine caesura with elision in vv. 15 and 41. Melody in AKMOPR<hi rend="superscript">3</hi>TUVX, with insignifcant variants; melodic scheme AA’ AA’ BCDE (T 401,1).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10 ab’ab’b’aac (MW 889,2); 6 <hi rend="italic">coblas doblas</hi>, l’<hi rend="italic">envoi</hi> di 4 versi (b’aac) è solo
+        in U ed è con tutta probabilità spurio, benché confermato dalla versione contenuta nel <hi rend="italic">Roman du Châtelain de Coucy</hi>; rima a: <hi rend="italic">-ent</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-o(u)r</hi>; rima b: <hi rend="italic">-aigne</hi>, <hi rend="italic">-ie</hi>, <hi rend="italic">-oie/-aie</hi> (licenza
+        segnalata anche in Gace Brulé RS 787 e RS 1590); rima c: <hi rend="italic">-ais</hi> (la
+        rima c è fissa in tutte le strofe); l’uso poco comune della rima irrelata all’interno della
+        strofa è compensato dal fatto che la stessa rima viene ripresa in tutte le strofe; la
+        canzone anonima <hi rend="italic">Li chastelains de Couci ama tant</hi> (RS 358) è un <hi rend="italic">contrafactum</hi> del nostro testo; l’autore presta molta attenzione a
+        variare le rime e a non creare effetti di ridondanza; si ha però rima paronima ai vv. 37 e
+        44 (<hi rend="italic">voie-revoie</hi>), rima equivoca tra i vv. 8 e 32 (<hi rend="italic">lais</hi>, nel primo caso sostantivo e nel secondo verbo) e una rima identica ai vv. 42 e
+        45, con ripetizione della medesima espressione formulare (<hi rend="italic">en quel lieu ke
+          je soie</hi>); anche le cesure sono in genere regolari: vi è cesura femminile con elisione
+        ai vv. 15 e 41; melodia in AKMOPR<hi rend="superscript">3</hi>TUVX, con varianti poco
+        significative; schema melodico AA’ AA’ BCDE (T 401,1).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>Three families seem to stand out fairly clearly
+        (see also Schwan 1886, p. 137): the usual group AMT (s<hi rend="superscript">I</hi>), in
+        this case joined by O, a notoriously contaminated songbook, here particularly close to A
+        (there are no common errors but only common readings); KPR<hi rend="superscript">3</hi>VX
+          (s<hi rend="superscript">II</hi>), thanks to the irregular rhymes of v. 25 and stanza VI
+        and to various common readings, some <hi rend="italic">facilior</hi> (this group seems to
+        transmit a re-written, inferior version, perhaps influenced by the legend that sprang up
+        around the Châtelain de Coucy; see Jung 1986, pp. 8-10); and the couple CU (s<hi rend="superscript">III</hi>; error at the rhyme in v. 10 plus other <hi rend="italic">facilior</hi> readings). The result is a strong incidence of contamination: clearly
+        contaminated are R<hi rend="superscript">3</hi>V, O and also CU which, while at times
+        confirming the good readings of AMOT, often separate from each other and come closer to the
+        two alternative readings. Because of the strong level of contamination and the scarcity of
+        common errors which stand in the way of a traditional reconstructive approach, it has been
+        decided not to opt for a hybrid text but basically to reproduce the text of the AMT group
+        because of the quality of its readings, often confirmed by O and also CU (vv. 6, 24, 26,
+        46-48), even when the tradition offers three variants each supported by one of the families
+        of Schwan (vv. 12, 20, 25, 28, 31, 45). In some cases this decision has probably led to a
+        banal and perhaps inferior reading of s<hi rend="superscript">I</hi> (vv. 15, 31 and 45).
+        Effort has nevertheless been made to avoid including in the text the reading from one single
+        family when this is unanimously opposed to the testimony of the other groups (vv. 8, 19/22,
+        21, 24, 26, 30). The graphy is that of ms. T (U for the <hi rend="italic">envoi</hi>),
+        characterised by northern traits which must also be those of the author’s <hi rend="italic">scripta</hi>. The attribution can be considered essentially unanimous, since even in A,
+        M, O and R<hi rend="superscript">3</hi> the text is integrated into the section devoted to
+        the Châtelain de Coucy.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Nella tradizione manoscritta di questa canzone
+        sembrano delinearsi abbastanza nettamente tre famiglie (si veda anche Schwan 1886, p. 137):
+        il consueto gruppo composto da AMT (s<hi rend="superscript">I</hi>), ai quali in questo caso
+        si aggrega anche O, canzoniere notoriamente contaminato, qui particolarmente vicino ad A
+        (non vi sono errori congiuntivi, ma solo lezioni comuni); KPR<hi rend="superscript">3</hi>VX
+          (s<hi rend="superscript">II</hi>), grazie alle rime irregolari del v. 25 e della strofa vi
+        e a varie lezioni comuni alcune delle quali banalizzanti (questo gruppo sembra portatore di
+        una lezione rielaborata e deteriore, forse influenzata dalla leggenda fiorita attorno al
+        Castellano di Coucy; si veda Jung 1986, pp. 8-10); la coppia CU (s<hi rend="superscript">III</hi>; errore in rima al v. 10 più altre banalizzazioni). Risulta forte l’incidenza
+        della contaminazione: sono chiaramente contaminati R<hi rend="superscript">3</hi>V, O e
+        anche CU, che pur confermando a volte le buone lezioni di AMOT, spesso si separano
+        avvicinandosi alle due lezioni alternative. A causa della forte contaminazione e della
+        scarsità di errori congiuntivi che impediscono un approccio ricostruttivo tradizionale, si è
+        scelto di non optare per un testo ibrido e di riprodurre sostanzialmente il testo del gruppo
+        AMT per la qualità della lezione, spesso confermata da O e anche da CU (vv. 6, 24, 26,
+        46-48), anche quando la tradizione propone tre varianti ciascuna sostenuta da una delle
+        famiglie di Schwan (vv. 12, 20, 25, 28, 31, 45). In alcuni casi questa scelta ha
+        probabilmente comportato la promozione a testo di lezioni di s<hi rend="superscript">I</hi>
+        banali e forse deteriori (vv. 15, 31 e 45). Si è tuttavia cercato di evitare di promuovere a
+        testo la lezione di una sola famiglia quando a essa si oppongono in modo compatto i
+        testimoni degli altri gruppi (vv. 8, 19/22, 21, 24, 26, 30). Si adotta la grafia del ms. T
+        (quella di U per il congedo), caratterizzata da tratti settentrionali che dovevano
+        appartenere anche alla <hi rend="italic">scripta</hi> dell’autore. Per quanto riguarda
+        l’attribuzione, essa può essere considerata sostanzialmente unanime, poiché anche nei
+        canzonieri A, M, O e R<hi rend="superscript">3</hi> il testo è integrato nella sezione
+        dedicata al Castellano di Coucy.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-08-30T18:10:25Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Châtelain de Coucy</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.679.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>To you, lovers, more than all other people, it is right that I express my grief, for
+              of necessity I am compelled to leave and part from my faithful companion; and once I
+              lose her, there is nothing left to me; and be aware, Love, truly, that if anyone ever
+              died of a sorrowing heart, then no song or lay will ever emanate from me.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Good Lord God, what will therefore come about, and how? Shall I finally have to take
+              my leave of her? Yes by God, it cannot be otherwise, without her I must go into a
+              foreign land; I do not think now ever to be free of dreadful pain, since I have no
+              comfort or consolation from her, and expect no joy from any other love but hers, and I
+              do not know whether this will ever be.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Good Lord God, what will become of the kind thoughts, the great solace, the
+              companionship and loving looks which the one who was my lady, companion, friend, used
+              to bestow on me? And when I call to mind her simple courtesy and the sweet words with
+              which she is accustomed to speak to me, how can my heart remain within my body? If it
+              does not part from there it is assuredly most wretched.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Not for nothing has God wished to grant me all the delights I have had in my life;
+              instead he makes me pay dearly for them, to the point where I fear that this price
+              will be my death. Have pity, Love, if God ever acted basely, it is a cruel thing to
+              sunder good love: but I cannot free myself of love, and yet I am obliged to leave my
+              lady.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Now the false slanderers who so resented the good things I used to have/enjoy will be
+              glad, but I shall never be so penitent as ever to be well disposed towards them; for
+              this reason I could lose all the benefits of my pilgrimage, because the traitors have
+              done me so much harm that if God desired me to love them, He could not burden me with
+              a heavier load.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>I leave, Lady: I commend you to God the creator, wherever I may be, and I know not if
+              you will ever see my return; it is a matter of chance whether I shall see you again; I
+              beg you, for God’s sake, wherever I may be, to keep true to our promise, whether I
+              return or stay, and I pray God to grant me honour, just as I have been your true
+              friend.</p>
+          </div>
+          <div n="7" type="stanza">
+            <p><hi rend="italic">Song, say on my behalf, and may you be believed, that I leave
+                alone, since I have no other lord; and be well aware, lady of great worth, that if I
+                return, I was born to serve you.</hi></p>
+          </div>
+        </div><div type="translation" xml:id="rs.679.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>A voi, amanti, più che a chiunque altro, è giusto che manifesti il mio dolore, perché
+              devo necessariamente separarmi e abbandonare la mia fedele compagna; e dal momento che
+              la perdo non mi resta nulla; e sappi bene, Amore, con certezza, se mai ci fu chi è
+              morto per avere il cuore dolente, allora da me non uscirà mai più una canzone o un
+              poema.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Buon Signore Iddio, cosa accadrà dunque, e che farò? Dovrò davvero alla fine
+              congedarmi da lei? Sì, per Dio, non può essere altrimenti, devo proprio andare senza
+              di lei in una terra straniera; ormai non credo di poter essere liberato da (questo)
+              grande male, dal momento che da lei non ho alcun conforto o consolazione e che non mi
+              aspetto la gioia da nessun altro amore se non da lei, e non so se mai l’avrò.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Buon Signore Iddio, che ne sarà della compassione, del grande conforto, della
+              compagnia e delle premure che era solita mostrarmi colei che era per me signora,
+              compagna, amica? E quando mi vengono in mente la sua semplice cortesia e le dolci
+              parole che suole rivolgermi, come può il cuore restarmi nel corpo? Se non se ne separa
+              è davvero meschino.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Dio non ha voluto darmi gratuitamente tutti i piaceri che ho avuto nella mia vita,
+              anzi me li fa pagare cari, al punto che temo che questo prezzo mi uccida. Per pietà,
+              Amore, se mai Dio ha fatto qualcosa di cattivo, com’è crudele spezzare un buon amore:
+              non posso liberarmi dell’amore (per lei), eppure devo lasciare la mia dama.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Ora saranno contenti i calunniatori menzogneri ai quali dava tanto fastidio il bene
+              che ricevevo, ma non sarò mai tanto penitente da poter un giorno essere ben disposto
+              verso di loro; per questo motivo potrei perdere tutti i benefici del mio
+              pellegrinaggio, perché i traditori mi hanno fatto tanto male che, se Dio mi chiedesse
+              di amarli, non potrebbe gravarmi di un peso più grande.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Me ne vado, Signora: vi raccomando a Dio creatore, ovunque mi trovi, e non so se
+              vedrete mai il mio ritorno; solo il destino sa se mai vi rivedrò; vi prego, per Dio,
+              ovunque mi trovi, che teniate fede al nostro patto, che io torni o che resti, e prego
+              Dio che mi conceda onore, così come io vi sono stato vero amico.</p>
+          </div>
+          <div n="7" type="stanza">
+            <p><hi rend="italic">Canzone, di’ da parte mia, e possa tu essere creduta, che me ne
+                vado solo, perché non ho altro signore; e sappiate bene, dama di gran pregio, se mai
+                tornassi, che sono nato per servirvi</hi>.</p>
+          </div>
+        </div></body></text></TEI>

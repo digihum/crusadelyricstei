@@ -1,0 +1,304 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-09-14</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Jubinal 1838, 39; du Méril 1844, 757; Wackernagel 1846, 35; Paris <hi rend="Emphasis"><seg rend="italic">(Paulin) 1856, 705 (5 </seg><seg rend="italic">stanzas only</seg><seg rend="italic">);</seg></hi> Bédier-Aubry 1909, 77; Oeding
+            1910, 42; Guida 1992, 66; Dijkstra 1995a, 88.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Jubinal 1838, 39; du Méril 1844, 757; Wackernagel 1846, 35; Paris <hi rend="Emphasis"><seg rend="italic">(Paulin) 1856, 705 (5 </seg><seg rend="italic">stanzas only</seg><seg rend="italic">);</seg></hi> Bédier-Aubry 1909, 77; Oeding
+            1910, 42; Guida 1992, 66; Dijkstra 1995a, 88.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: C 179r-v (<hi rend="italic">maistres renas lai fist de
+              nostre signor</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: C 179r-v (<hi rend="italic">maistres renas lai fist de
+              nostre signor</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>8 abababab 7’CC (MW 752,8 = Frank
+        319); 8 <hi rend="italic">coblas singulars</hi> + refrain; rhyme <hi rend="italic">a</hi>:
+          -<hi rend="italic">eir</hi>, -<hi rend="italic">oir</hi>, -<hi rend="italic">ert</hi>,
+          -(<hi rend="italic">i</hi>)<hi rend="italic">es</hi>, -<hi rend="italic">eis</hi>, -<hi rend="italic">ont</hi>, -<hi rend="italic">eis</hi>, -<hi rend="italic">en</hi>(<hi rend="italic">s</hi>); rhyme <hi rend="italic">b</hi>: -<hi rend="italic">our</hi> (-<hi rend="italic">or</hi>), -<hi rend="italic">ent</hi>, -<hi rend="italic">is</hi>, -(<hi rend="italic">i</hi>)<hi rend="italic">on</hi>, -<hi rend="italic">i</hi>(<hi rend="italic">t</hi>), -<hi rend="italic">ois</hi> (-<hi rend="italic">oit</hi>), -(<hi rend="italic">i</hi>)<hi rend="italic">aus</hi> (<hi rend="italic">aulz</hi>), -<hi rend="italic">us</hi>; rhyme <hi rend="italic">c</hi>: -<hi rend="italic">oure</hi>; links
+        in <hi rend="italic">coblas capfinidas</hi>, an aid to memory, between stanzas I and II <hi rend="italic">a un jor</hi> and IV and V <hi rend="italic">terre de Promission / terre de
+          Promesse</hi>. The song is structured on a series of eight octosyllabic lines with two
+        alternating rhymes and in this respect it makes a pair with another crusade song with
+        octosyllabic lines and two rhymes, <hi rend="italic">Vous ki ameis de vraie amor</hi> (RS
+        1967), which can be linked to the homiletic activity in the Parisian environment of the
+        first quarter of the 13th c. The versification to which <hi rend="italic">Pour lou
+          pueple</hi> belongs is no. 752 in the Mölk-Wolfzettel repertory, which records 23 items
+        all having a refrain formed from a final rhyming couplet (CC), almost all with eight- or
+        seven-syllable lines on masculine rhymes. Because it is the only one to have a refrain of
+        two seven-syllable lines with feminine rhymes, <hi rend="italic">Pour lou pueple</hi>
+        appears to be a <hi rend="italic">unicum</hi>, but its close affinity to three of Gontier de
+        Soignies’ <hi rend="italic">rotrouenges</hi> presenting the same syllabic structure with
+        refrain in masculine octosyllables is undeniable: RS 265a = 309 <hi rend="italic">Se li
+          oisiel baisent lor chans </hi>(transmitted by T with melody ABAB CDEF/GH), RS 1089 <hi rend="italic">Tant ai mon chant entrelaissié </hi>(MT and C, melody ABAB CDCE/FG; but also
+        AAA’B/C added later in M), and RS 723, <hi rend="italic">Li xours comence xordement</hi>,
+          <hi rend="italic">unicum</hi> of C. Gontiers’ versification was probably the model for
+        Thibaut de Blaison’s <hi rend="italic">Chanter m’estuet, si criem morir</hi> RS 1430 (2 <hi rend="italic">coblas singulars</hi> with refrain and melody ABAB CDEF/C’D’) and Vielars de
+        Corbie’s love-song <hi rend="italic">De chanter me semont amors</hi> RS 2030, as transmitted
+        by C, the only ms. to have the refrain (as opposed to KNPX, mel. ABAB CDEF; the same melody
+        is in Gautier de Coinci RS 1677, see van den Boogaard 1971). Spanke 1936, 35-36, also adds
+        to the group the monodic <hi rend="italic">conductus Dum medium silentium</hi> (AH XX,4,
+        melody ABABCDCE/FG), the Nativity hymn which Strecker 1925 attributes to Walter of
+        Châtillon. However, the most striking affinity seems to be between <hi rend="italic">Pour
+          lou pueple </hi>and <hi rend="italic">Chevalier mult estes guariz</hi> (RS 1548a) with
+        which it shares a responsory type of performance. Considered to be the oldest crusade song
+        (composed after the second fall of Edessa), this one is also made up of (essentially)
+        octosyllabic stanzas with alternating rhymes, ending with a refrain though of four lines
+        (8abababab CDCD, MW 766, 2); in addition certain motifs of <hi rend="italic">Chevalier</hi>
+        (especially in vv. 17, 29-30, 51-53) are echoed in RS 886. The only possible Occitan analogy
+        is with the versification in Frank 239 (in seven-syllable lines with refrain), found in
+        texts later than RS 886, in Sordel’s <hi rend="italic">‘dansa’</hi><hi rend="st">, <seg rend="italic">Ailas, e que∙m fau miey huelh </seg>(BdT </hi>437.1 = 239:3)<hi rend="st">, and the <seg rend="italic">retroenchas</seg> of Guiraut Riquier, <seg rend="italic">Pus
+            astres no m’es donatz </seg>(BdT </hi>248.65<hi rend="st"> = </hi>239:1) <hi rend="st">and Peire Cardenal, <seg rend="italic">Vera vergena Maria </seg>(BdT </hi>335.70 =
+          239:4)<hi rend="st">, with feminine seven-syllable lines (compare Chambers 1985, p. 243:
+          </hi>‘<hi rend="st">Should we at least admit the possibility that Peire Cardinal’s hymn to
+          Mary, and possibly Sordello’s “dansa” as well, were consciously written in a pre-existent
+          retroencha framework?’).</hi></p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>8 abababab 7’CC (MW 752,8 = Frank
+        319); otto <hi rend="italic">coblas singulars</hi> + un <hi rend="italic">refrain</hi>
+        poststrofico; rima <hi rend="italic">a</hi>: -<hi rend="italic">eir</hi>, -<hi rend="italic">oir</hi>, -<hi rend="italic">ert</hi>, -(<hi rend="italic">i</hi>)<hi rend="italic">es</hi>, -<hi rend="italic">eis</hi>, -<hi rend="italic">ont</hi>, -<hi rend="italic">eis</hi>, -<hi rend="italic">en</hi>(<hi rend="italic">s</hi>); rima <hi rend="italic">b</hi>: -<hi rend="italic">our</hi> (-<hi rend="italic">or</hi>), -<hi rend="italic">ent</hi>, -<hi rend="italic">is</hi>, -(<hi rend="italic">i</hi>)<hi rend="italic">on</hi>, -<hi rend="italic">i</hi>(<hi rend="italic">t</hi>), -<hi rend="italic">ois</hi>
+          (-<hi rend="italic">oit</hi>), -(<hi rend="italic">i</hi>)<hi rend="italic">aus</hi> (<hi rend="italic">aulz</hi>), -<hi rend="italic">us</hi>; rima <hi rend="italic">c</hi>: -<hi rend="italic">oure</hi>; legami in <hi rend="italic">coblas capfinidas</hi>, che
+        agevolavano la memorizzazione, tra la I e la II <hi rend="italic">a un jor</hi>; tra la IV e
+        la V <hi rend="italic">terre de Promission / terre de Promesse</hi>.La canzone fa il paio
+        con un altro canto di crociata in ottonari su due rime, <hi rend="italic">Vous ki ameis de
+          vraie amor</hi> (RS 1967), che possiamo collegare alla attività omiletica dell'ambiente
+        parigino del primo quarto del XIII secolo. La canzone è strutturata sullo schema MW 752,
+        formato da una sequenza di otto ottonari su due rime alternate, piuttosto diffuso in ambito
+        oitanico, che registra 23 items che prevedono un <hi rend="italic">refrain</hi> costituito
+        da un distico finale a rima baciata (CC), quasi esclusivamente in ottonari o in settenari.
+        Tra questi <hi rend="italic">Pour lou pueple</hi> è un <hi rend="italic">unicum</hi>, se si
+        considera il <hi rend="italic">refrain</hi> costituito da due settenari a rima femminile, ma
+        è innegabile la sua stretta affinità con tre <hi rend="italic">rotrouenges</hi> di Gontier
+        de Soignies che presentano il medesimo schema sillabico ma con <hi rend="italic">refrain</hi> di ottosillabi a rima maschile: RS 265a = 309 <hi rend="italic">Se li oisiel
+          baisent lor chans </hi>(tràdita da T con melodia ABAB CDEF/GH), RS 1089 <hi rend="italic">Tant ai mon chant entrelaissié </hi>(MT e C, con melodia ABAB CDCE/FG; ma anche AAA’B/C
+        aggiunta in un secondo momento in M), e RS 723, <hi rend="italic">Li xours comence
+          xordement</hi>, unicum di C. Lo schema di Gontiers è stato probabile modello per la
+        canzone di Thibaut de Blaison, <hi rend="italic">Chanter m’estuet, si criem morir</hi> RS
+        1430 (2 <hi rend="italic">coblas singulars</hi> con <hi rend="italic">refrain</hi> e melodia
+        ABAB CDEF/C’D’) e per la canzone d’amore di Vielars de Corbie <hi rend="italic">De chanter
+          me semont amors</hi> RS 2030, così come trasmessa da C, il solo ad avere il <hi rend="italic">refrain</hi> (vs KNPX, mel. ABAB CDEF; la stessa melodia è in Gautier de
+        Coinci RS 1677, cfr. van den Boogaard 1971). Spanke 1936, 35-36, aggiunge al gruppo anche il
+          <hi rend="italic">conductus</hi> monodico <hi rend="italic">Dum medium silentium</hi> (AH
+        XX,4, melodia ABABCDCE/FG), l’inno natalizio che Strecker 1925 attribuisce a Gautier de
+        Châtillon. Tuttavia, l’affinità più stringente mi pare possa trovarsi tra <hi rend="italic">Pour lou pueple </hi> e <hi rend="italic">Chevalier mult estes guariz</hi> (RS 1548a) con
+        cui condivide l’esecuzione di tipo responsoriale. Quella che è considerata la più antica
+        canzone di crociata (composta dopo la seconda caduta di Edessa) è infatti anch’essa composta
+        da strofi di ottonari (essenzialmente) a rima alternata concluse però con un <hi rend="italic">refrain</hi> di 4 versi (8abababab CDCD, MW 766,2); inoltre alcuni motivi di
+          <hi rend="italic">Chevalier</hi> (specialmente ai vv. 17, 29-30, 51-53) riecheggiano in RS
+        886. In ambito occitanico l’unico accostamento possibile è con lo schema Frank 239 (in
+        settenari con ritornello), che si trova in testi successivi a RS 886, nella <hi rend="italic">‘dansa‘</hi>
+        <hi rend="st">di Sordello, <seg rend="italic">Ailas, e que∙m fau miey huelh </seg>(BdT
+        </hi>437.1 = 239:3)<hi rend="st">, e nelle <seg rend="italic">retroenchas</seg> di Guiraut
+          Riquier, <seg rend="italic">Pus astres no m’es donatz </seg>(BdT </hi>248.65<hi rend="st">
+          = </hi>239:1) <hi rend="st">e Peire Cardenal, <seg rend="italic">Vera vergena Maria
+          </seg>(BdT </hi>335.70 = 239:4)<hi rend="st">, in settenari femminili (cfr. Chambers 1985,
+          p. 243: «Should we at least admit the possibility that Peire Cardinal’s hymn to Mary, and
+          possibly Sordello’s “dansa” as well, were consciously written in a pre-existent retroencha
+          framework?»).</hi></p></metDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-09-16T10:29:47Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Maistres Renas</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.886.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>To comfort the people who have long lain in darkness, I wish to tell you in song of
+              the great damage and the grief that the pagans bring overseas in the land of Our Lord.
+              We must claim back that land, for all of us will go there on the same day! </p>
+          </div>
+          <div n="2" type="stanza">
+            <p><hi rend="italic">Jerusalem weeps and laments ∙ for the long delay in help!</hi></p>
+          </div>
+          <div n="3" type="stanza">
+            <p>On the same day? Who can know? Have I spoken too boldly? No, Lords, I am telling you
+              the truth: it will happen on Judgment Day! All those who have been baptised are heirs
+              to that land, where the Son of God consented to receive pain and torture. </p>
+          </div>
+          <div n="4" type="stanza">
+            <p><hi rend="italic">Jerusalem weeps and laments ∙ for the long delay in help!</hi></p>
+          </div>
+          <div n="5" type="stanza">
+            <p>It is most exceedingly wretched for us to have lost the true Sepulchre where God was
+              laid and for the holy places where Our Lord was served to be abandoned. Do you know
+              why God allowed it? He wishes to test His friends who have offered their service in
+              avenging Him against His enemies. </p>
+          </div>
+          <div n="6" type="stanza">
+            <p><hi rend="italic">Jerusalem weeps and laments ∙ for the long delay in help!</hi></p>
+          </div>
+          <div n="7" type="stanza">
+            <p>All the people had lost their way and were heading for perdition, but the Cross has
+              brought them back to the right path and led them towards redemption. Even the most
+              false and despised can receive absolution as long as he departs and takes the cross
+              for the Promised Land. </p>
+          </div>
+          <div n="8" type="stanza">
+            <p><hi rend="italic">Jerusalem weeps and laments ∙ for the long delay in help!</hi></p>
+          </div>
+          <div n="9" type="stanza">
+            <p>I tell you this: the Promised Land is named Jerusalem! In Bethlehem where God was
+              born is the temple where God suffered, and the cross where He was tortured and the
+              sepulchre where He rose from the dead. There the just reward will be given to those
+              who have deserved it. </p>
+          </div>
+          <div n="10" type="stanza">
+            <p><hi rend="italic">Jerusalem weeps and laments ∙ for the long delay in help!</hi></p>
+          </div>
+          <div n="11" type="stanza">
+            <p>What are the kings thinking? Those of France and of the English are acting most
+              wickedly in not going to avenge the Lord God and rescue the holy Cross! When they come
+              to judgment, then their good faith will be apparent: if they fail Him, He will fail
+              them. He will say, ‘I know you not!’</p>
+          </div>
+          <div n="12" type="stanza">
+            <p><hi rend="italic">Jerusalem weeps and laments ∙ for the long delay in help!</hi></p>
+          </div>
+          <div n="13" type="stanza">
+            <p>You princes, dukes, counts, who in this world have all your desires, God has called
+              and summoned you: leave your cities and castles! Go to meet the Spouse and carry with
+              you jars of oil! If the light is found in your lamps, the reward will be most
+              wonderful!</p>
+          </div>
+          <div n="14" type="stanza">
+            <p><hi rend="italic">Jerusalem weeps and laments ∙ for the long delay in help!</hi></p>
+          </div>
+          <div n="15" type="stanza">
+            <p>Alas, they do not understand their meaning! What are the lamps, the oil just
+              mentioned? The lamps are the good people who love and fear God, who are always at His
+              service. In them the light is well lit. The one who is intent on performing good deeds
+              (when Christ arrives) will go to where the Innocents are.</p>
+          </div>
+          <div n="16" type="stanza">
+            <p><hi rend="italic">Jerusalem weeps and laments ∙ for the long delay in help!</hi></p>
+          </div>
+        </div><div type="translation" xml:id="rs.886.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Per dare nuovo conforto al popolo che è giaciuto a lungo nelle tenebre, vi racconterò
+              cantando il gran danno e il dolore che i pagani procurano al di là del mare nella
+              terra di nostro Signore. Dobbiamo reclamare quella terra, perché tutti noi ci andremo
+              quel giorno! </p>
+          </div>
+          <div n="2" type="stanza">
+            <p><hi rend="italic">Gerusalemme piange e implora ∙ il soccorso che troppo
+              dimora!</hi></p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Nello stesso giorno? Chi può saperlo? Ho forse esagerato a parlare? Invece no,
+              signori, vi ho detto il vero: accadrà nel giorno del Giudizio! Tutti i battezzati sono
+              eredi di quella Terra, dove il Figlio di Dio accettò di ricevere per noi la pena e il
+              tormento. </p>
+          </div>
+          <div n="4" type="stanza">
+            <p><hi rend="italic">Gerusalemme piange e implora ∙ il soccorso che troppo
+              dimora!</hi></p>
+          </div>
+          <div n="5" type="stanza">
+            <p>È una grandissima sventura che sia perduto il vero sepolcro dove Dio fu deposto e
+              siano abbandonati i Luoghi Santi dove era servito nostro Signore. E sapete perché Dio
+              ha patito tutto ciò? Per mettere alla prova i suoi amici, quelli che gli hanno offerto
+              il loro servizio, (vuole vedere) se lo vendicano dei suoi nemici.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p><hi rend="italic">Gerusalemme piange e implora ∙ il soccorso che troppo
+              dimora!</hi></p>
+          </div>
+          <div n="7" type="stanza">
+            <p>Tutto il popolo era confuso e volto alla perdizione, ma la Croce lo ha rimesso nella
+              giusta via e condotto alla redenzione. Anche il peggiore ipocrita e il disprezzato può
+              avere l’assoluzione purché se ne ravveda e prenda la croce per la Terra Promessa.</p>
+          </div>
+          <div n="8" type="stanza">
+            <p><hi rend="italic">Gerusalemme piange e implora ∙ il soccorso che troppo
+              dimora!</hi></p>
+          </div>
+          <div n="9" type="stanza">
+            <p>Terra della Promessa è chiamata Gerusalemme, vi dico! A Betlemme Dio è nato, (a
+              Gerusalemme) si trova il tempio dove Dio patì e la Croce dove fu appeso e il sepolcro
+              dove risorse. Là saranno assegnate le giuste ricompense a coloro che le avranno
+              meritate.</p>
+          </div>
+          <div n="10" type="stanza">
+            <p><hi rend="italic">Gerusalemme piange e implora ∙ il soccorso che troppo
+              dimora!</hi></p>
+          </div>
+          <div n="11" type="stanza">
+            <p>Che intenzioni hanno i re? Fanno molto male quello di Francia e quello degli Inglesi
+              a non andare a vendicare il Signore Iddio e riscattare la santa Croce! Quando andranno
+              al Giudizio, in quel momento si vedrà se è buona la loro fede: se ora non ci sono per
+              Lui, Lui non ci sarà per loro e dirà: «Non so chi siete!».</p>
+          </div>
+          <div n="12" type="stanza">
+            <p><hi rend="italic">Gerusalemme piange e implora ∙ il soccorso che troppo
+              dimora!</hi></p>
+          </div>
+          <div n="13" type="stanza">
+            <p>E voi, principi, duchi, conti, che in questo mondo avete tutto ciò che si possa
+              desiderare, Dio vi ha chiamato e esortato: lasciate le vostre città e i castelli!
+              Andate incontro allo Sposo e portate con voi i vasetti dell’olio! Se nelle vostre
+              lampade si troverà il lucignolo acceso, la ricompensa sarà davvero grande!</p>
+          </div>
+          <div n="14" type="stanza">
+            <p><hi rend="italic">Gerusalemme piange e implora ∙ il soccorso che troppo
+              dimora!</hi></p>
+          </div>
+          <div n="15" type="stanza">
+            <p>Ahi, non capiscono il senso delle mie parole! Cosa sono le lampade, l’olio di cui ho
+              appena detto? Le lampade sono le buone persone che amano e temono Dio, che sono sempre
+              al suo servizio. Con loro la lucerna è sempre accesa. E chi sarà sorpreso (dall’arrivo
+              di Cristo) mentre compie buone azioni, andrà dove sono gli Innocenti.</p>
+          </div>
+          <div n="16" type="stanza">
+            <p><hi rend="italic">Gerusalemme piange e implora ∙ il soccorso che troppo
+              dimora!</hi></p>
+          </div>
+        </div></body></text></TEI>

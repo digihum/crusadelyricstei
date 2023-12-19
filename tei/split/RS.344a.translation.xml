@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-09-15</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Wright 1839, 241; Böddeker 1878, 453; Meyer 1886, 338 (first stanza); Zettl 1935,
+            105; Aspin 1953, 83.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Wright 1839, 241; Böddeker 1878, 453; Meyer 1886, 338 (prima strofa); Zettl 1935,
+            105; Aspin 1953, 83.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: <hi rend="bold">(1). </hi>Cambridge, University Library,
+            Gg.1.1, f. 489b (anonymous).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: <hi rend="bold">(1). </hi>Cambridge, University Library,
+            Gg.1.1, f. 489b (anonimo).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>8ababbcbc(xx); for the
+        rhyme-scheme ababbcbc compare MW 1026 = Frank 323; 10 <hi rend="italic">coblas
+          singulars</hi>, which randomly mix m. and f. rhymes; the rhymes present various
+        irregularities and are often repeated in different places, and even in the same place. The
+        two lines with the x-rhyme are transcribed only after the first stanza, but could constitute
+        a refrain to be repeated at the end of each stanza; rhyme a: <hi rend="italic">-ant</hi>,
+          <hi rend="italic">-ire</hi>, <hi rend="italic">-ist</hi>, <hi rend="italic">-u</hi>, <hi rend="italic">-ist</hi>, <hi rend="italic">-o(i)le</hi>, <hi rend="italic">-a</hi>, <hi rend="italic">-esse</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic">-ie</hi>; rhyme
+        b: <hi rend="italic">-é</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic">-er(e)</hi>
+          (<hi rend="italic">-ire</hi> in one case), <hi rend="italic">-ie</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-ist</hi>, <hi rend="italic">-ir</hi>, <hi rend="italic">-é</hi>, <hi rend="italic">-é(r)</hi>, <hi rend="italic">-art/ard(e)</hi>; rhyme c: <hi rend="italic">-ue</hi>, <hi rend="italic">-ine</hi>, <hi rend="italic">-aunce</hi>, <hi rend="italic">-a</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic">-(o)ur</hi>, <hi rend="italic">-ise</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic">-o(u)n</hi>; rhyme x: <hi rend="italic">-oun</hi> (repeating rhyme c of the
+        final stanza); in the ninth stanza the rhymes a and c coincide, giving rise to a
+        rhyme-scheme 8ababbaba; many lines are irregular and are variously hyper- and hypometric,
+        preserved in the edited text even though in some cases they could easily be corrected
+        conjecturally, for example by eliminating superfluous forms; paronymous and derivative
+        rhymes in vv. 21, 35 and 46 (<hi rend="italic">enprist-prist-prist</hi>), 40 and 64 (<hi rend="italic">quere-conquere</hi>); paronymous rhyme in vv. 76 and 78 (<hi rend="italic">art-part</hi>); identical rhyme in vv. 4-73 (<hi rend="italic">bounté</hi>), 14-17-66
+          (<hi rend="italic">tere</hi>, in paronymous rhyme with vv. 67 <hi rend="italic">Engletere</hi> and 72 <hi rend="italic">entere</hi>), 15-42 (<hi rend="italic">fere</hi>), 31-77 (<hi rend="italic">mie</hi>), 35-46 (<hi rend="italic">prist</hi>).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>8ababbcbc(xx); per lo schema
+        ababbcbc si veda MW 1026 = Frank 323; 10 <hi rend="italic">coblas singulars</hi>, che
+        mescolano indifferentemente rime maschili e femminili; le rime presentano diverse
+        irregolarità e sono spesso ripetute in sedi diverse, ma anche nella medesima sede; i due
+        versi a rima x sono trascritti solo dopo la prima strofa, ma potrebbero costruire un <hi rend="italic">refrain</hi> da ripetere alla fine di ogni strofa; rima a: <hi rend="italic">-ant</hi>, <hi rend="italic">-ire</hi>, <hi rend="italic">-ist</hi>, <hi rend="italic">-u</hi>, <hi rend="italic">-ist</hi>, <hi rend="italic">-o(i)le</hi>, <hi rend="italic">-a</hi>, <hi rend="italic">-esse</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic">-ie</hi>; rima b: <hi rend="italic">-é</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic">-er(e)</hi> (<hi rend="italic">-ire</hi> in un caso), <hi rend="italic">-ie</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-ist</hi>, <hi rend="italic">-ir</hi>, <hi rend="italic">-é</hi>, <hi rend="italic">-é(r)</hi>, <hi rend="italic">-art/ard(e)</hi>; rima c: <hi rend="italic">-ue</hi>, <hi rend="italic">-ine</hi>, <hi rend="italic">-aunce</hi>, <hi rend="italic">-a</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic">-(o)ur</hi>, <hi rend="italic">-ise</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic">-o(u)n</hi>; rima x: <hi rend="italic">-oun</hi> (ripresa dalla rima c dell’ultima strofa); nella nona strofa le rime a e c
+        coincidono, dando luogo a uno schema 8ababbaba; molti versi sono irregolari e presentano
+        varie ipometrie e ipermetrie, che vengono conservate a testo benché in alcuni casi si
+        possano facilmente sanare per via congetturale, per esempio eliminando forme superflue; si
+        ha rima paronima e derivativa ai vv. 21, 35 e 46 (<hi rend="italic">enprist-prist-prist</hi>), 40 e 64 (<hi rend="italic">quere-conquere</hi>); rima paronima
+        ai vv. 76 e 78 (<hi rend="italic">art-part</hi>); rima identica ai vv. 4-73 (<hi rend="italic">bounté</hi>), 14-17-66 (<hi rend="italic">tere</hi>, in rima paronima con i
+        vv. 67 <hi rend="italic">Engletere</hi> e 72 <hi rend="italic">entere</hi>), 15-42 (<hi rend="italic">fere</hi>), 31-77 (<hi rend="italic">mie</hi>), 35-46 (<hi rend="italic">prist</hi>).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The text is found in a manuscript of
+        miscellaneous verse and prose texts, mainly in French. It is written at the end of a short
+        chronicle of the history of England in French prose (<hi rend="italic">Brut d’Angleterre
+          abrégé</hi>, ff. 484c-489b), possibly deriving from a verse model, which ends with the
+        death of Edward I (1307). The codex also contains the third part of Peter of Langtoft’s
+        chronicle of England (ff. 328v-345v), also devoted to the reign of Edward I. The manuscript,
+        compiled in England probably at the beginning of the 14th c., but in any case after 1307,
+        belonged to John Moore (1646-1714), bishop of Ely. In 1715 King George I gave John Moore’s
+        library to Cambridge University Library, where it still is. Given the obviously amateurish
+        nature of the composition and its numerous irregularities, I have preferred to present the
+        text as it is recorded in the manuscript, without trying to make any corrections other than
+        the completely obvious ones for scansion or grammar. In some lines a final unstressed <hi rend="italic">e</hi>, superfluous from the morphological point of view and metrically
+        supernumerary or incorrect, has been placed in round brackets (vv. 13, 23, 25, 34, 44) and I
+        have made a few obvious suppletions, indicated by square brackets (vv. 37 and 77). The
+        language shows marked anglo-norman characteristics and the customary anglo-norman
+        carelessness can also partly explain the metrical irregularities.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Il testo della canzone si trova in un manoscritto
+        miscellaneo contenente vari testi in versi e in prosa principalmente in francese. Il poema è
+        trascritto alla fine di una breve cronaca di storia d’Inghilterra in prosa francese (<hi rend="italic">Brut d’Angleterre abrégé</hi>, ff. 484c-489b), derivante forse da un modello
+        in versi, che finisce con la morte di re Edoardo I (1307). Il codice contiene anche la terza
+        parte della cronaca d’Inghilterra di Pietro di Langtoft (ff. 328v-345v), consacrata
+        anch’essa al regno di Edoardo I. Il manoscritto, compilato in Inghilterra verosimilmente
+        all’inizio del XIV secolo, ma in ogni caso dopo il 1307, appartenne a John Moore
+        (1646-1714), vescovo di Ely. Nel 1715 il re Giorgio I donò il fondo librario di John Moore
+        alla Biblioteca universitaria di Cambridge, dove si trova tuttora. Dato il carattere
+        evidentemente dilettantesco della composizione e le numerose irregolarità che essa presenta,
+        si è preferito riportare il testo come lo si legge nel manoscritto, senza intervenire per
+        cercare di sanare le infrazioni alle norme metriche e grammaticali se non dove le correzioni
+        si impongono con evidenza. Si sono messe tra parentesi tonde alcune <hi rend="italic">e</hi>
+        finali atone superflue dal punto di vista morfologico e soprannumerarie o erronee dal punto
+        di vista metrico (vv. 13, 23, 25, 34, 44) e si sono operate un paio di evidenti integrazioni
+        segnalate da parentesi quadre (vv. 37 e 77). La lingua presenta spiccate caratteristiche
+        anglonormanne e la tradizionale trascuratezza anglonormanna può spiegare anche in parte le
+        irregolarità metriche.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-09-15T14:52:34Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Anonymous</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.344a.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Listen, lords, for the sake of God the great, to a little song of profound pity for
+              the death of a valiant king. He was a man of great goodness, who through his loyalty
+              has undergone many a great battle. This thing is well known: of his land he has lost
+              nothing. <hi rend="italic">Let us devoutly pray to God to pardon him for his
+              sins</hi>.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>He was the ruler of England and a great expert in warfare; in no book can one read of
+              a king who better defended his land. All those things he wished to do he brought
+              wisely to fruition. Now his body lies in the ground, and the world is in decline.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>The king of France committed a great wrong in obstructing the crusade that Edward
+              undertook for God, to cross the sea against the Saracens. His treasure was overseas,
+              and his provisions organised for the support of the holy Church: now the Holy Land is
+              in despair.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Jerusalem, you have lost the flower of your chivalry, king Edward the old and hoary,
+              who so loved your nobility. Now he is dead and I know not who will sustain your
+              banner; out of great love he will send his dear heart overseas to you.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>One day before death took him he desired to speak with his barons; seeing his knights
+              before him he began to weep bitterly. ‘I must needs die,’ he said, ‘I can see death
+              coming for me; have my son crowned, and may God grant he do good!’</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>In Poitiers a messenger announced his death to the pope, and the pope donned the
+              stole and took the letters with hot tears. ‘Alas!’, he said, ‘how is this? Has the one
+              to whom God gave so much honour died? God have mercy on his soul! Of the holy Church
+              he was the flower.’</p>
+          </div>
+          <div n="7" type="stanza">
+            <p>The pope entered his chamber, and could hardly stand; he summoned all his cardinals
+              and began to weep bitterly. The cardinals console him and begin aloud their office
+              [for the dead]: they have the bells rung throughout the city and prayers said to God
+              in the holy church.</p>
+          </div>
+          <div n="8" type="stanza">
+            <p>The pope himself came to the Mass in great solemnity; often he rose to his feet to
+              free his soul (pray for the soul of the deceased), and spoke through great humility:
+              ‘May it please God the Three in One that your son may conquer Jerusalem, the noble
+              city, and make the crossing to the Holy Land!’</p>
+          </div>
+          <div n="9" type="stanza">
+            <p>The young Edward of England is anointed and crowned king: God grant him to make wise
+              decisions so that the land is governed [well], and to preserve the crown so that the
+              land remains intact and is full of grace, for his father was a great man.</p>
+          </div>
+          <div n="10" type="stanza">
+            <p>If Aristotle and Virgil, who knew the art [of rhetoric], were still alive, they would
+              not be able to tell the tenth part of the noble qualities of this great man. Now king
+              Edward, for whom my heart is in the depths of woe, is dead; God save and keep his
+              soul, through his most holy passion! Amen.</p>
+          </div>
+        </div><div type="translation" xml:id="rs.344a.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Ascoltate, signori, per il gran Dio, una canzonetta di profonda compassione per la
+              morte di un re valoroso; fu uomo di grande bontà, che per la sua lealtà ha sostenuto
+              molti grandi conflitti; questa è una cosa ben risaputa: non ha perduto nulla della sua
+              terra. <hi rend="italic">Preghiamo Dio devotamente affinché gli perdoni i suoi
+                peccati</hi>.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Egli è stato sovrano d’Inghilterra e re molto esperto di guerra; non si può leggere
+              in nessun libro di un re che abbia difeso meglio la sua terra. Tutte le cose che
+              avrebbe voluto fare le ha sapientemente condotte a termine. Ora il suo corpo giace
+              nella terra, e così il mondo è peggiorato.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Il re di Francia ha fatto molto male a ostacolare la crociata che Edoardo aveva
+              intrapreso per Dio, la traversata del mare contro i Saraceni. Il suo tesoro fu al di
+              là del mare, e la sua autorità ?? [è stata] orientata a sostenere la santa Chiesa: ora
+              la Terra Santa si dispera.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Gerusalemme, hai perso il fiore della tua cavalleria, il vecchio e canuto re Edoardo,
+              che ha tanto amato la tua maestà. Ora egli è morto, e io non so chi sosterrà il tuo
+              vessillo; per la sua grande devozione ti manderà il suo dolce cuore oltremare.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Poco prima di morire ha voluto parlare con i suoi baroni; vedendo i suoi cavalieri
+              davanti a lui, cominciò a piangere amaramente, e disse: «Io sto davvero per morire,
+              vedo la morte che mi viene a prendere; fate incoronare re mio figlio, e che Dio gli
+              conceda di fare bene!».</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Un messaggero annunciò la morte (del re) al papa a Poitiers, e il papà indossò la
+              stola e prese la lettera con calde lacrime. «Aimè!», disse, «come? è morto colui a cui
+              Dio ha concesso tanto onore? Dio abbia misericordia della sua anima! Egli fu il fiore
+              della santa Chiesa».</p>
+          </div>
+          <div n="7" type="stanza">
+            <p>Il papa entrò nella sua stanza, poteva a stento reggersi in piedi; chiamò tutti i
+              cardinali e cominciò a piangere a dirotto. I cardinali lo consolarono e cominciarono
+              ad alta voce il loro ufficio (dei defunti): fanno suonare le campane in tutta la città
+              e fanno pregare Dio nella santa Chiesa.</p>
+          </div>
+          <div n="8" type="stanza">
+            <p>Il papa stesso partecipò alla messa con grande solennità; spesso si alza in piedi per
+              sciogliere l’anima [pregare per l’anima del defunto] e dice con grande umiltà:
+              «Piaccia a Dio Uno e Trino che vostro figlio possa conquistare Gerusalemme, la nobile
+              città, e fare la traversata in Terra Santa!».</p>
+          </div>
+          <div n="9" type="stanza">
+            <p>Il giovane Edoardo d’Inghilterra è unto e incoronato re: Dio gli conceda di avere un
+              tale discernimento che il paese sia (ben) governato, e di conservare la corona in modo
+              che la terra resti indivisa e di essere colmo di grazia, perché suo padre è stato un
+              grand’uomo.</p>
+          </div>
+          <div n="10" type="stanza">
+            <p>Se fossero ancora in vita Aristotele e Virgilio che conoscevano l’arte (retorica),
+              non potrebbero dire la decima parte del valore di questo grand’uomo. Ora è morto il re
+              Edoardo, per il quale il mio cuore è in lutto profondo; Dio salvi e custodisca la sua
+              anima, per la sua santissima passione! Amen.</p>
+          </div>
+        </div></body></text></TEI>

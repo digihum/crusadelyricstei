@@ -1,0 +1,427 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2014-07-10</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>La Ravallière 1742, <hi rend="smallcaps">ii</hi> 137; Auguis 1824, <hi rend="smallcaps">ii</hi> 8; Boutteville 1835, 11; du Méril 1844, 755; Tarbé 1850, 115;
+            Bédier-Aubry 1909, 189; Wallensköld 1925, 186; Brahney 1989, 230; Dijkstra 1995a, 206;
+            Sánchez Palomino 2005, 177.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(9).</hi> K 19b-20b (<hi rend="italic">li rois de Navarre</hi>),
+              M<hi rend="superscript">t</hi> 64bc (anon.), O 34bd (anon.), P 154d-155c (anon.), S
+            315bc (anon.), T 8r (<hi rend="italic">li rois de Navare</hi>), V 75ab (anon.), X
+            20c-21a (<hi rend="italic">li rois de Navarre</hi>), za 141rv (anon.).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(9).</hi> K 19b-20b (<hi rend="italic">li rois de Navarre</hi>),
+              M<hi rend="superscript">t</hi> 64bc (anonima), O 34bd (anon.), P 154d-155c (anon.), S
+            315bc (anon.), T 8r (<hi rend="italic">li rois de Navare</hi>), V 75ab (anon.), X
+            20c-21a (<hi rend="italic">li rois de Navarre</hi>), za 141rv (anon.).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl type="music" xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;">10ab’ab’aab’a (MW 627,3 = Frank
+        216); the crusade song RS 985 of the Châtelain de Couci uses a very similar metrical shape,
+        10a’ba’bbba’6b, virtually producing a mirror image of this one; 5 <hi rend="italic">coblas
+          doblas</hi> (2+2+1) with a 4-line <hi rend="italic">envoi</hi> (aab’a); rhymes a = <hi rend="italic">-er</hi>, <hi rend="italic">-iz</hi>, <hi rend="italic">-anz</hi>; b = <hi rend="italic">-ee</hi>, <hi rend="italic">-oie</hi>, <hi rend="italic">-ame</hi>;
+        identical rhyme <hi rend="italic">durer</hi> in vv. 9 and 14, <hi rend="italic">joie</hi> in
+        vv. 18 and 28, <hi rend="italic">poissanz</hi> in vv. 37 and 41 (the latter in the <hi rend="italic">envoi</hi>); equivocal rhyme <hi rend="italic">voie</hi> in vv. 20 and 23;
+        lyric caesura in v. 8; melody in KM<hi rend="superscript">t</hi>OPVX, with three different
+        melodic lines: the first is found in mss. KM<hi rend="superscript">t</hi>OX, while mss. P
+        and V have individual melodic lines (van der Werf 1979, II, p. 120; Tischler 1997, V n°
+        443).</metDecl>
+      <metDecl type="music" xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;">10ab’ab’aab’a (MW 627,3 = Frank
+        216); la canzone di crociata RS 985 del Castellano di Couci si serve di uno schema molto
+        simile e quasi speculare 10a’ba’bbba’6b; 5 <hi rend="italic">coblas doblas</hi> (2+2+1) con
+        un <hi rend="italic">envoi</hi> di 4 versi (aab’a); rima a = <hi rend="italic">-er</hi>, <hi rend="italic">-iz</hi>, <hi rend="italic">-anz</hi>; rima b = <hi rend="italic">-ee</hi>,
+          <hi rend="italic">-oie</hi>, <hi rend="italic">-ame</hi>; rima identica <hi rend="italic">durer</hi> ai vv. 9 e 14, <hi rend="italic">joie</hi> ai vv. 18 e 28, <hi rend="italic">poissanz</hi> ai vv. 37 e 41 (quest’ultimo nel congedo); rima equivoca <hi rend="italic">voie</hi> ai vv. 20 e 23; cesura lirica al v. 8; melodia in KM<hi rend="superscript">t</hi>OPVX, con tre linee melodiche diverse: la prima è testimoniata dai mss. KM<hi rend="superscript">t</hi>OX, mentre i mss. P e V hanno linee melodiche individuali e
+        autonome (van der Werf 1979, II, p. 120; Tischler 1997, V n° 443).</metDecl>
+      <editorialDecl type="analysis" xml:lang="en">Analysis of the readings shows a division between
+        the <hi rend="italic">Liederbuch</hi> mss. (M<hi rend="superscript">t</hi>TKOX+za) and the
+        chansonniers PV, whose text is essentially an editorial variant (lacking the last stanza and
+        the <hi rend="italic">envoi</hi>); ms. S oscillates between the two groups, but seems closer
+        to M<hi rend="superscript">t</hi>TKOX. No significant error permits the subdivision of the
+          <hi rend="italic">Liederbuch</hi> mss. into smaller groups, but its characteristic
+        variants confirm the traditional division M<hi rend="superscript">t</hi>T vs. KOX, with za
+        constantly following these last mss. The fluctuations of S and the relative independence of
+        PV make the the <hi rend="italic">Liederbuch</hi> version the compulsory base and is here
+        presented in the graphy of O.The attribution, direct or indirect, to Thibaut de Champagne,
+        is unanimous in mss. M<hi rend="superscript">t</hi>TKOX+za; however, alone among the <hi rend="italic">Liederbuch</hi> mss. V excludes this song from the corpus attributed to
+        Thibaut de Champagne and like P includes it in a group of songs of uncertain attribution
+        alongside other texts which the group KNOVX attributes to the Châtelain de Couci. It
+        therefore seems clear that the tradition headed by these mss. rejected the attribution of
+        the text to Thibaut de Champagne. The hypothesis may therefore be advanced, on the basis of
+        the manuscript tradition, that a four-stanza version of the text circulated in an anonymous
+        form or was attributed to the Châtelain de Couci, and was subsequently reworked by Thibaut
+        de Champagne and integrated into his <hi rend="italic">Liederbuch</hi>.</editorialDecl>
+      <editorialDecl type="analysis" xml:lang="it">L’analisi delle lezioni permette di separare da
+        un lato i testimoni del <hi rend="italic">Liederbuch</hi> (M<hi rend="superscript">t</hi>TKOX+za) e dall’altro i canzonieri PV, il cui testo assume quasi la forma di una
+        variante redazionale (priva dell’ultima strofa e del congedo); il ms. S oscilla tra i due
+        gruppi, ma sembra in questo caso essere più vicino a M<hi rend="superscript">t</hi>TKOX.
+        Nessun errore significativo permette di suddividere i testimoni del <hi rend="italic">Liederbuch</hi> in più gruppi, ma le varianti che li caratterizzano confermano la
+        tradizionale separazione M<hi rend="superscript">t</hi>T vs. KOX, con za che segue
+        costantemente questi ultimi. Le oscillazioni di S e la relativa indipendenza del testo di PV
+        obbligano in questo caso a fornire l’edizione della versione del <hi rend="italic">Liederbuch</hi>, presentata secondo la veste grafica del ms. O.L’attribuzione a Thibaut
+        de Champagne, diretta o indiretta, è unanime nei mss. M<hi rend="superscript">t</hi>TKOX+za;
+        il canzoniere V, unico tra i testimoni del <hi rend="italic">Liederbuch</hi>, esclude invece
+        questa canzone dal corpus attribuito a Thibaut de Champagne per inserirla come P in un
+        gruppo di canzoni di attribuzione incerta accanto ad altri testi che il gruppo KNOVX
+        attribuisce al Castellano di Couci; pare quindi evidente che la tradizione a cui fanno capo
+        questi testimoni rifiutasse l’attribuzione del testo a Thibaut de Champagne. Resta aperta
+        l’ipotesi, suggerita dalla tradizione manoscritta, che di questo testo circolasse, in forma
+        anonima o attribuita al Castellano di Couci, una redazione di quattro strofi, rielaborata
+        successivamente da Thibaut de Champagne e integrata nel suo <hi rend="italic">Liederbuch</hi>.</editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2014-10-04T12:36:28Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Thibaut de Champagne</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="text" xml:id="rs.757.fro" xml:lang="fro">
+        <lg n="1" type="stanza">
+          <l n="1">Dame, ensint est qu’il m’en covient aler</l>
+          <l n="2">et departir de la douce contree</l>
+          <l n="3">ou tant ai malx apris a endurer:</l>
+          <l n="4">quant je vos lais, droiz est que je m’en hee.</l>
+          <l n="5">Dex! pour quoi fu la terre d’outremer,</l>
+          <l n="6">qui tant amant avra fait dessevrer</l>
+          <l n="7">dont puis ne fu l’amours reconfortee,</l>
+          <l n="8">ne ne porent la joie remenbrer?</l>
+        </lg>
+        <lg n="2" type="stanza">
+          <l n="9">Ja sanz amor ne porroie durer</l>
+          <l n="10">tant par i truis fermement ma pansee;</l>
+          <l n="11">ne mes fins cuers ne m’en lait retorner,</l>
+          <l n="12">ainz sui a lui là ou il velt et bee.</l>
+          <l n="13">Trop ai apris durement a amer,</l>
+          <l n="14">por ce ne voi coment puisse durer</l>
+          <l n="15">de joie avoir de la plus desirree</l>
+          <l n="16">c’onques nuns hons osast merci crier.</l>
+        </lg>
+        <lg n="3" type="stanza">
+          <l n="17">Je ne voi pas, quant de li sui partiz,</l>
+          <l n="18">que puisse avoir bien ne solaz ne joie,</l>
+          <l n="19">car onques riens ne fis si a enviz</l>
+          <l n="20">con vos lessier, se je james vos voie!</l>
+          <l n="21">Trop par en sui dolanz et esbahiz;</l>
+          <l n="22">par maintes foiz m’en serai repantiz</l>
+          <l n="23">quant j’onques vos aler en ceste voie,</l>
+          <l n="24">et je recort voz debonaires diz.</l>
+        </lg>
+        <lg n="4" type="stanza">
+          <l n="25">Beau sire Dex, vers vos me sui guenchiz,</l>
+          <l n="26">tot las por vos ce que je tant amoie:</l>
+          <l n="27">li guierredons en doit estre floriz,</l>
+          <l n="28">quant por vos per et mon cuer et ma joie.</l>
+          <l n="29">De vos servir sui touz prez et garniz;</l>
+          <l n="30">a vos me rent, beau pere Jhesu Criz,</l>
+          <l n="31">si bon seignor avoir je ne porroie:</l>
+          <l n="32">cil qui vos sert ne puet estre traïz.</l>
+        </lg>
+        <lg n="5" type="stanza">
+          <l n="33">Bien doit mes cuers estre liez et dolanz:</l>
+          <l n="34">dolanz de ce que je part de ma dame</l>
+          <l n="35">et liez de ce que je sui desirranz</l>
+          <l n="36">de servir Deu, qui est mes cuers et m’ame.</l>
+          <l n="37">Iceste amors est trop fine et poissanz:</l>
+          <l n="38">par là covient venir les plus saichanz;</l>
+          <l n="39">c’est li rubiz, l’esmeraude et la jame</l>
+          <l n="40">qui touz garit des viez pechiez puanz.</l>
+        </lg>
+        <lg n="6" type="stanza">
+          <l n="41">Dame des ciels, granz roïne poissanz,</l>
+          <l n="42">au grant besoing me soiez secorranz!</l>
+          <l n="43">De vos amer puisse avoir droite flame!</l>
+          <l n="44">Quant dame per, dame me soit aidanz.</l>
+        </lg>
+      </div></body><back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>Lines 1-3 indicate that the author’s departure is imminent, and Bédier 1909 (p. 190)
+          maintains that vv. 17-20 seem to have been written after separation from the beloved has
+          already taken place; if so, the date of composition could fall just before embarkation for
+          the Holy Land. Thibaut probably left Champagne for Lyon on 24 June 1239 and embarked at
+          Marseille in the first few days of August. If the allusions contained in the first stanzas
+          are taken as autobiographical and grounded in reality, the text must have been written
+          between these two dates, probably closer to the first than the second. This scenario has
+          remained unchallenged and essentially accepted by all previous scholars, and the text
+          lacks historical references that might help to make the date of composition more precise.
+          But since the song is not an exhortation to take part in a crusade but rather takes the
+          evocation of a crusade as the starting-point for the depiction of a conflict between two
+          kinds of love (love of a lady and love of God), the possibility remains that we are
+          dealing with a fictitious situation which would make any attempt at dating unfounded.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>I vv. 1-3 lasciano intendere che la partenza dell’autore è imminente, e Bédier 1909 (p.
+          190) sottolinea come i vv. 17-20 sembrino scritti quando la separazione dalla dama è già
+          avvenuta; se così fosse la composizione di questa canzone si potrebbe collocare poco prima
+          dell’imbarco per la Terra Santa. Verosimilmente Thibaut lasciò la Champagne per recarsi a
+          Lione il 24 giugno 1239 per poi imbarcarsi a Marsiglia nei primi giorni del mese d’agosto.
+          Se si assumono come reali e autobiografici i riferimenti contenuti nelle prime strofi, il
+          testo dev’essere stato scritto tra queste due date, probabilmente più a ridosso della
+          prima. Tale proposta è rimasta incontestata ed è sostanzialmente accettata da tutti;
+          d’altronde il testo è privo di riferimenti storici che possano aiutare a precisare la data
+          di composizione. Non trattandosi di un’esortazione alla partenza, ma di un testo che
+          dall’evocazione della crociata trae spunto per illustrare il conflitto tra due amori (per
+          la donna e per Dio), vi è sempre la possibilità che si tratti di un’ambientazione
+          fittizia, che renderebbe infondato ogni tentativo di datazione.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>In the first more traditional part of this <hi rend="italic">chanson de départie</hi>,
+          which presents the theme of the pain of separation and the necessity of departure,
+          following a pattern initiated by Conon de Béthune but perfected by the Châtelain de Couci,
+          Thibaut exploits the latter’s pessimistic approach (see song RS 679), according to which
+          the crusade is an unavoidable duty to be faced with scant enthusiasm since it takes the
+          lover away from love. The present piece also contains some allusions to the song RS 1575
+          of Gautier de Dargies (also attributed by some mss. to the Châtelain de Couci). In stanzas
+          IV and particularly V the text changes register and develops in an innovative way the
+          attempt to reconcile love for the lady with crusading values, an attempt also present in a
+          song of the Châtelain of Arras RS 140, 25-40, where love for the lady makes the knight
+          valiant and courageous, and his exploits allow him to win love (a motif perhaps already
+          touched on in CnBet RS 1125, 13-16). Thibaut arrives at a more mystical interpretation
+          which is rarely found in this type of song, according to which earthly love is surpassed
+          or absorbed into divine love (see also the religious song RS 1410).</p>
+        <p corresp="#rs.757.fro:(n=1)">Sánchez-Palomino 2005, p. 181 draws attention to the unusual
+          substitution of the vocative Seignor, an appeal to the French nobility with which the song
+          of exhortation RS 6 begins, with Dame. This is the only OF crusade song beginning with
+          this vocative, underlining the individuality of the text which immediately presents its
+          character as a piece of reflection addressed to the beloved lady; note also the emphatic
+          symmetry with the final line, which contains the noun dame twice</p>
+        <p corresp="#rs.757.fro[range(@n=4,@n=5)]">Scant love for the Holy Land is a theme generally
+          exploited in the chansons de femme, in which the lady reproaches Jerusalem or more
+          generally the Holy Land for separating her from her lover; see for example RS 191,
+          8-11.</p>
+        <p corresp="#rs.757.fro:(n=6)">tant amant: a singular used in collective expressions,
+          probably analogous to maint baron attested by Thibaut de Champagne himself in RS 757,
+          5.</p>
+        <p corresp="#rs.757.fro[range(@n=13,@n=15)]">The archetype reading is probably corrupt and
+          the problem is likely to reside in the verb durer, already found at the rhyme in the same
+          stanza in v. 9 and preceded by durement in v. 13. The other occurrences of the phrase de
+          joie avoir confirm that this is prevalently found at the beginning of a line as the
+          syntagmatic prolongation of the preceding line, but never with the verb durer. Here we
+          would expect a verb with the sense of “desire, believe, hope”. One might think of cuider,
+          according to the graphy adopted by Gace Brulé in numerous similar cases, but in Thibaut de
+          Champagne we always find cuidier, especially at the rhyme. </p>
+        <p corresp="#rs.757.fro:(n=16)">For the use of generic relative que as s dative see Ménard,
+          § 71.</p>
+        <p corresp="#rs.757.fro:(n=17)">The personal pronoun li most probably refers to love, as in
+          v. 12. If it referred to the lady, the change from direct apostrophe to the following vos
+          in v. 20, also reflected in the variant readings voz/ses in v. 24, would need to be
+          explained as a rhetorical device.</p>
+        <p corresp="#rs.757.fro:(n=20)">According to Bédier this hortatory formula is the equivalent
+          addressed to the lady of the swearing formula se je ja mès Dieu voie (or se Dieus me/vos
+          voie).</p>
+        <p corresp="#rs.757.fro:(n=25)">For the reflexive use of guenchir see TL IV, 732, 24-47,
+          with examples mainly attesting the sense of “to turn aside, deviate, avoid”, whereas here
+          it seems to take on the meaning “to switch direction, turn towards, deviate towards” (cfr.
+          FEW XVII, 555), underlining the dramatic nature of the speaker’s decision and his sense of
+          “rupture” with the first part, all the more so since the preceding lines (17-20) the
+          tension between love and duty had emerged more strongly, with the poet declaring he was
+          leaving against his will (a enviz) and with the certainty of losing joy for ever. This
+          rupture mirrors and stands in reverse symmetry to the one found in the song of exhortation
+          RS 757, whose final two stanzas return penitentially to the love theme.</p>
+        <p corresp="#rs.757.fro:(n=27)">The rich reward to which the speaker refers is clearly
+          paradise; the adjective flori often refers to the description of the heavenly world, as is
+          demonstrated by the expression camp flori used in this sense in the Occitan crusade song
+          FqRom BdT 156.12, 19 (other examples in TL III, 1945, 22-33 and God 8, 629bc).</p>
+        <p corresp="#rs.757.fro:(n=30)">pere Jhesu Criz: even though this may seem strange, this
+          formula is amply attested in medieval French literature. It is unlikely to represent an
+          assimilation of God the Father and the Son of the Trinity, and probably concerns a use of
+          pere in the sense of “paternal friend”, “protector” which is quite common in medieval
+          speech.</p>
+        <p corresp="#rs.757.fro[range(@n=33,@n=40)]">As already shown, this stanza is omitted by
+          mss. PV; but the specific characteristics of the final stanza, in the light of re-reading
+          this composition in the context of the entire production of the King of Navarre, incline
+          me to accept the attribution to Thibaut proposed by the Liederbuch mss. Duty towards God
+          becomes the desire to serve Him and develops into the declaration that love of God is
+          superior to love of the lady, in tones that are decidedly more religious than at the
+          beginning and at times even clerical. So it is no longer a question of a conflict between
+          love and duty, but of the transition from one type of love to another, higher, one. There
+          are few parallels to this in OF lyrics and in particular crusade songs, which at most
+          attempt to reconcile love for the lady with departure on crusade, as has already been
+          emphasised. Independently of any question of attribution, it seems clear that the PV
+          version does not envisage this radical innovation, this poetic syncretism which seems to
+          correspond to the literary personality of the King of Navarre. </p>
+        <p corresp="#rs.757.fro:(n=36)">The reading accepted into the text seems to indicate that
+          opting for divine service is a radical move and also implies the speaker’s emotional
+          involvement, even if this seems to contradict what has previously been affirmed in v. 28.
+          – The relative qui is certainly a dative (Ménard, § 67), as the variants cui of MtT
+          show.</p>
+        <p corresp="#rs.757.fro:(n=37)">Although the formula may appear ambiguous, it seems obvious
+          to me that the love of which the speaker speaks is in this case divine love, which is
+          preferred to human love.</p>
+        <p corresp="#rs.757.fro:(n=38)">The impersonal form covient appeared already in v. 1, but
+          here indicates a genuine benefit rather than a duty imposed and endured. From the
+          syntactic point of view this verb can be followed by a noun in the oblique case, as here,
+          even in the absence of the subject pronoun il and even if the noun functions as the
+          logical subject of the infinitive (see Ménard § 124, p. 123 and the examples in TL II,
+          981, 33-50). Here là refers to iceste amor of v. 37 and underlines the preference accorded
+          to divine love in the dilemma which gnaws at every “crusader in love”, according to Hughes
+          de Berzé’s well-expressed formulations for example (see RS 1126, 25-32 and RS 1729, 1-4).
+          The expression venir par là, literally “to pass through”, does not indicate mere
+          transition in this case, but rather an obligatory point of arrival, as is suggested by the
+          impersonal covient.</p>
+        <p corresp="#rs.757.fro:(n=40)">The expression pechiez puanz, typical of moralising texts,
+          is also found in the song RS 273, 44.</p>
+        <p corresp="#rs.757.fro[range(@n=41,@n=44)]">Here, as in the earlier songs RS 6 and RS 273,
+          the envoi is addressed to the Virgin Mary, for whom Thibaut shows particular
+          veneration.</p>
+        <p corresp="#rs.757.fro:(n=44)">The symmetry of this synthetic formula is extremely
+          effective in summing up the transition from courtly to divine love: the loss of an earthly
+          lady is remedied by another, celestial, lady.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Nella prima parte più tradizionale di questa <hi rend="italic">chanson de départie</hi>,
+          che mette a tema il dolore della separazione e la necessità della partenza, secondo uno
+          schema inaugurato da Conon de Béthune ma perfezionato dal Castellano di Couci, Thibaut
+          sfrutta l’approccio pessimista di quest’ultimo (si veda la canzone RS 679), per il quale
+          la crociata è un dovere ineluttabile da affrontare con scarso entusiasmo poiché lo
+          allontana dall’amore, con qualche riferimento anche alla canzone RS 1575 di Gautier de
+          Dargies (attribuita da alcuni testimoni allo stesso Castellano di Couci). Nella quarta e
+          soprattutto nella quinta strofe tuttavia il testo cambia di registro e approfondisce in
+          modo innovativo il tentativo di conciliare l’amore per la dama con i valori della
+          crociata, presente anche nella canzone del Castellano di Arras RS 140, 25-40: l’amore
+          della dama rende il cavaliere valoroso e ardito, e le sue prodezze gli consentono di
+          conquistare l’amore (motivo già forse accennato in CnBet RS 1125, 13-16). Thibaut giunge
+          ad un’interpretazione più mistica che raramente si trova in questo genere di canzoni,
+          grazie alla quale l’amore carnale viene superato o assorbito nell’amore divino (si veda
+          anche la canzone religiosa RS 1410).</p>
+        <p corresp="#rs.757.fro:(n=1)"> Sánchez-Palomino 2005, p. 181 evidenzia l’insolita
+          sostituzione del vocativo Seignor, appello ai nobili francesi con il quale inizia la
+          canzone d’esortazione RS 6, con Dame. Si tratta in effetti della sola canzone di crociata
+          oitanica che comincia con questo vocativo, a sottolineare la particolarità del testo che
+          dichiara da subito la sua natura di riflessione indirizzata alla donna amata; si noti
+          anche la forte simmetria con il verso conclusivo che contiene due volte il sostantivo
+          dame.</p>
+        <p corresp="#rs.757.fro[range(@n=4,@n=5)]">Lo scarso amore per la terra d’Oltremare è un
+          argomento sfruttato generalmente nelle chansons de femme, nelle quali la donna rimprovera
+          Gerusalemme o la Terra Santa in generale di separarla dall’amato; si veda per esempio RS
+          191, 8-11.</p>
+        <p corresp="#rs.757.fro:(n=6)">tant amant: si tratta di un singolare usato in espressioni
+          che indicano una collettività, probabilmente analogo a maint baron attestato dallo stesso
+          Thibaut de Champagne in RS 757, 5.</p>
+        <p corresp="#rs.757.fro[range(@n=13,@n=15)]">La lezione dell’archetipo è probabilmente
+          corrotta ed è verosimile che il problema risieda nel verbo durer, che si trova già in rima
+          nella stessa strofe al v. 9 ed è preceduto da durement al v. 13. Le altre occorrenze
+          reperibili del sintagma de joie avoir confermano infatti che esso si trova prevalentemente
+          ad inizio verso come prolungamento sintagmatico del verso precedente, ma mai con il verbo
+          durer. Ci si attenderebbe invece un verbo con il significato di “desiderare, ritenere,
+          sperare”. Si potrebbe pensare a cuider, secondo la grafia adotatta da Gace Brulé in
+          numerosi casi simili, ma in Thibaut de Champagne si trova sempre cuidier, soprattutto in
+          rima. </p>
+        <p corresp="#rs.757.fro:(n=16)">Sull’uso di que come relativo generico anche per il dativo
+          si veda Ménard, § 71.</p>
+        <p corresp="#rs.757.fro:(n=17)">Il pronome personale li si riferisce con tutta probabilità
+          all’amore, come già al v. 12. Se si trattasse infatti della dama, occorrerebbe spiegare
+          come un artificio retorico l’alternanza con l’apostrofe diretta e il conseguente passaggio
+          al vos del v. 20, che si riflette anche nelle lezioni alternative voz/ses al v. 24.</p>
+        <p corresp="#rs.757.fro:(n=20)">Secondo Bédier questa formula esortativa è il corrispettivo
+          indirizzato alla dama della formula di giuramento se je ja mès Dieu voie (oppure se Dieus
+          me/vos voie).</p>
+        <p corresp="#rs.757.fro:(n=25)">Per l’uso riflessivo di guenchir si veda TL IV, 732, 24-47,
+          con esempi che attestano prevalentemente il senso di “voltarsi, deviare, schivare”, ma
+          anche quello di “svoltare, volgersi contro, deviare verso” che sembra prevalere in questo
+          verso (cfr. FEW XVII, 555), sottolineando la drammaticità della decisione del locutore e
+          il suo senso di “rottura” con la prima parte, tanto più che proprio nei versi precedenti
+          (17-20) era emersa con più forza la tensione tra amore e dovere, con il poeta che
+          dichiarava di partire controvoglia (a enviz) e con la certezza di perdere per sempre la
+          gioia. Tale rottura risulta simmetrica e speculare a quella operata nella canzone di
+          esortazione RS 757, le cui ultime due strofi virano repentinamente verso il tema
+          amoroso.</p>
+        <p corresp="#rs.757.fro:(n=27)">La ricca ricompensa alla quale l’autore si riferisce è
+          evidentemente il paradiso; basti ricordare che l’aggettivo flori si riferisce spesso alla
+          descrizione del mondo celeste, come dimostra l’espressione camp flori usata in questo
+          senso nella canzone di crociata occitanica FqRom BdT 156.12, 19 (altri esempi in TL III,
+          1945, 22-33 e God 8, 629bc).</p>
+        <p corresp="#rs.757.fro:(n=30)">pere Jhesu Criz: per quanto possa apparire curiosa, tale
+          formula è ampiamente attestata nella letteratura francese medievale. È probabile che non
+          si tratti di un’assimilazione delle persone del Padre e del Figlio della Trinità, quanto
+          piuttosto di un uso di pere col senso di “amico paterno”, “protettore” assai frequente
+          nella lingua medievale.</p>
+        <p corresp="#rs.757.fro[range(@n=33,@n=40)]">Come si è già messo in evidenza, questa strofe
+          è omessa dai mss. PV; ma le caratteristiche specifiche dell’ultima strofe, alla luce della
+          rilettura di questo componimento nel contesto dell’intera produzione del re di Navarra, mi
+          paiono piuttosto confermare l’attribuzione a Thibaut proposta dai testimoni del
+          Liederbuch. Il dovere verso Dio diventa infatti desiderio di servirlo fino alla
+          proclamazione della superiorità dell’amore di Dio sull’amore per la donna, con toni più
+          decisamente religiosi e a volte persino di stampo clericale. Non si tratta più dunque di
+          un conflitto tra amore e dovere, ma del passaggio da un tipo d’amore ad un altro più
+          elevato che non ha molti riscontri nella lirica oitanica e nelle canzoni di crociata in
+          particolare, che tuttalpiù tentano di conciliare l’amore alla dama con la partenza per la
+          crociata, come si è già sottolineato. Indipendentemente da ogni questione attributiva,
+          sembra evidente che la redazione di PV non contempli questa novità radicale, questo
+          sincretismo poetico che parrebbe invece corrispondere alla personalità letteraria del re
+          di Navarra.</p>
+        <p corresp="#rs.757.fro:(n=36)">La lezione accolta a testo sembra indicare che l’opzione per
+          il servizio divino è radicale e implica anche l’adesione affettiva dell’autore, benché
+          questo sembri in contraddizione con quanto affermato precedentemente al v. 28. Ill
+          relativo qui è certamente un dativo (Ménard, § 67), come dimostra anche la variante cui di
+          MtT.</p>
+        <p corresp="#rs.757.fro:(n=37)">Benché la formula possa apparire ambigua, mi sembra ovvio
+          che l’amore del quale parla l’autore sia in questo caso l’amore divino, che viene
+          preferito all’amore umano.</p>
+        <p corresp="#rs.757.fro:(n=38)">La forma impersonale covient si trova già al v. 1, ma qui
+          indica una reale convenienza più che un dovere imposto e subito. Dal punto di vista
+          sintattico questo verbo può essere seguito da un sostantivo al caso regime, come in questo
+          caso, anche in assenza del pronome soggetto il e sebbene tale sostantivo funga da soggetto
+          logico dell’infinito (si veda Ménard § 124, p. 123 e gli esempi di TL II, 981, 33-50). Il
+          deittico là si riferisce a iceste amor del v. 37 e sottolinea la preferenza da accordare
+          all’amore divino nel dilemma che attanaglia ogni “crociato innamorato”, secondo la formula
+          ben espressa per esempio da Hugues de Berzé (si veda RS 1126, 25-32, ma anche RS 1729,
+          1-4). L’espressione venir par là, letteralmente “passare attraverso”, non indicherà in
+          questo caso un mero transito, ma piuttosto un punto di arrivo obbligato, com’è suggerito
+          dalla presenza dell’impersonale covient.</p>
+        <p corresp="#rs.757.fro:(n=40)">L’espressione pechiez puanz, tipica dei testi morali, si
+          trova anche nella canzone RS 273, 44.</p>
+        <p corresp="#rs.757.fro[range(@n=41,@n=44)]">Anche in questo caso, come già nelle canzoni RS
+          6 e RS 273, il congedo è indirizzato alla Vergine Maria, verso la quale Thibaut mostra una
+          venerazione speciale.</p>
+        <p corresp="#rs.757.fro:(n=44)">Formula sintetica dalla simmetria estremamente efficace che
+          sintetizza il passaggio dall’amore cortese all’amore divino: alla perdita di una donna
+          carnale rimedia un’altra donna celeste</p>
+      </div>
+    </back></text></TEI>

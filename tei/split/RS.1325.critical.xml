@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-12-02</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Paris 1833, 88; Buchon 1840, 421; Leroux de Lincy 1841-1842, I, 43; Dinaux
+            1837-1863, III, 393; Brakelmann 1870, 86; Scheler 1876, I, 10; Wallensköld 1891, 234;
+            Jeanroy 1892, 419 and 422; Wallensköld 1921, 12; Cluzel 1969, 54; van der Werf
+            1977-1979, I, 299; Schiassi 1999-2000, 408; Meneghetti 2003, 81; Barbieri 2013,
+            272.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Paris 1833, 88; Buchon 1840, 421; Leroux de Lincy 1841-1842, I, 43; Dinaux
+            1837-1863, III, 393; Brakelmann 1870, 86; Scheler 1876, I, 10; Wallensköld 1891, 234;
+            Jeanroy 1892, 419 e 422; Wallensköld 1921, 12; Cluzel 1969, 54; van der Werf 1977-1979,
+            I, 299; Schiassi 1999-2000, 408; Meneghetti 2003, 81; Barbieri 2013, 272.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(4).</hi> M 46a (<hi rend="italic">me sire Quenes de Biethune</hi>),
+            O 89b (anonymous), T 99v (<hi rend="italic">me sire Quenes</hi>), U 36v (anon).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(4).</hi> M 46a (<hi rend="italic">me sire Quenes de Biethune</hi>),
+            O 89b (anonima), T 99v (<hi rend="italic">me sire Quenes</hi>), U 36v (anon).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>7a’ 7a’ 3/4b 7b 7a’ 7a’ 3/4b 7b
+        7a’ 7a’ 3/4b 7a’ (MW 394,1 = Frank 135); 2 <hi rend="italic">coblas singulars</hi>; rhyme a:
+          <hi rend="italic">-iere</hi>, <hi rend="italic">-ie</hi>; rhyme b: <hi rend="italic">-is</hi>, <hi rend="italic">-o(u)s</hi>. This is the sole attestation of this
+        versification in the Old French lyric. Conon seems in particular to be imitating Bertran de
+        Born's song BdT 80.9, including the rhymes of st. iii-v (a: <hi rend="italic">-ia</hi>, b:
+          <hi rend="italic">-os</hi>). Paronymous rhymes vv. 7-8 (<hi rend="italic">mis-amis</hi>);
+          <hi rend="italic">annominatio per immutationem</hi> between the bisyllables at the rhyme,
+        vv. 18, 21, 24 (<hi rend="italic">pie</hi>, <hi rend="italic">fie</hi>, <hi rend="italic">mie</hi>); melody in MTO; melodic structure ABCD ABC’E FA’GF (T 748,1).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>7a’ 7a’ 3/4b 7b 7a’ 7a’ 3/4b 7b
+        7a’ 7a’ 3/4b 7a’ (MW 394,1 = Frank 135); 2 <hi rend="italic">coblas singulars</hi>; rima a:
+          <hi rend="italic">-iere</hi>, <hi rend="italic">-ie</hi>; rima b: <hi rend="italic">-is</hi>, <hi rend="italic">-o(u)s</hi>; si tratta dell’unica attestazione di questo
+        schema nella lirica francese; Conon de Béthune sembra imitare in particolare la canzone BdT
+        80.9 di Bertran de Born, di cui riprende anche le rime delle strofe iii-v (a: <hi rend="italic">-ia</hi>, b: <hi rend="italic">-os</hi>); rima paronima ai vv. 7 e 8 (<hi rend="italic">mis-amis</hi>); <hi rend="italic">annominatio per immutationem</hi> tra i
+        bisillabi in rima ai vv. 18, 21 e 24 (<hi rend="italic">pie</hi>, <hi rend="italic">fie</hi>, <hi rend="italic">mie</hi>); melodia in MTO; schema melodico ABCD ABC’E FA’GF (T
+        748,1).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The manuscripts transmit three independent
+        versions of this song. MT present a text composed of two <hi rend="italic">coblas
+          singulars</hi>. O’s version also has two stanzas, adopting MT’s second stanza as as its
+        first, though the first two lines are different; the second stanza is original to O and
+        repeats the a’ rhyme of the first. U’s version contains four stanzas: the first two lines
+        repeat the introductory rhymes of O, while the third stanza coincides with the first stanza
+        of MT; the first two stanzas have the same rhymes, the third and fourth are <hi rend="italic">singulars</hi>; the fourth stanza is incomplete (the first four lines are
+        missing) or should be regarded as an <hi rend="italic">envoi</hi>. U’s version does not
+        contain the stanza referring to the Holy Land and cannot be taken into account here.
+        Wallensköld 1921 offers a hybrid text following MT for stanza I and O for stanza II. For the
+        reasons for preferring MT's version see Meneghetti 2003, pp. 77-79 and Barbieri 2013, pp.
+        272-276. The text is that of Barbieri 2013, with a few modifications, but adopts T’s graphy.
+        MT’s version is substantially respected, though in vv. 18 and 22 O’s <hi rend="italic">difficilior</hi> readings are adopted, and O is also used to supplete v. 21 missing from
+        MT. The short lines are irregular in all versions and this probably stems from the original;
+        it would be easy to adjust all to four-syllabic lines with the simple suppletion of a
+        pronoun <hi rend="italic">je</hi> at the beginning of v. 11 and reading the words in v. 15
+        without elision.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>I quattro manoscritti tramandano tre versioni
+        indipendenti di questa canzone. I mss. MT propongono un testo costituito da due strofe <hi rend="italic">singulars</hi>. Il ms. O ha anch’esso una versione di due strofe, dove la
+        seconda strofa di MT viene ripresa come strofa incipitaria, ma con i primi due versi
+        differenti; la seconda strofa è propria di O e riprende la rima a’ della prima. Il ms. U ha
+        una versione di quattro strofe: i primi due versi riprendono i versi incipitari di O, mentre
+        la terza strofa coincide con la prima strofa di MT; le prime due strofe hanno le stesse
+        rime, la terza e la quarta sono <hi rend="italic">singulars</hi>; la quarta strofa è
+        incompleta (mancano i primi quattro versi) o va considerata come un congedo. La versione di
+        U non contiene la strofa con l’accenno alla Terra Santa e non può essere presa in
+        considerazione in questa edizione. Wallensköld 1921 propone un testo ibrido con la prima
+        strofa secondo la lezione di MT e la seconda nella versione di O. Sulle ragioni che spingono
+        a privilegiare la redazione di MT si veda Meneghetti 2003, pp.77-79 e Barbieri 2013, pp.
+        272-276. Si riprende con qualche modifica il testo proposto in Barbieri 2013, adottando però
+        la grafia di T. L’edizione rispetta sostanzialmente la redazione di MT; ai vv. 18 e 22 si
+        preferisce tuttavia la lezione <hi rend="italic">difficilior</hi> di O, e sempre grazie a O
+        si integra il v. 21 mancante nella versione di MT. L’irregolarità dei versi corti è presente
+        in tutte le versioni e risalirà con probabilità all’originale; si potrebbe in ogni caso
+        ricondurre facilmente tutti questi versi a quadrisillabi con la semplice integrazione di un
+        pronome <hi rend="italic">je</hi> all’inizio del v. 11 e leggendo in modo dialefico il v.
+        15.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-12-15T18:33:14Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Conon de Béthune</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="text" xml:id="rs.1325.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Belle doce dame chiere,</l>
+            <l n="2">vostre grans beautés entiere</l>
+            <l n="3">m’a si sospris</l>
+            <l n="4"> ke, se iere em Paradis,</l>
+            <l n="5">si revenroie je arriere,</l>
+            <l n="6">por convent ke ma proiere</l>
+            <l n="7">m’eüst la mis</l>
+            <l n="8"> ke fuïsse vostre amis</l>
+            <l n="9">n’a moi ne fuïssiés fiere,</l>
+            <l n="10">car ainc ens nule maniere</l>
+            <l n="11">ne forfis</l>
+            <l n="12">ke fuïssiés ma guerriere.</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="13">Por une k’en ai haïe</l>
+            <l n="14">ai dit as autres folie,</l>
+            <l n="15">come irous.</l>
+            <l n="16">Mal ait vos cuers covoitos,</l>
+            <l n="17">ki m’envoia en Surie,</l>
+            <l n="18">fausse, plus vaire ke pie!</l>
+            <l n="19">Ne mais por vous</l>
+            <l n="20">n’averai mes iex plorous.</l>
+            <l n="21">Fox est qui en vos se fie,</l>
+            <l n="22">ke vos estes l’abeïe</l>
+            <l n="23">as soffraitous,</l>
+            <l n="24">si ne vous nomerai mie.</l>
+          </lg>
+        </div><div type="text" xml:lang="en ">
+          <p>Luca Barbieri 2015</p>
+        </div><div type="text" xml:lang="it ">
+          <p>Luca Barbieri 2015</p>
+        </div></body><back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>The song must have been composed after Bertran de Born’s song BdT 80.9, which dates from
+          1182. Given the tone and content of the text, the allusion to the Holy Land in v. 17 may
+          have no historic significance and should not be automatically interpreted
+          autobiographically (Formisano 1993, p. 148). There are no other textual elements that
+          allow us to date the piece more precisely, and it would be safest not to assume it was
+          composed during the years just before (or after) the Third Crusade.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>La canzone dev’essere stata composta dopo la BdT 80.9 di Bertran de Born, che risale alla
+          fine del 1182. Dato il tono e il contenuto del testo, il riferimento alla Terra Santa del
+          v. 17 potrebbe non avere valore storico e non dovrà essere interpretato automaticamente in
+          modo autobiografico (Formisano 1993, p. 148). Non vi sono altri elementi che permettano di
+          precisare la datazione, e sarà più prudente non restringerla necessariamente agli anni a
+          ridosso della terza crociata.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>[To follow.] </p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>[A seguire.]</p>
+      </div>
+    </back></text></TEI>

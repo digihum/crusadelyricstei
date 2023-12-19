@@ -1,0 +1,762 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-09-14</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Jubinal 1838, 39; du Méril 1844, 757; Wackernagel 1846, 35; Paris <hi rend="Emphasis"><seg rend="italic">(Paulin) 1856, 705 (5 </seg><seg rend="italic">stanzas only</seg><seg rend="italic">);</seg></hi> Bédier-Aubry 1909, 77; Oeding
+            1910, 42; Guida 1992, 66; Dijkstra 1995a, 88.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Jubinal 1838, 39; du Méril 1844, 757; Wackernagel 1846, 35; Paris <hi rend="Emphasis"><seg rend="italic">(Paulin) 1856, 705 (5 </seg><seg rend="italic">stanzas only</seg><seg rend="italic">);</seg></hi> Bédier-Aubry 1909, 77; Oeding
+            1910, 42; Guida 1992, 66; Dijkstra 1995a, 88.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: C 179r-v (<hi rend="italic">maistres renas lai fist de
+              nostre signor</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: C 179r-v (<hi rend="italic">maistres renas lai fist de
+              nostre signor</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>8 abababab 7’CC (MW 752,8 = Frank
+        319); 8 <hi rend="italic">coblas singulars</hi> + refrain; rhyme <hi rend="italic">a</hi>:
+          -<hi rend="italic">eir</hi>, -<hi rend="italic">oir</hi>, -<hi rend="italic">ert</hi>,
+          -(<hi rend="italic">i</hi>)<hi rend="italic">es</hi>, -<hi rend="italic">eis</hi>, -<hi rend="italic">ont</hi>, -<hi rend="italic">eis</hi>, -<hi rend="italic">en</hi>(<hi rend="italic">s</hi>); rhyme <hi rend="italic">b</hi>: -<hi rend="italic">our</hi> (-<hi rend="italic">or</hi>), -<hi rend="italic">ent</hi>, -<hi rend="italic">is</hi>, -(<hi rend="italic">i</hi>)<hi rend="italic">on</hi>, -<hi rend="italic">i</hi>(<hi rend="italic">t</hi>), -<hi rend="italic">ois</hi> (-<hi rend="italic">oit</hi>), -(<hi rend="italic">i</hi>)<hi rend="italic">aus</hi> (<hi rend="italic">aulz</hi>), -<hi rend="italic">us</hi>; rhyme <hi rend="italic">c</hi>: -<hi rend="italic">oure</hi>; links
+        in <hi rend="italic">coblas capfinidas</hi>, an aid to memory, between stanzas I and II <hi rend="italic">a un jor</hi> and IV and V <hi rend="italic">terre de Promission / terre de
+          Promesse</hi>. The song is structured on a series of eight octosyllabic lines with two
+        alternating rhymes and in this respect it makes a pair with another crusade song with
+        octosyllabic lines and two rhymes, <hi rend="italic">Vous ki ameis de vraie amor</hi> (RS
+        1967), which can be linked to the homiletic activity in the Parisian environment of the
+        first quarter of the 13th c. The versification to which <hi rend="italic">Pour lou
+          pueple</hi> belongs is no. 752 in the Mölk-Wolfzettel repertory, which records 23 items
+        all having a refrain formed from a final rhyming couplet (CC), almost all with eight- or
+        seven-syllable lines on masculine rhymes. Because it is the only one to have a refrain of
+        two seven-syllable lines with feminine rhymes, <hi rend="italic">Pour lou pueple</hi>
+        appears to be a <hi rend="italic">unicum</hi>, but its close affinity to three of Gontier de
+        Soignies’ <hi rend="italic">rotrouenges</hi> presenting the same syllabic structure with
+        refrain in masculine octosyllables is undeniable: RS 265a = 309 <hi rend="italic">Se li
+          oisiel baisent lor chans </hi>(transmitted by T with melody ABAB CDEF/GH), RS 1089 <hi rend="italic">Tant ai mon chant entrelaissié </hi>(MT and C, melody ABAB CDCE/FG; but also
+        AAA’B/C added later in M), and RS 723, <hi rend="italic">Li xours comence xordement</hi>,
+          <hi rend="italic">unicum</hi> of C. Gontiers’ versification was probably the model for
+        Thibaut de Blaison’s <hi rend="italic">Chanter m’estuet, si criem morir</hi> RS 1430 (2 <hi rend="italic">coblas singulars</hi> with refrain and melody ABAB CDEF/C’D’) and Vielars de
+        Corbie’s love-song <hi rend="italic">De chanter me semont amors</hi> RS 2030, as transmitted
+        by C, the only ms. to have the refrain (as opposed to KNPX, mel. ABAB CDEF; the same melody
+        is in Gautier de Coinci RS 1677, see van den Boogaard 1971). Spanke 1936, 35-36, also adds
+        to the group the monodic <hi rend="italic">conductus Dum medium silentium</hi> (AH XX,4,
+        melody ABABCDCE/FG), the Nativity hymn which Strecker 1925 attributes to Walter of
+        Châtillon. However, the most striking affinity seems to be between <hi rend="italic">Pour
+          lou pueple </hi>and <hi rend="italic">Chevalier mult estes guariz</hi> (RS 1548a) with
+        which it shares a responsory type of performance. Considered to be the oldest crusade song
+        (composed after the second fall of Edessa), this one is also made up of (essentially)
+        octosyllabic stanzas with alternating rhymes, ending with a refrain though of four lines
+        (8abababab CDCD, MW 766, 2); in addition certain motifs of <hi rend="italic">Chevalier</hi>
+        (especially in vv. 17, 29-30, 51-53) are echoed in RS 886. The only possible Occitan analogy
+        is with the versification in Frank 239 (in seven-syllable lines with refrain), found in
+        texts later than RS 886, in Sordel’s <hi rend="italic">‘dansa’</hi><hi rend="st">, <seg rend="italic">Ailas, e que∙m fau miey huelh </seg>(BdT </hi>437.1 = 239:3)<hi rend="st">, and the <seg rend="italic">retroenchas</seg> of Guiraut Riquier, <seg rend="italic">Pus
+            astres no m’es donatz </seg>(BdT </hi>248.65<hi rend="st"> = </hi>239:1) <hi rend="st">and Peire Cardenal, <seg rend="italic">Vera vergena Maria </seg>(BdT </hi>335.70 =
+          239:4)<hi rend="st">, with feminine seven-syllable lines (compare Chambers 1985, p. 243:
+          </hi>‘<hi rend="st">Should we at least admit the possibility that Peire Cardinal’s hymn to
+          Mary, and possibly Sordello’s “dansa” as well, were consciously written in a pre-existent
+          retroencha framework?’).</hi></p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>8 abababab 7’CC (MW 752,8 = Frank
+        319); otto <hi rend="italic">coblas singulars</hi> + un <hi rend="italic">refrain</hi>
+        poststrofico; rima <hi rend="italic">a</hi>: -<hi rend="italic">eir</hi>, -<hi rend="italic">oir</hi>, -<hi rend="italic">ert</hi>, -(<hi rend="italic">i</hi>)<hi rend="italic">es</hi>, -<hi rend="italic">eis</hi>, -<hi rend="italic">ont</hi>, -<hi rend="italic">eis</hi>, -<hi rend="italic">en</hi>(<hi rend="italic">s</hi>); rima <hi rend="italic">b</hi>: -<hi rend="italic">our</hi> (-<hi rend="italic">or</hi>), -<hi rend="italic">ent</hi>, -<hi rend="italic">is</hi>, -(<hi rend="italic">i</hi>)<hi rend="italic">on</hi>, -<hi rend="italic">i</hi>(<hi rend="italic">t</hi>), -<hi rend="italic">ois</hi>
+          (-<hi rend="italic">oit</hi>), -(<hi rend="italic">i</hi>)<hi rend="italic">aus</hi> (<hi rend="italic">aulz</hi>), -<hi rend="italic">us</hi>; rima <hi rend="italic">c</hi>: -<hi rend="italic">oure</hi>; legami in <hi rend="italic">coblas capfinidas</hi>, che
+        agevolavano la memorizzazione, tra la I e la II <hi rend="italic">a un jor</hi>; tra la IV e
+        la V <hi rend="italic">terre de Promission / terre de Promesse</hi>.La canzone fa il paio
+        con un altro canto di crociata in ottonari su due rime, <hi rend="italic">Vous ki ameis de
+          vraie amor</hi> (RS 1967), che possiamo collegare alla attività omiletica dell'ambiente
+        parigino del primo quarto del XIII secolo. La canzone è strutturata sullo schema MW 752,
+        formato da una sequenza di otto ottonari su due rime alternate, piuttosto diffuso in ambito
+        oitanico, che registra 23 items che prevedono un <hi rend="italic">refrain</hi> costituito
+        da un distico finale a rima baciata (CC), quasi esclusivamente in ottonari o in settenari.
+        Tra questi <hi rend="italic">Pour lou pueple</hi> è un <hi rend="italic">unicum</hi>, se si
+        considera il <hi rend="italic">refrain</hi> costituito da due settenari a rima femminile, ma
+        è innegabile la sua stretta affinità con tre <hi rend="italic">rotrouenges</hi> di Gontier
+        de Soignies che presentano il medesimo schema sillabico ma con <hi rend="italic">refrain</hi> di ottosillabi a rima maschile: RS 265a = 309 <hi rend="italic">Se li oisiel
+          baisent lor chans </hi>(tràdita da T con melodia ABAB CDEF/GH), RS 1089 <hi rend="italic">Tant ai mon chant entrelaissié </hi>(MT e C, con melodia ABAB CDCE/FG; ma anche AAA’B/C
+        aggiunta in un secondo momento in M), e RS 723, <hi rend="italic">Li xours comence
+          xordement</hi>, unicum di C. Lo schema di Gontiers è stato probabile modello per la
+        canzone di Thibaut de Blaison, <hi rend="italic">Chanter m’estuet, si criem morir</hi> RS
+        1430 (2 <hi rend="italic">coblas singulars</hi> con <hi rend="italic">refrain</hi> e melodia
+        ABAB CDEF/C’D’) e per la canzone d’amore di Vielars de Corbie <hi rend="italic">De chanter
+          me semont amors</hi> RS 2030, così come trasmessa da C, il solo ad avere il <hi rend="italic">refrain</hi> (vs KNPX, mel. ABAB CDEF; la stessa melodia è in Gautier de
+        Coinci RS 1677, cfr. van den Boogaard 1971). Spanke 1936, 35-36, aggiunge al gruppo anche il
+          <hi rend="italic">conductus</hi> monodico <hi rend="italic">Dum medium silentium</hi> (AH
+        XX,4, melodia ABABCDCE/FG), l’inno natalizio che Strecker 1925 attribuisce a Gautier de
+        Châtillon. Tuttavia, l’affinità più stringente mi pare possa trovarsi tra <hi rend="italic">Pour lou pueple </hi> e <hi rend="italic">Chevalier mult estes guariz</hi> (RS 1548a) con
+        cui condivide l’esecuzione di tipo responsoriale. Quella che è considerata la più antica
+        canzone di crociata (composta dopo la seconda caduta di Edessa) è infatti anch’essa composta
+        da strofi di ottonari (essenzialmente) a rima alternata concluse però con un <hi rend="italic">refrain</hi> di 4 versi (8abababab CDCD, MW 766,2); inoltre alcuni motivi di
+          <hi rend="italic">Chevalier</hi> (specialmente ai vv. 17, 29-30, 51-53) riecheggiano in RS
+        886. In ambito occitanico l’unico accostamento possibile è con lo schema Frank 239 (in
+        settenari con ritornello), che si trova in testi successivi a RS 886, nella <hi rend="italic">‘dansa‘</hi>
+        <hi rend="st">di Sordello, <seg rend="italic">Ailas, e que∙m fau miey huelh </seg>(BdT
+        </hi>437.1 = 239:3)<hi rend="st">, e nelle <seg rend="italic">retroenchas</seg> di Guiraut
+          Riquier, <seg rend="italic">Pus astres no m’es donatz </seg>(BdT </hi>248.65<hi rend="st">
+          = </hi>239:1) <hi rend="st">e Peire Cardenal, <seg rend="italic">Vera vergena Maria
+          </seg>(BdT </hi>335.70 = 239:4)<hi rend="st">, in settenari femminili (cfr. Chambers 1985,
+          p. 243: «Should we at least admit the possibility that Peire Cardinal’s hymn to Mary, and
+          possibly Sordello’s “dansa” as well, were consciously written in a pre-existent retroencha
+          framework?»).</hi></p></metDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-09-16T10:29:47Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Maistres Renas</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="text" xml:id="rs.886.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Pour lou pueple resconforteir</l>
+            <l n="2">ke tant ait jeut en tenebrour, </l>
+            <l n="3">vos veul en chantant resconteir</l>
+            <l n="4">lou grant damaige et la dolour</l>
+            <l n="5">ke li paien font outremeir</l>
+            <l n="6">de la terre Nostre Signor. </l>
+            <l n="7">Cel païx devons nos clameir, </l>
+            <l n="8">car tuit i irons a un jor!</l>
+            <l n="9">Jerusalem plaint et ploure</l>
+            <l n="10">le secors ke trop demoure.</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="11">A un jor? Ki le puet savoir?</l>
+            <l n="12">Trop ai pairleit hardiement?</l>
+            <l n="13">Certes, signor, je vos di voir: </l>
+            <l n="14">ceu iert a jor del jugement! </l>
+            <l n="15">De celle terre sont cil hoir</l>
+            <l n="16">ki ont resut baptissement,</l>
+            <l n="17">ou li Fils Deu volt resevoir</l>
+            <l n="18">por nos la poene et lou torment. </l>
+            <l n="19">Jerusalem plaint et ploure</l>
+            <l n="20">(le secors ke trop demoure).</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="21">Molt per est grans duels quant on pert</l>
+            <l n="22">lou vrai sepulcre ou Deus fut mis,</l>
+            <l n="23">et ke li saint leu sont desert</l>
+            <l n="24">24ou Nostre Sire estoit servis!</l>
+            <l n="25">Saveis por coi Deus l’ait souffert?</l>
+            <l n="26">Il veult esproveir ces amis,</l>
+            <l n="27">ki servise li ont offert, </l>
+            <l n="28">a vengier de ces anemis.</l>
+            <l n="29">Jerusalem plaint et ploure</l>
+            <l n="30"> (le secors ke trop demoure).</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="31">Tous iert li pueples desvoiés</l>
+            <l n="32">et torneis a perdition, </l>
+            <l n="33">maix la Croix les ait ravoiés</l>
+            <l n="34">et torneis a redemption. </l>
+            <l n="35">Li plux faus et li moins prixiés</l>
+            <l n="36">puet avoir absolution,</l>
+            <l n="37">maix k’il s’en voist et soit croixiés</l>
+            <l n="38">en Terre de Promission. </l>
+            <l n="39">Jerusalem plaint et (ploure</l>
+            <l n="40">le secors ke trop demoure). </l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="41">Terre de Promesse est nomeis</l>
+            <l n="42">Jerusalem, je le vos di! </l>
+            <l n="43">En Bethleem ou Deu fut neis, </l>
+            <l n="44">est li temples ou Deus soffri</l>
+            <l n="45">et la croix ou Il fut peneis </l>
+            <l n="46">et le sepulchre ou surrexit. </l>
+            <l n="47">Lai iert li boens luwiers doneis</l>
+            <l n="48">a ceauls ki l’avront deservit.</l>
+            <l n="49">Jerusalem plaint et ploure</l>
+            <l n="50"> (le secors ke trop demoure).</l>
+          </lg>
+          <lg n="6" type="stanza">
+            <l n="51">Ke pensent li roy? Grant mal font</l>
+            <l n="52">cil de France et cil des Englois, </l>
+            <l n="53">ke Damedeu vengier ne vont</l>
+            <l n="54">et delivreir la sainte Croix! </l>
+            <l n="55">Quant il a jugement vanront, </l>
+            <l n="56">dont lor parrait lor bone foit, </l>
+            <l n="57">se Deu faillent, a Lui fauront: </l>
+            <l n="58">Il dirait: «Je ne vos conoix!». </l>
+            <l n="59">Jerusalem plaint et ploure</l>
+            <l n="60"> (le secors ke trop demoure).</l>
+          </lg>
+          <lg n="7" type="stanza">
+            <l n="61">Prince, duc, conte, ki aveis</l>
+            <l n="62">en cest siecle tous vos aviaus, </l>
+            <l n="63">Deus vos ait semons et mandeis: </l>
+            <l n="64">64guerpissiés villes et chaistiaus!</l>
+            <l n="65">Encontre l’Espous en aleis, </l>
+            <l n="66">et si porteis oille en vaixiaulz! </l>
+            <l n="67">S’en vos lampes est feus troveis</l>
+            <l n="68">li gueridons en iert molt biauls!</l>
+            <l n="69">Jerusalem plaint et ploure</l>
+            <l n="70"> (le secors, ke trop demoure).</l>
+          </lg>
+          <lg n="8" type="stanza">
+            <l n="71">Elais! ne cognoissent lor sen!</l>
+            <l n="72">Ke sont lampes, oile desus? </l>
+            <l n="73">Lampes se sont les bone gens</l>
+            <l n="74">dont Deus est ameis et cremus, </l>
+            <l n="75">ke son servixe font tous tens. </l>
+            <l n="76">Lai est bien alumeis li feus.</l>
+            <l n="77">Cil irait o les Innocens</l>
+            <l n="78">ki en bone oevre iert conxeüs.</l>
+            <l n="79">Jerusalem plaint et ploure</l>
+            <l n="80">lou secors ke trop demoure.</l>
+          </lg>
+        </div><div type="text" xml:lang="en ">
+          <p>Anna Radaelli, 2016</p>
+        </div><div type="text" xml:lang="it ">
+          <p>Anna Radaelli, 2016</p>
+        </div></body><back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>Like <hi rend="italic">Vous ki ameis de vraie amor</hi> (RS 1967), this song should be
+          dated to the specific period immediately preceding departure on the Fifth Crusade, in
+          which the West was criss-crossed by doctors of Paris University preaching a new crusade.
+          The essence of <hi rend="italic">Pour lou pueple</hi> also lies in the spiritual and
+          pastoral aspect of the expedition, and the only historical clue here is found in v. 52
+          addressed to the kings, <hi rend="italic">cil de France et cil des Englois</hi>. On this
+          basis Bédier has no doubts concerning the historical context of the song: ‘Il est assuré
+          (voy. les vers 21-2, 51-4) que la chanson a été écrite entre 1189 et les premiers mois de
+          1191’ (Bédier 1906, 386 and Bédier-Aubry 1909, 77 ). Even later scholars have expressed no
+          doubts about dating it to the period of the Third Crusade (for example Dijkstra 1995a, p.
+          90: the song ‘doit avoir été composée entre avril 1189, première date prévue pour le début
+          de la croisade, et juillet 1190, date à laquelle les croisés sont enfin partis’). However,
+          the French and English monarchs’ inertia as regards departure for the Holy Land was a
+          continuing feature of the years following 1190. Line 77, <hi rend="italic">Cil irait o les
+            Innocens</hi>, may offer an important clue pointing to a date later than the end of the
+          twelfth century. <hi rend="italic">Innocens</hi> has generally been interpreted as
+          referring to the episode in Matthew’s gospel, 2, 1-16. However, in 1212 an event took
+          place which made a great impression on its contempories, the so-called Children’s Crusade,
+          to which the Chronicle of the Anonymous of Laon refers (cfr. Bouquet 1879, p. 715). This
+          was a popular movement which had attempted to revive people’s spirits in the direction of
+          a new crusade, and which resonated particularly in the Rhineland, but soon ended
+          destructively in a mixture of indifference and dismissiveness on the part of the religious
+          and politico-military authorities: ‘1212. Multa milia puerorum cruce signatorum versus
+          mare iter arripuerunt; sed illa peregrinacio annichilata fuit’ (cfr. <hi rend="italic">Flores Temporum. Imperatores</hi>, in MGH SS, XXIV, p. 240, r. 13; see also <hi rend="italic">infra</hi>, note to v. 77). The Innocents, alongside whom will stand those
+          who have deserved God’s reward, may therefore be the child crusaders (and hence ‘without
+          sin’), who died for the reconquest of the Holy Land; in this case the <hi rend="italic">terminus post quem</hi> for the song’s composition would be 1212. If we are then to
+          identify a period of relative peace in which it would be possible for the kings of France
+          and England to be asked to act together and take part in a new expedition, there are not
+          many alternatives before the deprture of the crusade in 1217 (which could be taken as the
+          extreme limit <hi rend="italic">ante quem</hi>). There is actually only one (uncertain)
+          period of non-belligerence between the English and French kings. This falls after the
+          battle of Bouvines, when King John, a vassal of the pope since 1213, agreed to the truce
+          of Parthenay in September 1214 with Philip Augustus (and with Louis VIII), which had been
+          promoted by the manoeuvring of the papal legate Robert de Courçon (cfr. Teulet 1836, p.
+          405). At the end of the Fourth Lateran Council and with the promulgation of the
+          constitution <hi rend="italic">Ad liberandam</hi> on 14 December 1215, Innocent III
+          pressed for John’s promised aid for the crusade (the King had taken the cross on 4 March
+          1215), and at the same time condemned any support for the rebel barons in his kingdom who
+          had invited Philip Augustus to claim the English crown. The truce, which was supposed to
+          last for five years, was very short-lived: in the spring of 1216 the prospect of a new war
+          between John and the Capetians loomed large. From the beginning of the year Louis had once
+          more begun to prepare to invade England. So in 1216, preparations for attack and defence
+          kept both French and English armies occupied, taking men and resources away from the
+          crusade which had only just been announced (Cheney 1976, pp. 391-93). It was natural that
+          this state of affairs should cause great anxiety to the Pope, the same anxiety as that
+          expressed in the passionate tones of popular propaganda in <hi rend="italic">Pour lou
+            pueple resconforteir</hi>. Louis landed on the coast of Dover on 21 May 1216 and
+          hostilities kept the two kings tied down for the next two years: this date therefore
+          signals the latest date at which it would have been possible to exhort <hi rend="italic">cil de France et cil des Englois</hi> to leave for the Holy Land under a single aegis
+          (see Bolton 1991). In this case the song must date from after September 1214 (the truce of
+          Parthenay), or March 1215 (when John took the cross; Louis VIII had already done so in
+          1213 for the crusade to the South), and before May 1216 (Louis’ landing at Dover).</p>
+        <p>Who was Maistres Renas? Guesnon (1902, p. 140) suggests indentifying him with Renaut de
+          Beauvais, on the basis of a quotation from Jean Bodel’s Congés (Ha! Maistre Renaut de
+          Biauvais, / Ja est li siecles si mauvais! (vv. 409-10), composed in c. 1202 (hence
+          compatible with the generally accepted date of 1189-90), and on the evidence of the
+          obituary of Arras which registers a contemporary magister Reinaldus, canonicus
+          Atrebatensis. However his hypothesis has not been generally accepted since the proper name
+          is extremely common, even if scholars unanimously agree that the poet belonged to the
+          clergy of north-eastern France (see Bédier-Aubry 1909, p. 78, Dijkstra 1995a, pp. 99-100).
+          It may be worth observing that in those same years a clerc Renaut wrote a Vie de
+          sainte-Geneviève, a poem in octosyllabic rhyming couplets, for a dame de Valois,
+          identified by Bohm 1955 with Eleonor of Vermandois, countess of Saint-Quentin, for whom
+          Philip Augustus, through the treaty of Boves in 1185, had reserved the title of lady of
+          Valois which she retained until her death in 1214 (see also Di Quero 1832, pp.
+          250-51).</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Come <hi rend="italic">Vous ki ameis de vraie amor</hi> (RS 1967), anche questa canzone
+          va inserita in quello specifico periodo immediatamente precedente la partenza per la V
+          Crociata, in cui le regioni occidentali venivano percorse dai dottori dell’università di
+          Parigi che predicavano una nuova crociata. Anche in <hi rend="italic">Pour lou pueple</hi>
+          l’essenza si trova nell’aspetto spirituale e pastorale della spedizione, e l’unico accenno
+          storico ci è offerto dal v. 52 rivolto ai re, <hi rend="italic">cil de France et cil des
+            Englois</hi>. In base a esso Bédier non ha dubbi circa la collocazione storica della
+          canzone: «Il est assuré (voy. les vers 21-2, 51-4) que la chanson a été écrite entre 1189
+          et les premiers mois de 1191» (Bédier 1906, 386 e Bédier-Aubry 1909, 77 ). E così pure gli
+          studiosi successivi (per esempio Dijkstra 1995a, p. 90: la canzone «doit avoir été
+          composée entre avril 1189, première date prévue pour le début de la croisade, et juillet
+          1190, date à laquelle les croisés sont enfin partis») non hanno espresso dubbi sulla
+          datazione al periodo della III crociata. Tuttavia, la inerzia delle monarchie francese e
+          inglese a partire per la Terrasanta non ha mai smesso di esistere anche negli anni
+          successivi al 1190. Infatti, un indizio importante per collocare la canzone in un periodo
+          successivo alla fine del XII secolo, potrebbe provenire dal v. 77 <hi rend="italic">Cil
+            irait o les Innocens</hi>, in cui <hi rend="italic">Innocens</hi> è stato generalmente
+          interpretato in riferimento all’episodio del vangelo di Matteo 2, 1-16. Tuttavia, nel 1212
+          aveva avuto luogo un’impresa che aveva destato molta impressione tra i contemporanei, la
+          cosiddetta crociata dei <hi rend="italic">Pueri</hi>, di cui riferisce il <hi rend="italic">Chronico</hi> dell’Anonimo di Laon (cfr. Bouquet 1879, p. 715), un
+          movimento popolare che aveva cercato di risollevare gli animi verso una nuova crociata,
+          con una eco notevole anche in Renania, finito presto, e rovinosamente, tra l’indifferenza
+          e la sottovalutazione delle autorità religiose e politico-militari: «1212. Multa milia
+          puerorum cruce signatorum versus mare iter arripuerunt; sed illa peregrinacio annichilata
+          fuit» (cfr. <hi rend="italic">Flores Temporum. Imperatores</hi>, in MGH SS, XXIV, p. 240,
+          r. 13; cfr. anche <hi rend="italic">infra</hi>, nota al v. 77). Gli Innocenti, accanto ai
+          quali saranno coloro che si sono meritati la ricompensa di Dio, potrebbero dunque essere
+          quei crociati bambini (e perciò ‘senza peccato’), anch’essi morti per riconquistare la
+          Terra santa; in questo caso il <hi rend="italic">terminus post quem</hi> per la
+          composizione della canzone dovrebbe essere il 1212. Per trovare poi un periodo di relativa
+          pace in cui fosse possibile chiedere ai sovrani di Francia e Inghilterra di agire insieme
+          per partecipare a una nuova spedizione, non sono molte le alternative che ci si presentano
+          prima del 1218 (che si potrebbe assumere come limite estremo <hi rend="italic">ante
+            quem</hi>). In realtà si può trovare solo un (incerto) periodo di non belligeranza tra
+          il re inglese e quello di Francia, dopo la battaglia di Bouvines, quando re Giovanni,
+          vassallo del papa dal 1213, accettò a Parthenay nel settembre 1214 la tregua con Filippo
+          Augusto (e con Luigi VIII), favorita dalle manovre del legato papale Robert de Courçon
+          (cfr. Teulet 1836, p. 405). Alla fine del IV Concilio Lateranense e con la promulgazione
+          della costituzione <hi rend="italic">Ad liberandam</hi> il 14 dicembre 1215, Innocenzo III
+          chiede con insistenza a Giovanni l’aiuto promesso per la Crociata (il re aveva preso la
+          croce il 4 marzo 1215), e nello stesso tempo condanna ogni possibile sostegno ai baroni
+          ribelli nel suo regno, che avevano invitato Filippo Augusto e il figlio Luigi a reclamare
+          come legittima la corona d’Inghilterra. Quella tregua, che avrebbe dovuto durare cinque
+          anni, ebbe in realtà vita brevissima: nella primavera del 1216 la prospettiva di una nuova
+          guerra tra Giovanni e i Capetingi era nuovamente vicina. Luigi dagli inizi dell’anno aveva
+          ricominciato a preparare l’invasione d’Inghilterra. Nel 1216, dunque, i preparativi per
+          l’attacco, da una parte, e per la difesa del regno, dall’altra, tenevano occupate sia le
+          milizie francesi che quelle inglesi sottraendo uomini e mezzi alla spedizione crociata
+          appena indetta (cfr. Cheney 1976, pp. 391-393). Era naturale che questo stato di cose
+          inquietasse fortemente il Papa, la medesima inquietudine espressa nei toni accesi della
+          propaganda popolare di <hi rend="italic">Pour lou pueple resconforteir</hi>. Luigi approdò
+          sulle coste di Dover il 21 maggio 1216 per un’impresa che tenne impegnati i due re per i
+          successivi due anni: questa data segna dunque il termine ultimo per poter esortare <hi rend="italic">cil de France et cil des Englois</hi> a partire sotto un’unica egida per
+          la Terrasanta (cfr. Bolton 1991). Seguendo questo ragionamento, la canzone andrebbe
+          collocata tra il settembre 1214 (tregua di Parthenay) o il marzo 1215 (presa della croce
+          da parte di re Giovanni; Luigi VIII l’aveva già presa nel 1213 per la crociata nel Midi) e
+          il maggio 1216 (sbarco a Dover).</p>
+        <p>Un’ultima nota riguarda la figura di <hi rend="italic">Maistres Renas</hi>. Guesnon
+          1902,140 suggerisce il nome di Renaut de Beauvais, basandosi su una citazione di Jean
+          Bodel nel <hi rend="italic">Congés</hi> (<hi rend="italic">Ha! Maistre Renaut de Biauvais,
+            / Ja est li siecles si mauvais! </hi>(vv. 409-410), composto verso il 1202 (compatibile
+          quindi con la datazione generalmente accolta al periodo 1189-1190), e sulla testimonianza
+          dell’obituario di Arras che registra un contemporaneo <hi rend="italic">magister
+            Reinaldus, canonicus Atrebatensis</hi>. La sua ipotesi tuttavia non ha avuto molto
+          seguito, a causa della estrema diffusione del nome proprio, anche se la critica
+          unanimemente ammette l’appartenenza del poeta al clero del Nord est della Francia (cfr.
+          Bédier-Aubry 1909, 78, Dijkstra 1995a, 99-100). Solo come pura ipotesi, e a sostegno della
+          datazione qui proposta, segnalo che un <hi rend="italic">clerc Renaut</hi> è autore di una
+            <hi rend="italic">Vie de sainte-Geneviève</hi>, poema in ottosillabi a rima baciata
+          della seconda metà del XIII secolo, scritto per una <hi rend="italic">dame de Valois</hi>,
+          identificata da Bohm 1955 con Eleonora, contessa di Vermandois e dama di Valois, morta nel
+          1214.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p corresp="#rs.886.fro:(n=2)">tenebrour: the motif of the darkness in which Christendom
+          lies motionless in torpor is also found in the first lines of the Anonymous de nostre
+          daime (RS 1967): Vous ki ameis de vraie amor, / anveilliez vos, ne dormeis pais! L’aluëte
+          nos trait lou jor. </p>
+        <p corresp="#rs.886.fro:(n=7)">Cel païx devons nos clameir. The verb is typical of vassalic
+          language used in crusading appeals, but what is particularly interesting here is the link
+          to Innocent III’s bull Quia major, promulgated in April 1213, where the term is reiterated
+          several times at the beginning: ecce resumpto clamore clamamos ad vos, et pro illo
+          clamamus qui moriendo voce magna clamavit in cruce ... Si enim rex aliquis temporalis a
+          suis hostibus ejiceretur de regno, nisi vassalli ejus pro eo non solum res exponerent, sed
+          personas, nonne cum regnum recuperaret amissum, eos velut infideles damnaret, et
+          excogitaret in eos inexcogitata tormenta, quibus perderet male malos? Sic Rex regum ...
+          (PL 216, coll. 817-822, De negotio terrae sanctae).</p>
+        <p corresp="#rs.886.fro:(n=8)">a un jor: I agree with Bédier-Aubry (1909, p. 82) that this
+          is an allusion to the valley of Josaphat. The expression un jorn, perhaps with the same
+          meaning, is also present in the sixth stanza of Chevalier mult estes guariz, but the
+          difficulty of restoring the text makes this uncertain. </p>
+        <p corresp="#rs.886.fro:(n=9)"> Jerusalem plaint et ploure. The lamentation of Jerusalem is
+          also found in Innocent III’s speech delivered at the opening of the Fourth Lateran Council
+          : O vos omnes qui transitis per viam, attendite, et videte, si est dolor similis, sicut
+          dolor meus (PL 217, 673-676, sermo VI); as well as the conductus of Philip the Chancellor
+          Crucifigat omnes, composed after the battle of Hattin, vv. 10-11: plorat dotes perditas /
+          sponsa Sion (see Payne 1986, p. 238, n. 12, and Payne 2001, 19, p. 596). In the Old French
+          crusade lyric corpus, see the opening lines of Huon de Saint-Quentin (RS 1576) (Jerusalem
+          se plaint et li païs / u Dameldiex souffri mort bonement, / que deça mer a poi de ses amis
+          / ki de secors li facent mais nïent) and the incipit of RS 191 Jherusalem, grant damage me
+          fais, and the note. </p>
+        <p corresp="#rs.886.fro:(n=10)">le secors ke trop demoure. On the theme of being slow to
+          help the Holy Land, see Thibaut de Champagne RS 273, 11-13: Li guerredons en est mauvais
+          et lens, / que bien ne droit ne pitié nen n’a nus, / ainz est orguiex et baraz au desus;
+          and especially Huon de Saint-Quentin RS 1576, vv. 30-31, who however attributes the
+          responsibility for the delay to the clergy. The theme is particularly frequent in the
+          troubadours: see for example Bertran de Born BdT 80.4, 6: Secora·l Deus, qe·l socors vai
+          tardan! e BdT 80.17, 20: Dieus l’acorra, qe·l secors vai tardan; Gaucelm Faidit BdT
+          167.36, 33-37: E quar estauc que ades no·m empenh / ves Suria? Dieus sap per que m’ave: /
+          que ma domna e·l reys engles mi te, / l’us per amor e l’autre per pauc faire / del gran
+          secors que m’avia en coven; Elias Cairel BdT 133.11, 4-6: e doncs per que se vai chascus
+          tarzan / ni esloignan d’aquel Seignor servir / que volc per nos mort e pena soffrir?;
+          Lanfranc Cigala BdT 282.23, 34-35: mas si·l deu far, fassa·l secors vivatz / car perdutz
+          es lo dos qu’es trop tarzatz; Peirol BdT 366.29, 30-33: e prec Dieu Jesus qe·m git / e qe
+          trameta brieumen / entre·ls reis acordamen, / qe·l socors vai trop tarzan, and 42-45: Ires
+          vos e·l rei no·i van? / Veias las gerras qe fan, / ez esgardas dels baros, / cossi trobon
+          ochaizos (composed in 1188-1189 as was Bertran de Born BdT 80.17).</p>
+        <p corresp="#rs.886.fro:(n=21)">Molt per est grans: for the intensifying particle of the
+          superlative per followed by the verb essere, see for example Raoul de Cambrai, 1185: Trop
+          par sont bon por vuidier escuele (Kay 1992).</p>
+        <p corresp="#rs.886.fro:(n=26)">Il veult esproveir ces amis: for this motif see Chevalier
+          mult estes guariz, 51-53: si mande trestuz ses amis / ki lui volent guarantir / qu'il ne
+          li seient failliz; also Maistre ricars in Oiés, seigneur, pereceus par oiseuses (RS 1020a
+          = 1022), 29: Ki n'i venra, il n'ert pas ses amis; and the Anonymous de nostre daime in
+          Vous ki ameis de vraie amor (RS 1967), 10: Dont vairait il ces amans vrais!. The theme is
+          typical of sermons ad crucesignatos: see for example Jacques de Vitry, Quod Dominus
+          occasione Terre Sancte vult probare suos et de indulgentia et merito signatorum, sermo I,
+          20: ‘Dominus per civitatem illam probat qui fortes sint animo et qui pusillanimes et qui
+          sint amici eius [...</p>
+        <p corresp="#rs.886.fro[range(@n=35,@n=36)]">Li plux faus et li moins prixiés / puet avoir
+          absolution: the lines refer to the extension of the offer of benefits of the votum crucis
+          (indulgence, absolution) to the sick and poor, and to the worst sinners ; see for example
+          Innocent III’s words to the deacon of Speyer in September 1213 concerning the absolution
+          granted even to arsonists and the violent: Et ut fructuosior valeat existere labor vester,
+          ..., concedimus ut incendiariis et iis qui manus temerarias in clericos aut alias personas
+          ecclesiasticas injecerunt, volentibus suscipere signum crucis, satisfactione passis
+          injuriam exhibita competenti, auctoritate nostra libere absolutionis beneficium impendatis
+          (PL, 216, col. 905, epistola 108). </p>
+        <p corresp="#rs.886.fro[range(@n=43,@n=44)]">En Bethleem ou Deu fut neis / est li temples ou
+          Deus soffri: Bédier corrects the readings Bethleem and the second Deus, with an emendation
+          he himself declares to be uncertain, although apparently necessary: En cele terre ou Deus
+          fu neis / Est li temples ou il soffri. Schöber 1976, pp. 185-204 follows him, as does
+          Dijkstra 1995a, p. 90, with some reservations. </p>
+        <p><hi rend="italic">li temples ou Deus soffri</hi>: Bédier 1909, p. 83, queries what
+          appears to him to be an incongruent element of the text, pointing out that the places of
+          Christ’s passion are the house of Caifa, the <hi rend="italic">Praetorium</hi> and
+          Golgotha, but not the Temple; he therefore suggests, without much conviction, that the
+          song is referring to the <hi rend="italic">Grotta dell’agonia</hi> on which a
+          paleochristian church was later built. I think there is no direct allusion to the Passion
+          here but rather to a site considered sacred by God’s people, now suffering, namely the
+          place that Christians call Temple Mount (or <hi rend="italic">Templum Solomonis</hi>)
+          because they believed it had arisen from the ruins of the Temple of Solomon. After the
+          capture of Jerusalem in 1099 it had become firstly the seat of the kings of Jerusalem and
+          then a house of the Order of the Templars. From 1187, after the battle of Hattin and
+          Saladin’s reconquest, the temple was reconsecrated to Islam, becoming the al-Aqsa mosque.
+          Compare RS 1729, 10-14: <hi rend="italic">Jerusalem, tant es desconfortee! / Sur toi en
+            est le domage venu. / Cretïentez t’a trop abandonee, / et le sepulcre et tenple domini /
+            qui fu jadis en grant chierté tenu</hi>. Gontier de Soignies also speaks of the <hi rend="italic">Temple</hi> in his song <hi rend="italic">L'an quant voi esclarcir</hi>
+          (RS 1404), 63-64: <hi rend="italic">Pour Dieu passerai mer / Au Temple converser</hi>;
+          Gröber 1902, p. 680, considers it an indication of a crusade, but Formisano 1980, p. LXI,
+          note 3, thinks it may be ‘un’ipotesi meramente fantastica, priva di un reale fondamento
+          nel contesto (del resto la menzione del <hi rend="italic">Temple</hi> al v. 64 può ben
+          essere un’eco del <hi rend="italic">Temple Salamo</hi> di Marcabruno, <hi rend="italic">Pax in nomine Domini!</hi>)’.</p>
+        <p corresp="#rs.886.fro[range(@n=47,@n=48)]">Lai iert li boens luwiers doneis / a ceauls ki
+          l’avront deservit. The motif of the reward of eternal life with which the Lord repays
+          those who have served him well is also found in Jerusalem se plaint et li païs (RS 1576),
+          vv. 41-43: ki en rendra cascun tel guerredon / que cuers d’ome nel poroit esprisier; / car
+          paradis en ara de loier, and in Vous ki ameis de vraie amor (RS 1967), vv. 35-38: Saivez
+          ke Deus n'ait an covant / a ceaz ke se vorront creusier? / Se m’eïst Il, mult bial luier:
+          / Paradis par afaitemant!. See also Jacques de Vitry, sermo I, 20 cited above: Tanta et
+          talia stipendia offert vobis quod sponte currere deberetis, remissionem cunctorum scilicet
+          peccatorum quantum ad penam et culpam et insuper vitam eternam (Schneyer III, 216, n. 413
+          and Maier 2000, p. 98).</p>
+        <p corresp="#rs.886.fro:(n=51)">Ke pensent li roy? This echoes Chevalier mult este guariz
+          (RS 1548a), 17: Chivalers, cher vus purpensez?</p>
+        <p corresp="#rs.886.fro:(n=56)">Dont lor parrait lor bone foit: Bédier considers the line
+          corrupt, both because of the erroneous rhyme (‘parce qu'il faut une rime en -ois’), and
+          especially because it makes no sense to say la bonne foi, which should be la mauvaise foi,
+          of the two kings ‘leur apparaîtra au jour du jugement dernier: elle doit leur apparaître
+          dès l'heure présente; sans quoi elle n'est pas la mauvaise foi’ (Bédier-Aubry 1909, p.
+          83). So while he admits his conjecture is arbitrary he suggests in a note emending the
+          text to read Lor estrelois, which he thinks would fit the sense much better. Here I have
+          understood the first lor as an adverb of time deriving from illa hora: ‘at that time’. </p>
+        <p corresp="#rs.886.fro:(n=57)">se Deu faillent, a Lui fauront: for the expression, which
+          has a biblical flavour, see especially Conon de Béthune, Ahi! Amors, com dure departie (RS
+          1125) 11-12: ki li faura a cest besoig d’aïe, / saiciés ke il li faura a grignor. </p>
+        <p corresp="#rs.886.fro:(n=58)">Il dirait: «Je ne vos conoix!»: this anticipates the last
+          words of the Spouse in the parable of the wise and foolish virgins (Matthew 25, 12-13: At
+          ille respondens ait: “Amen dico vobis: Nescio vos”. / Vigilate itaque, quia nescitis diem
+          neque horam), which will be quoted and explained in the following two stanzas (vv. 65-68
+          and 71-76). There is an interesting parallel here, in the parable’s clearly theatrical
+          effect, with the Sponsus, the Latin liturgical drama with vernacular inserts of Limousin
+          provenance (11th c., unicum of ms. Paris, BnF, lat. 1139), in the part in which Christ
+          declaims: Amen, dico, vos ignosco; nam caretis lumine / quod qui perdunt, procul pergunt
+          huius aule limine. // Alet, chaitivas, alet, malaüreas! / A tot jors mais vos so penas
+          liureas; / en efern ora seret meneias! </p>
+        <p corresp="#rs.886.fro[range(@n=61,@n=63)]">Prince, duc, conte ... Deus vos ait semons et
+          mandeis. In these lines Maistres Renas appears to adhere scrupulously to papal wishes: Ad
+          haec ne quid in negotio Jesu Christi de contingentibus omittatur, volumus et mandamus, ut
+          ... abbates et alii, qui curam obtinent animarum, studiose proponant sibi commissis,
+          verbum crucis, obsecrantes ... reges, duces, principes, marchiones, comites et barones,
+          aliosque magnates ... ; see Ad liberandam, decretal 71 of the Fourth Lateran Council (PL
+          217, cols 269-273, Ordinatio Domini Innocentii expeditionis pro recuperanda Terra
+          Sancta).</p>
+        <p corresp="#rs.886.fro:(n=64)">Guerpissiés villes et chaistiaus: this directly echoes
+          Chevalier mult estes guariz (RS 1548a), 29-30 in which Louis VII deguerpit ad e vair e
+          gris, / chastels e viles e citez.</p>
+        <p corresp="#rs.886.fro[range(@n=65,@n=66)]">Encontre l’Espous en aleis / et si porteis
+          oille en vaixiaulz! Compare Matthew, 25, 3-4: Fatuae enim, acceptis lampadibus suis, non
+          sumpserunt oleum secum; / prudentes vero acceperunt oleum in vasis cum lampadibus suis.
+          Here also it is interesting to compare the text with the psalm-like intonation of the song
+          of the foolish virgins in the Sponsus, who did not forget to bring the oil but spilled it:
+          Partimini lumen lampadibus, pie sitis insipientibus, / puise ne nos simus a foribus, cum
+          vos sponsus vocet in sedibus. / Dolentas, chaitivas, trop i avem dormit! (vv. 39-40 and
+          the refrain, see Avalle-Monterosso 1965).</p>
+        <p corresp="#rs.886.fro:(n=67 and 72)">lampes. The motif of the ever-lit lamps, which
+          represents the condition of the faithful who must always be ready for the coming of
+          Christ, unites the parable of the ten virgins with that of the watchful servant (Luke 12,
+          35-40), those who remain wide awake for their master who will knock at the door on his way
+          back from a wedding feast: Sint lumbi vestri praecincti et lucernae ardentes, / et vos
+          similes hominibus exspectantibus dominum suum, quando revertatur a nuptiis, ut, cum
+          venerit et pulsaverit, confestim aperiant ei. / Beati, servi illi, quos, cum venerit
+          dominus, invenerit vigilantes. / ... / Hoc autem scitote, quia, si sciret pater familias,
+          qua hora fur veniret, non sineret perfodi domum suam. / Et vos estote parati, quia, qua
+          hora non putatis, Filius hominis venit. The motif is repeated in the Roman de Charité of
+          the Renclus de Moiliens, st. 123, 4-5: O Carités revien, ravole / Et rapareille a Diu
+          s’escole; / Car si desciple ont fait le tour. / Lampes sont sans fu et sans ole, / Langues
+          de prelat sans parole (see van Hamel 1885). </p>
+        <p corresp="#rs.886.fro[range(@n=71,@n=72)]">Elais! ne cognoissent lor sen! / Ke sont
+          lampes, oile desus?: Bédier-Aubry 1909, p. 83 emends to E! lais, n’en cognoissent lou
+          sens; / Ke sont lampes, oile, ne feus?, though admitting: ‘Corrections incertaines. Entre
+          autres difficultés feus serait deux fois à la rime dans la même strophe. Si on les accepte
+          faute de mieux, on peut aussi songer à ponctuer ainsi: virgule après sens, point après
+          feus’.</p>
+        <p corresp="#rs.886.fro:(n=77)">o les Innocens: the Innocents are the pure, those without
+          sin. Schöber 1976, p. 201, identifies them with the children slain in Bethlehem by Herod
+          the Great (Matthew, 2, 1-16), venerated as martyrs. Djikstra 1995a, p. 93, stresses that
+          ‘Si cette identification est correcte, Maître Renaut promet ici aux croisés le martyre’.
+          This may, however, be an echo of the so-called ‘Children’s Crusade’ (see Röhricht 1876 and
+          Alphandéry 1916 and my notes on Historical context and dating). The movement began in June
+          1212 with the young shepherd Steven who at Saint-Denis petitioned Philip August to preach
+          and proclaim a new crusade which Christ Himself had asked of him, appearing to him in a
+          vision while he was tending his sheep in the fields. An expedition of a host of children
+          then left Marseille in 1212, but two of the seven ships bearing the little crusaders to
+          the Holy Land sank off the south-west coast of Sardinia. In memory of the shipwreck and
+          the venture Gregory IX had a church built on the island of san Pietro in 1236 in honour of
+          the Novelli Innocenti. The expedition of the Innocents is also mentioned in the Annales
+          Stadenses: A. D. 1212. Circa idem tempus pueri sine rectore, sine duce, de universis
+          omnium regionum villis et civitatibus versus transmarinas partes avidis gressibus
+          cucurrerunt, et dum quaereretur ab ipsis, quo currerent, responderunt: “Versus Iherusalem,
+          quaerere terram sanctam!”. [...</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p><hi rend="italic">Jerusalem plaint et ploure.</hi> La lamentazione di Gerusalemme
+          personificata si trova anche <hi rend="style1">nel discorso pronunciato da Innocenzo III
+            in apertura del IV Concilio Lateranense: «O vos omnes qui transitis per viam, attendite,
+            et videte, si est dolor similis, sicut dolor meus» (PL 217, 673-676, <seg rend="italic">sermo</seg> VI); oppure nel <seg rend="italic">conductus</seg> di Filippo il
+            Cancelliere </hi><hi rend="italic">Crucifigat omnes</hi>, composto dopo la battaglia di
+          Hattin, ai vv. 10-11: <hi rend="italic">plorat dotes perditas / sponsa Sion </hi>(cfr.
+          Payne 1986, p. 238, n. 12, e Payne 2001, 19, p. 596). Nel <hi rend="italic">corpus</hi>
+          crociato oitanico, si veda l’incipit di Huon de Saint-Quentin (RS 1576) e i versi
+          successivi (<hi rend="italic">Jerusalem se plaint et li païs / u Dameldiex souffri mort
+            bonement, / que deça mer a poi de ses amis / ki de secors li facent mais nïent</hi>) e
+          l’incipit di RS 191 <hi rend="italic">Jherusalem, grant damage me fais</hi>, e nota al
+          verso. </p>
+        <p><hi rend="italic">le secors ke trop demoure. </hi>Sul tema della lentezza del soccorso
+          alla Terra Santa, si veda Thibaut de Champagne RS 273, 11-13: <hi rend="italic">Li
+            guerredons en est mauvais et lens, / que bien ne droit ne pitié nen n’a nus, / ainz est
+            orguiex et baraz au desus</hi>; e soprattutto Huon de Saint-Quentin RS 1576, ai vv.
+          30-31, che tuttavia attribuisce la responsabilità del ritardo nei soccorsi al clero. Il
+          tema è particolarmente sfruttato dai trovatori, per cui si veda Bertran de Born BdT 80.4,
+          6: <hi rend="italic">Secora·l Deus, qe·l socors vai tardan!</hi> e BdT 80.17, 20: <hi rend="italic">Dieus l’acorra, qe·l secors vai tardan</hi>; Gaucelm Faidit BdT 167.36,
+          33-37: <hi rend="italic">E quar estauc que ades no·m empenh / ves Suria? Dieus sap per que
+            m’ave: / que ma domna e·l reys engles mi te, / l’us per amor e l’autre per pauc faire /
+            del gran secors que m’avia en coven</hi>; Elias Cairel BdT 133.11, 4-6: <hi rend="italic">e doncs per que se vai chascus tarzan / ni esloignan d’aquel Seignor
+            servir / que volc per nos mort e pena soffrir?</hi>; Lanfranc Cigala BdT 282.23, 34-35:
+            <hi rend="italic">mas si·l deu far, fassa·l secors vivatz / car perdutz es lo dos qu’es
+            trop tarzatz</hi>; Peirol BdT 366.29, 30-33: <hi rend="italic">e prec Dieu Jesus qe·m
+            git / e qe trameta brieumen / entre·ls reis acordamen, / qe·l socors vai trop
+            tarzan</hi> e 42-45: <hi rend="italic">Ires vos e·l rei no·i van? / Veias las gerras qe
+            fan, / ez esgardas dels baros, / cossi trobon ochaizos</hi> (composta nel 1188-1189 come
+          Bertran de Born BdT 80.17).</p>
+        <p corresp="#rs.886.fro:(n=2)">tenebrour: il motivo dell’oscurità in cui giace la
+          Cristianità immobile nel torpore si trova anche nei primi due versi dell’Anonimo de nostre
+          daime (RS 1967): Vous ki ameis de vraie amor, / anveilliez vos, ne dormeis pais!</p>
+        <p corresp="#rs.886.fro:(n=7)">Cel païx devons nos clameir. Il verbo è tipico del linguaggio
+          vassallatico usato negli appelli alla crociata, ma in questo caso risulta particolarmente
+          interessante il legame con la bolla di Innocenzo III promulgata nell’aprile 1213, Quia
+          major nunc, dove il termine viene più volte ribadito in apertura: «ecce resumpto clamore
+          clamamos ad vos, et pro illo clamamus qui moriendo voce magna clamavit in cruce ... Si
+          enim rex aliquis temporalis a suis hostibus ejiceretur de regno, nisi vassalli ejus pro eo
+          non solum res exponerent, sed personas, nonne cum regnum recuperaret amissum, eos velut
+          infideles damnaret, et excogitaret in eos inexcogitata tormenta, quibus perderet male
+          malos? Sic Rex regum ...» (cfr. PL 216, coll. 817-822, De negotio terrae sanctae).</p>
+        <p corresp="#rs.886.fro:(n=8)">a un jor: l’allusione alla valle di Josaphat che vi vede
+          Bédier-Aubry 1909, 82, mi trova concorde. Il sintagma un jorn, forse con lo stesso
+          significato, è presente anche nella sesta strofe di Chevalier mult estes guariz, ma la
+          difficoltosa resa testuale non dà certezza. </p>
+        <p corresp="#rs.886.fro:(n=21)">Molt per est grans: per la particella intensiva del
+          superlativo per seguita dal verbo essere, si veda ad esempio Raoul de Cambrai, 1185: Trop
+          par sont bon por vuidier escuele (cfr. Kay 1992).</p>
+        <p corresp="#rs.886.fro:(n=26)">Il veult esproveir ces amis: per il motivo si veda Chevalier
+          mult estes guariz, 51-53: si mande trestuz ses amis / ki lui volent guarantir / qu'il ne
+          li seient failliz; e anche Maistre ricars in Oiés, seigneur, pereceus par oiseuses (RS
+          1020a = 1022), 29: Ki n'i venra, il n'ert pas ses amis; e l’Anonimo de nostre daime in
+          Vous ki ameis de vraie amor (RS 1967), 10: Dont vairait il ces amans vrais!. Il tema è
+          tipico dei sermoni ad crucesignatos; si veda ad esempio Jacques de Vitry, Quod Dominus
+          occasione Terre Sancte vult probare suos et de indulgentia et merito signatorum, sermo
+          I,20: «Dominus per civitatem illam probat qui fortes sint animo et qui pusillanimes et qui
+          sint amici eius [...</p>
+        <p corresp="#rs.886.fro[range(@n=35,@n=36)]">Li plux faus et li moins prixiés / puet avoir
+          absolution: i versi si riferiscono all’estensione dell’offerta dei benefici del votum
+          crucis (indulgenza, assoluzione dei peccati) anche ai disagiati e ai poveri, e ai peggiori
+          peccatori, si veda ad esempio quanto scriveva Innocenzo III al decano di Spira nel
+          settembre 1213 circa l’assoluzione concessa anche agli incendiari e ai violenti: «Et ut
+          fructuosior valeat existere labor vester, ..., concedimus ut incendiariis et iis qui manus
+          temerarias in clericos aut alias personas ecclesiasticas injecerunt, volentibus suscipere
+          signum crucis, satisfactione passis injuriam exhibita competenti, auctoritate nostra
+          libere absolutionis beneficium impendatis», cfr. PL, 216, col. 905, epistola 108. </p>
+        <p corresp="#rs.886.fro[range(@n=43,@n=44)]">En Bethleem ou Deu fut neis / est li temples ou
+          Deus soffri: Bédier corregge le lezioni Bethleem e il secondo Deus, con un intervento che
+          lui stesso dichiara incertain, sebbene a parer suo necessario: En cele terre ou Deus fu
+          neis / Est li temples ou il soffri. Schöber 1976, pp. 185-204 lo segue, e, pur con qualche
+          riserva, anche Dijkstra 1995a, p. 90. </p>
+        <p><hi rend="italic">li temples ou Deus soffri</hi>: Bédier 1909, p. 83, si interroga su
+          quella che crede un’incongruenza nel testo sottolineando che i luoghi della Passione di
+          Gesù sono la casa di Caifa, il pretorio e il Golgota, ma non il tempio; avanza dunque
+          l’ipotesi, ma senza troppa convinzione, che nella canzone si faccia riferimento alla
+          grotta dell’agonia sulla quale in seguito fu edificata una chiesa paleocristiana. Penso
+          invece che qui non si faccia riferimento diretto alla Passione ma a un sito considerato
+          sacro per il popolo di Dio, ora sofferente, e cioè il luogo che i crociati chiamavano
+          Monte del Tempio (o <hi rend="italic">Templum Solomonis</hi>) perché credevano fosse sorto
+          sulle rovine del Tempio di Salomone. Dopo la presa di Gerusalemme nel 1099 era diventata
+          dapprima sede dei Re di Gerusalemme e poi casa dell’ordine dei Templari. Dal 1187, dopo la
+          battaglia di Hattin e la riconquista del Saladino, il tempio fu riconsacrato all’Islam,
+          divenendo la moschea di al-Aqsa. A questo riguardo si veda anche RS 1729, 10-14 :
+          «Jerusalem, tant es desconfortee! / Sur toi en est le domage venu. / Cretïentez t’a trop
+          abandonee, / et le sepulcre et tenple domini / qui fu jadis en grant chierté tenu». Del
+            <hi rend="italic">Temple</hi> parla anche Gontier de Soignies nella canzone <hi rend="italic">L'an quant voi esclarcir</hi> (RS 1404), 63-64: <hi rend="italic">Pour
+            Dieu passerai mer / Au Temple converser </hi>; Gröber 1902, 680, lo considera indizio di
+          un <hi rend="italic">Kreuzzug</hi>, mentre Formisano 1980, p. LXI, nota 3, pensa che sia
+          «un’ipotesi meramente fantastica, priva di un reale fondamento nel contesto (del resto la
+          menzione del <hi rend="italic">Temple</hi> al v. 64 può ben essere un’eco del <hi rend="italic">Temple Salamo</hi> di Marcabruno, <hi rend="italic">Pax in nomine
+            Domini!</hi>)».</p>
+        <p corresp="#rs.886.fro[range(@n=47,@n=48)]">Lai iert li boens luwiers doneis / a ceauls ki
+          l’avront deservit. Il motivo del salario della vita eterna con cui il Signore ripaga chi
+          l’ha ben servito, si ritrova anche in Jerusalem se plaint et li païs (RS 1576), vv. 41-43:
+          ki en rendra cascun tel guerredon / que cuers d’ome nel poroit esprisier; / car paradis en
+          ara de loier, e in Vous ki ameis de vraie amor (RS 1967), vv. 35-38: Saivez ke Deus n'ait
+          an covant / a ceaz ke se vorront creusier? / Se m’eïst Il, mult bial luier: / Paradis par
+          afaitemant!. Si veda ancora Jacques de Vitry, sermo I,20 citato supra: «Tanta et talia
+          stipendia offert vobis quod sponte currere deberetis, remissionem cunctorum scilicet
+          peccatorum quantum ad penam et culpam et insuper vitam eternam», cfr. Schneyer III,216, n.
+          413 e Maier 2000, p. 98.</p>
+        <p corresp="#rs.886.fro:(n=51)">Ke pensent li roy? Il richiamo va a Chevalier mult este
+          guariz (RS 1548a), 17: Chivalers, cher vus purpensez?</p>
+        <p corresp="#rs.886.fro:(n=56)">Dont lor parrait lor bone foit: Bédier considera il verso
+          una cattiva lezione, sia per la rima errata («parce qu'il faut une rime en -ois»), sia,
+          soprattutto, perché non darebbe senso dire che la bonne foi, ma si dovrebbe intendere la
+          mauvaise foi, dei due re «leur apparaîtra au jour du jugement dernier: elle doit leur
+          apparaître dès l'heure présente; sans quoi elle n'est pas la mauvaise foi» (cfr.
+          Bédier-Aubry 1909, 83). Propone allora, ma solo in nota, ammettendo l’arbitrarietà della
+          sua congettura, di mettere a testo la lezione Lor estrelois, che si adatterebbe a suo
+          parere molto meglio al senso. In questa sede, ho inteso il primo lor come avverbio di
+          tempo derivato da illa hora: ‘in quel momento’. </p>
+        <p corresp="#rs.886.fro:(n=57)">se Deu faillent, a Lui fauront: per l’espressione, dal
+          sapore evangelico, cfr. soprattutto Conon de Béthune, Ahi! Amors, com dure departie (RS
+          1125) 11-12: ki li faura a cest besoig d’aïe, / saiciés ke il li faura a grignor. </p>
+        <p corresp="#rs.886.fro:(n=58)">Il dirait: «Je ne vos conoix!»: si tratta dell’anticipazione
+          della ultima frase dello Sposo nella parabola delle Vergini stolte e delle Vergini savie
+          (Mt 25, 1-13, 12-13: «At ille respondens ait: “Amen dico vobis: Nescio vos”. / Vigilate
+          itaque, quia nescitis diem neque horam»), che sarà citata e spiegata nelle due strofi
+          successive (vv. 65-68 e 71-76). Interessante il parallelo che si può istituire, per
+          l’evidente effetto teatrale della parabola, con lo Sponsus, il dramma liturgico in latino
+          con farciture in volgare di provenienza limosina (XI secolo, unicum del ms. Paris, BnF,
+          lat. 1139), nella parte in cui Cristo recita: «Amen, dico, vos ignosco; nam caretis lumine
+          / quod qui perdunt, procul pergunt huius aule limine. // Alet, chaitivas, alet, malaüreas!
+          / A tot jors mais vos so penas liureas; / en efern ora seret meneias!». </p>
+        <p corresp="#rs.886.fro[range(@n=61,@n=63)]">Prince, duc, conte ... Deus vos ait semons et
+          mandeis. In questi versi Maistres Renas pare attenersi scrupolosamente alla volontà
+          papale: «Ad haec ne quid in negotio Jesu Christi de contingentibus omittatur, volumus et
+          mandamus, ut ... abbates et alii, qui curam obtinent animarum, studiose proponant sibi
+          commissis, verbum crucis, obsecrantes ... reges, duces, principes, marchiones, comites et
+          barones, aliosque magnates ...», cfr. Ad liberandam, decreto 71 del IV Concilio Laterano
+          (PL 217, coll. 269-273, Ordinatio Domini Innocentii expeditionis pro recuperanda Terra
+          Sancta).</p>
+        <p corresp="#rs.886.fro:(n=64)">Guerpissiés villes et chaistiaus: il richiamo è immediato a
+          Chevalier mult estes guariz (RS 1548a), 29-30 in cui si celebra Luigi VII che: deguerpit
+          ad e vair e gris, / chastels e viles e citez.</p>
+        <p corresp="#rs.886.fro[range(@n=65,@n=66)]">Encontre l’Espous en aleis / et si porteis
+          oille en vaixiaulz! Cfr. Mt, 25, 3-4: «Fatuae enim, acceptis lampadibus suis, non
+          sumpserunt oleum secum; / prudentes vero acceperunt oleum in vasis cum lampadibus suis».
+          Anche in questo caso è interessante il confronto con l’intonazione salmodica del canto
+          delle vergini fatue nello Sponsus, che non hanno dimenticato di portare l’olio ma l’hanno
+          versato: «Partimini lumen lampadibus, pie sitis insipientibus, / puise ne nos simus a
+          foribus, cum vos sponsus vocet in sedibus. / Dolentas, chaitivas, trop i avem dormit!»
+          (vv. 39-40 e refrain, cfr. Avalle-Monterosso 1965).</p>
+        <p corresp="#rs.886.fro:(n=67 e 72)">lampes. Il motivo delle lucerne sempre accese, che
+          illustra la condizione del fedele che deve essere sempre pronto, unisce la parabola delle
+          Dieci vergini a quella dei Servi vigilanti (Lc 12, 35-40) che aspettano svegli e attenti
+          il loro padrone che busserà alla porta tornando da una festa di nozze: «Sint lumbi vestri
+          praecincti et lucernae ardentes, / et vos similes hominibus exspectantibus dominum suum,
+          quando revertatur a nuptiis, ut, cum venerit et pulsaverit, confestim aperiant ei. /
+          Beati, servi illi, quos, cum venerit dominus, invenerit vigilantes. / ... / Hoc autem
+          scitote, quia, si sciret pater familias, qua hora fur veniret, non sineret perfodi domum
+          suam. / Et vos estote parati, quia, qua hora non putatis, Filius hominis venit».</p>
+        <p>Il motivo è <hi rend="st">ripreso </hi>nel <hi rend="italic">Roman de Charité</hi>
+          <hi rend="st">del </hi>Renclus de Moiliens, <hi rend="st">str. 123, 4-5: <seg rend="italic">O Carités revien, ravole / Et rapareille a Diu s’escole; / Car si
+              desciple ont fait le tour. /</seg>
+          </hi><hi rend="italic">Lampes sont sans fu et sans ole, / Langues de prelat sans
+            parole</hi> (cfr. van Hamel 1885). </p>
+        <p corresp="#rs.886.fro[range(@n=71,@n=72)]">Elais! ne cognoissent lor sen! / Ke sont
+          lampes, oile desus?: Bédier-Aubry 1909, 83 interviene sul testo correggendo: E! lais, n’en
+          cognoissent lou sens; / Ke sont lampes, oile, ne feus?, ammettendo tuttavia: «Corrections
+          incertaines. Entre autres difficultés feus serait deux fois à la rime dans la même
+          strophe. Si on les accepte faute de mieux, on peut aussi songer à ponctuer ainsi: virgule
+          après sens, point après feus».</p>
+        <p corresp="#rs.886.fro:(n=77)">o les Innocens: gli Innocenti sono i puri, i senza peccato.
+          Schöber 1976, p. 201, li identifica con i bambini uccisi a Betlemme da Erode il Grande
+          (Mt, 2, 1-16), venerati come martiri. Djikstra 1995a, p. 93, sottolinea : «Si cette
+          identification est correcte, Maître Renaut promet ici aux croisés le martyre». Come si
+          diceva nell’introduzione, qui potrebbe esserci invece un richiamo alla cosiddetta
+          “crociata dei Fanciulli” (cfr. Röhricht 1876 e Alphandéry 1916). Il movimento era
+          cominciato nel giugno 1212 con il giovane pastore Stefano che a Saint-Denis aveva
+          presentato istanza a Filippo Augusto per la predicazione e l’indizione di una nuova
+          Crociata che Cristo stesso gli aveva chiesto apparendogli in visione mentre pascolava le
+          sue pecore. Una spedizione di una moltitudine di soli giovani era poi effettivamente
+          partita da Marsiglia nel 1212, ma due delle sette navi che trasportavano i piccoli
+          crociati in Terrasanta affondarono al largo della costa sud occidentale della Sardegna. In
+          memoria del naufragio e dell’impresa Gregorio IX fece erigere nel 1236 una chiesa in onore
+          dei Novelli Innocenti nell’isola di san Pietro. La spedizione degli Innocenti è menzionata
+          anche negli Annales Stadenses: «A. D. 1212. Circa idem tempus pueri sine rectore, sine
+          duce, de universis omnium regionum villis et civitatibus versus transmarinas partes avidis
+          gressibus cucurrerunt, et dum quaereretur ab ipsis, quo currerent, responderunt: “Versus
+          Iherusalem, quaerere terram sanctam!”. [...</p>
+      </div>
+    </back></text></TEI>

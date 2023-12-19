@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../poem-strict.xsl"?>
-<?xml-stylesheet type="text/css" href="../poem-author.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
-
-
-
-
-
-
-
-
-
 		<fileDesc>
 			<titleStmt>
 				<title>rs37a</title>
@@ -193,31 +182,24 @@
 	</teiHeader>
 	<text>
 		<front>
+			<titlePage>
+				<docTitle>
+					<titlePart type="main">Hugues de Berzé</titlePart>
+					<titlePart type="sub"/>
+				</docTitle>
+				<docAuthor/>
+			</titlePage>
 			<div type="preface">
-				<p>
-					<hi rend="bold">Hugues de Berzé</hi>
-				</p>
-				<p>
-					<hi rend="italic bold">Bernart, di me Falqet, q’om tient a sage</hi> (RS 37a) </p>
 				<p xml:lang="fro">
-					<hi rend="italic"> N’Ugo de Bersié mandet aquestas coblas a Falqet de Rotmans
+					N’Ugo de Bersié mandet aquestas coblas a Falqet de Rotmans
 						per un joglar q’avia nom Bernart d’Argentau, per predicar lui qe vengues con
-						lui outra mar</hi>
+						lui outra mar
 				</p>
-
-				<p xml:lang="en"> Hugues de Berzé sent these stanzas to Falquet de Romans by means
-					of a jongleur who was called Bernart d’Argentau, to exhort him to go overseas
-					with him. </p>
-				<p xml:lang="it"> Hugues de Berzé inviò queste strofi a Falquet de Romans per mezzo
-					di un giullare che si chiamava Bernart d’Argentau, per esortarlo ad andare con
-					lui oltremare. </p>
-
 			</div>
 
 		</front>
 		<body>
-
-			<div type="poem" xml:id="RS.37a.fro" xml:lang="fro">
+			<div type="text" xml:id="RS.37a.fro" xml:lang="fro">
 				<lg type="stanza" n="1">
 					<l n="1">Bernart, di me Falqet, q’om tient a sage,</l>
 					<l n="2">qe n’enpleit pas tot son sen en folie,</l>
@@ -262,6 +244,9 @@
 				</lg>
 			</div>
 			<div type="translation" xml:id="RS.37a.eng" corresp="RS.37a.fro" xml:lang="en">
+				<div type="preface" xml:lang="en"> <p>Hugues de Berzé sent these stanzas to Falquet de Romans by means
+					of a jongleur who was called Bernart d’Argentau, to exhort him to go overseas
+					with him. </p></div>
 				<div type="stanza" n="1">
 					<p>Bernart, tell Falquet for me, since he is said to be wise, that he should not
 						waste all his sense on folly, as the two of us have spent a great part of
@@ -297,6 +282,9 @@
 				</div>
 			</div>
 			<div type="translation" xml:id="RS.37a.it" xml:lang="it" corresp="RS.37a.fro">
+				<div type="preface" xml:lang="it"> <p>Hugues de Berzé inviò queste strofi a Falquet de Romans per mezzo
+					di un giullare che si chiamava Bernart d’Argentau, per esortarlo ad andare con
+					lui oltremare.</p></div>
 				<div type="stanza" n="1">
 					<p> Bernardo, riferisci da parte mia a Falchetto, che è ritenuto saggio, che non
 						sprechi tutto il suo senno in cose vane, poiché entrambi abbiamo speso nei

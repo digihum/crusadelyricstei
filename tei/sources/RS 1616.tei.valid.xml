@@ -1,0 +1,597 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author>
+          <name>Linda</name>
+          <surname>Paterson</surname>
+        </author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2015-12-02</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Paris 1833, 5; Leroux de Lincy, I, 94; Bartsch 1870, 57; Brakelmann 1913, 107;
+            Cullmann 1914, 99; Saba 1955, 92; Zink 1978, 107.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Paris 1833, 5; Leroux de Lincy, I, 94; Bartsch 1870, 57; Brakelmann 1913, 107;
+            Cullmann 1914, 99; Saba 1955, 92; Zink 1978, 107.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(3). </hi>M 148r-v (<hi rend="italic">Audefrois</hi>), T 57r-v (<hi
+              rend="italic">Audefrois li Bastars</hi>), C 33r-v (<hi rend="italic">Adefrois li
+              Baistairs</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(3). </hi>M 148r-v (<hi rend="italic">Audefrois</hi>), T 57r-v (<hi
+              rend="italic">Audefrois li Bastars</hi>), C 33r-v (<hi rend="italic">Adefrois li
+              Baistairs</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’"><p><hi rend="Tabella_semplice_5"
+          >10'aaa 8bb 6C (MW 237,1); 13 <seg rend="italic">coblas</seg>
+          <seg rend="italic">unissonans</seg> + 1 <seg rend="italic">refrain</seg>; rhyme a: -<seg
+            rend="italic">ise</seg>; rhyme b: -<seg rend="italic">our</seg>; rhyme c: -<seg
+            rend="italic">ars</seg>; melodic structure </hi>AA’BCD/E <hi rend="Tabella_semplice_5"
+          >(T 930).</hi>
+        <hi rend="italic">Décasyllabes a maiore</hi>: vv. 21, 38, 57, 62. Lyric caesura: vv. 14, 45,
+        51, 56, 68; Italian caesura: v. 73; elision at the caesura: v. 74. The song is a <hi
+          rend="italic">unicum</hi> among Old French versification; its essentially musical nature
+        is demonstrated by the juxtaposition of the fixed form of the <hi rend="italic">rondeau
+          C'est la jus, la jus desouz la coudroie</hi> (B 165 = MW 237,2) with a different syllabic
+        formula. For the possibility of seeing in the <hi rend="italic">refrain</hi> of <hi
+          rend="italic">bele Ysabeaus</hi> the equivalent of a <hi rend="italic">vers orphelin</hi>,
+        a short last six-syllable line with an isolated rhyme concluding the laisses of many epic
+        poems, see Radaelli 2015 (or 2016).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’"><p><hi rend="Tabella_semplice_51"
+          >10'aaa 8bb 6C (MW 237,1); 13 <seg rend="italic">coblas</seg>
+          <seg rend="italic">unissonans</seg> + 1 <seg rend="italic">refrain</seg>; rima a: -<seg
+            rend="italic">ise</seg>; rima b: -<seg rend="italic">our</seg>; rima c: -<seg
+            rend="italic">ars</seg>; schema melodico </hi>AA’BCD/E <hi rend="Tabella_semplice_51">(T
+          930).</hi>
+        <hi rend="italic">Décasyllabes a maiore</hi>: vv. 21, 38, 57, 62. Cesura lirica: vv. 14, 45,
+        51, 56, 68; cesura italiana: v. 73; elisione in cesura: v. 74. La canzone è un <hi
+          rend="italic">unicum</hi> nel panorama metrico oitanico; la sua natura essenzialmente
+        musicale è evidenziata dall'accostamento alla forma fissa del <hi rend="italic">rondeau
+          C'est la jus, la jus desouz la coudroie</hi> (B 165 = MW 237,2), con diversa formula
+        sillabica. Sulla possibilità di riconoscere nel <hi rend="italic">refrain</hi> della <hi
+          rend="italic">bele Ysabeaus</hi> il corrispondente di un <hi rend="italic">vers
+          orphelin</hi>, quel piccolo verso finale di sei sillabe, indipendente per rima, che
+        termina le lasse di molti poemi epici, cfr. Radaelli 2015 (o 2016).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The two manuscripts MT have essentially the same
+        text, with minimal variants at most (vv. 45, 56, 58, 69, 71, 73, 74). MC’s reading is
+        followed in v. 2 (<hi rend="italic">et il li</hi>) as opposed to T (<hi rend="italic">per
+          amors</hi>), and in v. 41, where T has an extra syllable. C does not transmit the whole of
+        st. VI (vv. 31-36), and in v. 45 reads <hi rend="italic">lors sen retorne</hi> as opposed to
+        M <hi rend="italic">lors se croisa </hi>and T <hi rend="italic">lors se croise</hi>. In both
+        cases it is necessary both to preserve the stanza, which maintains the symmetry of the text
+        in the central part, from st. III to st. VIII (III <hi rend="italic">Quant sot Gerars</hi>;
+        IV <hi rend="italic">Amis Gerart</hi>; V <hi rend="italic">Amis Gerart</hi>; VI <hi
+          rend="italic">Dame</hi>; VII <hi rend="italic">Dame</hi>; VIII <hi rend="italic">Quant
+          voit Gerars</hi>), and the reference to the taking of the cross which forms the necessary
+        anticipation of v. 62. C’s reading is adopted solely in the final refrain, in stanza XIII,
+        since it amounts to a variation of the <hi rend="bold">t</hi>repeated final formula that
+        functions as a turning-point in the dramatic narrative (MT repeat the refrain <hi
+          rend="italic">Et ioie atent Gerars</hi>). The edition essentially follows the readings and
+        graphy of T, which as usual presents a greater number of northern features than M.</p> </editorialDecl>
+      <editorialDecl xml:lang="it"><p>I due testimoni MT hanno la stessa lezione, per
+        lo più con varianti minime (vv. 45, 56, 58, 69, 71, 73, 74). Si segue la lezione di MC al v.
+        2 (<hi rend="italic">et il li</hi>) vs T (<hi rend="italic">per amors</hi>), e al v. 41,
+        essendo T ipometro di una sillaba. Segnalo che C non trasmette l'intera str. VI (vv. 31-36),
+        e al v. 45 riporta la lezione <hi rend="italic">lors sen retorne</hi> vs M <hi rend="italic"
+          >lors se croisa </hi>e T <hi rend="italic">lors se croise</hi>. In entrambi i casi si
+        impongono sia la conservazione della strofe, che mantiene la simmetria circolare del testo
+        nella parte centrale, dalla str. III alla str. VIII (III <hi rend="italic">Quant sot
+          Gerars</hi>; IV <hi rend="italic">Amis Gerart</hi>; V <hi rend="italic">Amis Gerart</hi>;
+        VI <hi rend="italic">Dame</hi>; VII <hi rend="italic">Dame</hi>; VIII <hi rend="italic"
+          >Quant voit Gerars</hi>), sia il riferimento alla presa della croce che costituisce
+        l'aggancio necessario col v. 62. Si mette a testo la lezione di C solo nell'ultimo <hi
+          rend="italic">refrain</hi> della str. XIII, perché si configura come una variazione della
+        formula ripetitiva finale funzionale allo svolgimento drammatico-narrativo della <hi
+          rend="italic">chanson d'histoire</hi> (MT ripetono il refrain <hi rend="italic">Et ioie
+          atent Gerars</hi>). Si segue sostanzialmente la lezione e la grafia di T, che di solito
+        presenta un maggior numero di tratti settentrionali rispetto a M.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <date>2015-12-09T14:21:09Z</date>
+          <name>Linda Paterson</name>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Audefroi le Bastard</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+        <div type="text" xml:id="rs.1616.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Bele Yzabeaus, pucele bien aprise, </l>
+            <l n="2">ama Gerart et il li en tel guise </l>
+            <l n="3">c’ainc de folor par lui ne fu requise, </l>
+            <l n="4">ains l’ama de si bone amor </l>
+            <l n="5">que miex de li guarda s'onor. </l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="7">Quant plus se fu bone amors entr'eaus mise,</l>
+            <l n="8">par loialté affermee et reprise,</l>
+            <l n="9">en cele amor, la damoisele ont prise</l>
+            <l n="10">si parent, et doné signor, </l>
+            <l n="11">oultre son gré, un vavasor.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="13">Quant sot Gerars, qui fine amors justice,</l>
+            <l n="14">que la bele fu a signor tramise,</l>
+            <l n="15">grains et maris fist tant par sa maistrise </l>
+            <l n="16">que a sa dame, en un destor,</l>
+            <l n="17">a fait sa plainte et sa clamour.</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="19">«Amis Gerart, n’aiés ja covoitise </l>
+            <l n="20">de çou voloir dont ainc ne fui requise! </l>
+            <l n="21">Puis que jou ai signor ki m’aime et prise,</l>
+            <l n="22">bien doi estre de tel valour</l>
+            <l n="23">que je ne doi penser folor».</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="25">«Amis Gerart, faites ma conmandise: </l>
+            <l n="26">ralés vos ent, si ferés grant franchise.</l>
+            <l n="27">Morte m’avriés s’od vos estoie prise! </l>
+            <l n="28">28Mais metés vos tost el retour, </l>
+            <l n="29">je vos conmant au Creator!». </l>
+          </lg>
+          <lg n="6" type="stanza">
+            <l n="31">«Dame, l’amor k’aillors avés assise,</l>
+            <l n="32">deüsse avoir par loialté conquise!</l>
+            <l n="33">Mais plus vos truis dure que piere bise,</l>
+            <l n="34">se n'ai au cuer si grant dolor</l>
+            <l n="35">c’a biau samblant sospir et plour».</l>
+          </lg>
+          <lg n="7" type="stanza">
+            <l n="37">«Dame, pour Dieu!», fait Gerars sans faintise,</l>
+            <l n="38">«aiés de moi pitié par vo franchise! </l>
+            <l n="39">La vostre amors me destraint et atise, </l>
+            <l n="40">et par vos sui en tel error </l>
+            <l n="41">que nus ne poet estre en gregnor!». </l>
+          </lg>
+          <lg n="8" type="stanza">
+            <l n="43">Quant voit Gerars, qui fine amors justise,</l>
+            <l n="44">que sa dolors de noient n’apetise, </l>
+            <l n="45">lors se croise, de doel et d’ire esprise.</l>
+            <l n="46">Et pourquiert ensi son ator</l>
+            <l n="47">que il puist movoir a brief jor. </l>
+          </lg>
+          <lg n="9" type="stanza">
+            <l n="49">Tost moet Gerars, tost a sa voie quise.</l>
+            <l n="50">Devant tramet son esquiier Denise</l>
+            <l n="51">a sa dame parler par sa franchise.</l>
+            <l n="52">La dame iert ja par la verdor,</l>
+            <l n="53">en un vergier coillir la flor.</l>
+          </lg>
+          <lg n="10" type="stanza">
+            <l n="55">Vestue fu la dame par cointise, </l>
+            <l n="56">molt iert bele, graille et grasse et alise, </l>
+            <l n="57">le vis avoit vermel conme cerise.</l>
+            <l n="58">«Dame», dist il, «que tres bon jor</l>
+            <l n="59">vos doinst Cil qui j’aim et aour!» </l>
+          </lg>
+          <lg n="11" type="stanza">
+            <l n="61">«Dame, por Dieu!», fait Gerars sans faintise,</l>
+            <l n="62">«D’outremer ai por vos la voie emprise!».</l>
+            <l n="63">La dame l’ot, miex vausist estre ocise!</l>
+            <l n="64">Si s’entrebaisent par douçour</l>
+            <l n="65">c’andoi caïrent en l’erbour. </l>
+          </lg>
+          <lg n="12" type="stanza">
+            <l n="67">Ses maris voit la folor entreprise.</l>
+            <l n="68">Por voir, quide la dame morte gise </l>
+            <l n="69">les son ami. Tant se het et mesprise,</l>
+            <l n="70">k’il pert sa force et sa vigor</l>
+            <l n="71">et moert de doel en tele error. </l>
+          </lg>
+          <lg n="13" type="stanza">
+            <l n="73">De pamison lievent, par tel devise </l>
+            <l n="74">que il font faire au mort tot son servise.</l>
+            <l n="75">Li deus remaint. Gerars, par sainte Iglise,</l>
+            <l n="76">a fait de sa dame s’oissour.</l>
+            <l n="77">Ce tiesmoignent li ancissor.</l>
+          </lg>
+        </div>
+        <div type="translation" xml:id="rs.1616.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Fair Isabel, a well-brought-up maid, loved Gerard, and he loved her in such a way
+              that he never requested any impropriety, but rather loved her with such pure love that
+              he protected her honour more than himself. <hi rend="italic">Meanwhile Gerard seeks
+                joy.</hi></p>
+          </div>
+          <div n="2" type="stanza">
+            <p>When pure love had been faithfully confirmed again and again, in that love her
+              parents took the young lady and gave her in marriage to a lord, a vavassor, against
+              her will. <hi rend="italic">Meanwhile Gerard seeks joy.</hi></p>
+          </div>
+          <div n="3" type="stanza">
+            <p>When Gerard, who was ruled by <hi rend="italic">fin'amors</hi>, came to know that the
+              fair one had been handed over to a lord, he became so angry and upset by his tyranical
+              treatment that in a secluded place he complained and protested to his lady. <hi
+                rend="italic">Meanwhile Gerard seeks joy.</hi></p>
+          </div>
+          <div n="4" type="stanza">
+            <p>«Dear Gerard, do not now be so greedy as to want what was never requested of me!
+              Since I have a husband who loves and honours me, I must behave so virtuously as to
+              avoid thoughts of folly». <hi rend="italic">Meanwhile Gerard seeks joy.</hi></p>
+          </div>
+          <div n="5" type="stanza">
+            <p>« Dear Gerard, do as I bid: go away; this will be a most noble act on your part. You
+              would be the death of me if I were caught with you! Go back quickly to where you came
+              from, I commend you to the Creator!». <hi rend="italic">Meanwhile Gerard seeks
+                joy.</hi>
+            </p>
+          </div>
+          <div n="6" type="stanza">
+            <p>«Lady, the love you have settled elsewhere should be mine, I have won it through
+              loyalty! I find you much harder than a dark rock and feel such pain in my heart that
+              beneath a cheerful appearance I sigh and weep». <hi rend="italic">Meanwhile Gerard
+                seeks joy.</hi></p>
+          </div>
+          <div n="7" type="stanza">
+            <p>«Lady, in God’s name!», says Gerard in all honesty, «be generous and have pity on me!
+              My love for you tortures and inflames me, and because of you I am in such confusion
+              that no man could be in a worse!». <hi rend="italic">Meanwhile Gerard seeks
+              joy.</hi></p>
+          </div>
+          <div n="8" type="stanza">
+            <p>When Gerard, who is ruled by <hi rend="italic">fin'amors</hi>, sees that nothing
+              soothes his pain, he takes the cross, driven by sorrow and anger. And he sets about
+              procuring his equipment so that he can set out in a few days. <hi rend="italic"
+                >Meanwhile Gerard seeks joy.</hi></p>
+          </div>
+          <div n="9" type="stanza">
+            <p>Gerard makes haste, he wants to set out quickly on his way. But first he sends his
+              squire Dennis to talk candidly to his lady. The lady was out in the open, picking
+              flowers in an orchard. <hi rend="italic">Meanwhile Gerard seeks joy. </hi></p>
+          </div>
+          <div n="10" type="stanza">
+            <p>The lady was elegantly dressed, very beautiful, slim and shapely and smooth, her
+              cheeks were cherry-red. «Lady», he said, «The One whom I love and worship give you a
+              very good day!». <hi rend="italic">Meanwhile Gerard seeks joy.</hi></p>
+          </div>
+          <div n="11" type="stanza">
+            <p>«Lady, in God’s name!», Gerard says sincerely, «because of you I have set out for
+              Outremer!». The lady heard him: she would rather have been killed! Then they kiss each
+              other so sweetly that both fall slipping onto the grass. <hi rend="italic">Meanwhile
+                Gerard seeks joy. </hi></p>
+          </div>
+          <div n="12" type="stanza">
+            <p>Her husband sees the folly happening. In fact he believes the lady is lying dead next
+              to her lover. He so hates and despises himself that he loses his strength and vigour
+              and dies of grief in this illusion. <hi rend="italic">Meanwhile Gerard seeks
+              joy.</hi></p>
+          </div>
+          <div n="13" type="stanza">
+            <p>They arise from their fainting fit, in such a manner that they have all due funeral
+              honours performed for the dead man. Mourning is over. Gerard, in the name of the holy
+              Church, has made his lady his wife. This the ancients testify. <hi rend="italic">Now
+                Gerard has joy.</hi></p>
+          </div>
+        </div>
+        <div type="translation" xml:id="rs.1616.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Bella Isabella, fanciulla ben educata, amava Gerardo, e lui amava lei in modo tale
+              che mai fu richiesta di una follia da parte sua, che anzi l'amava di un amore così
+              puro che meglio di lei ne custodiva l'innocenza. <hi rend="italic">Intanto Gerardo
+                attende la gioia.</hi></p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Quando amore puro si era radicato nei loro cuori, giurato e rigiurato per lealtà,
+              proprio in quell'amore, i genitori della damigella la presero e la diedero in sposa,
+              contro la sua volontà, a un valvassore. <hi rend="italic">Intanto Gerardo attende la
+                gioia.</hi>
+            </p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Quando Gerardo, che <hi rend="italic">fin'amors</hi> governa, venne a sapere che la
+              bella era stata data a un signore, fu così dispiaciuto e offeso per il sopruso subìto
+              che, in disparte, si lamenta e protesta con la sua dama. <hi rend="italic">Intanto
+                Gerardo attende la gioia.</hi></p>
+          </div>
+          <div n="4" type="stanza">
+            <p>«Caro Gerardo, non abbiate ora smania di volere ciò che mai prima mi avete richiesto!
+              Dal momento che ho uno sposo che mi ama e mi onora, devo tenere un contegno virtuoso
+              che non consente di pensare a follia». <hi rend="italic">Intanto Gerardo attende la
+                gioia.</hi></p>
+          </div>
+          <div n="5" type="stanza">
+            <p>«Caro Gerardo, mi raccomando: tornate sui vostri passi, farete un atto di grande
+              franchezza. Mi avreste morta se fossi sorpresa accanto a voi! Allontanatevi al più
+              presto, vi affido al Creatore!». <hi rend="italic">Intanto Gerardo attende la
+                gioia.</hi>
+            </p>
+          </div>
+          <div n="6" type="stanza">
+            <p>«Dama, quell'amore che avete assicurato altrove, dovrebbe essere mio, l'ho
+              conquistato per lealtà! Ma vi trovo più dura di un macigno e sento nel cuore un tale
+              dolore, che piango senza farmi vedere». <hi rend="italic">Intanto Gerardo attende la
+                gioia.</hi></p>
+          </div>
+          <div n="7" type="stanza">
+            <p>«Dama, in nome di Dio!», dice Gerardo senza falsità, «Abbiate voi pietà di me, in
+              nome della vostra lealtà! L'amore per voi mi tortura e mi infiamma, e a causa vostra
+              sono in un tale imbroglio che più grande non si può!». <hi rend="italic">Intanto
+                Gerardo attende la gioia.</hi></p>
+          </div>
+          <div n="8" type="stanza">
+            <p>Quando Gerardo, che <hi rend="italic">fin'amors</hi> governa, si avvede che il suo
+              dolore non diminuisce per nulla, allora prende la croce, in preda allo sconforto e
+              alla delusione. E affretta i preparativi per potersi muovere da lì a pochi giorni. <hi
+                rend="italic">Intanto Gerardo attende la gioia.</hi></p>
+          </div>
+          <div n="9" type="stanza">
+            <p>Si affretta Gerardo, subito vuole fare il viaggio. Ma prima manda avanti Denis, il
+              suo scudiero, a parlare in tutta franchezza alla sua dama. La dama era all'aperto, a
+              cogliere fiori in giardino. <hi rend="italic">Intanto Gerardo attende la gioia.</hi>
+            </p>
+          </div>
+          <div n="10" type="stanza">
+            <p>Con eleganza era vestita la dama, molto bella, sottile e morbida e liscia, il viso
+              aveva vermiglio come ciliegia. «Dama», disse lui, «Colui che amo e adoro vi doni una
+              bellissima giornata!». <hi rend="italic">Intanto Gerardo attende la gioia.</hi></p>
+          </div>
+          <div n="11" type="stanza">
+            <p>«Dama, in nome di Dio!», disse Gerardo senza mezze parole, «a causa vostra prendo la
+              via dell'Oltremare!». La dama lo udì: avrebbe preferito essere uccisa! Allora si
+              abbracciano con dolcezza e scivolano insieme sull'erba. <hi rend="italic">Intanto
+                Gerardo attende la gioia.</hi>
+            </p>
+          </div>
+          <div n="12" type="stanza">
+            <p>Suo marito vede la follia d'amore mentre si avvera. A dir la verità, lui crede che la
+              dama sia morta distesa accanto al suo amico. La grande rabbia e la vergogna che prova
+              gli fanno perdere ogni vigore e muore di languore in questa illusione. <hi
+                rend="italic">Intanto Gerardo attende la gioia.</hi>
+            </p>
+          </div>
+          <div n="13" type="stanza">
+            <p>Si riprendono dal deliquio, così bene che rendono al morto ogni onore funebre. Il
+              lutto finisce. Gerardo, in nome della santa Chiesa, fa della sua dama la sua sposa.
+              Questo tramandano gli antichi. <hi rend="italic">Ora Gerardo ha la gioia.</hi></p>
+          </div>
+        </div>
+        <div type="text" xml:lang="en ">
+          <p>Anna Radaelli 2015</p>
+        </div>
+        <div type="text" xml:lang="it ">
+          <p>Anna Radaelli 2015</p>
+        </div>
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>Audefroi’s activity took place in the first third of the 13th c. in Arras. In the songs
+            <hi rend="italic">Pour travaill ne pour painne</hi>, vv. 47-48 (RS 129) and <hi
+            rend="italic">Amours de qui j’esmuef mon chant</hi>, v. 46 (RS 311), Audefroi alludes to
+          the <hi rend="italic">seigneur de Neele</hi>, identified with Jean II, lord of Nesle from
+          1202 to 1241; and the <hi rend="italic">envoi</hi> to <hi rend="italic">Com esbahis</hi>
+          (RS 729) is dedicated to <hi rend="italic">mon seigneur a Harnes</hi>, identified with
+          Michel III, lord of Harnes 1180-1231 (see Culmann 1914, 3-5; Saba 1955, 13-14 and <hi
+            rend="Emphasis"><seg rend="italic">Petersen Dyggve 1942, </seg></hi><hi rend="st">198,
+            225, 235</hi>). In addition, the stylistic choice of re-using the formal features of the
+          recent past (the <hi rend="italic">vers orphelin</hi>, a 12th-c. epic innovation, and the
+          use of the decasyllable), together with the reference to the crusade (vv. 45, 49, 62)
+          which is used as a rhetorico-dramatic but also parodic device, and also the
+          ‘theatricality’ of the text, all contribute to framing the Arras poetic context with the
+          early experiments in theatre in vogue in Arras in the first quarter of the 13th c.. Rather
+          than a long and out-moded <hi rend="italic">chanson de toile</hi>, <hi rend="italic">Bele
+            Yzabeaus</hi> appears to be a short modern musical <hi rend="italic">jeu</hi>, a little
+          comic poem in dialogue form, in which the meeting of music and the literary clichés of
+          epic and romance is played out on the edge of parody (for the comic-parodic interpretation
+          of the song see Radaelli 2015).</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>L'attività di Audefroi è collocabile entro il primo terzo del XIII secolo ad Arras. Nelle
+          canzoni <hi rend="italic">Pour travaill ne pour painne</hi>, vv. 47-48 (RS 129) e <hi
+            rend="italic">Amours de qui j’esmuef mon chant</hi>, v. 46 (RS 311), Audefroi cita il
+            <hi rend="italic">seigneur de Neele</hi>, identificato con Jean II, signore di Nesle dal
+          1202 al 1241; inoltre l'invio di <hi rend="italic">Com esbahis</hi> (RS 729) è dedicato a
+          un <hi rend="italic">mon seigneur a Harnes</hi>, identificato con Michel III, signore di
+          Harnes dal 1180 al 1231 (cfr. Culmann 1914, 3-5; Saba 1955, 13-14 e <hi rend="Emphasis"
+              ><seg rend="italic">Petersen Dyggve 1942, </seg></hi><hi rend="st">198, 225,
+          235</hi>). Anche la scelta stilistica di recuperare da un passato recente i modi formali
+          (il <hi rend="italic">vers orphelin</hi>, innovazione epica del XII secolo, e l'impiego
+          del <hi rend="italic">décasyllabe</hi>), unita all'accenno alla Crociata (ai vv. 45, 49,
+          62), usato come espediente retorico-drammatico, ma anche parodico, e alla 'teatralità' del
+          testo, concorre a inquadrare il contesto poetico arrageois con i primi esperimenti
+          teatrali in voga ad Arras nel primo quarto del XIII secolo. Più che una lunga e fuori moda
+            <hi rend="italic">chanson de toile</hi>, la <hi rend="italic">bele Yzabeaus</hi> pare
+          piuttosto un breve e moderno <hi rend="italic">jeu</hi> musicale, un poemetto comico
+          dialogato, in cui l'incontro tra la musica e i <hi rend="italic">clichés</hi> letterari
+          dell'epica e del romanzo è giocato sul filo della parodia (Sull'interpretazione in chiave
+          comico-parodica della canzone, cfr. Radaelli 2015).</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p corresp="#rs.1616.fro:(n=1)">bele Yzabeaus is a name in vogue in the mid-13th-c. poetic
+          environment of Arras: besides the anonymous chanson de mal-mariée An halte tour se siet
+          belle Yzabel (RS 586), it is found in v. 33 of the anonymous song of separation Por joie
+          avoir perfite en Paradis (RS 1582), datable to 1235-1239, on the eve of Thibaut de
+          Champagne’s expedition to the Holy Land, and in the lyric lai on the death of belle
+          Isabelle (RS 81) by Andrieu Contredit, miles ministerellus of Arras († 1248), who was also
+          a member of Thibaut’s crusading entourage. </p>
+        <p><hi rend="italic">pucele bien aprise</hi>. The same formula recurs in Chrétien de Troyes’
+          romances: <hi rend="italic">Erec</hi>, v. 1657: «qu'ele estoit bele et bien aprise»; <hi
+            rend="italic">Yvain</hi>, v. 5476: «Que mout est bele et bien aprise», <hi rend="italic"
+            >Cligès</hi>, vv. 941-943, where Soredamor declares herself to be <hi rend="italic">mout
+            bien aprise</hi> in Love’s <hi rend="italic">servise</hi>. For Chrétien de Troyes, see
+          Poirion 1994.</p>
+        <p corresp="#rs.1616.fro:(n=3)">folor: ‘dishonourable action, infraction of the rules of
+          bona amor’; but compare how Paulin Paris interpreted this term: «‘amoreuse merci’; ce que
+          les Anglais comprennent sous le nom de criminal conversation» (Paris 1833, p. 5). For the
+          folie amoreuse in the northern lyric tradition see Dragonetti 1986, pp. 127-136.</p>
+        <p corresp="#rs.1616.fro:(n=33)">plus dure que piere bise. The image of hardness and
+          firmness, here referring to the lady, is found in Chrétien, but in the description of a
+          tower’s strength; see Perceval, vv. 3046-3048: «L'an ne trovast jusqu'a Barut / si bele ne
+          si bien asise. / Quarree fu, de pierre bise». For the formula piere bise, comparee also
+          the interpretation of Paris who, after understanding maistrise in v. 15 as «art, habilité»
+          (evidently in his view referring to the lady’s cunning), plays on the idea of female
+          fickleness: «Les joailliers appellent encore biseaux les angles ou facettes des pierres
+          précieuses. Je croirais assez que ce mot s'est dit pour à double reflet» (Paris 1833, p.
+          7). </p>
+        <p corresp="#rs.1616.fro:(n=45)">lors se croise. Here in v. 49 (tost a sa voie quise) and v.
+          62 (d'outremer ai pour vous la voie entreprise!) is the only crusading reference in the
+          whole corpus of the twenty-odd chansons de toile and d'histoire in Old French. The parodic
+          intention of the text seems clear to me. It employs this rhetorical device, a determinant
+          of the plot, evoking women’s songs through the motif of departure on crusade, circulating
+          in the Arras milieu at around this time. Compare the songs RS 21 Chanterai por mon corage
+          of Guiot de Dijon, RS 191 Jherusalem, grant damage me fais, and RS 1659 Douce dame, cui
+          j'ain en bone foi (all on the website). For the context, it is worth noting that the Jeu
+          de saint Nicolas of Jean Bodel of Arras is also pervaded with the epic atmosphere of
+          crusading and has been considered a work of propaganda on the eve of the Fourth Crusade:
+          see Payen 1973 and Heller 2003, I, pp. 598-612. </p>
+        <p corresp="#rs.1616.fro:(n=69)">Tant se het et mesprise. Death from fury associates the
+          mari of this song with characters of 12th-c. Medieval Latin comedy, in particular the
+          Lidia (esp. vv. 13-16 and 514-515, ed. Gualandri-Orlandi 1998), and the fabliaux (with the
+          canonical characters of wife, husband, lover, and go-between, the esquiier Denise. But
+          even clearer is the possible link with Chrétien’s Cligès, especially the second part where
+          the playful comedic material is developed: see in particular vv. 6604-6609, which recount
+          the death of Alis who goes mad with rage when he realises he has been tricked by Fenice
+          and Cligès: «Morz est, mes vos ne le savez, / vostre oncles del duel que il ot / por ce
+          que trover ne vos pot. / Tel duel ot que le san chanja, / onques ne but ne ne manja, / si
+          morut con huem forssenez». Paris, the first editor, and Jeanroy make humorous comments.
+          The former notes the husband’s convenient death: «Certes, parmi les maris passés et
+          présent auxquels justice semblable a jamais été faite, on en trouve peu d'aussi commodes
+          que le vavassour, époux de belle Isabeaus. Ils ont en général la vie plus dure» (Paris
+          1833, p. 10). Jeanroy evokes the spirit of a French drama from the Second Empire, Monsieur
+          de Camors (1867) by Octave Feuillet: «Le mari s'y trompe et croit que sa femme est tombée
+          morte aux côtés de son ami (ces sortes d'aventures sont fréquentes dans les chansons de
+          geste), et cet époux trop sensible expire aussitôt de douleur: cette attaque d'apoplexie
+          si opportune nous rappelle malgré nous celle qui frappe le général de Campvallon dans
+          Monsieur de Camors; mais le mari d'Ysabiaus a au moins, en mourant, la consolation de se
+          faire illusion sur la vertu de sa femme» (Jeanroy 1889, p. 224, n. 1). </p>
+        <p corresp="#rs.1616.fro:(n=76)">a fait de sa dame s’oissour. Formisano 1993, 187, also
+          writes of a «conclusione degna di un Chrétien», especially as this line recalls Cligès, v.
+          6633: «De s'amie a feite sa dame». </p>
+        <p corresp="#rs.1616.fro:(n=77)">Ce tiesmoignent li ancissor. Here too Cligès may have
+          prompted the final line of the chanson: compare vv. 18-27: «Ceste estoire trovons escrite,
+          / que conter vos vuel et retraire, / en .i. des livres de l'aumaire / Monseignor saint
+          Pere a Biauvez; / de la fu li contes estrez / qui tesmoingne l'estoire a voire, / por ce
+          fet ele mialz a croire. / Par les livres que nos avons / les fez des anciens savons / et
+          del siegle qui fu jadis».</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p corresp="#rs.1616.fro:(n=1)">bele Yzabeaus è un appellativo in voga nell'ambiente poetico
+          artesiano della metà del XIII secolo: oltre che nell'anonima canzone di malmaritata An
+          halte tour se siet belle Yzabel (RS 586), si trova nell'allocuzione al v. 33 della chanson
+          de départie anonima Por joie avoir perfite en Paradis (RS 1582), databile tra il 1235 e il
+          1239, alla vigilia della spedizione in Terra santa di Thibaut de Champagne, e nel lai
+          lirico in morte della belle Isabelle (RS 81) di Andrieu Contredit, miles ministerellus di
+          Arras († 1248), anch'egli tra i membri dell'entourage crociato di Thibaut. </p>
+        <p><hi rend="italic">pucele bien aprise</hi>. La stessa formula ricorre nei romanzi di
+          Chrétien de Troyes: nell'<hi rend="italic">Erec</hi>, al v. 1657: «qu'ele estoit bele et
+          bien aprise», nell'<hi rend="italic">Yvain</hi> al v. 5476: «Que mout est bele et bien
+          aprise», oltre che nel <hi rend="italic">Cligès</hi>, ai vv. 941-943, in cui Soredamor si
+          dichiara <hi rend="italic">mout bien aprise</hi> sul <hi rend="italic">servise</hi>
+          d'Amore. Per Chrétien de Troyes, cfr. Poirion 1994.</p>
+        <p corresp="#rs.1616.fro:(n=3)">folor: 'atto disonorevole, contravvenzione alle regole della
+          bone amor'; ma si veda come Paulin Paris interpretava questo termine: «'amoreuse merci';
+          ce que les Anglais comprennent sous le nom de criminal conversation» (Paris 1833, p. 5).
+          Sulla folie amoreuse nella tradizione lirica settentrionale, cfr. Dragonetti 1986, pp.
+          127-136.</p>
+        <p corresp="#rs.1616.fro:(n=33)">plus dure que piere bise. L'immagine di durezza e fermezza,
+          qui riferita alla dama, si trova in Chrétien, ma nella descrizione della saldezza di una
+          torre, cfr. Perceval, vv. 3046-3048: «L'an ne trovast jusqu'a Barut / si bele ne si bien
+          asise. / Quarree fu, de pierre bise». Sulla formula piere bise, si veda anche
+          l'interpretazione di Paris che, dopo aver inteso maistrise del v. 15 come «art, habilité»
+          (evidentemente riferendosi all'astuzia della dame), gioca sulla volubilità femminile: «Les
+          joailliers appellent encore biseaux les angles ou facettes des pierres précieuses. Je
+          croirais assez que ce mot s'est dit pour à double reflet» (Paris 1833, p. 7). </p>
+        <p corresp="#rs.1616.fro:(n=45)">lors se croise. Qui al v. 49 (tost a sa voie quise) e al v.
+          62 (d'outremer ai pour vous la voie entreprise!) si trova l'unico riferimento alle
+          crociate in tutto il corpus della ventina di chansons de toile e d'histoire in lingua
+          d'oïl. Mi pare evidente l'intento parodico del testo, che impiega questo meccanismo
+          retorico, risolutore dell'azione, facendo appello alle canzoni di donna per la partenza
+          del crociato che in quello stesso torno d'anni stavano circolando nell'ambiente arrageois.
+          Si vedano infatti le canzoni RS 21 Chanterai por mon corage di Guiot de Dijon, RS 191
+          Jherusalem, grant damage me fais, e RS 1659 Douce dame, cui j'ain en bone foi (tutti i
+          componimenti sono leggibili in questo sito). Per il contesto, è bene ricordare che anche
+          il Jeu de saint Nicolas dell'arrageois Jean Bodel è pervaso dall'atmosfera epica delle
+          Crociate tanto da essere considerato opera di propaganda alla vigilia della Quarta
+          spedizione, cfr. Payen 1973 e Heller 2003, I, p. 598-612. </p>
+        <p corresp="#rs.1616.fro:(n=69)">Tant se het et mesprise. La morte per stizza accomuna il
+          mari di questa canzone ai personaggi della commedia elegiaca latina del XII secolo, in
+          particolare alla Lidia (spec. vv. 13-16 e 514-515, ed. Gualandri-Orlandi 1998), e dei
+          fabliaux (con i personaggi canonici: la moglie, il marito, l'amante e il messaggero
+          d'amore-mezzana, l'esquiier Denise). Ma ancor più manifesto è il legame che si può
+          stabilire col Cligès di Chrétien, o meglio con la sua seconda parte, dove è sviluppata la
+          iocosa materia della commedia, si vedano in particolare i vv. 6604-6609, in cui si
+          racconta la morte da forssennez di Alessio di Costantinopoli, dopo aver realizzato di
+          essere stato ingannato da Fenice e da Cligès: «Morz est, mes vos ne le savez, / vostre
+          oncles del duel que il ot / por ce que trover ne vos pot. / Tel duel ot que le san chanja,
+          / onques ne but ne ne manja, / si morut con huem forssenez». Ironicamente spiritosi sono i
+          commenti di Paris, primo editore, e Jeanroy. Il primo osserva la morte opportuna del mari:
+          «Certes, parmi les maris passés et présent auxquels justice semblable a jamais été faite,
+          on en trouve peu d'aussi commodes que le vavassour, époux de belle Isabeaus. Ils ont en
+          général la vie plus dure» (Paris 1833, p. 10). Mentre Jeanroy rievoca il clima di un'opera
+          della drammaturgia francese del secondo impero, Monsieur de Camors (1867) di Octave
+          Feuillet: «Le mari s'y trompe et croit que sa femme est tombée morte aux côtés de son ami
+          (ces sortes d'aventures sont fréquentes dans les chansons de geste), et cet époux trop
+          sensible expire aussitôt de douleur: cette attaque d'apoplexie si opportune nous rappelle
+          malgré nous celle qui frappe le général de Campvallon dans Monsieur de Camors; mais le
+          mari d'Ysabiaus a au moins, en mourant, la consolation de se faire illusion sur la vertu
+          de sa femme» (cfr. Jeanroy 1889, p. 224, nota 1). Effettivamente la situazione presenta
+          molte analogie. </p>
+        <p corresp="#rs.1616.fro:(n=76)">a fait de sa dame s’oissour. Di «conclusione degna di un
+          Chrétien», parla anche Formisano 1993, 187, che per questo verso rimanda a Cligès, v.
+          6633: «De s'amie a feite sa dame». </p>
+        <p corresp="#rs.1616.fro:(n=77)">Ce tiesmoignent li ancissor. Anche in questo caso è Cligès
+          che può aver suggerito il verso di chiusura della chanson, cfr. i vv. 18-27: «Ceste
+          estoire trovons escrite, / que conter vos vuel et retraire, / en .i. des livres de
+          l'aumaire / Monseignor saint Pere a Biauvez; / de la fu li contes estrez / qui tesmoingne
+          l'estoire a voire, / por ce fet ele mialz a croire. / Par les livres que nos avons / les
+          fez des anciens savons / et del siegle qui fu jadis».</p>
+      </div>
+    </back>
+  </text>
+</TEI>

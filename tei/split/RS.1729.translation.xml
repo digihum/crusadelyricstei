@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-10-21</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Camus 1891, 241; Bédier-Aubry 1909, 247; Bertoni 1917, 363; Petersen Dyggve 1939,
+            139; Dijkstra 1995, 214.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Camus 1891, 241; Bédier-Aubry 1909, 247; Bertoni 1917, 363; Petersen Dyggve 1939,
+            139; Dijkstra 1995, 214.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: <hi rend="bold">(1). </hi>H 220b (<hi rend="italic">Moniez
+              d’Arraz</hi>); for the attribution see the introduction to RS 640.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: <hi rend="bold">(1). </hi>H 220b (<hi rend="italic">Moniez
+              d’Arraz</hi>); per l’attribuzione si veda l’introduzione al testo RS 640.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10a’ba’bba’ba’b (MW 909,2 = Frank
+        304); 6 <hi rend="italic">coblas doblas</hi> (of which four are preserved in their entirety
+        and one partially) with a 5-line <hi rend="italic">envoi</hi> (babab); rhyme a: <hi rend="italic">-oie</hi>, <hi rend="italic">-ee</hi>, <hi rend="italic">-ie</hi>; rhyme b:
+          <hi rend="italic">-ent</hi>, <hi rend="italic">-uz</hi>, <hi rend="italic">-er</hi>;
+        paronymous and derivative rhymes vv. 25 and 29 (<hi rend="italic">revenu-venu</hi>), 23 and
+        31 (?) (<hi rend="italic">esperdu-perdu</hi>); caesura 6+4 vv. 23 and 37 (?); lyric caesura
+        v. 24; feminine caesura with elision vv. 31 and 59.</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10a’ba’bba’ba’b (MW 909,2 = Frank
+        304); 6 <hi rend="italic">coblas doblas</hi> (di cui quattro conservate integralmente e una
+        parzialmente) con un <hi rend="italic">envoi</hi> di 5 versi (babab); rima a: <hi rend="italic">-oie</hi>, <hi rend="italic">-ee</hi>, <hi rend="italic">-ie</hi>; rima b:
+          <hi rend="italic">-ent</hi>, <hi rend="italic">-uz</hi>, <hi rend="italic">-er</hi>; vi è
+        rima paronima e derivativa ai vv. 25 e 29 (<hi rend="italic">revenu-venu</hi>), 23 e 31 (?)
+          (<hi rend="italic">esperdu-perdu</hi>); cesura 6+4 vv. 23 e 37 (?); cesura lirica al v.
+        24; cesura femminile con elisione vv. 31 e 59.</p></metDecl>
+      <editorialDecl xml:lang="en"><p>For analysis of the manuscript see the
+        corresponding rubric to the song RS 640. The text is transmitted in an incomplete and
+        corrupt state, from the point of view of both structure and readings. As Bédier clearly
+        shows, an analysis of the rhymes points to an original structure of <hi rend="italic">coblas
+          doblas</hi>, but in the way the text is set out in the manuscript it appears lacunary and
+        disorderly. The rhymes of the first stanza are isolated, and Bédier rightly postulates the
+        existence of a second, lost, stanza with the same rhymes (there is only one known case of a
+        song with five stanzas having the structure 1+2+2: the anonymous pastourelle RS 2002). The
+        rhymes of the second stanza in the manuscript (the third in Bédier’s reconstruction, the
+        fourth in ours) are picked up in five lines transposed by the scribe to the end of the text,
+        but sense and syntax show that they must be the residual stump of an originally complete
+        stanza which should be placed in an a position adjoining the fourth stanza of the
+        reconstructed text; not only are the rhymes the same, but the reference in v. 41 to the
+        king’s recovery presupposes that the lines on his illness come first. The scribe is likely
+        to have transposed these lines to the end precisely because of their fragmentary nature. The
+        final part of the text has been correctly transcribed by the copyist, with two other stanzas
+        having the same rhymes and a five-line <hi rend="italic">envoi</hi> echoing the rhyme-scheme
+        and rhyme-sounds of the second part of the preceding stanzas. Unlike Bédier, I place the
+        incomplete stanza in third position: the sense is no obstacle to this, and the result is a
+        series of three stanzas all beginning with an apostrophe directed respectively at Jerusalem,
+        France, and its king. In addition the gap in the text becomes continuous and can more easily
+        be explained by imagining an already corrupt model. The text contains some Picard elements,
+        especially the use of <hi rend="italic">u</hi> after <hi rend="italic">o</hi> (v. 5 <hi rend="italic">alun</hi>, v. 6 <hi rend="italic">nus</hi>, vv. 7 and 40 <hi rend="italic">sun</hi>, vv. 8 and 36 <hi rend="italic">geredun</hi>, v. 35 <hi rend="italic">unt</hi>,
+        v. 47 <hi rend="italic">tun</hi>, v. 49 <hi rend="italic">lungement</hi>, v. 57 <hi rend="italic">porrunt</hi>) and the use of <hi rend="italic">g</hi> alone to express the
+        velar in front of a palatal vowel (vv. 8 and 36 <hi rend="italic">geredun</hi>, v. 45 <hi rend="italic">gier</hi>); there is also a case of reduction <hi rend="italic">iee &gt;
+          ie</hi> in <hi rend="italic">esillie</hi> (v. 35). There are also a few occitanisms or
+        italianisms such as <hi rend="italic">serventés</hi> (v. 1, but <hi rend="italic">serventois</hi> in v. 47), <hi rend="italic">emperaor</hi> (v. 55, a venetianism?) and in
+        all likelihood <hi rend="italic">poi</hi> (v. 54). There are very frequent infractions of
+        the two-case system, which sometimes affect the rhyme (vv. 23, 25, 27, 29, 31, 33, 36). It
+        should be noted that the reconstruction of the correct form would restore all regular rhymes
+        in <hi rend="italic">-uz</hi>, an element which suggests an original written in central
+        France. Bédier proposes a normalised and correct text, whereas I prefer to remain faithful
+        to the manuscript readings (see also the edition of Petersen Dyggve 1939), intervening only
+        where the text is patently corrupt. The conjectural emendations are purely hypothetical and
+        are given in italics. The conjectures in vv. 7, 31, 37, 39 and 48 are Bédier’s; those of vv.
+        33-34 and 54 are mine.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Per l’analisi del manoscritto si veda la rubrica
+        corrispondente della canzone RS 640. Il testo è tramandato in modo incompleto e corrotto, a
+        livello di struttura e di lezione. Come mostra bene Bédier, l’analisi delle rime lascia
+        intravvedere una struttura originaria a <hi rend="italic">coblas doblas</hi>, ma nella
+        disposizione del manoscritto il testo appare lacunoso e disordinato. Le rime della strofa
+        incipitaria restano isolate, e Bédier postula correttamente l’esistenza di una seconda
+        strofa perduta con le stesse rime (si conosce un solo caso di canzone a cinque strofe con
+        struttura 1+2+2: la pastorella anonima RS 2002). Le rime della seconda strofa del
+        manoscritto (la terza nella ricostruzione di Bédier, la quarta nella nostra) sono riprese da
+        cinque versi dislocati dal copista in posizione finale, ma il senso e la sintassi mostrano
+        che deve trattarsi del moncone residuo di una strofa inizialmente completa che trova la sua
+        giusta collocazione in posizione contigua alla quarta strofa del testo ricostruito; non solo
+        le rime sono le stesse, ma l’accenno del v. 41 alla guarigione del re presuppone che i versi
+        sulla malattia vengano prima. È probabile che il copista abbia spostato questi versi in
+        posizione finale proprio per il loro carattere frammentario. La parte finale del testo è
+        trascritta correttamente dal copista, con altre due strofe che sfruttano le stesse rime e un
+        congedo di cinque versi che riprende lo schema e le rime della seconda parte delle strofe
+        precedenti. Diversamente da Bédier, colloco il moncone di strofa in terza posizione: il
+        senso non lo impedisce, anzi si ottiene una successione di tre strofe che iniziano con
+        un’apostrofe rivolta rispettivamente a Gerusalemme, alla Francia e al suo re. In questo modo
+        inoltre la lacuna nel testo risulta continua e si può spiegare più facilmente immaginando un
+        modello già corrotto. Il testo presenta diversi piccardismi, soprattutto il ricorso a <hi rend="italic">u</hi> al posto di <hi rend="italic">o</hi> (v. 5 <hi rend="italic">alun</hi>, v. 6 <hi rend="italic">nus</hi>, vv. 7 e 40 <hi rend="italic">sun</hi>, vv. 8
+        e 36 <hi rend="italic">geredun</hi>, v. 35 <hi rend="italic">unt</hi>, v. 47 <hi rend="italic">tun</hi>, v. 49 <hi rend="italic">lungement</hi>, v. 57 <hi rend="italic">porrunt</hi>) e l’uso di <hi rend="italic">g</hi> semplice per esprimere la velare
+        davanti a vocale palatale (vv. 8 e 36 <hi rend="italic">geredun</hi>, v. 45 <hi rend="italic">gier</hi>); vi è anche un caso di riduzione <hi rend="italic">iee &gt;
+          ie</hi> in <hi rend="italic">esillie</hi> (v. 35). Si segnalano anche alcuni occitanismi o
+        italianismi come <hi rend="italic">serventés</hi> (v. 1, ma <hi rend="italic">serventois</hi> al v. 47), <hi rend="italic">emperaor</hi> (v. 55, venetismo?) e con
+        tutta probabilità <hi rend="italic">poi</hi> (v. 54). Frequentissime le infrazioni alla
+        declinazione bicasuale, che a volte intaccano la rima (vv. 23, 25, 27, 29, 31, 33, 36). Va
+        segnalato che la ricostruzione della forma corretta restituirebbe tutte rime regolari in <hi rend="italic">-uz</hi>, elemento che fa pensare a un originale scritto nella Francia
+        centrale. Bédier propone un testo normalizzato e corretto, mentre qui si preferisce rimanere
+        fedeli alla lezione del manoscritto (si veda già l’edizione Petersen Dyggve 1939),
+        intervenendo solo dove il testo è palesemente corrotto. Le ricostruzioni congetturali
+        restano puramente ipotetiche e sono segnalate in corsivo. Le congetture ai vv. 7, 31, 37, 39
+        e 48 sono di Bédier; quelle ai vv. 33-34 e 54 sono mie.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-21T15:22:57Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Anonymous</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1729.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>At God’s command I shall begin a sirventes, a discourse of happiness and joy, so that
+              he may teach us the way and the path to go to Him without impediment. Let us all go,
+              and that most quickly, with the One who summons and exhorts us, responding swiftly to
+              his convocation: as a reward He offers us paradise for evermore for our salvation.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p> [...]</p>
+          </div>
+          <div n="3" type="stanza">
+            <p> [...] when the king of Paris was in a desperate state, so that they thought his soul
+              had left him; and when he returned to life, he requested the cross and the one who is
+              witness to such a beautiful miracle gave it to him.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Jerusalem, you are so forlorn! Misfortune has come upon you! Christendom has
+              dreadfully abandoned you, and the sepulchre is lost, the temple which in the past was
+              held so dear. Time was, you were much served and honoured, God was nailed and hanged
+              in you; now pagans have ruined and destroyed you: they will be justly punished for
+              it.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>France, you should rightly have great prestige, you should be honoured above all
+              things! God seeks from you aid and assistance to liberate His land from the pagans:
+              this is why He raised the king from the dead. He took the cross to purify his life,
+              and so, God willing, he will go overseas. All his barons will go with him; the count
+              of Artois will lead his hosts.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Go, <hi rend="italic">sirventes</hi>, to relay your message to the noble king who
+              rules France, so that he does not forget the Holy Land: he cannot delay here any
+              longer. Paris wishes to exhort him openly to a send his army to the lands of the East;
+              he will easily be able to conquer them and baptise the sultan of Turkey; then he will
+              be able to liberate this whole world.</p>
+          </div>
+          <div n="7" type="stanza">
+            <p>Let him reconcile the pope and the emperor, then he will cross the sea with a great
+              navy; the pagans will not be able to resist him; he will conquer all of Turkey and
+              Persia, and will go to be crowned in Cairo.</p>
+          </div>
+        </div><div type="translation" xml:id="rs.1729.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Per volontà di Dio comincerò un sirventese, un discorso di letizia e di gioia,
+              affinché ci indichi la via e il cammino per andare fino a lui senza impedimenti.
+              Andiamo tutti e molto in fretta con Colui che ci chiama e ci esorta, rispondendo con
+              prontezza al suo invito a radunarci: come ricompensa, ci offre il paradiso eterno per
+              la nostra salvezza.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p> [...]</p>
+          </div>
+          <div n="3" type="stanza">
+            <p> [...] quando il re di Parigi fu in condizioni disperate, tanto che pensavano che
+              l’anima se ne fosse andata; e quando fu tornato in vita, chiese la croce e gliela
+              diede colui che è testimone di così belle virtù.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Gerusalemme, sei così sconsolata! su di te è ricaduta la sventura! La cristianità ti
+              ha malamente abbandonata, ed è perduto il sepolcro, il tempio che in passato fu tenuto
+              in così alta considerazione. Un tempo tu fosti giustamente servita e onorata, Dio fu
+              inchiodato e appeso in te, ora i pagani ti hanno devastata e distrutta: ne riceveranno
+              la giusta punizione.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Francia, è giusto che tu abbia un grande prestigio, devi essere onorata sopra ogni
+              cosa! Dio ti chiede soccorso e aiuto per liberare il suo paese dai pagani: per questo
+              ha fatto risorgere il re. Ha preso la croce per purificare la sua vita, e perciò
+              andrà, a Dio piacendo, oltremare. Tutti i suoi baroni gli faranno compagnia; il conte
+              d’Artois guiderà il suo esercito.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Vai, sirventese, a riferire il tuo messaggio al nobile re che governa la Francia,
+              affinché non dimentichi la Terra Santa: non può indugiare qui a lungo. Parigi lo
+              esorta apertamente a mandare il suo esercito nella terra d’Oriente; la potrà
+              facilmente conquistare e far battezzare il sultano di Turchia; così potrà liberare
+              tutto il mondo.</p>
+          </div>
+          <div n="7" type="stanza">
+            <p>Faccia accordare il papa e l’imperatore, poi attraverserà il mare con una grande
+              flotta; i pagani non potranno resistergli; conquisterà tutta la Turchia e la Persia, e
+              andrà al Cairo a farsi incoronare.</p>
+          </div>
+        </div></body></text></TEI>

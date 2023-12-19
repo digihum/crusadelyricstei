@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-09-15</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Meyer 1877, 369; Bartsch 1920<hi rend="superscript">12</hi>, 243; Bédier-Aubry 1909,
+            19; Rosenberg-Tischler 1981, 105; Guida 1992, 73; Dijkstra 1995a, 94.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Meyer 1877, 369; Bartsch 1920<hi rend="superscript">12</hi>, 243; Bédier-Aubry 1909,
+            19; Rosenberg-Tischler 1981, 105; Guida 1992, 73; Dijkstra 1995a, 94.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss</hi>. <hi rend="bold">(2)</hi>. C 245v-246r (<hi rend="italic">Denostre/daime</hi>), U 127r-v (anonymous).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss</hi>. <hi rend="bold">(2)</hi>. C 245v-246r (<hi rend="italic">Denostre/daime</hi>), U 127r-v (anonima).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>8ababbaabab (MW 865,3); 5 <hi rend="italic">coblas singulars</hi>; rhymes a = -<hi rend="italic">or</hi>, -<hi rend="italic">iez</hi>, -<hi rend="italic">is </hi>(-<hi rend="italic">ins</hi>), -<hi rend="italic">ier</hi>, -<hi rend="italic">ain </hi>(-<hi rend="italic">ains</hi>); b =
+          -<hi rend="italic">ais</hi>, -<hi rend="italic">ait</hi>, -<hi rend="italic">ant</hi>,
+          -<hi rend="italic">ant</hi> (-<hi rend="italic">ent</hi>), -<hi rend="italic">oir</hi>.
+        The song shares its metrical shape with two other songs, the anonymous <hi rend="italic">Grant piece a que ne chantai mais</hi> (RS 194 = MW 865:1) and the song in <hi rend="italic">coblas doblas</hi> di Raoul de Ferrières <hi rend="italic">Quant je voi les
+          vergiers florir</hi> (RS 1412 = MW 865:2). Spanke 1936, 153, relates this versification to
+        the monodic <hi rend="italic">conductus Quid ultra tibi facere</hi> attributed to Philippus
+          <hi rend="italic">parisiensis</hi>, chancellor of the chapter of Notre-Dame from 1217. The
+        paraliturgical text, composed of six 10-syllable lines on two rhymes which change position
+        in the central part of the stanzas (whose complete melody is transmitted only in ms.
+        Florence, Biblioteca Laurenziana, Pluteus 29.1), is a lamentation of Christ who contrasts
+        His sufferings with the thirst for power and the slothfulness of the Church and the clergy
+          (<hi rend="italic">Planctus Christi de malis praesulibus</hi>). Equivocal rhymes: 2 <hi rend="italic">pais</hi> : 5 <hi rend="italic">paix</hi>, 12 : 14 <hi rend="italic">lait</hi>, 26 : 27 <hi rend="italic">pis</hi>, 42 : 45 <hi rend="italic">savoir</hi>;
+        identical rhymes: 1 : 7 <hi rend="italic">amor</hi>, 3 : 9 <hi rend="italic">jor</hi>; link
+        in <hi rend="italic">cobla capfinida</hi> between stanzas IV and V; both mss. are
+        hypermetric by one syllable in v. 2 (<hi rend="italic">ne dormeis uos pais</hi>); the text
+        is transmitted without music (blank staves in C, the interlinear space is left blank in the
+        first stanza in U).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>8ababbaabab (MW 865,3); 5 <hi rend="italic">coblas singulars</hi>; rima a: -<hi rend="italic">or</hi>, -<hi rend="italic">iez</hi>, -<hi rend="italic">is </hi>(-<hi rend="italic">ins</hi>), -<hi rend="italic">ier</hi>, -<hi rend="italic">ain </hi>(-<hi rend="italic">ains</hi>); rima
+        b: -<hi rend="italic">ais</hi>, -<hi rend="italic">ait</hi>, -<hi rend="italic">ant</hi>,
+          -<hi rend="italic">ant</hi> (-<hi rend="italic">ent</hi>), -<hi rend="italic">oir</hi>; lo
+        schema sillabico e rimico della canzone è condiviso con altri due testi: l’anonima canzone
+        in tre <hi rend="italic">coblas unissonans Grant piece a que ne chantai mais</hi> (RS 194 =
+        MW 865:1) e la canzone a <hi rend="italic">coblas doblas</hi> di Raoul de Ferrières <hi rend="italic">Quant je voi les vergiers florir</hi> (RS 1412 = MW 865:2). Spanke 1936,
+        153, mette in relazione questo schema con quello del <hi rend="italic">conductus
+        </hi>monodico <hi rend="italic">Quid ultra tibi facere</hi> attribuito a Philippus <hi rend="italic">parisiensis</hi>, cancelliere del capitolo di Notre-Dame dal 1217. Il testo
+        paraliturgico, composto da 6 strofe di 10 ottonari su due rime che si invertono in sede
+        centrale di strofe (la cui melodia completa è trasmessa unicamente dal ms. Firenze,
+        Biblioteca Laurenziana, Pluteus 29.1), è una lamentazione di Cristo che oppone le sue
+        sofferenze alla sete di potere e all’accidia della Chiesa e del clero (<hi rend="italic">Planctus Christi de malis praesulibus</hi>). Rime equivoche: 2 <hi rend="italic">pais</hi> : 5 <hi rend="italic">paix</hi>, 12 : 14 <hi rend="italic">lait</hi>, 26 : 27
+          <hi rend="italic">pis</hi>, 42 : 45 <hi rend="italic">savoir</hi>; rime identiche: 1 : 7
+          <hi rend="italic">amor</hi>, 3 : 9 <hi rend="italic">jor</hi>; legame in <hi rend="italic">cobla capfinida</hi> tra la IV e la V <hi rend="italic">cobla</hi>; ambedue i mss. sono
+        ipermetri di una sillaba al v. 2 (<hi rend="italic">ne dormeis uos pais</hi>); il testo è
+        stato trasmesso senza melodia (rigatura musicale vuota in C, spazio bianco nell’interlineo
+        della prima strofe in U).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>Of the two Lorraine witnesses the version of ms.
+        U has been chosen, both for its graphy and for its text, complete in contrast to C which
+        lacks v. 25.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Tra i due testimoni lorenesi è stata scelta la
+        versione del ms. U sia per la grafia che per il testo, completo rispetto a C, che è mancante
+        del v. 25.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-09-15T14:54:22Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Anonymous</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1967.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>You who love with true love, wake up, sleep no more! The lark brings us the dawn and
+              tells us with its warbling that the day of peace has come which God, in his great
+              sweetness, promises to those who for love of Him will take the cross, and for their
+              sins will suffer pain both night and day. Then He will see who truly loves Him! </p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Anyone who abandons his lord in his hour of need deserves to be sent into exile. And
+              he will be, you can be sure of that! He will suffer pain and disgrace at the Last
+              Judgment, when God will show His bleeding and wounded sides, hands and feet: even one
+              who has behaved most righteously [in this life] will be so appalled that he will
+              tremble, whether he wishes or no.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>The one who was set upon the cross for us did not love us dissemblingly but did so as
+              a perfect lover, and for our sakes, with dignity, [He took] the holy cross most
+              sweetly in his arms, holding it tightly in anguish across his chest, like a gentle,
+              innocent and pious lamb. Then he was nailed fast with three nails through feet and
+              hands. </p>
+          </div>
+          <div n="4" type="stanza">
+            <p>I have heard say in a proverb: ‘A good price draws money from the purse’ and ‘It is a
+              complete fool who sees what’s good and takes what’s bad’. Do you know what God
+              guarantees to those wishing to take the cross? God help me, splendid wages: Paradise
+              assured! Anyone who can pursue profit [today] is mad to wait until tomorrow.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>We have no [certainty of] tomorrow, we know this well. Someone may think he is in
+              perfect health yet within a quarter of a day may no longer put any value on the whole
+              sum of his wealth or knowledge, for once death holds him in his bridle and he can no
+              longer move his hands and feet in one direction or another, he gives up his soft bed
+              and takes a straw mattress. But realisation comes too late!</p>
+          </div>
+        </div><div type="translation" xml:id="rs.1967.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>O voi che amate di vero amore, svegliatevi, non dormite oltre! L’allodoletta ci
+              annuncia il giorno e ci dice coi suoi gorgheggi che è giunto il giorno della
+              pacificazione che Dio, nella sua grande dolcezza, promette a coloro che, per amor suo,
+              prenderanno la croce e per il peso dei loro peccati soffriranno pena notte e giorno.
+              Allora Egli vedrà quelli che lo amano davvero!</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Chi abbandona il suo Signore nel bisogno merita di essere messo al bando. E lo sarà,
+              sappiatelo! Costui patirà pene e oltraggi nel giorno del nostro giudizio finale quando
+              Dio mostrerà il costato, le mani e i piedi sanguinanti e feriti: anche chi si sarà
+              comportato al meglio sarà così spaventato che, gli piaccia o no, tremerà.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Colui che per noi fu messo in croce non ci ha amato per finta, ma da amico perfetto e
+              per noi, con dignità, (egli prese) molto docilmente la Santa Croce tra le sue braccia,
+              chino sul suo petto, come agnello mansueto, innocente e pio, e la trascinò
+              angosciosamente. Poi fu inchiodato con tre chiodi che trapassarono le mani e i piedi,
+              conficcati nel profondo.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Ho sentito dire in un proverbio: «Il buon prezzo fa tirar fuori il denaro dalla
+              borsa» e «È un vero sciocco chi vede il bene ma sceglie il male». Sapete quello che
+              Dio garantisce a coloro che vorranno prendere la croce? Un bel compenso davvero, che
+              Dio mi assista! il Paradiso assicurato! Chi può ricavare un buon guadagno (oggi) è
+              folle se aspetta domani.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Noi non abbiamo (certezza del) domani, lo sappiamo bene. Uno può sentirsi pieno di
+              salute ma entro il quarto giorno potrebbe non apprezzare più né tutto il suo avere né
+              tutto il suo sapere. Allora, quando la morte lo tiene imbrigliato e non può tirare a
+              sé né allentare né le mani né i piedi, lascia le morbide coltri e prende il
+              pagliericcio. Ma è troppo tardi per il ravvedimento!</p>
+          </div>
+        </div></body></text></TEI>

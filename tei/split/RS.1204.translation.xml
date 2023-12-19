@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc><titleStmt><title>Se j’ai lonc tans esté en Romenie (RS 1204)</title><author>Raoul de Soissons (?)</author><funder>AHRC</funder><principal>Linda Paterson</principal><respStmt><name>Steve Ranford</name><name>Mike Paterson</name><resp xml:lang="en">Conversion to TEI-conformant markup by</resp><resp xml:lang="it">Conversione al markup conforme a TEI di</resp></respStmt>        <respStmt>
+      <name>Luca Barbieri</name>
+      <resp xml:lang="en">Italian Translation by</resp>
+      <resp xml:lang="it">Traduzione italiana di</resp>
+    </respStmt>
+      
+      <respStmt>
+        <name>Anna Radaelli</name>
+        <resp xml:lang="en">Italian translation checked by</resp>
+        <resp xml:lang="it">Traduzione italiana controllata da</resp>
+      </respStmt>
+    </titleStmt>      <editionStmt>
+      <edition><date>2014</date></edition>
+    </editionStmt>
+      <publicationStmt>
+        <publisher>French Department, University of Warwick</publisher>
+        <date>2014</date><availability status="free"><licence xml:lang="en" target="https://creativecommons.org/licenses/by-sa/4.0/legalcode"> Distributed under the Creative Commons Attribution-ShareAlike 4.0 International Public License</licence><licence xml:lang="it" target="https://creativecommons.org/licenses/by-sa/4.0/legalcode.it">Distribuito sotto la Licenza Pubblica Creative Commons Attribuzione-CondividiAlloStessoModo 4.0 Internazionale</licence></availability></publicationStmt>
+      
+      <sourceDesc>
+        <listBibl type="previous_editions">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>La Ravallière 1742, <hi rend="smallcaps">ii</hi> 144; Tarbé 1850, 63; Winkler 1914,
+            46; Baumgartner 1983, 122; Rosenberg-Tischler 1995, 646; Hardy 2009
+            (www.lfa.uottawa.ca/activites/textes/ineke/Chansons/ R1204ed.htm).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl>(4): B 8v (anonymous), N 63d (<hi rend="italic">Mes sires T. de soissons</hi>), Me
+            64r? (<hi rend="italic">Messire Thierri de Soissons</hi>), V 59c (anon., modern
+            attribution <hi rend="italic">Raoul de Soissons</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl>(4): B 8v (anonima), N 63d (<hi rend="italic">Mes sires T. de soissons</hi>), Me
+            64r? (<hi rend="italic">Messire Thierri de Soissons</hi>), V 59c (anon., attribuzione
+            moderna <hi rend="italic">Raoul de Soissons</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;">
+        <p>10a’b’b’a’a’b’b’a’a’ (MW 1310,2 = Frank 477); 5 <hi rend="italic">coblas doblas</hi>,
+          plus three initial lines of what is probably a sixth stanza (rhymes a’b’b’ repeated from
+          the fifth stanza); rhyme a = <hi rend="italic">-ie</hi>, <hi rend="italic">-aine</hi>, <hi rend="italic">-ele</hi>; rhyme b = <hi rend="italic">-age</hi>, <hi rend="italic">-ance</hi>, <hi rend="italic">-ee</hi>; numerous rich and leonine rhymes, including
+          some involving the repetition of whole words, vv. 11 and 16 (<hi rend="italic">sage</hi>
+          and <hi rend="italic">visage</hi>), 12 and 15 (<hi rend="italic">rage </hi>and<hi rend="italic"> coraige</hi>), 24-25 (<hi rend="italic">semblance</hi>, <hi rend="italic">lance</hi>); there is a lyric caesura in v. 28 and a feminine caesura with elision in
+          vv. 9 and 10. Melody in N and a second independent melody in V (T 682).</p>
+      </metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;">
+        <p>10a’b’b’a’a’b’b’a’a’ (MW 1310,2 = Frank 477); 5 <hi rend="italic">coblas doblas</hi>, più
+          tre versi iniziali di una probabile sesta strofa (rime a’b’b’ riprese dalla quinta
+          strofa); rima a = <hi rend="italic">-ie</hi>, <hi rend="italic">-aine</hi>, <hi rend="italic">-ele</hi>; rima b = <hi rend="italic">-age</hi>, <hi rend="italic">-ance</hi>, <hi rend="italic">-ee</hi>; numerose rime ricche e leonine; rima paronima
+          ai vv. 11 e 16 (<hi rend="italic">sage</hi> e <hi rend="italic">visage</hi>), 12 e 15 (<hi rend="italic">rage </hi>e<hi rend="italic"> coraige</hi>), 24-25 (<hi rend="italic">semblance</hi>, <hi rend="italic">lance</hi>); vi è cesura lirica al v. 28 e cesura
+          femminile con elisione ai vv. 9 e 10. Melodia in N e seconda melodia indipendente in V (T
+          682).</p>
+      </metDecl>
+      <editorialDecl xml:lang="en">
+        <p>Analysis of the ms. readings show the division NV and B, confirming the stemma of Schwan
+          1886, p. 171 which also appears in other editions and studies. V shows its typical
+          independence, thought this is noticeably more pronounced than usual. The evidence from Me
+          is negligible since it is reduced to the first two lines of the song. The edition is based
+          on B, the only ms. to record the last incomplete stanza, and the transmitter of some
+          conservative readings.</p>
+      </editorialDecl>
+      <editorialDecl xml:lang="it">
+        <p>L’analisi delle lezioni permette di separare i mss. NV e B, confermando così lo stemma di
+          Schwan 1886, p. 171 nonché quanto è emerso in altre edizioni e in altri studi. Il
+          canzoniere V mostra l’autonomia di lezione tipica di questo testimone, ma notevolmente più
+          accentuata del consueto. L’apporto di Me è trascurabile in quanto ridotto ai primi due
+          versi della canzone. L’edizione si basa sulla lezione di B, unico testimone che riporta
+          l’ultima strofa incompleta e latore di alcune lezioni conservative.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2014-10-08T13:32:59Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Raoul de Soissons (?)</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1204.en" xml:lang="en">
+        <head> Translation </head>
+        <div n="1" type="stanza">
+          <p>Even if I have stayed in the East for a long time and made my pilgrimage overseas,
+            suffering many painful reverses and enduring many grave illnesses, now I am in a worse
+            state than I ever was in the Holy Land, because good love has inflicted on me an
+            affliction whose pain is never assuaged, but instead continues to increase and double
+            and multiply, making my face pale and bloodless.</p>
+        </div>
+        <div n="2" type="stanza">
+          <p>A delightful young lady, merry, sweet and pleasing, beautiful and courtly and virtuous
+            has put such a sweet madness in my heart that it makes me lose my sight and hearing, as
+            one who sleeps lethargically, so that no-one can rouse him to consciousness; for when I
+            think of her most sweet face, I prefer the company of my thoughts more than Tristan ever
+            did of his beloved Yseut.</p>
+        </div>
+        <div n="3" type="stanza">
+          <p>Love has struck me in in the most telling spot through a look full of sweet promise,
+            from which the most virtuous lady of France, and the supreme rose of beauty, has injured
+            me; and I marvel that the injury does not heal, because it has wounded me with such a
+            sweet appearance that I have never seen such a sharp lance-head; it is like the siren’s
+            song, whose sweetness brings pain and suffering.</p>
+        </div>
+        <div n="4" type="stanza">
+          <p>If only I could feel her sweet breath and take pleasure in her lovely ways, for I long
+            for love and intimacy with her more than Paris longed for Helen; and if Love is not too
+            cruel to me, there will be no pain without recompense, for her beauty and her most great
+            worth and the way she looked so lovely when I saw her for the first time bestowed on me
+            the gift of a hundred sighs a day.</p>
+        </div>
+        <div n="5" type="stanza">
+          <p>For her face, which is so sweet and beautiful, has left me with but a single thought,
+            and this has so inflamed my heart that I feel it more burning and glowing than an ember
+            or a spark; therefore I cannot live long if I fail to strike my lady with compassion,
+            when my song tells her of the pain which lashes me on her account.</p>
+        </div>
+        <div n="6" type="stanza">
+          <p>Song, go to Archer who plays the viel and to Raoul de Soissons, whom I like: tell them
+            that love is too sharp a sword... </p>
+        </div>
+      </div><div type="translation" xml:id="rs.1204.it" xml:lang="it">
+        <head> Translation </head>
+        <div n="1" type="stanza">
+          <p>Anche se ho soggiornato a lungo in Oriente e ho fatto il mio pellegrinaggio oltremare
+            patendovi molti rovesci dolorosi e sopportando molte gravi malattie, ora sto peggio di
+            come stavo in Terra Santa, perché il buon amore mi ha inflitto una tale sofferenza il
+            cui dolore non si attenua mai, ma anzi cresce di continuo e raddoppia e si moltiplica,
+            al punto che il mio volto ne è reso pallido ed esangue.</p>
+        </div>
+        <div n="2" type="stanza">
+          <p>Una giovane signora gentile e gaia, dolce e piacente, bella e cortese e virtuosa mi ha
+            messo nel cuore una così dolce smania che mi fa perdere la vista e l’udito, come colui
+            che dorme di un sonno letargico, dal quale nessuno può ridestare la sua coscienza;
+            infatti, quando penso al suo dolcissimo volto, amo più la compagnia del mio pensiero di
+            quanto Tristano fece con la sua amante Isotta.</p>
+        </div>
+        <div n="3" type="stanza">
+          <p>Amore mi ha davvero colpito nel punto giusto attraverso uno sguardo colmo di dolce
+            promessa, col quale mi ha ferito la più virtuosa di Francia, e di bellezza la rosa
+            sovrana; e mi stupisco che la ferita non sanguini, perché mi ha ferito con un aspetto
+            così dolce che non ho mai visto una punta di lancia tanto acuminata; è simile al canto
+            della sirena, la cui dolcezza è causa di dolori e sofferenza.</p>
+        </div>
+        <div n="4" type="stanza">
+          <p>Potessi sentire il suo dolce alito e godere delle sue belle maniere, perché desidero il
+            suo amore e la sua intimità più di quanto Paride desiderò Elena; e se Amore non è troppo
+            crudele con me, non vi sarà pena senza ricompensa, perché la sua bellezza e la sua
+            grandissima virtù e il bell’aspetto quando la vidi per la prima volta mi hanno lasciato
+            in dono cento sospiri al giorno.</p>
+        </div>
+        <div n="5" type="stanza">
+          <p>Perché il suo viso, che è tanto dolce e bello, mi ha lasciato un unico pensiero, e
+            questo mi ha a tal punto infiammato il cuore che lo sento più caldo e più guizzante di
+            una brace e di una favilla; quindi non posso resistere a lungo se non riuscirò a ferire
+            la mia signora con la compassione, quando la mia canzone le farà sapere del dolore che
+            mi flagella a causa sua.</p>
+        </div>
+        <div n="6" type="stanza">
+          <p>Canzone, vai da Arciere che suona la viella e da Raoul de Soissons, che mi è simpatico:
+            di’ loro che l’amore è una spada troppo tagliente...</p>
+        </div>
+      </div></body></text></TEI>

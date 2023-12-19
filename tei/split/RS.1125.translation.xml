@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-12-02</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Sinner 1772, 367; de la Borde 1780, II, 302; Michel 1830, 85; Paris 1833, 93; Mone
+            1838, 411; Buchon 1840, 421; Leroux de Lincy 1841-1842,<hi rend="smallcaps"> I,</hi>
+            113; Dinaux 1837-1863, <hi rend="smallcaps">III</hi>, 397; Keller 1844, 254; Wackernagel
+            1846, 39; Mätzner 1853, 86; <hi rend="italic">ASSL</hi> 34 (1863), 376; Brakelmann 1870,
+            75; Scheler 1876, <hi rend="smallcaps">I</hi>, 2; Bartsch 1886, 184; De Lollis 1886, 62;
+            Wallensköld 1891, 224; Sudre 1898, 140; Bédier-Aubry 1909, 99; Oulmont 1913, 286;
+            Bertoni 1917, 392; Gennrich 1918, 10; Voretzsch 1921, 116; Wallensköld 1921, 6; Gennrich
+            1922, 236; Gennrich 1924-1925, 93; Gerold 1936, 289; Beck 1937, 71; Brittain 1937, 134;
+            Frank 1952-1956, I, 29; Pauphilet 1952, 865; Spaziani 1954, 27; Cremonesi 1955, 93;
+            Woledge 1961, 108; Lerond 1964, 187; Toja 1966, 204; Mary 1967, I, 214; Cluzel 1969, 52;
+            Schöber 1976, 106; van der Werf 1977-1979, 285; Bec 1977-1978, II, 964; Alvar 1982, 248;
+            Lea 1982, 128; Baumgartner 1983, 244; Picot 1975, II, 24; Rieger 1983, 52; Dufournet
+            1989, 124; Guida 1992, 54; Varvaro 1993, 145; Dijkstra 1995a, 189; Rosenberg-Tischler
+            1995, 368; Gresti 2011, 230.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Sinner 1772, 367; de la Borde 1780, II, 302; Michel 1830, 85; Paris 1833, 93; Mone
+            1838, 411; Buchon 1840, 421; Leroux de Lincy 1841-1842,<hi rend="smallcaps"> I,</hi>
+            113; Dinaux 1837-1863, <hi rend="smallcaps">III</hi>, 397; Keller 1844, 254; Wackernagel
+            1846, 39; Mätzner 1853, 86; <hi rend="italic">ASSL</hi> 34 (1863), 376; Brakelmann 1870,
+            75; Scheler 1876, <hi rend="smallcaps">I</hi>, 2; Bartsch 1886, 184; De Lollis 1886, 62;
+            Wallensköld 1891, 224; Sudre 1898, 140; Bédier-Aubry 1909, 99; Oulmont 1913, 286;
+            Bertoni 1917, 392; Gennrich 1918, 10; Voretzsch 1921, 116; Wallensköld 1921, 6; Gennrich
+            1922, 236; Gennrich 1924-1925, 93; Gerold 1936, 289; Beck 1937, 71; Brittain 1937, 134;
+            Frank 1952-1956, I, 29; Pauphilet 1952, 865; Spaziani 1954, 27; Cremonesi 1955, 93;
+            Woledge 1961, 108; Lerond 1964, 187; Toja 1966, 204; Mary 1967, I, 214; Cluzel 1969, 52;
+            Schöber 1976, 106; van der Werf 1977-1979, 285; Bec 1977-1978, II, 964; Alvar 1982, 248;
+            Lea 1982, 128; Baumgartner 1983, 244; Picot 1975, II, 24; Rieger 1983, 52; Dufournet
+            1989, 124; Guida 1992, 54; Varvaro 1993, 145; Dijkstra 1995a, 189; Rosenberg-Tischler
+            1995, 368; Gresti 2011, 230.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(14+1).</hi> C 1v (<hi rend="italic">Cunes de Betunez</hi>), H 227b
+              (<hi rend="italic">Moniez d’Arraz</hi>), K 93b (<hi rend="italic">le Chastelain de
+              Couci</hi>), M 46d (<hi rend="italic">Quenes</hi>), N 39b (<hi rend="italic">Chastelain de Couci</hi>), O 90c (anonymous; modern attribution <hi rend="italic">Chastelain de Coucy</hi>), O<hi rend="superscript">p</hi> p. 54b (anon.), P 29d (<hi rend="italic">li Chastelains de Couci</hi>), R<hi rend="superscript">2</hi> 40r (<hi rend="italic">mesire Quesne chevalier</hi>), T 100r (<hi rend="italic">me sire
+              Quenes</hi>), V 74b (anon.), X 67d (<hi rend="italic">le Chastelain de Couci</hi>), Za
+            140r (anon.), a 23d (<hi rend="italic">mesires Quenes de Bietune</hi>), Stuttgart (<hi rend="italic">Mes sires quenes de Betune</hi>; lost fragment; ed. Mone 1838).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(14+1).</hi> C 1v (<hi rend="italic">Cunes de Betunez</hi>), H 227b
+              (<hi rend="italic">Moniez d’Arraz</hi>), K 93b (<hi rend="italic">le Chastelain de
+              Couci</hi>), M 46d (<hi rend="italic">Quenes</hi>), N 39b (<hi rend="italic">Chastelain de Couci</hi>), O 90c (anonima; attribuz. moderna <hi rend="italic">Chastelain de Coucy</hi>), O<hi rend="superscript">p</hi> p. 54b (anon.), P 29d (<hi rend="italic">li Chastelains de Couci</hi>), R<hi rend="superscript">2</hi> 40r (<hi rend="italic">mesire Quesne chevalier</hi>), T 100r (<hi rend="italic">me sire
+              Quenes</hi>), V 74b (anon.), X 67d (<hi rend="italic">le Chastelain de Couci</hi>), Za
+            140r (anon.), a 23d (<hi rend="italic">mesires Quenes de Bietune</hi>), Stuttgart (<hi rend="italic">Mes sires quenes de Betune</hi>; frammento perduto; ed. Mone
+            1838).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10 a’ba’bba’ba’ (MW 902,13 =
+        Frank 302); 6 <hi rend="italic">coblas doblas</hi>, one four-line <hi rend="italic">envoi</hi> (b’ab’a) is attested by ms. C only and is very probably spurious; rhyme a: <hi rend="italic">-ie</hi>, <hi rend="italic">-aige</hi>, <hi rend="italic">-euse</hi>; rhyme
+        b: <hi rend="italic">-or</hi>, <hi rend="italic">-ont</hi>, <hi rend="italic">-eus</hi>. The
+        versification is imitated in three other crusade songs: RS 1030 by Huon d’Oisy (a direct
+        response to Conon’s text, but with masculine rhymes only), RS 1020a attributed to Richart de
+        Fournival and RS 499 by Chardon de Croisilles. There is <hi rend="italic">annominatio per
+          immutationem</hi> in vv. 4-5 (<hi rend="italic">douçour-dolor</hi>) and 23-29 (<hi rend="italic">sont-vont</hi>), a paronymous rhyme in vv. 6-16 (<hi rend="italic">mie-amie</hi>); in v. 20 <hi rend="italic">ont</hi> constitutes a paronymous rhyme with
+        all the other rhymes in <hi rend="italic">-ont</hi>; the rhymes of the last two stanzas are
+        ‘grammatically’ linked (<hi rend="italic">-euse/-eus</hi>), but there is only a real
+        grammatical rhyme in vv. 44 and 48 (<hi rend="italic">hontex-honteuse</hi>). The caesuras
+        are generally regular: a lyrical caesura occurs in v. 28, a feminine caesura with elision in
+        vv. 22 and 26. Melody in KMNOPR<hi rend="superscript">2</hi>TVXa, with five melodic variants
+        MTO, KNPX, R<hi rend="superscript">2</hi>, V and a; melodic scheme ABAB CDCD (T
+        647,1).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10 a’ba’bba’ba’ (MW 902,13 =
+        Frank 302); 6 <hi rend="italic">coblas doblas</hi>, un <hi rend="italic">envoi</hi> di 4
+        versi (b’ab’a) è attestato dal solo ms. C ed è molto probabilmente spurio; rima a: <hi rend="italic">-ie</hi>, <hi rend="italic">-aige</hi>, <hi rend="italic">-euse</hi>; rima
+        b: <hi rend="italic">-or</hi>, <hi rend="italic">-ont</hi>, <hi rend="italic">-eus</hi>; lo
+        schema è imitato da altre tre canzoni di crociata: la RS 1030 di Huon d’Oisy (che è una
+        risposta diretta al testo di Conon, ma ha solo rime maschili), la RS 1020a attribuita a
+        Richart de Fournival e la RS 499 di Chardon de Croisilles; si ha <hi rend="italic">annominatio per immutationem</hi> ai vv. 4-5 (<hi rend="italic">douçour-dolor</hi>) e
+        23-29 (<hi rend="italic">sont-vont</hi>), rima paronima ai vv. 6-16 (<hi rend="italic">mie-amie</hi>); al v. 20 <hi rend="italic">ont</hi> costituisce una rima paronima con
+        tutte le altre rime in <hi rend="italic">-ont</hi>; le rime delle ultime due strofe hanno un
+        legame “grammaticale” tra loro (<hi rend="italic">-euse/-eus</hi>), ma un vera rima
+        grammaticale si ha solo tra i vv. 44 e 48 (<hi rend="italic">hontex-honteuse</hi>); le
+        cesure sono in genere regolari: vi è cesura lirica al v. 28; cesura femminile con elisione
+        ai vv. 22 e 26; melodia in KMNOPR<hi rend="superscript">2</hi>TVXa, con cinque varianti
+        melodiche MTO, KNPX, R<hi rend="superscript">2</hi>, V e a; schema melodico ABAB CDCD (T
+        647,1).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>Wallensköld 1891 and Bédier 1909 independently
+        arrive at the same two-branch stemma, with the pair MT, R<hi rend="superscript">2</hi> and a
+        on one side, and on the other the group comprising CO and the lost Stuttgart fragment and
+        the more compact group KNPVX. Bédier does not take mss. H e O<hi rend="superscript">p</hi>
+        into consideration, while Wallensköld places them in the second group. Za, unknown to both,
+        has a reading very close to that of H. The text offered here is that of the MR<hi rend="superscript">2</hi>Ta group, certainly the most reliable as far as Conon de
+        Béthune’s corpus as a whole is concerned (see Barbieri 2013, pp. 287-288 and n. 58). The
+        graphy is that of T, whose form <hi rend="italic">tot</hi> for the nominative plural case
+        (vv. 27 and 32) is also retained, in conformity with the evolution of Picard (Zink, p. 126).
+        Some interventions have proved necessary to patch gaps or correct errors in MR<hi rend="superscript">2</hi>Ta; in v. 26 the erroneous <hi rend="italic">morront</hi> is
+        replaced with <hi rend="italic">manront</hi> from the other mss.; v. 29, omitted by MR<hi rend="superscript">2</hi>Ta, and perhaps corrupt in the archetype, is patched by KNPX’s
+        reading to avoid an identical rhyme with v. 21; in v. 46 COSt’s reading <hi rend="italic">angoisseuse</hi> is adopted to avoid an identical rhyme with v. 38 and is preferable for
+        the sense. MR<hi rend="superscript">2</hi>Ta’s attribution to Conon de Béthune is confirmed
+        by CSt and is guaranteed by the textual echoes contained in the song RS 1030 of Huon
+        d’Oisy.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Wallensköld 1891 e Bédier 1909 giungono per vie
+        indipendenti a disegnare il medesimo stemma a due rami: da una parte si trovano la coppia
+        MT, R<hi rend="superscript">2</hi> e a, dall’altra il gruppo costituito da CO e dal
+        frammento perduto di Stoccarda e quello più compatto dei mss. KNPVX. Bédier non prende in
+        considerazione i mss. H e O<hi rend="superscript">p</hi>, mentre Wallensköld li colloca nel
+        secondo gruppo. Per quanto riguarda Za, ignoto a entrambi, esso ha una lezione molto vicina
+        a quella di H. Il testo proposto è quello della redazione del gruppo MR<hi rend="superscript">2</hi>Ta, certamente la più affidabile per quanto riguarda l’intero
+        corpus di Conon de Béthune (si veda Barbieri 2013, pp. 287-288 e n. 58). La grafia è quella
+        di T, di cui si si conserva anche la forma <hi rend="italic">tot</hi> per il caso soggetto
+        plurale (vv. 27 e 32), conformemente all’evoluzione piccarda (Zink, p. 126). Si sono resi
+        necessari alcuni interventi sul testo per sanare lacune o errori di MR<hi rend="superscript">2</hi>Ta: al v. 26 si sostituisce l’erroneo <hi rend="italic">morront</hi> con la lezione
+          <hi rend="italic">manront</hi> degli altri testimoni; il v. 29, omesso da MR<hi rend="superscript">2</hi>Ta e forse corrotto già nell’archetipo, è integrato secondo la
+        lezione di KNPX per evitare una rima identica col v. 21; al v. 46 si accoglie la lezione <hi rend="italic">angoisseuse</hi> di COSt, che permette di evitare una rima identica con il
+        v. 38 ed è preferibile per il senso. L’attribuzione a Conon de Béthune del gruppo MR<hi rend="superscript">2</hi>Ta è confermata da CSt ed è garantita dai rimandi testuali
+        contenuti nella canzone RS 1030 di Huon d’Oisy.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-12-15T18:32:26Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Conon de Béthune</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1125.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Ah, Love, how hard it will be for me to part from the best lady who was ever loved
+              and served! May God in his sweetness bring me back to her, as truly as I leave her in
+              sorrow. Alas! What have I said? I am not leaving her at all! If my body goes off to
+              serve our Lord, my heart remains entirely in her service. </p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Sighing for her I set out for Syria, since I must not fail my Creator. If anyone
+              should fail Him in this hour of need, be aware that He will fail him in a greater; and
+              may great and small know well that a man ought to perform knightly feats in the place
+              where one wins paradise and honour, reputation, and praise, and the love of one’s
+              beloved.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>God is seated in His holy heritage; now it will be manifest how those whom He
+              released from the shade of prison, when He died upon the Cross held by the Turks, will
+              assist Him. Shame on all those who stay behind, unless they are poor or old or ill!
+              But those who are healthy and young and rich cannot remain behind without
+              disgrace.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>All the clergy and the old men who stay behind performing deeds of charity and good
+              works will have their share in this pilgrimage, as well as the ladies who live
+              chastely and remain faithful to those who go there; but if they ill-advisedly commit
+              folly, they will be doing so with cowardly wicked people, for all the good ones will
+              go on this voyage.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Let anyone who does not wish to lead a discreditable life go and die gladly and
+              joyfully for God, for that death through which one wins the precious realm is sweet
+              and delectable; and not a single one of them will die there from death, but rather all
+              will be born into glorious life; anyone who returns will be most happy; glory will for
+              evermore be his spouse.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Oh God! we have been so long valiant in idleness; now it will be clear who really <hi rend="italic">is</hi> valiant, if we go off to avenge the painful humiliation at
+              which each one of us should feel sorrow and shame; for in our times the holy place
+              where God suffered agonising death on our account has been lost; if we now leave our
+              mortal enemies there, our life will be evermore stained with infamy.</p>
+          </div>
+          <div n="7" type="stanza">
+            <p>Alas, I leave with tears in my eyes to the place where God desires to purify my
+              heart; and be well aware that I shall think more about the best lady in the world than
+              of the crusade.</p>
+          </div>
+        </div><div type="translation" xml:id="rs.1125.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Ah, Amore, che penosa separazione dovrò fare dalla migliore che mai sia stata amata e
+              servita! Possa Dio con la sua dolcezza riportarmi da lei, com’è vero che me ne separo
+              con dolore! Ahimè, che ho detto? Non me ne separo affatto! Se il corpo va a servire
+              Nostro Signore, il cuore resta tutto in suo potere.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Sospirando per lei me ne vado in Terra Santa, perché non posso non soccorrere il mio
+              Creatore. Chi non lo soccorrerà in questo momento di bisogno, sappiate che non sarà
+              soccorso da Lui in una situazione più grave; e sappiano bene i signori grandi e
+              piccoli che vale la pena di essere intrepidi là dove si conquistano il paradiso,
+              l’onore, la gloria, la lode e l’amore della propria amata.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Dio è assediato nella sua (stessa) santa terra: ora si vedrà come lo soccorreranno
+              quelli che egli fece uscire dalla prigione tenebrosa quando fu messo a morte sulla
+              croce che ora hanno i Turchi. Sappiate che sono oltremodo meschini coloro che non
+              andranno, se non sono (troppo) poveri o vecchi o malati; (ma) chi è sano, giovane e
+              ricco non può restare (a casa) senza infamia.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Tutto il clero e gli anziani che resteranno (qui) attivi nella carità e nelle buone
+              opere parteciperanno a questo pellegrinaggio, così come le dame che vivranno
+              castamente e si manterranno fedeli a quelli che vanno laggiù; e se esse soccomberanno
+              a una sciagurata tentazione, lo faranno con uomini vili e codardi, perché tutti i
+              valorosi parteciperanno a questa crociata.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Chi non vuole avere una vita insipida vada a morire per Dio lieto e gioioso, perché è
+              dolce e gustosa la morte per mezzo della quale si conquista il regno prezioso; anzi,
+              nessuno morirà davvero, ma tutti rinasceranno alla vita gloriosa; chi tornerà (vivo)
+              sarà molto fortunato: la gloria sarà per sempre sua sposa.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Dio! siamo stati a lungo valorosi a parole, ora si vedrà chi sarà davvero prode;
+              andremo dunque a vendicare l’onta dolorosa per la quale ciascuno deve provare rabbia e
+              vergogna; perché in questo momento è perduto il santo luogo dove Dio patì per noi una
+              morte crudele; se ora lo lasciamo ai nostri mortali nemici, la nostra vita sarà per
+              sempre macchiata dall’infamia.</p>
+          </div>
+          <div n="7" type="stanza">
+            <p><hi rend="italic">Ahimè, me ne vado con le lacrime agli occhi là dove Dio vuole
+                purificare il mio cuore; e sappiate bene che penserò più alla migliore del mondo che
+                alla crociata</hi>.</p>
+          </div>
+        </div></body></text></TEI>

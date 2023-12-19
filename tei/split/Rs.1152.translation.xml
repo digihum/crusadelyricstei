@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2014-05-06</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>La Ravallière 1742, <hi rend="smallcaps">ii</hi> 134; Auguis 1824, <hi rend="smallcaps">ii</hi> 6; Leroux de Lincy 1841, <hi rend="smallcaps">i</hi> 128;
+            Tarbé 1850, 112; Bédier-Aubry 1909, 175; Wallensköld 1925, 189; Brahney 1989, 234; Guida
+            1992, 110; Dijkstra 1995a, 205; Sánchez Palomino 2005, 184.</bibl>
+        </listBibl>
+        <listBibl type="essential_bibliography">
+          <bibl>Buchon 1840: Jean Alexandre C. Buchon, Recherches et matériaux pour servir à une
+            histoire de la domination française aux XIIIe, XIVe et XVe siècles dans les provinces
+            démembrées de l’Empire grec à la suite de la quatrième croisade, Paris, Desrez,
+            1840.</bibl>
+          <bibl>De Bartholomaeis 1906: Vincenzo De Bartholomaeis, «Il troviero Chardon de
+            Croisilles», Studj romanzi, 4, 1906, pp. 261-297.</bibl>
+          <bibl>Guesnon 1909: Adolphe-Henri Guesnon, «Publications nouvelles sur les trouvères
+            artésiens», Le Moyen Âge, 13, 1909, pp. 65-93, alle pp. 89-93.</bibl>
+          <bibl>Paris (Louis) 1855: «Champagne – XIV. – Cardons de Reims», Le Cabinet historique, 1,
+            1855, pp. 56-58.</bibl>
+          <bibl>Paris (Paulin) 1856: Histoire littéraire de la France, 23, Paris, Académie des
+            Inscriptions et Belles-Lettres, 1856, pp. 536-537.</bibl>
+          <bibl>Radaelli 2007: Anna Radaelli, «Una donna per due uomini o due uomini per una donna?
+            La tenzo del Chardo e d’En Ugo (BdT 114.1 = 448.2)», Cultura neolatina, 67, 2007, pp.
+            235-251.</bibl>
+          <bibl>Schultz-Gora 1884: Oskar Schultz-Gora, «Das Verhältnis der provenzalischen
+            Pastourelle zur altfranzösischen», Zeitschrift für romanische Philologie, 8, 1884, pp.
+            106-112.</bibl>
+          <bibl>Suchier 1907: Hermann Suchier, «Der Minnesänger Chardon», Zeitschrift für romanische
+            Philologie, 31, 1907, pp. 129-156.</bibl>
+          <bibl>Tarbé 1850: Prosper Tarbé, Les chansonniers de Champagne aux XIIe et XIIIe siècles,
+            Reims, Regnier, 1850.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts">
+          <head> Mss. </head>
+          <bibl>(7). K 25b-26b (li rois de Navarre), Mt 74d-75a (anon.), O 2bc (anon.), R3 182v-183v
+            (anon.), T 12rv (li rois de Navare), V 13c-14a (anon.), X 24c-25a (li rois de
+            Navarre).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>7a’bba’bccbb (MW 1391,1;
+        corrected on the basis of the new choice of base; <hi rend="italic">coblas doblas</hi>
+        (2+2+1) with a 4-line <hi rend="italic">envoi</hi> (ccbb); rhymes a = <hi rend="italic">-ie</hi>, <hi rend="italic">-oie</hi>, <hi rend="italic">-aindre</hi>; b = <hi rend="italic">-on</hi>, <hi rend="italic">-is</hi>, <hi rend="italic">-ir</hi>; c = <hi rend="italic">-ier</hi>, <hi rend="italic">-oir</hi>, <hi rend="italic">-ent</hi>;
+        equivocal rhyme <hi rend="italic">non</hi> in vv. 14 and 17; melody in KM<hi rend="superscript">t</hi>OR<hi rend="superscript">3</hi>VX, with very few variants except
+        in the case of R<hi rend="superscript">3</hi>, whose reading is more individual (van der
+        Werf 1979, II, p. 146; Tischler 1997, V n° 443).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>7a’bba’bccbb (MW 1391,1; corretto
+        in base alla nuova scelta testuale); <hi rend="italic">coblas doblas</hi> (2+2+1) con un <hi rend="italic">envoi</hi> di 4 versi (ccbb); rima a = <hi rend="italic">-ie</hi>, <hi rend="italic">-oie</hi>, <hi rend="italic">-aindre</hi>; rima b = <hi rend="italic">-on</hi>, <hi rend="italic">-is</hi>, <hi rend="italic">-ir</hi>; rima c = <hi rend="italic">-ier</hi>, <hi rend="italic">-oir</hi>, <hi rend="italic">-ent</hi>; rima
+        equivoca <hi rend="italic">non</hi> ai vv. 14 e 17; melodia in KM<hi rend="superscript">t</hi>OR<hi rend="superscript">3</hi>VX, con pochissime varianti tranne nel caso di R<hi rend="superscript">3</hi>, che mostra una lezione più autonoma (van der Werf 1979, II, p.
+        146; Tischler 1997, V n° 443).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The variants suggest a two-branched stemma with R
+        isolated on one side and the other manuscripts united on the other by errors which must have
+        already been present in the archetype of Thibaut de Champagne’s <hi rend="italic">Liederbuch</hi>. Within this second branch a few readings indicate the division O-KVX,
+        and while there are no common errors in M<hi rend="superscript">t</hi>T, they can still be
+        grouped together on the strength of their usual clear affinity in Thibaut’s <hi rend="italic">Liederbuch</hi> tradition. The metrical oscillations in the 6th and 7th
+        lines of each stanza also appear to confirm this stemma.The text is published here for the
+        first time on base R (suppleted by M<hi rend="superscript">t</hi> in v. 18 and the <hi rend="italic">envoi</hi>), at the cost of accepting a few of its poorer variants, the aim
+        being to avoid blind subservience to the <hi rend="italic">Liederbuch</hi>’s readings which,
+        as I have tried to demonstrate elsewhere, point to a late and overly homogenising collection
+        (see Barbieri 1999 and Barbieri 2011). In fact ms. R offers an exemplary reading from the
+        metrical point of view in all the heptasyllabic lines, without apparently resorting to
+        strained morpho-syntactic constructions. As regards the attribution, what has been said with
+        respect to M<hi rend="superscript">t</hi> and V in the song RS 6 also applies here; in ms. O
+        it is the fourth song to begin with the letter A, the last of the texts attributable to
+        Thibaut de Champagne, and is followed by the Gace Brulé group; in ms. R it is the
+        penultimate song of the collection, included in a section of twenty texts all attributable
+        to Thibaut, despite some disagreements. The attribution can therefore be considered
+        unanimous.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Le varianti della tradizione manoscritta
+        permettono di configurare uno stemma a due rami con R isolato da una parte e gli altri
+        testimoni a formare l’altro ramo, uniti da errori che dovevano già trovarsi nell’archetipo
+        del <hi rend="italic">Liederbuch</hi> di Thibaut de Champagne. All’interno di questo secondo
+        ramo, alcune lezioni permettono di separare il gruppo di testimoni O-KVX, mentre nessun
+        elemento permette di unire in errore i mss. M<hi rend="superscript">t</hi>T, che potranno
+        tuttavia essere raggruppati in forza della parentela evidente e costante che li unisce nella
+        tradizione del <hi rend="italic">Liederbuch</hi> di Thibaut. Anche le oscillazioni metriche
+        riguardanti i sesti e settimi versi di ogni strofe sembrano confermare questa struttura.Si è
+        scelto di pubblicare il testo per la prima volta secondo la versione di R (supplito da M<hi rend="superscript">t</hi> nel caso del v. 18 e del congedo), a costo di accreditare anche
+        qualche sua variante scadente, per non conformarsi alla cieca osservanza della lezione del
+          <hi rend="italic">Liederbuch</hi>, del quale si è tentato altrove di dimostrare la natura
+        di raccolta tarda ed eccessivamente omologante (si veda Barbieri 1999 e Barbieri 2011). Il
+        ms. R offre infatti una lezione metricamente ineccepibile di tutti versi ettasillabici senza
+        apparentemente ricorrere a forzature morfo-sintattiche.Riguardo all’attribuzione del testo,
+        per M<hi rend="superscript">t</hi> e V vale quanto detto per la canzone RS 6; in O è la
+        quarta canzone che comincia con la lettera <hi rend="italic">A</hi>, ultimo dei testi
+        attribuibili a Thibaut de Champagne, seguito dal gruppo di Gace Brulé; in R è la penultima
+        canzone della raccolta, inserita in una sezione di venti testi tutti attribuibili a Thibaut,
+        malgrado qualche contraddizione. L’attribuzione può quindi essere considerata
+        unanime.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2014-05-06T16:06:10Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Thibaut de Champagne</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1152.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>In this time full of treachery, envy and betrayal, of injustice and error, deprived
+              of goodness and courtliness, when amongst many barons we see the decline of the world,
+              and I see excommunicated those who would make the best contribution, then I wish to
+              compose a song.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>The kingdom of Syria tells us and cries aloud that if we do not amend our lives, it
+              is better for God if we not go there: we shall do nothing but harm. God loves an
+              upright heart: if people like this wish to lend their support, they will exalt His
+              name and win back His dwelling-place.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>– All the same it would be better to remain in one’s own country than to go poor and
+              sad to where there is no pleasure or joy. – Philip, paradise must be won through
+              suffering, for you will certainly not find good living there, or play or laughter,
+              which you are used to.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Love has worn out his prey and leads me captive to the lodgings where, it seems to
+              me, I shall never wish to leave, even if it were within my power to do so. Lady, whom
+              Beauty makes its heir, I tell you clearly: I shall never leave your prison alive, but
+              shall die a loyal lover.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Lady, I shall have to stay behind, I cannot leave you; I have never been able to
+              refrain from loving and serving you, so the love which continually assails me will
+              surely make me die; I constantly await your mercy, for nothing good can come to me
+              unless it is by your pleasure.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Song, go and tell Lorent that he should be exceedingly careful not to undertake a
+              great folly, for he would have to lie falsely. </p>
+          </div>
+        </div><div type="translation" xml:id="rs.1152.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>In questo tempo pieno di cattiveria, d’invidia e di tradimento, d’ingiustizia e
+              d’errore, privo di bene e di cortesia, mentre fra molti baroni vediamo il mondo
+              decadere, e vedo scomunicare coloro che danno maggiori garanzie, io voglio comporre
+              una canzone.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Il regno di Siria ci dice e grida ad altra voce che se non ci convertiamo, per Dio è
+              meglio che non ci andiamo: non faremmo altro che male. Dio ama il cuore giusto: se
+              gente così vuole dare il suo contributo, esalteranno il Suo nome e conquisteranno la
+              Sua dimora.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Tuttavia sarebbe preferibile restare nel proprio paese che andare povero e triste
+              dove non vi è piacere né gioia. – Filippo, il paradiso si conquista attraverso la
+              sofferenza, poiché là non troverete la bella vita, il gioco e il riso, ai quali siete
+              abituato.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Amore ha sfiancato la sua preda e mi conduce così prigioniero all’alloggio dal quale,
+              mi sembra chiaro, non vorrei mai uscire, anche se fosse in mio potere. Signora, che la
+              Bellezza ha fatto sua erede, ve lo dico chiaramente: non uscirò vivo dalla prigione,
+              ma morirò da amante fedele.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Signora, devo proprio restare, non mi posso separare da voi; non ho mai potuto fare a
+              meno di amarvi e servirvi, così l’amore che mi assale di continuo mi farà morire;
+              attendo sempre la vostra grazia, poiché nessun bene mi può venire se non per piacer
+              vostro.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Canzone, vai a dire a Lorenzo che si guardi dall’intraprendere una grande follia,
+              poiché dovrebbe mentire falsamente.</p>
+          </div>
+        </div></body></text></TEI>

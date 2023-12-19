@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-12-15</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Paris 1833, 95; Buchon 1840, 420; Leroux de Lincy 1841-1842,<hi rend="smallcaps">
+              I,</hi> 30; Dinaux 1837-1863, <hi rend="smallcaps">III</hi>, 389; Brakelmann 1870, 78;
+            Scheler 1876, <hi rend="smallcaps">I</hi>, 12; Wallensköld 1891, 228; Bédier-Aubry 1909,
+            39; Wallensköld 1921, 8; Beck 1937, 22; Brittain 1937, 134; Pauphilet 1952, 870;
+            Gennrich 1958, 3; Toja 1966, 207; Picot 1975, II, 20; Schöber 1976, 127; van der Werf
+            1977-1979, I, 295; Collins 1982, 33; Dijkstra 1995a, 190.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Paris 1833, 95; Buchon 1840, 420; Leroux de Lincy 1841-1842,<hi rend="smallcaps">
+              I,</hi> 30; Dinaux 1837-1863, <hi rend="smallcaps">III</hi>, 389; Brakelmann 1870, 78;
+            Scheler 1876, <hi rend="smallcaps">I</hi>, 12; Wallensköld 1891, 228; Bédier-Aubry 1909,
+            39; Wallensköld 1921, 8; Beck 1937, 22; Brittain 1937, 134; Pauphilet 1952, 870;
+            Gennrich 1958, 3; Toja 1966, 207; Picot 1975, II, 20; Schöber 1976, 127; van der Werf
+            1977-1979, I, 295; Collins 1982, 33; Dijkstra 1995a, 190.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(7).</hi> K p. 398a (anonymous), M 47b (<hi rend="italic">sire
+              Quenes</hi>), N 183b (anon.), O 18b (anon.), T 100v (<hi rend="italic">me sire
+              Quenes</hi>), U 96r (anon.), X 255d (anon.).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(7).</hi> K p. 398a (anonima), M 47b (<hi rend="italic">sire
+              Quenes</hi>), N 183b (anon.), O 18b (anon.), T 100v (<hi rend="italic">me sire
+              Quenes</hi>), U 96r (anon.), X 255d (anon.).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>7a 10b 7a 10b 10c’ 10b 10b 10c’
+        (MW 1119,2 = Frank 351); 6 <hi rend="italic">coblas ternas</hi> “linked”, with two 4-line
+          <hi rend="italic">envois</hi> (c’bbc’), the second incomplete and possibly spurious; rhyme
+        a: <hi rend="italic">-ier</hi>, <hi rend="italic">-iés</hi>; rhyme b: <hi rend="italic">-ans</hi>, <hi rend="italic">-i</hi>; rhyme c: <hi rend="italic">-ance</hi>; the same
+        stanzaic structure is found in the song RS 985 by the Châtelain de Coucy, and the fixed c
+        rhyme is found in the other crusade song by the Châtelain, RS 679. There is an identical
+        rhyme in vv. 44 and 50e (<hi rend="italic">di</hi>, but the whole expression <hi rend="italic">ke je [ai] di</hi> is identical), an equivocal rhyme in vv. 24-40 (<hi rend="italic">poissance</hi>), 35-41 (<hi rend="italic">empiriés</hi>) and 37-49e (<hi rend="italic">samblance</hi>); paronymous rhymes are found in vv. 34-<hi rend="italic">55</hi> (<hi rend="italic">failli-li</hi>), 36-42 (<hi rend="italic">vi-servi</hi>) and
+        38-39 (<hi rend="italic">ni-honi</hi>); many rhyme-words in <hi rend="italic">-i</hi> are
+        monosyllables which only change the initial consonant, producing an elementary <hi rend="italic">annominatio per immutationem</hi> (v. 36 <hi rend="italic">vi</hi>, v. 38
+          <hi rend="italic">ni</hi>, vv. 44 and 50 <hi rend="italic">di</hi>, v. 55 <hi rend="italic">li</hi>); etymological figure in vv. 4 and <hi rend="italic">56</hi> (<hi rend="italic">vaillans-vaillance</hi>); strong assonance and consonance in the rhyme-words
+        of vv. 47 and 51 (<hi rend="italic">ausi-Oissi</hi>, but see also <hi rend="italic">ensi</hi> in v. 18); the caesuras are generally regular: there is a lyric caesura in v.
+        51, a feminine caesura with elision in vv. 2 and 32 and an epic caesura in v. 50; melody in
+        all mss. bar U, with three variants MT, O, KNX; melodic structure ABAB CDEF (T
+        743).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>7a 10b 7a 10b 10c’ 10b 10b 10c’
+        (MW 1119,2 = Frank 351); 6 <hi rend="italic">coblas ternas</hi> “incatenate”, con due <hi rend="italic">envois</hi> di 4 versi (c’bbc’), il secondo incompleto e forse spurio; rima
+        a: <hi rend="italic">-ier</hi>, <hi rend="italic">-iés</hi>; rima b: <hi rend="italic">-ans</hi>, <hi rend="italic">-i</hi>; rima c: <hi rend="italic">-ance</hi>; la medesima
+        struttura strofica si trova nella canzone RS 985 del Castellano di Coucy, e la rima c fissa
+        si trova nell’altra canzone di crociata del Castellano, la RS 679; si ha rima identica ai
+        vv. 44 e 50e (<hi rend="italic">di</hi>, ma l’identità si estende a tutta l’espressione <hi rend="italic">ke je [ai] di</hi>), equivoca ai vv. 24-40 (<hi rend="italic">poissance</hi>), 35-41 (<hi rend="italic">empiriés</hi>) e 37-49e (<hi rend="italic">samblance</hi>); rima paronima ai vv. 34-<hi rend="italic">55</hi> (<hi rend="italic">failli-li</hi>), 36-42 (<hi rend="italic">vi-servi</hi>) e 38-39 (<hi rend="italic">ni-honi</hi>); molte rime in <hi rend="italic">-i</hi> sono costituite da monosillabi che
+        variano solo la consonante iniziale, producendo un’elementare <hi rend="italic">annominatio
+          per immutationem</hi> (v. 36 <hi rend="italic">vi</hi>, v. 38 <hi rend="italic">ni</hi>,
+        vv. 44 e 50 <hi rend="italic">di</hi>, v. 55 <hi rend="italic">li</hi>); figura etimologica
+        ai vv. 4 e <hi rend="italic">56</hi> (<hi rend="italic">vaillans-vaillance</hi>); forte
+        assonanza e consonanza tra le rime dei vv. 47 e 51 (<hi rend="italic">ausi-Oissi</hi>, ma si
+        veda anche <hi rend="italic">ensi</hi> del v. 18); le cesure sono in genere regolari: vi è
+        cesura lirica al v. 51, cesura femminile con elisione ai vv. 2 e 32 e cesura epica al v. 50;
+        melodia in tutti i testimoni tranne U, con tre varianti MT, O, KNX; schema melodico ABAB
+        CDEF (T 743).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>Wallensköld 1891 and Bédier 1909 draw up a
+        two-branch stemma: the first branch comprises MT only, the second U and O+KNX. According to
+        Bédier there are no elements in the tradition of this song to unite U with the other mss. of
+        the second branch and such a grouping is only made possible through the analysis of Conon’s
+        other songs (see Wallensköld 1891, pp. 40-42); but the examples adduced are of little
+        significance and U could constitute a third independent branch. U is in any case the only
+        ms. to preserve all the stanzas plus the two <hi rend="italic">envois</hi>; MT lack stanza
+        V, while OKNX lack stanza III. The second <hi rend="italic">envoi </hi>is in U only, whereas
+        the first is also attested in O. The edition of Wallensköld 1921 is presented here, even
+        though his reconstruction of the text is very hybrid. The structure and order of stanzas are
+        those of U, partly confermed by MT; the fact that this structure is taken up by the
+        Châtelain de Coucy in song RS 985 provides a further element of confirmation. As far as the
+        choice of readings is concerned, Wallensköld does not rely on the highly individual text of
+        U, and corrects it at various points even where this is the only ms. (vv. 33-36); he mainly
+        follows MT, where this is possible, rejecting their readings whenever these are isolated
+        against a united alternative in other mss. (it should be noted that MT’s readings in this
+        text do not show their usual reliability and are often trivial). In the absence of MT,
+        Wallensköld follows KNOX (vv. 37-40) or freely mixes readings from O and U (vv. 49-52). The
+        following modifications have been made to Wallensköld’s text: in v. 12 I accept the majority
+        reading <hi rend="italic">adés</hi>, which is also that of T; I have changed the punctuation
+        of vv. 29-31 and restored the simple negation <hi rend="italic">nen</hi> in v. 30; in v. 33
+        I abandon Bédier’s conjecture and turn to the text of the single ms. <hi rend="italic">Li
+          ques</hi>; in v. 50 I restore the reading of the mss. which show an epic caesura,
+        following U’s text.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Wallensköld 1891 e Bédier 1909 disegnano uno
+        stemma a due rami: il primo è costituito dai soli MT, il secondo da U e da O+KNX. Secondo
+        Bédier non vi sono elementi nella tradizione di questa canzone per unire U agli altri
+        testimoni del secondo ramo e tale raggruppamento è reso possibile solo dall’analisi delle
+        altre canzoni di Conon (si veda Wallensköld 1891, pp. 40-42); ma gli esempi addotti sono
+        poco significativi e U potrebbe costituire un terzo ramo indipendente. U è in ogni caso il
+        solo testimone che riporta tutte le strofe e i due congedi; MT sono privi della quinta
+        strofa, mentre in OKNX manca la terza strofa. Per quanto riguarda i congedi, il secondo è
+        solo in U mentre il primo è attestato anche da O. Si ripropone l’edizione di Wallensköld
+        1921, benché la sua ricostruzione del testo sia molto ibrida. La struttura e l’ordine delle
+        strofe sono quelli di U, confermati in parte da MT; il fatto che tale struttura sia ripresa
+        dal Castellano di Coucy nella canzone RS 985 costituisce un ulteriore elemento di conferma.
+        Per quanto riguarda la scelta di lezione, l’editore non si fida del testo molto personale di
+        U, correggendolo in più punti anche quando è manoscritto unico (vv. 33-36); egli segue
+        principalmente MT, quando è possibile, rifiutando la loro lezione ogni volta che si trova
+        isolata contro un’alternativa compatta degli altri canzonieri (va notato che in questo testo
+        la lezione di MT non mostra la consueta affidabilità e presenta numerose banalizzazioni). In
+        assenza di MT, Wallensköld segue la testimonianza di KNOX (vv. 37-40) o mescola con
+        disinvoltura le lezioni di O e U (vv. 49-52). Si apportano le seguenti modifiche al testo di
+        Wallensköld: al v. 12 si accoglie la lezione maggioritaria <hi rend="italic">adés</hi>, che
+        è anche quella di T; si modifica la punteggiatura dei vv. 29-31 e si restaura la negazione
+        semplice <hi rend="italic">nen</hi> al v. 30; al v. 33 si rinuncia alla congettura di Bédier
+        e si torna al testo del ms. unico <hi rend="italic">Li ques</hi>; al v. 50 si restaura la
+        lezione con cesura epica dei manoscritti, seguendo il testo di U.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-12-15T18:32:50Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Conon de Béthune</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="text" xml:id="rs.1314.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Bien me deüsse targier</l>
+            <l n="2">de chançon faire et de mos et de chans, </l>
+            <l n="3">quant me convient eslongier</l>
+            <l n="4"> de la millor de totes les vaillans;</l>
+            <l n="5">si em puis bien faire voire vantance,</l>
+            <l n="6">ke je fas plus por Dieu ke nus amans,</l>
+            <l n="7">si en sui mout endroit l’ame joians,</l>
+            <l n="8">mais del cors ai et pitié et pesance.</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="9">On se doit bien efforchier</l>
+            <l n="10">de Dieu servir, ja n’i soit li talans,</l>
+            <l n="11">et la char vaintre et plaissier,</l>
+            <l n="12">ki adés est de pechier desirans;</l>
+            <l n="13">adont voit Dieus la doble penitance.</l>
+            <l n="14">Hé! las, se nus se doit sauver dolans,</l>
+            <l n="15">dont doit par droit ma merite estre grans,</l>
+            <l n="16">car plus dolans ne se part nus de France.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="17">Vous ki dismés les croisiés, </l>
+            <l n="18">ne despendés mie l’avoir ensi:</l>
+            <l n="19">anemi Dieu en seriés.</l>
+            <l n="20">Dieus! ke porront faire si anemi,</l>
+            <l n="21">quant tot li saint trambleront de dotance</l>
+            <l n="22">devant Celui ki onques ne menti?</l>
+            <l n="23">Adont seront pecheor mal bailli,</l>
+            <l n="24">se sa pitiés ne cuevre sa poissance.</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="25">Ne ja por nul desirier</l>
+            <l n="26">ne remanrai chi avoc ces tirans,</l>
+            <l n="27">ki sont croisiet a loier</l>
+            <l n="28">por dismer clers et borgois et serjans;</l>
+            <l n="29">plus en croisa covoitiés ke creance,</l>
+            <l n="30">et quant la crois nen puet estre garans</l>
+            <l n="31">a teus croisiés, sera Dieus mout soffrans</l>
+            <l n="32">se ne s’en venge a peu de demorance.</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="33">Li ques s’en est ja vangiés, </l>
+            <l n="34">des haus barons, qui or li sont faillit.</l>
+            <l n="35">C’or les eüst anpiriés,</l>
+            <l n="36">qui sont plus vil que onques mais ne vi!</l>
+            <l n="37">Dehait li bers qui est de tel sanblance</l>
+            <l n="38">con li oixel qui conchïet son nit!</l>
+            <l n="39">Po en i a n’ait son renne honi,</l>
+            <l n="40">por tant qu’il ait sor ses homes possance.</l>
+          </lg>
+          <lg n="6" type="stanza">
+            <l n="41">Qui ces barons empiriéss</l>
+            <l n="42">ert sans eür, ja n’ara tant servi</l>
+            <l n="43">k’il lor em prenge pitiés;</l>
+            <l n="44">pour çou fait boin Dieu servir, ke je di</l>
+            <l n="45">qu’en lui servir n’a eür ne kaance,</l>
+            <l n="46">mais ki mieus sert, et mieus li est meri.</l>
+            <l n="47">Pleüst a Dieu k’Amors fesist ausi</l>
+            <l n="48">ensvers tos ceaus qui ens li ont fiance.</l>
+          </lg>
+          <lg n="7" type="stanza">
+            <l n="49">Or vos ai dit des barons ma sanblance;</l>
+            <l n="50">si lor an poise de ceu que jou ai di,</l>
+            <l n="51">si s’an praingnent a mon mastre d’Oissi,</l>
+            <l n="52">qui m’at apris a chanter tres m’anfance.</l>
+          </lg>
+          <lg n="8" type="stanza">
+            <l n="53">Par Deu, compains, adés ai ramambrance</l>
+            <l n="54">c’onques aüst ................................. amin,</l>
+            <l n="55">ne tous li mons ne vadroit riens sans li;</l>
+            <l n="56">magrei Gilon, adés croist sa vaillance</l>
+          </lg>
+        </div><div type="text" xml:lang="en ">
+          <p>Luca Barbieri, 2015</p>
+        </div><div type="text" xml:lang="it ">
+          <p>Luca Barbieri, 2015</p>
+        </div></body><back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>Line 17 mentions the establishment of the so-called ‘Saladin tithe’, the tax imposed to
+          finance the Third Crusade (end of March 1188); in addition song RS 1314 is echoed by Huon
+          d’Oisy in RS 1030 (see the commentary to that text) and its composition must therefore
+          precede Huon’s death, documented as falling on 20 August 1189. This limit seems also
+          confirmed by the document in which Philip Augustus cancels the collection of the tithe
+          (April-October 1189) and by the attack on the conduct of the men of power (vv. 17-19)
+          which seems to allude to the situation preceding the death of Henry II of England (6 July
+          1189; see Schöber 1976, pp. 130-131). The song must therefore have been composed between
+          the summer of 1188 and that of 1189, probably soon after RS 1125.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Il v. 17 menziona l’istituzione della cosiddetta “decima saladina”, la tassa imposta per
+          finanziare la terza crociata (fine marzo 1188); inoltre anche la canzone RS 1314 è stata
+          ripresa da Huon d’Oisy nella RS 1030 (se ne veda il commento al testo) e la sua
+          composizione dovrà quindi precedere la morte di Huon, avvenuta secondo i documenti il 20
+          agosto 1189. Questo limite sembra confermato anche dal documento con il quale Filippo
+          Augusto annulla la raccolta della decima (aprile-ottobre 1189) e dall’attacco al
+          comportamento dei potenti (vv. 17-19) che sembra alludere alla situazione precedente la
+          morte di Enrico II (6 luglio 1189; si veda Schöber 1976, pp. 130-131). La canzone sarà
+          quindi stata composta tra l’estate del 1188 e quella del 1189, verosimilmente non molto
+          tempo dopo la RS 1125.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>[To follow.] </p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>[A seguire.] </p>
+      </div>
+    </back></text></TEI>

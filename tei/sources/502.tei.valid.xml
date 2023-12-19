@@ -1,0 +1,432 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-02-24</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Paris 1833, 113; Lacour 1856, 37; Ulrich 1889-1895, <hi rend="smallcaps">ii</hi>
+            147; Brakelmann 1896, <hi rend="smallcaps">ii</hi> 34; Noonan 1933, <hi rend="smallcaps"
+              >ii</hi> 196; Petersen Dyggve 1945, 34.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Paris 1833, 113; Lacour 1856, 37; Ulrich 1889-1895, <hi rend="smallcaps">ii</hi>
+            147; Brakelmann 1896, <hi rend="smallcaps">ii</hi> 34; Noonan 1933, <hi rend="smallcaps"
+              >ii</hi> 196; Petersen Dyggve 1945, 34.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(9+1).</hi> A 159a (<hi rend="italic">li Vidame</hi>), K 181b (<hi
+              rend="italic">li Visdame de Chartres</hi>), M 8a (<hi rend="italic">li Vidame de
+              Ch[...]</hi>), Me 85v? (incipit only, <hi rend="italic">Robert de Blois</hi>), N 86c
+              (<hi rend="italic">Robert de Blois</hi>), P 71a (<hi rend="italic">Robert de
+              Blois</hi>), T 106v (<hi rend="italic">li Vidame</hi>), U 22v (anonymous), X 129d (<hi
+              rend="italic">Robert de Blois</hi>), a 21v (<hi rend="italic">li Vidame de
+              Cartres</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(9+1).</hi> A 159a (<hi rend="italic">li Vidame</hi>), K 181b (<hi
+              rend="italic">li Visdame de Chartres</hi>), M 8a (<hi rend="italic">li Vidame de
+              Ch[...]</hi>), Me 85v? (solo incipit, <hi rend="italic">Robert de Blois</hi>), N 86c
+              (<hi rend="italic">Robert de Blois</hi>), P 71a (<hi rend="italic">Robert de
+              Blois</hi>), T 106v (<hi rend="italic">li Vidame</hi>), U 22v (anonima), X 129d (<hi
+              rend="italic">Robert de Blois</hi>), a 21v (<hi rend="italic">li Vidame de
+              Cartres</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’">
+        <p>10a’ba’ba’ba’ (MW 674,5 = Frank 224); 5 <hi rend="italic">coblas unissonans</hi>; rhyme
+          a: <hi rend="italic">-ee</hi>; rhyme b: <hi rend="italic">-ir</hi>; the stanzas are <hi
+            rend="italic">capcaudadas</hi>, as the rhyme <hi rend="italic">-ie</hi> is found at the
+          end and the begining of each stanza; frequent identical rhymes, to the extent that one
+          could speak of <hi rend="italic">coblas retronchadas</hi>, even if the repetitions do not
+          fall systematically in the same position of each stanza (<hi rend="italic">venir</hi> vv.
+          2 and 18; <hi rend="italic">demoree</hi> vv. 5 and 14; <hi rend="italic">desir</hi> vv. 6,
+          13 and 23, but the second case is a noun whereas in the other cases it is a verb; <hi
+            rend="italic">nee</hi> vv. 7, 10 and 22 (in this case also the last occurrence is a
+          noun); <hi rend="italic">agree</hi> vv. 15 and 24; <hi rend="italic">pensee</hi> vv. 19
+          and 29); paronymous and derivative rhyme vv. 2, 9, 18 (<hi rend="italic">venir</hi>, <hi
+            rend="italic">revenir</hi>), 4 and 16 (<hi rend="italic">reveïr</hi>, <hi rend="italic"
+            >veïr</hi>) and vv. 11, 20, 32, 34 (<hi rend="italic">retenir</hi>, <hi rend="italic"
+            >atenir</hi>, <hi rend="italic">tenir</hi>); paronymous only in vv. 3, 7, 8, 10, 22 (<hi
+            rend="italic">senee</hi>, <hi rend="italic">nee</hi>, <hi rend="italic">retornee</hi>);
+          rich and leonine rhymes are also very frequent; lyric caesura vv. 7, 20 and 30; feminine
+          caesura with elision v. 6; Italian-style accentual caesura 4’+5’ or else decasyllable 6+4
+          v. 1 (v. 13 is also, definitely, 6+4); melody in all mss., with A’s individual; melodic
+          structure ABAB CDE (T 291).</p>
+      </metDecl>
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’"><p>10a’ba’ba’ba’ (MW 674,5 = Frank
+        224); 5 <hi rend="italic">coblas unissonans</hi>; rima a: <hi rend="italic">-ee</hi>; rima
+        b: <hi rend="italic">-ir</hi>; le strofe sono <hi rend="italic">capcaudadas</hi>, poiché la
+        rima <hi rend="italic">-ie</hi> si trova alla fine e all’inizio di ogni strofa; frequenti
+        rime identiche, tanto che si potrebbe parlare di <hi rend="italic">coblas retronchadas</hi>,
+        anche se le ripetizioni non avvengono sistematicamente nella stessa posizione delle strofe
+          (<hi rend="italic">venir</hi> vv. 2 e 18; <hi rend="italic">demoree</hi> vv. 5 e 14; <hi
+          rend="italic">desir</hi> vv. 6, 13 e 23, ma il secondo caso è un sostantivo mentre negli
+        altri casi si tratta di un verbo; <hi rend="italic">nee</hi> vv. 7, 10 e 22 (anche in questo
+        caso l’ultima occorrenza è un sostantivo); <hi rend="italic">agree</hi> vv. 15 e 24; <hi
+          rend="italic">pensee</hi> vv. 19 e 29); rima paronima e derivativa ai vv. 2, 9, 18 (<hi
+          rend="italic">venir</hi>, <hi rend="italic">revenir</hi>), 4 e 16 (<hi rend="italic"
+          >reveïr</hi>, <hi rend="italic">veïr</hi>) e ai vv. 11, 20, 32, 34 (<hi rend="italic"
+          >retenir</hi>, <hi rend="italic">atenir</hi>, <hi rend="italic">tenir</hi>); solo paronima
+        tra i vv. 3, 7, 8, 10, 22 (<hi rend="italic">senee</hi>, <hi rend="italic">nee</hi>, <hi
+          rend="italic">retornee</hi>); molto frequenti anche le rime ricche e leonine; cesura
+        lirica ai vv. 7, 20 e 30; cesura femminile con elisione al v. 6; cesura accentuale
+        all’italiana 4’+5’ oppure decasillabo 6+4 al v. 1 (certamente 6+4 è anche il v. 13); melodia
+        in tutti i testimoni, indipendente quella di A; schema melodico ABAB CDE (T 291).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>As is often the case common errors are scarce,
+        but the usual opposition between the families AMTa and KNPX is constant. In M the text is
+        lacunary because of the removal of a vignette and only vv. 1-3 and 20-33 remain. U’s text is
+        highly individual: the first four lines of the first three stanzas are in the same position
+        as in the other mss., while the last lines of the stanza are displaced according to the
+        following order: 1-4+26-28, 8-11+5-7, 15-18+12-14. Hence vv. 19-25 and 29-35 are missing and
+        in their place the copyist has added a fourth stanza and a sort of <hi rend="italic"
+          >envoi</hi> of five lines, both independent of the rest of the tradition. In the tradition
+        of this text the variants are few and of little relevance. In the case of minor differences
+        between AMTa and KNPX the reading confirmed by U is chosen (vv. 2, 11, 12, 16), even if in
+        the trouvère tradition there are a few traces of a possible common model of U and KNPX.
+        Where U is absent or has an individual reading (vv. 3, 13, 20, 23, 33, 35) decisions are
+        made on a case by case basis, what appears to be the best reading being chosen. In all these
+        cases the reading of A(M)Ta seems <hi rend="italic">difficilior</hi>, except in v. 23 where
+        the variants of Aa and MT are probably erroneous. The graphy is that of P. The attribution
+        to the Vidame de Chartres, unanimous in AMTa, is also confirmed by K, but see also the
+        notable affinities with the song RS 421.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Come spesso avviene scarseggiano gli errori
+        congiuntivi, ma la consueta opposizione tra le famiglie AMTa e KNPX è costante. In M il
+        testo è lacunoso a causa dell’ablazione di una vignetta e ne restano solo i vv. 1-3 e 20-33.
+        Il testo di U è molto particolare: i primi quattro versi delle prime tre strofe restano
+        nella stessa posizione degli altri testimoni, mentre gli ultimi versi delle strofe vengono
+        spostati secondo la seguente successione: 1-4+26-28, 8-11+5-7, 15-18+12-14. Mancano di
+        conseguenza i vv. 19-25 e 29-35 al posto dei quali il copista aggiunge una quarta strofa e
+        una sorta di congedo di cinque versi entrambi indipendenti dal resto della tradizione. Nella
+        tradizione di questo testo le varianti sono poche e di scarsa rilevanza. In caso di
+        opposizione adiafora tra AMTa e KNPX si sceglie la lezione confermata da U (vv. 2, 11, 12,
+        16), anche se nella tradizione dei trovieri si trova qualche traccia di un possibile modello
+        comune a U e KNPX. Laddove U non è presente o ha una lezione autonoma (vv. 3, 13, 20, 23,
+        33, 35) si decide di volta in volta accogliendo la lezione che sembra migliore. In tutti
+        questi casi la lezione di A(M)Ta sembra <hi rend="italic">difficilior</hi>, tranne al v. 23
+        dove le varianti di Aa e MT sono probabilmente erronee. La grafia è quella di P.
+        L’attribuzione al Vidame de Chartres, compatta in AMTa, è confermata anche da K, ma si
+        vedano anche le notevoli affinità con la canzone RS 421.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-03-13T09:36:03Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Vidame de Chartres</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+        <div type="text" xml:id="rs.502.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Tant com je fusse fors de ma contree</l>
+            <l n="2">ne deüst pas a moi joie venir,</l>
+            <l n="3">car qant remir la bien fete senee</l>
+            <l n="4"> moi est avis nel doie reveïr;</l>
+            <l n="5">ensus de li ai fet grant demoree</l>
+            <l n="6">en une terre ou estre ne desir:</l>
+            <l n="7">melz amasse la ou ele fu nee.</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="8">Liez fui qant vi de Blois ma retornee</l>
+            <l n="9">et je bien sui que m’en dui revenir</l>
+            <l n="10">a la plus tres bele riens qui soit nee,</l>
+            <l n="11">a qui je sui, se me veut retenir;</l>
+            <l n="12">por Dieu li pri, qui tant l’a honoree</l>
+            <l n="13">car chascuns qui la voit est a desir,</l>
+            <l n="14">qu’ele ait de moi merci sanz demoree.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="15">El païs sui ou cele est qui m’agree,</l>
+            <l n="16">mais nel puis pas a mon vouloir veïr,</l>
+            <l n="17">car tant redout la cruex gent baee</l>
+            <l n="18">que je n’i os ne aler ne venir;</l>
+            <l n="19">melz aim de li avoir dure pensee</l>
+            <l n="20">que d’une autre grignors biens atenir,</l>
+            <l n="21">tant aim de li la douce renonmee.</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="22">Si me dont Dex de la tres bele nee</l>
+            <l n="23">joie et solaz, si com je le desir,</l>
+            <l n="24">que nule riens fors s’amor ne m’agree,</l>
+            <l n="25">si m’a atret a son tres douz pleisir;</l>
+            <l n="26">Dex! ert ce ja que la tiengne a celee</l>
+            <l n="27">entre mes bras, nu a nu, a loisir?</l>
+            <l n="28">Oïl, s’Amors veut que j’aie duree.</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="29">Dame, por qui j’ai si lïe pensee</l>
+            <l n="30">qu’autre joie ne s’i puet aatir,</l>
+            <l n="31">nus qui vos ait veüe n’esgardee</l>
+            <l n="32">ne se poroit de vos loer tenir,</l>
+            <l n="33">qu’avec biauté vos est bontés doublee;</l>
+            <l n="34">si m’en doi moult amer et chier tenir,</l>
+            <l n="35">qant j’ai biauté et bonté enamee.</l>
+          </lg>
+        </div>
+        <div type="translation" xml:id="rs.502.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>For as long as I remained away from my own country I was destined not to have joy, as
+              when I thought of the lovely, wise lady it seemed to me I should not see her again. I
+              made a long sojourn far from her in a land where I did not wish to be: I would have
+              rather (been) in the land of her birth.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>I was happy when I saw that I should be returning from Blois and I was certain that I
+              would return to the most beautiful creature ever born, to whom I belong, should she be
+              willing to retain me; I pray her, for the sake of God who has so greatly honoured her
+              that whoever sees her lives in desire, that she have mercy on me without delay.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Now I am in the land where lives the one that pleases me, but I cannot see her as I
+              wish, because I am so afraid of the cruel snoopers that I dare not move. I would
+              rather have painful thoughts about her than obtain the greatest favours from anothers
+              much do I love her sweet reputation.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Nevertheless may God grant me joy and pleasure from the loveliest creature, just as I
+              desire it, since nothing delights me but her love, so much has she drawn me to her
+              most sweet pleasure. Oh God, will it ever happen that I hold her secretly in my arms,
+              both of us naked, at our leisure? Yes, if Love wishes me to live.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Lady, on whose account I have such glad thoughts that no other joy can compare with
+              them, no-one who has seen and gazed upon you can refrain from your praise, for in you
+              kindness is joined to beauty; so I must consider myself most fortunate and privileged,
+              since I have fallen in love with beauty and kindness.</p>
+          </div>
+        </div>
+        <div type="translation" xml:id="rs.502.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Finché fossi rimasto fuori dal mio paese sarei stato destinato a non avere gioia,
+              perché quando pensavo alla bella assennata ero convinto che non l’avrei rivista. Ho
+              fatto un lungo soggiorno lontano da lei in una terra dove non desideravo essere: avrei
+              preferito (essere) là dove lei è nata.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Sono stato felice quando ho visto che sarei ripartito da Blois e ho avuto la certezza
+              che sarei tornato dalla più bella creatura che sia mai nata, alla quale appartengo, se
+              lei mi vuole accogliere; la prego per Dio, che l’ha tanto onorata che chiunque la veda
+              vive nel desiderio, che abbia pietà di me senza indugio.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Ora sono nel paese dov’è colei che mi piace, ma non posso vederla a mio agio, perché
+              ho tanta paura della gente crudele e indiscreta che non oso andare e venire.
+              Preferisco avere da lei gravi preoccupazioni che ottenere i più grandi favori da
+              un’altra, tanto amo la sua dolce reputazione.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Dio mi conceda gioia e piacere dalla bellissima creatura, così come desidero, perché
+              niente mi appaga se non il suo amore, a tal punto mi ha conquistato al suo dolcissimo
+              piacere. Dio, accadrà mai che la tenga di nascosto tra le mie braccia, entrambi nudi,
+              a mio piacimento? Sì, se Amore vuole che io resista (resti in vita).</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Signora, verso la quale nutro pensieri così belli che nessun’altra gioia vi si può
+              comparare, nessuno che vi abbia vista e contemplata potrebbe trattenersi dal lodarvi,
+              perché in voi alla bellezza è sommata la bontà; per cui devo ritenermi fortunato e
+              privilegiato, dal momento che mi sono innamorato della bellezza e della bontà.</p>
+          </div>
+        </div>
+        <div type="text" xml:lang="en ">
+          <p>Luca Barbieri 2016</p>
+        </div>
+        <div type="text" xml:lang="it ">
+          <p>Luca Barbieri 2016</p>
+        </div>
+      
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>See the corresponding paragraph to song RS 421. This song also must have been composed
+          after the author’s return from his first stay in the East, probably between May and the
+          end of the summer of 1203, or else after his possible (but unlikely) definitive return
+          from the crusade.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Si veda il paragrafo corrispondente della canzone RS 421. Anche questa canzone dev’essere
+          stata scritta dopo il ritorno dell’autore dalla sua prima permanenza in Oriente,
+          probabilmente tra il maggio e la fine dell’estate del 1203, oppure dopo il suo eventuale
+          (e improbabile) ritorno definitivo alla fine della crociata.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>For the affinities with the Vidame de Chartres’ other song, RS 421, see the introductory
+          note. Apart from the very similar opening, the two texts have in common the negative
+          references to the distant land (RS 421, 4 and 13; RS 502, 6), the mention of the <hi
+            rend="italic">mesdisants</hi> and the author’s concealed love (RS 421, 29-32; RS 502,
+          15-18), the hopeful prayer for the future joy of love (RS 421, 17-20; RS 502, 22-25), the
+          more or less veiled mention of sexual pleasure (RS 421, 23-24; RS 502, 26-27) and the
+          supplication addressed directly to the lady in the concluding stanza (RS 421, 33-40; RS
+          502, 29-35). Both texts also share many rhyme-words in <hi rend="italic">-ee</hi>: <hi
+            rend="italic">contree</hi> (RS 421, 2; RS 502, 1), <hi rend="italic">agree</hi> (RS 421,
+          6; RS 502, 15 and 24), <hi rend="italic">(en)amee</hi> (RS 421, 8; RS 502, 35), <hi
+            rend="italic">demoree</hi> (RS 421, 14; RS 502, 5 and 14), <hi rend="italic">nee</hi>
+          (RS 421, 18; RS 502, 7, 10 and 22).</p>
+        <p>Although the author is from the central part of France, the text contains at least two
+          northern forms confirmed by the rhyme in vv. 4 and 16 (<hi rend="italic">reveïr</hi>, <hi
+            rend="italic">veïr</hi>); also of northern origin is the use of the masculine pronoun
+          for the feminine (<hi rend="italic">nel</hi>) in the same lines and the form <hi
+            rend="italic">lïe</hi> in v. 29. These are in any case phenomena of the Old French
+          literary <hi rend="italic">koinè</hi> which are also quite widespread outside their region
+          of origin (see Petersen Dyggve 1944, p. 36).</p>
+        <p corresp="#rs.502.fro:(n=1)">For the use of contree in crusade songs see Chardon de
+          Croisilles RS 499, 1 and Thibaut de Champagne RS 757, 2; the King of Navarre’s song also
+          contains in vv. 5-6 a negative allusion to the Holy Land similar to that found in v. 6 of
+          the present text. Compare also the close resemblance to the first stanza of Gautier de
+          Dargies RS 1575 (and more vaguely RS 1582).</p>
+        <p corresp="#rs.502.fro[range(@n=3,@n=6)]">It is difficult to understand the syntactic link
+          between the imperfect subjunctive of the first two lines and the present indicative of vv.
+          3-6; compare however the cases of asymmetry evoked by Ménard § 158d, p. 158. The asymmetry
+          may perhaps also be explained by the succession of two temporal propositions, as happens
+          in the case of hypothetical clauses (Ménard § 208, pp. 194-195). However, given that v. 15
+          assures us that the poet is in France and not in the East, it is highly likely that the
+          present remir, m’est avis and desir have historical force and should therefore be
+          interpreted as having preterite force, as has been indicated for example in Thibaut de
+          Champagne RS 273, 37 and RS 1469, 25-26. Just the same curious alternation of tenses also
+          occurs in RS 421 (vv. 11-14) and may be a distinctive syntactic feature of the author.</p>
+        <p corresp="#rs.502.fro:(n=3)">The verb remir in ATa can also mean “to think of, remember”,
+          for which see Petersen Dyggve 1945, p. 36 and Godefroy 7, 7a; this sense, which often
+          occurs in the frequent lyric expression remirer en son cuer (“représenter dans son
+          esprit”), would qualify remir as a lectio difficilior.</p>
+        <p corresp="#rs.502.fro[range(@n=6,@n=7)]">For the negative characterisation of the East,
+          and in particular the Holy Land, see Thibaut de Champagne RS 757, 5-6 and the songs with
+          female subject Guiot de Dijon RS 21, 5-6 and RS 191, 1-2, but also RS 421, 13-14, where
+          resentment towards the distant land is expressed in such strong terms that one wonders
+          whether this does not actually concern the Holy Land but instead refers to Venice or
+          Dalmatia.</p>
+        <p corresp="#rs.502.fro[range(@n=8,@n=9)]">For these lines see the Châtelain d’Arras RS 140,
+          5-6, also referring to the impossibility of joy in separation.</p>
+        <p corresp="#rs.502.fro[range(@n=10,@n=11)]">Compare Chardon de Croisilles RS 499, 9-11 and
+          note. For v. 10 see also the similarity with RS 421, 18.</p>
+        <p corresp="#rs.502.fro:(n=17)">For indeclinable cruex see cruos in TL 2, 1109, 32 ff. and
+          examples such as Jean Malkaraume, 7850: de la beste cruex sauvaige and Rutebeuf,
+          Complainte du comte Eudes de Nevers, 176-177: ailliens en cele region / ou Diex soffri la
+          mort crueulz. The adjective baee would signify “idle, shiftless, lazy”, as suggested by
+          Godefroy 1, 611c, who cites our text, or else “indiscreet” through the reference to the
+          open mouth. Either way the line concerns the slanderers, already evoked in RS 421, 30-32,
+          as in the Châtelain de Coucy RS 679, 33-34 and RS 985, 36-40 and 43 and in part in Chardon
+          de Croisilles RS 499, 25-28.</p>
+        <p corresp="#rs.502.fro[range(@n=19,@n=20)]">A classic courtly axiom: see Châtelain de Coucy
+          RS 679, 15-16 (and note) and especially RS 985, 15-16. Here pensee evidently means “souci”
+          (Godefroy 10, 313b).</p>
+        <p corresp="#rs.502.fro[range(@n=26,@n=27)]">For the reference to nudity see Châtelain de
+          Coucy RS 985, 5-8 and the note to v. 7.</p>
+        <p corresp="#rs.502.fro:(n=28)">The use of a rhetorical question followed by an emphatic
+          reply also echoes the Châtelain de Coucy; see RS 679, 9-11 and RS 985, 34-35. </p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Notevoli sono le affinità con l’altra canzone del Vidame de Chartres, RS 421, di cui si
+          veda la nota introduttiva. Oltre all’inizio molto simile, i due testi hanno in comune i
+          riferimenti negativi alla terra lontana (RS 421, 4 e 13; RS 502, 6), gli accenni ai <hi
+            rend="italic">mesdisants</hi> e all’amore celato dell’autore (RS 421, 29-32; RS 502,
+          15-18), la preghiera speranzosa per la gioia amorosa futura (RS 421, 17-20; RS 502,
+          22-25), l’accenno più o meno velato al piacere sessuale (RS 421, 23-24; RS 502, 26-27) e
+          la supplica direttamente indirizzata alla dama nella strofa conclusiva (RS 421, 33-40; RS
+          502, 29-35). I due testi condividono inoltre molte parole-rima in <hi rend="italic"
+            >-ee</hi>: <hi rend="italic">contree</hi> (RS 421, 2; RS 502, 1), <hi rend="italic"
+            >agree</hi> (RS 421, 6; RS 502, 15 e 24), <hi rend="italic">(en)amee</hi> (RS 421, 8; RS
+          502, 35), <hi rend="italic">demoree</hi> (RS 421, 14; RS 502, 5 e 14), <hi rend="italic"
+            >nee</hi> (RS 421, 18; RS 502, 7, 10 e 22).</p>
+        <p>Benché l’autore sia originario delle regioni centrali della Francia, si trovano nel testo
+          almeno due forme settentrionali certificate dalla rima ai vv. 4 e 16 (<hi rend="italic"
+            >reveïr</hi>, <hi rend="italic">veïr</hi>); sono di origine settentrionale anche l’uso
+          del pronome maschile per il femminile (<hi rend="italic">nel</hi>) negli stessi versi e la
+          forma <hi rend="italic">lïe</hi> al v. 29. Si tratta in ogni caso di fenomeni abbastanza
+          diffusi nella <hi rend="italic">koinè</hi> letteraria oitanica anche al di fuori delle
+          regioni d’origine (si veda il commento di Petersen Dyggve 1944, p. 36).</p>
+        <p corresp="#rs.502.fro:(n=1)">Per l’uso di contree nelle canzoni di crociata si veda
+          Chardon de Croisilles RS 499, 1 e Thibaut de Champagne RS 757, 2; la canzone del Re di
+          Navarra contiene anche ai vv. 5-6 un accenno negativo alla Terra Santa simile a quello che
+          si trova al v. 6 del nostro testo. Si veda anche la vicinanza con la prima strofa di
+          Gautier de Dargies RS 1575 (e più vagamente con la RS 1582).</p>
+        <p corresp="#rs.502.fro[range(@n=3,@n=6)]">Si fatica a capire il legame sintattico tra il
+          congiuntivo imperfetto dei primi due versi e l’indicativo presente dei vv. 3-6; si vedano
+          però i casi di asimmetria evocati da Ménard § 158d, p. 158. L’asimmetria si può forse
+          spiegare anche per la successione di due proposizioni temporali, come accade nel caso
+          delle ipotetiche (Ménard § 208, pp. 194-195). Tuttavia, visto che il v. 15 ci assicura che
+          l’autore si trova in Francia e non in Oriente, è molto probabile che i presenti remir,
+          m’est avis e desir abbiano funzione storica e debbano quindi essere interpretati con
+          valore di preterito, come già segnalato per esempio in Thibaut de Champagne RS 273, 37 e
+          RS 1469, 25-26. Tra l’altro, la stessa curiosa alternanza di tempi si trova anche nella
+          canzone RS 421 (vv. 11-14) e potrebbe essere un tratto sintattico distintivo
+          dell’autore.</p>
+        <p corresp="#rs.502.fro:(n=3)">Il verbo remir di ATa può significare anche “pensare a,
+          ricordarsi di” per cui si veda Petersen Dyggve 1945, p. 36 e Godefroy 7, 7a; questo
+          significato, che trova riscontro nella frequente espressione lirica remirer en son cuer
+          (“représenter dans son esprit”), qualificherebbe remir come una lectio difficilior.</p>
+        <p corresp="#rs.502.fro[range(@n=6,@n=7)]">Per la caratterizzazione negativa dell’Oriente, e
+          in particolare della Terra Santa, si veda Thibaut de Champagne RS 757, 5-6 e le canzoni a
+          soggetto femminile Guiot de Dijon RS 21, 5-6 e RS 191, 1-2, ma anche la canzone RS 421,
+          13-14, dove l’astio contro la terra lontana è espresso con termini talmente forti da far
+          pensare che non si tratti propriamente della Terra Santa ma piuttosto di Venezia o della
+          Dalmazia.</p>
+        <p corresp="#rs.502.fro[range(@n=8,@n=9)]">Per questi versi, anche in riferimento
+          all’impossibilità della gioia nella lontananza, si veda Châtelain d’Arras RS 140, 5-6.</p>
+        <p corresp="#rs.502.fro[range(@n=10,@n=11)]">Si veda Chardon de Croisilles RS 499, 9-11 e
+          nota. Per il v. 10 si veda anche la corrispondenza con RS 421, 18.</p>
+        <p corresp="#rs.502.fro:(n=17)">Per cruex indeclinabile si veda la voce cruos in TL 2, 1109,
+          32ss. e alcune occorrenze come Jean Malkaraume, 7850: de la beste cruex sauvaige e
+          Rutebeuf, Complainte du comte Eudes de Nevers, 176-177: ailliens en cele region / ou Diex
+          soffri la mort crueulz. L’aggettivo baee significherà “sfaccendata, perdigiorno, oziosa”,
+          come suggerito da Godefroy 1, 611c, che cita il nostro testo, oppure “indiscreta” per il
+          riferimento alla bocca aperta. Si tratterà in ogni caso dei calunniatori, già evocati in
+          RS 421, 30-32, come anche in Châtelain de Coucy RS 679, 33-34 e RS 985, 36-40 e 43 e in
+          parte in Chardon de Croisilles RS 499, 25-28.</p>
+        <p corresp="#rs.502.fro[range(@n=19,@n=20)]">Classico assioma cortese per cui si veda
+          Châtelain de Coucy RS 679, 15-16 (e nota) e soprattutto RS 985, 15-16. Qui pensee ha
+          evidentemente il senso di “souci” (Godefroy 10, 313b).</p>
+        <p corresp="#rs.502.fro[range(@n=26,@n=27)]">Per il riferimento alla nudità si veda
+          Châtelain de Coucy RS 985, 5-8 e la nota al v. 7.</p>
+        <p corresp="#rs.502.fro:(n=28)">Anche il ricorso alla domanda retorica seguita da una
+          risposta enfatica rimandano al Castellano di Coucy; si veda RS 679, 9-11 e RS 985,
+          34-35.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

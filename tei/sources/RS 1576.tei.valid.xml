@@ -1,0 +1,538 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-02-24</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Jubinal 1838, 37; Michel 1839, 52; Buchon 1840, I, 425; Leroux de Lincy
+              1841-1842,<hi rend="smallcaps"> I,</hi> 122; Wackernagel 1846, 34; Paris 1890a, 294;
+            Bédier-Aubry 1909, 145; Serper 1983, 82; Guida 1992, 98; Dijkstra 1995a, 202.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Jubinal 1838, 37; Michel 1839, 52; Buchon 1840, I, 425; Leroux de Lincy
+              1841-1842,<hi rend="smallcaps"> I,</hi> 122; Wackernagel 1846, 34; Paris 1890a, 294;
+            Bédier-Aubry 1909, 145; Serper 1983, 82; Guida 1992, 98; Dijkstra 1995a, 202.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss. (3).</hi> C 96r (anonymous), M 81b (<hi rend="italic">Hues de
+              saint quentin</hi>), T 42v (<hi rend="italic">Hues de saint quentin</hi>); M’s text is
+            mutilated because of the removal of a vignette; the attribution appears in the initial
+            table of the songbook.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss. (3).</hi> C 96r (anonima), M 81b (<hi rend="italic">Hues de
+              saint quentin</hi>), T 42v (<hi rend="italic">Hues de saint quentin</hi>); il testo di
+            M è mutilato a causa dell’ablazione di una vignetta; l’attribuzione si legge nella
+            tavola iniziale del canzoniere.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’">
+        <p>10ababbbaabba (MW 961,1); 4 <hi rend="italic">coblas doblas capcaudadas</hi>; rhyme a:
+            <hi rend="italic">-is</hi>, <hi rend="italic">-on</hi>; rhyme b: <hi rend="italic"
+            >-ent</hi>, <hi rend="italic">-ier</hi>; the metrical shape is a <hi rend="italic"
+            >unicum</hi> in Old French lyric and there are no examples in troubadour lyric;
+          paronymous rhymes in vv. 3-22 (<hi rend="italic">amis-pramis</hi>), 14-18-19 (<hi
+            rend="italic">souspris-pris-repris</hi>, also derivative), 25-41-44 (<hi rend="italic"
+            >pardon-guerredon-don</hi>); <hi rend="italic">ment</hi> in v. 20 constitutes a
+          paronymous rhyme with numerous forms of the rich rhyme <hi rend="italic">-ment</hi> in the
+          first two stanzas (vv. 2, 5, 6, 9, 16, 17); lyric caesura in vv. 17, 28 and 42; feminine
+          caesura with elision in v. 10; melody in MT, with the melodic scheme ABAB CDEFGHI (T
+          911).</p>
+      </metDecl>
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’">
+        <p>10ababbbaabba (MW 961,1); 4 <hi rend="italic">coblas doblas capcaudadas</hi>; rima a: <hi
+            rend="italic">-is</hi>, <hi rend="italic">-on</hi>; rima b: <hi rend="italic">-ent</hi>,
+            <hi rend="italic">-ier</hi>; lo schema metrico è un <hi rend="italic">unicum</hi> nella
+          lirica francese e non se ne trovano esempi nella lirica trobadorica; si ha rima paronima
+          ai vv. 3-22 (<hi rend="italic">amis-pramis</hi>), 14-18-19 (<hi rend="italic"
+            >souspris-pris-repris</hi>, anche derivativa), 25-41-44 (<hi rend="italic"
+            >pardon-guerredon-don</hi>); <hi rend="italic">ment</hi> al v. 20 costituisce rima
+          paronima con numerose forme in rima ricca <hi rend="italic">-ment</hi> delle prime due
+          strofe (vv. 2, 5, 6, 9, 16, 17); cesura lirica ai vv. 17, 28 e 42; cesura femminile con
+          elisione al v. 10; melodia in MT, con schema melodico ABAB CDEFGHI (T 911).</p>
+      </metDecl>
+      <editorialDecl xml:lang="en">
+        <p>The absence of v. 26 unites the three witnesses and represents an archetype error; the
+          absence of v. 19 unites mss. MT in error against C. MT’s text is, as is often the case,
+          generally better and is therefore used as base. Because of material gaps in M’s text the
+          more northern graphy of ms. T is followed, which probably respects the author’s more
+          closely. The main northern features are: <hi rend="italic">u</hi> for <hi rend="italic"
+            >ou</hi> (vv. 2, 6, 29), <hi rend="italic">cascun(s)</hi> (vv. 5, 13, 22, 41), <hi
+            rend="italic">liu</hi> v. 6, <hi rend="italic">faura</hi> v. 11, <hi rend="italic"
+            >Diu(s)</hi> (vv. 20 and 22), <hi rend="italic">ara</hi> v. 43; on the morphological
+          level see <hi rend="italic">le</hi> for <hi rend="italic">la</hi> in vv. 9-10. T’s reading
+          is rejected each time it is opposed to the joint reading of C and M (v. 2 <hi
+            rend="italic">doucement</hi>, v. 4 <hi rend="italic">son cors</hi>, v. 31 <hi
+            rend="italic">qui</hi>, v. 35 <hi rend="italic">k’il</hi> and <hi rend="italic">vai
+            a</hi>). In the absence of M, C’s reading has been preferred in v. 14, where T presents
+          an improbable syntactic alternative (<hi rend="italic">mais que</hi>). Finally I complete
+          v. 19 according to C’s reading, the only manuscript to transmit it, and in v. 21 (<hi
+            rend="italic">recolu</hi>) correct the graphy of T, which often confuses <hi
+            rend="italic">c</hi> and <hi rend="italic">t</hi> in conformity with the northern
+          “scripta”.</p>
+      </editorialDecl>
+      <editorialDecl xml:lang="it">
+        <p>L’assenza del v. 26 unisce i tre testimoni e costituisce un errore d’archetipo; l’assenza
+          del v. 19 unisce in errore i mss. MT contro C. La lezione di MT è come spesso accade
+          generalmente migliore e quindi viene utilizzata come base. In particolare, anche a causa
+          delle lacune materiali del testo di M, si segue la grafia più settentrionale del ms. T,
+          che probabilmente rispecchia più da vicino quella dell’autore. I principali tratti
+          settentrionali sono: <hi rend="italic">u</hi> per <hi rend="italic">ou</hi> (vv. 2, 6,
+          29), <hi rend="italic">cascun(s)</hi> (vv. 5, 13, 22, 41), <hi rend="italic">liu</hi> v.
+          6, <hi rend="italic">faura</hi> v. 11, <hi rend="italic">Diu(s)</hi> (vv. 20 e 22), <hi
+            rend="italic">ara</hi> v. 43; a livello morfologico si veda <hi rend="italic">le</hi>
+          per <hi rend="italic">la</hi> ai vv. 9-10. Si abbandona la lezione di T ogni volta che a
+          essa si oppone la lezione congiunta di C e M (v. 2 <hi rend="italic">doucement</hi>, v. 4
+            <hi rend="italic">son cors</hi>, v. 31 <hi rend="italic">qui</hi>, v. 35 <hi
+            rend="italic">k’il</hi> e <hi rend="italic">vai a</hi>). In assenza di M, si preferisce
+          la lezione di C al v. 14, dove T presenta un’alternativa sintatticamente improbabile (<hi
+            rend="italic">mais que</hi>). Infine si integra il v. 19 secondo la lezione di C, unico
+          testimone a riportarlo, e si corregge al v. 21 la grafia di T (<hi rend="italic"
+            >recolu</hi>), che conformemente alla “scripta” settentrionale confonde spesso <hi
+            rend="italic">c</hi> e <hi rend="italic">t</hi>.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-03-13T09:37:45Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Huon de Saint-Quentin</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+      <div type="text" xml:id="rs.1576.fro" xml:lang="fro">
+        <lg n="1" type="stanza">
+          <l n="1">Jerusalem se plaint et li païs</l>
+          <l n="2">u Dameldiex souffri mort bonement,</l>
+          <l n="3">que deça mer a poi de ses amis</l>
+          <l n="4"> ki de secors li facent mais nïent.</l>
+          <l n="5">S’il sovenist cascun del jugement</l>
+          <l n="6">et del saint liu u il souffri torment</l>
+          <l n="7">quant il pardon fist de sa mort Longis,</l>
+          <l n="8">le descroisier fesissent mout envis;</l>
+          <l n="9">car ki pour Dieu prent le crois purement,</l>
+          <l n="10">il Le renie au jor que il le rent,</l>
+          <l n="11">et com Judas faura a paradis.</l>
+        </lg>
+        <lg n="2" type="stanza">
+          <l n="12">Nostre pastour gardent mal leur berbis</l>
+          <l n="13">quant pour deniers cascuns al leu les vent,</l>
+          <l n="14">mais li pechiés les a si tous souspris</l>
+          <l n="15">k’il ont mis Dieu en oubli pour l’argent.</l>
+          <l n="16">Que devenront li riche garniment</l>
+          <l n="17">k’il aquierent assés vilainement</l>
+          <l n="18">des faus loiers k’il ont des croisiés pris?</l>
+          <l n="19">Saichiés de voir k’il en seront repris,</l>
+          <l n="20">se loiautés et Dius et fois ne ment;</l>
+          <l n="21">retolu ont et Achre et Belleent</l>
+          <l n="22">ce que cascuns avoit a Diu pramis.</l>
+        </lg>
+        <lg n="3" type="stanza">
+          <l n="23">Ki osera jamais en nul sermon</l>
+          <l n="24">de Dieu parler em place n’em moustier,</l>
+          <l n="25">ne anoncier ne bien fait ne pardon,</l>
+          <l n="26">........................................................</l>
+          <l n="27">chose qui puist Nostre Segneur aidier</l>
+          <l n="28">a la terre conquerre et gaaignier</l>
+          <l n="29">u de son sanc paia no räençon?</l>
+          <l n="30">Segneur prelat, ce n’est ne bel ne bon</l>
+          <l n="31">que son secors faites si detriier:</l>
+          <l n="32">vos avés fait, ce poet on tesmoignier,</l>
+          <l n="33">de Deu Rolant et de vos Guenelon.</l>
+        </lg>
+        <lg n="4" type="stanza">
+          <l n="34">En celui n’a mesure ne raison</l>
+          <l n="35">ki se conoist, s’il n’aïe a vengier</l>
+          <l n="36">ceuls ki pour Dieu sont dela em prison</l>
+          <l n="37">et pour oster lor ames de dangier.</l>
+          <l n="38">Puis c’on muert ci, on ne doit resoignier</l>
+          <l n="39">paine n’anui, honte ne destorbier:</l>
+          <l n="40">pour Dieu est tout quan c’on fait en son non,</l>
+          <l n="41">ki en rendra cascun tel guerredon</l>
+          <l n="42">que cuers d’ome nel poroit esprisier;</l>
+          <l n="43">car paradis en ara de loier,</l>
+          <l n="44">n’ainc pour si peu n’ot nus si riche don.</l>
+        </lg>
+      </div>
+      <div type="translation" xml:id="rs.1576.en" xml:lang="en">
+        <head> Translation </head>
+        <div n="1" type="stanza">
+          <p>Jerusalem laments, and the land where the Lord God suffered death most gently, because
+            this side of the sea it has few friends who offer it the slightest help. If each one
+            remembered the judgment (the Last Judgment) and the holy place where He suffered torture
+            when He forgave Longinus for His death, he would not readily renounce his crusading vow;
+            for whoever takes the cross with full consent for God’s sake denies Him on the day he
+            gives it back, and like Judas will lose paradise.</p>
+        </div>
+        <div n="2" type="stanza">
+          <p>Our shepherds take little care of their sheep when each of them sells them to the wolf
+            for money, but sin has so taken hold of them that they have forgotten God for the sake
+            of silver. What will become of the rich ornaments they acquire most shamefully with the
+            fraudulent payment they have taken from the crusaders? Be well aware that they will be
+            blamed for this, if loyalty and God and faith do not lie; they have stolen from Acre and
+            Bethlehem what each had promised to God.</p>
+        </div>
+        <div n="3" type="stanza">
+          <p>Who will dare to preach and speak of God any more in square or cloister, and announce
+            benefits and indulgences, [<hi rend="italic">when no-one is disposed to perform</hi>]
+            anything which can assist Our Lord to conquer and win back the land where He paid our
+            ransom with His blood? Lord prelates, it is neither good nor just that you so delay his
+            help: you, this can certainly be said, have made Roland of God and Ganelon of
+            yourselves.</p>
+        </div>
+        <div n="4" type="stanza">
+          <p>There is no wisdom nor intelligence in anyone who knows this without helping to avenge
+            those who are over there in prison for God’s sake, and to remove their souls from
+            danger. Since one has to die here, one should not fear pain or torment, shame or harm:
+            everything one does in His name is for God, who will give to each such a reward that the
+            heart of man could not appreciate its worth; for he will receive paradise as a reward,
+            and no-one has ever had such a rich gift for so little.</p>
+        </div>
+      </div>
+      <div type="translation" xml:id="rs.1576.it" xml:lang="it">
+        <head> Translation </head>
+        <div n="1" type="stanza">
+          <p>Gerusalemme si lamenta, e la terra dove Dio sopportò la morte con mansuetudine, perché
+            da questa parte del mare ha pochi amici che siano disposti a prestarle soccorso. Se
+            ciascuno si ricordasse del giudizio e del santo luogo dove egli patì il supplizio quando
+            perdonò Longino per la sua morte, non rinuncerebbero a cuor leggero al voto di crociata;
+            perché chi prende con pieno consenso la croce per Dio, lo rinnega il giorno che la
+            restituisce, e come Giuda perderà il paradiso.</p>
+        </div>
+        <div n="2" type="stanza">
+          <p>I nostri pastori curano male le loro pecore dato che ognuno le vende al lupo per
+            denaro, ma il peccato ha talmente preso possesso di loro che hanno dimenticato Dio per i
+            soldi. Che ne sarà dei ricchi ornamenti che acquistano vergognosamente con i vili
+            contributi che hanno riscosso dai crociati? Sappiate che saranno per loro motivo di
+            biasimo, se la lealtà, Dio e la fede non mentono; hanno sottratto a Acri e a Betlemme
+            ciò che ognuno aveva promesso a Dio.</p>
+        </div>
+        <div n="3" type="stanza">
+          <p>Chi oserà più predicare e parlare di Dio in piazza o in convento, e annunciare
+            gratificazioni e indulgenze, [<hi rend="italic">quando nessuno è disposto a
+              compiere</hi>] atti che possano aiutare Nostro Signore a conquistare e recuperare la
+            terra dove pagò il prezzo del nostro riscatto con il suo sangue? Signori prelati, non è
+            né buono né giusto che facciate tardare così tanto il suo soccorso: voi avete fatto, lo
+            si può ben dire, di Dio Orlando e di voi stessi Gano.</p>
+        </div>
+        <div n="4" type="stanza">
+          <p>Non ha saggezza né intelligenza chi sa tutto questo e non contribuisce a riscattare
+            coloro che sono laggiù in prigione per Dio, per allontanare le loro anime dal pericolo.
+            Poiché si deve comunque morire, non si devono temere pena e tormento, ingiuria o danno:
+            tutto ciò che si fa in suo nome è per Dio, che darà a ciascuno una tale ricompensa che
+            nessuno potrebbe stimarne il valore; perché riceverà in premio il paradiso, e nessuno ha
+            mai ricevuto un così grande dono per così poco.</p>
+        </div>
+      </div>
+      <div type="text" xml:lang="en ">
+        <p>Luca Barbieri 2016</p>
+      </div>
+      <div type="text" xml:lang="it ">
+        <p>Luca Barbieri 2016</p>
+      </div>
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>Little or nothing is known of the life of Huon de Saint-Quentin. According to Guida, Huon
+          is thought to have been born in the last decades of the XIIth c. in Picardy and to have
+          belonged to a family of the petty bourgeoisie of which there is no documentary trace
+          (Guida 1992, p. 96). The only chronological indications come from the <hi rend="italic"
+            >Complainte de Jérusalem contre Rome</hi> (ed. Serper 1983, p. 87), whose attribution to
+          Huon de Saint-Quentin was demonstrated by Paris 1890a. Between the <hi rend="italic"
+            >Complainte</hi> and song RS 1576 there are many affinities and analogies which show
+          that the two texts refer to the same events. However, it is only in the <hi rend="italic"
+            >Complainte</hi> that we find explicit allusions to the loss of Damietta (8 September
+          1221), the Albigensian Crusade, John of Brienne and the pontifical legate Pelagius, which
+          place this text in the context of the events of the Fifth Crusade. <hi rend="italic"
+            >Pace</hi> Serper and Guida, there is no evidence that Huon participated directly in the
+          expedition (Dijkstra 1995a, p. 112). Because of the reference to the prisoners (v. 36),
+          the composition of the song has usually been dated to the months following the fall of
+          Damietta, when in Europe the hostages’ fate must have still been unknown
+          (September-November 1221). However, the absence of any reference to the loss of Damietta,
+          the mention of key places in the Holy Land (v. 21) and the hortatory tone suggest instead
+          the initial phase of the crusade, at the time of the reverses suffered by the Christians
+          in Palestine (November-December 1217), before the arrival of the new contingents and the
+          beginning of the campaign in Egypt.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Poco o nulla si sa della vita di Huon de Saint-Quentin. Secondo Guida, Huon sarebbe nato
+          negli ultimi lustri del XII secolo in Piccardia e apparterrebbe a una famiglia piccolo
+          borghese di cui non si trova traccia nei documenti (Guida 1992, p. 96). Le sole
+          indicazioni cronologiche vengono dalla <hi rend="italic">Complainte de Jérusalem contre
+            Rome</hi> (ed. Serper 1983, p. 87), la cui attribuzione a Huon de Saint-Quentin è stata
+          dimostrata da Paris 1890a. Tra la <hi rend="italic">Complainte</hi> e la canzone RS 1576
+          vi sono molte affinità e analogie che permettono di affermare che i due testi si
+          riferiscono agli stessi avvenimenti. Tuttavia, solo nella <hi rend="italic"
+            >Complainte</hi> si trovano riferimenti espliciti alla perdita di Damietta (8 settembre
+          1221), alla crociata albigese, a Jean de Brienne e al legato pontificio Pelagio che ci
+          consentono di mettere questi testi in relazione agli avvenimenti della quinta crociata.
+          Malgrado le affermazioni di Serper e Guida, non risulta che Huon abbia partecipato
+          direttamente alla spedizione (Dijkstra 1995a, p. 112). A causa dell’accenno ai prigionieri
+          (v. 36), la composizione della canzone viene abitualmente fatta risalire ai mesi
+          successivi la caduta di Damietta, quando in Europa la sorte degli ostaggi doveva essere
+          ancora ignota (settembre-novembre 1221). Tuttavia, la mancanza di ogni cenno alla perdita
+          di Damietta, la menzione di luoghi chiave della Terra Santa (v. 21) e il tono esortativo
+          fanno pensare piuttosto alla fase iniziale della crociata, al tempo dei rovesci subiti dai
+          cristiani in Palestina (novembre-dicembre 1217), prima dell’arrivo di nuovi contingenti e
+          dell’inizio della campagna d’Egitto.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>The text belongs to the context of anticlerical polemics developed during the Albigensian
+          Crusade and the Fifth Crusade whose failure was attributed to the irresponsible conduct of
+          the papal legate Pelagius. Numerous Occitan texts bear witness to the diffusion of such
+          polemics, but some Old French authors, especially from the northern regions, also show
+          solidarity with their southern colleagues and attack the behaviour of the Church during
+          the Albigensian and Egyptian events (Vatteroni 1999 and Barbieri 2013, pp. 311-317); see
+          for example Thibaut de Champagne RS 273 and RS 640 (especially vv. 1-8 for the Albigensian
+          Crusade and 9-16 for the Fifth). During the same period anticlerical invectives are also
+          diffused outside the lyric, for example in the <hi rend="italic">Vie de sainte
+            Léocade</hi> of Gautier de Coinci (ed. Vilamo-Pentti; in particular, for the
+          responsibility of the clergy for the defeat at Damietta, vv. 910-916: <hi rend="italic"
+            >Tant par sunt plain de couvoitise / et de tout penre si tres aigre / que le cras welent
+            et le maigre / et les croustes et la mïete, / bien i parut a Damïete: / li chardonnaus,
+            li rouges diex / la nos toli, ce fu granz diex</hi>), and in the <hi rend="italic"
+            >Besant de Dieu</hi>, written in 1226-1227 by Guillaume le Clerc from Normandy. For the
+          first two decades of the XIIIth c. see for example the <hi rend="italic">Bible</hi> of
+          Guiot de Provins and that of Hugues de Berzé. A very early example, composed during the
+          reign of Henry II of England, is found in the <hi rend="italic">Livre des manières</hi> of
+          Étienne de Fougères. For Occitan texts see for example Peire Cardenal BdT 335.31, BdT
+          335.51 and BdT 335.54; Falquet de Romans BdT 156.11; Tomier and Palaizi BdT 442.1.</p>
+        <p corresp="#rs.1576.fro[range(@n=1,@n=4)]">See the refrain of Maistre Renaut RS 886
+          (Jerusalem plaint et ploure / lou secors, ke trop demoure) and RS 1729, 19-23.</p>
+        <p corresp="#rs.1576.fro:(n=3)">On the basis of the adverbial expression of place deça mer,
+          Serper (followed by Guida) claimed that the author was in the East; in reality the lament
+          over the disaffection regarding the Holy Land concerns the Europe as a whole, as is clear
+          from the following lines. Moreover Huon uses expressions of place perfectly coherently and
+          the text leaves no doubt: dela of v. 36 refers to the prisoners in Egypt (or the Holy
+          Land) and ci in v. 38 to the fact that even if one stays at home one will have to die.
+          Compare RS 1887, 19: Rois, vos savez ke Deus ait poc d’amis.</p>
+        <p corresp="#rs.1576.fro[range(@n=5,@n=7)]">On the duty of repaying God’s sacrifice for our
+          salvation see note 19-20 to Conon de Béthune RS 1125 and note 11 to Thibaut de Champagne
+          RS 273. For the characterisation of the Holy Land as the land of Christ’s passion, here as
+          in v. 2, see the note to the Châtelain d’Arras RS 140, 2. The reference in v. 5 may be to
+          the Last Judgment (Bédier 1909) or to Jesus’s trial in Jerusalem (Serper 1983, p. 83). The
+          sequence of references to the passion seems to support Serper’s view, but the theme of the
+          Last Judgment is very common in crusade songs, and seems confirmed by the allusion to
+          paradise in v. 11. For the Last Judgment see for example Conon de Béthune RS 1314, 20-24
+          (and note). It is interesting to observe that a text such as the Brevis ordinacio de
+          predicacione sancte Crucis also brings together Christ’s sacrifice and the mention of the
+          Last Judgment (Röhricht 1879, pp. 20-21); this is a text written probably after 1216, and
+          is a rare example of Fifth Crusade preaching in England (Flori 2012, p. 245).</p>
+        <p corresp="#rs.1576.fro:(n=7)">This is a reference to the Roman centurion Longinus, who in
+          the gospels pierced Christ’s side to confirm his death (John 19, 34); the centurion’s
+          conversion was already indicated in the synoptic gospels (Matthew 27, 54; Mark 15, 39;
+          Luke 23, 47). The name of Longinus is not found in Biblical sources, but is cited for the
+          first time in the Acts of Pilate (II-IIIth c.) merged into the apochryphal gospel of
+          Nicodemus. References to the repentence of the good thief and to that of Longinus are
+          found in in Pons de Capdoill BdT 375.2, 22-24: nostre Seigner, que ac franc chausimen /
+          del bon lairon el felon fez dolen, / e perdonet Longis qi·s repentia, and the earliest
+          such example, indicated as the first case of indulgence, is found in a sermon of the
+          Victorine fathers dating from 1214-1215 (see Bird 2004, p. 23). See also RS 167=904b,
+          22-23: Deus ot pitié de Longis ke sa lance / li mist el cors, quant mercit li pria.</p>
+        <p corresp="#rs.1576.fro:(n=8)">On redeeming vows through money payment Huon de
+          Saint-Quentin has a strongly negative opinion, espressed in greater detail in the
+          Complainte 49-60. See the note to v. 18.</p>
+        <p corresp="#rs.1576.fro:(n=11)">The threat of exclusion from paradise is also a typical
+          preaching argument, often drawn on in crusade songs: see for example Conon de Béthune RS
+          1125, 15; Thibaut de Champagne RS 6, 4 and Guillem de Mur BdT 226.2, 7-8: que Jhesu Crist
+          en tan bon luec los meta / en paradis quon li siey martir so. But see also the refrain of
+          the oldest French crusade song (RS 1548a) as well as the beginning of RS 1582 and RS
+          1020a=1022, 16.</p>
+        <p corresp="#rs.1576.fro[range(@n=12,@n=15)]">The image of shepherds turned wolves (or who
+          abandon their sheep to the wolves, as here) is extremely widespread and probably developed
+          from Matthew 7, 15 (but see also Matthew 10, 16 and Luke 10, 3); for numerous examples see
+          Peron’s note to Guillem Figueira BdT 217.2, 247-249 on the Rialto website
+          (www.rialto.unina.it). For a passage corresponding to these lines see also the second
+          sermon of the Victorine fathers published by Bird 2004, p. 27: Mittit ergo dominus
+          prelatos, qui debent esse piscatores, et presbiteros, qui non curant de ouibus [...</p>
+        <p corresp="#rs.1576.fro:(n=18)">The author probably refers in general (vv. 8-10) to the
+          phenomenon of the redemption or commutation of vows, sanctioned by the 1215 Lateran
+          Council (see the constitution Ad liberandam, in COD II-1, pp. 576-577), on the basis of
+          which a crusader could also fulfil his vow by paying someone else to go in his place or
+          simply by paying a sum of money to finance the expedition. In particular (vv. 12-18), he
+          censures clerical abuses in applying this practice, which he claims contribute to taking
+          financial and human resources away from the Holy Land (vv. 21-22). Such criticisms, always
+          referring to the time of the Fifth Crusade, are also found in the work and preaching of
+          Robert de Courçon (his sermons have not been preserved but see a reference to the content
+          of his preaching in Guillaume le Breton, Gesta Philippi Augusti, § 213), and these become
+          more frequent later, in the work of Matthew Paris for example. For the accusation of greed
+          see Conon de Béthune RS 1314, 25-29, where however this is directed against the lay lords.
+          Huon de Saint-Quentin however seems to temper condemnation of the descroisés (v. 8) by
+          attributing the principal blame to the clergy.</p>
+        <p corresp="#rs.1576.fro:(n=20)">The verb in the singular refers to the three preceding
+          nouns.</p>
+        <p corresp="#rs.1576.fro:(n=26)">Bédier suggests a possible reconstruction: quant nus ne
+          vuet ne faire n’ensaier.</p>
+        <p corresp="#rs.1576.fro[range(@n=30,@n=31)]">On the topic of the tardiness in heling the
+          Holy Land see the note to the refrain of RS 886 by Maistre Renaut (Jerusalem plaint et
+          ploure / lou secors, ke trop demoure). Here too Huon de Saint-Quentin attributes
+          responsibility for the delay to the clergy.</p>
+        <p corresp="#rs.1576.fro:(n=33)">After the evocation of Judas in v. 11, the author uses
+          another emblematic figure of the traitor, drawing on material from the Chanson de
+          Roland.</p>
+        <p corresp="#rs.1576.fro[range(@n=40,@n=44)]">The exaltation of the advantages of the
+          crusade in virtually commercial terms, also present in RS 1967, 31-38, probably originates
+          from the metaphor of the wise merchant elaborated by Bernard of Clairvaux, Epistola 363
+          (ed. Leclercq-Rochais, VIII), p. 315: Habes nunc, fortis miles, habes, vir bellicose, ubi
+          dimices absque periculo, ubi et vincere gloria, et mori lucrum. Si prudens mercator es, si
+          conquisitor huius saeculi, magnas quasdam tibi nundinas indico, vide ne te praetereant;
+          see also the notes to vv. 37-40 of Conon de Béthune RS 1125. For paradise understood as
+          reward see Conon de Béthune RS 1125, 14-16; Thibaut de Champagne RS 757, 27; RS 1729,
+          8-9.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Il testo s’inserisce nel contesto della polemica anticlericale sviluppatasi negli anni
+          della crociata albigese e della quinta crociata, il cui fallimento viene sostanzialmente
+          attribuito al comportamento irresponsabile del legato papale Pelagio. Numerosi testi
+          occitanici testimoniano la diffusione di tale polemica, ma anche alcuni autori francesi,
+          soprattutto originari delle regioni settentrionali, solidarizzano con i colleghi
+          meridionali e attaccano il comportamento della chiesa nelle vicende albigesi e egiziane
+          (Vatteroni 1999 e Barbieri 2013, pp. 311-317); si vedano per esempio Thibaut de Champagne
+          RS 273 e la canzone RS 640 (in particolare i vv. 1-8 per la crociata albigese e 9-16 per
+          la quinta crociata). Nello stesso periodo le invettive anticlericali sono diffuse anche al
+          di fuori della lirica, per esempio nella <hi rend="italic">Vie de sainte Léocade</hi> di
+          Gautier de Coinci (ed. Vilamo-Pentti; in particolare, per le responsabilità del clero
+          nella disfatta di Damietta, i vv. 910-916: <hi rend="italic">Tant par sunt plain de
+            couvoitise / et de tout penre si tres aigre / que le cras welent et le maigre / et les
+            croustes et la mïete, / bien i parut a Damïete: / li chardonnaus, li rouges diex / la
+            nos toli, ce fu granz diex</hi>) e nel <hi rend="italic">Besant de Dieu</hi>, scritto
+          nel 1226-1227 da Guillaume le Clerc de Normandie. Per i primi due decenni del XIII secolo
+          si veda per esempio la <hi rend="italic">Bible</hi> di Guiot de Provins e quella di Hugues
+          de Berzé. Un esempio molto precoce, scritto durante il regno di Enrico II d’Inghilterra,
+          si trova nel <hi rend="italic">Livre des manières</hi> di Étienne de Fougères. Per quanto
+          riguarda i testi occitanici, si veda per esempio Peire Cardenal BdT 335.31, BdT 335.51 e
+          BdT 335.54; Falquet de Romans BdT 156.11; Tomier e Palaizi BdT 442.1.</p>
+        <p corresp="#rs.1576.fro[range(@n=1,@n=4)]">Si veda il refrain di Maistre Renaut RS 886
+          (Jerusalem plaint et ploure / lou secors, ke trop demoure) e RS 1729, 19-23.</p>
+        <p corresp="#rs.1576.fro:(n=3)">Sulla base del deittico deça mer Serper (seguito da Guida)
+          sostiene che l’autore si trovava in Oriente; in realtà il lamento contro la disaffezione
+          verso la Terra Santa riguarda proprio l’Europa, come si vede anche dai versi successivi.
+          Del resto, Huon usa i deittici in modo molto coerente e il testo non si presta a equivoci:
+          dela del v. 36 si riferisce ai prigionieri in Egitto (o in Terra Santa) e ci del v. 38 si
+          riferisce al fatto che si deve comunque morire, anche restando a casa. Si veda RS 1887,
+          19: Rois, vos savez ke Deus ait poc d’amis.</p>
+        <p corresp="#rs.1576.fro[range(@n=5,@n=7)]">Sul dovere di ripagare il sacrificio salvifico
+          di Cristo si veda la nota 19-20 di Conon de Béthune RS 1125 e la nota 11 di Thibaut de
+          Champagne RS 273. Sulla caratterizzazione della Terra Santa come luogo della passione di
+          Cristo, qui come al v. 2, si veda la nota a Castellano d’Arras RS 140, 2. Il riferimento
+          del v. 5 può essere al giudizio universale (Bédier 1909) o al processo di Gesù a
+          Gerusalemme (Serper 1983, p. 83). La sequenza di riferimenti alla passione sembrerebbe dar
+          ragione a Serper, ma il tema del giudizio universale è assai frequente nelle canzoni di
+          crociata, e sembra confermato dal richiamo al paradiso del v. 11. Sul giudizio universale
+          si veda per esempio Conon de Béthune RS 1314, 20-24 (e nota). È interessante notare che
+          anche un testo come la Brevis ordinacio de predicacione sancte Crucis riunisce l’idea del
+          sacrificio salvifico di Cristo e l’accenno al giudizio universale (Röhricht 1879, pp.
+          20-21); si tratta di un testo scritto probabilmente dopo il 1216, raro esempio della
+          predicazione in Inghilterra della quinta crociata (Flori 2012, p. 245).</p>
+        <p corresp="#rs.1576.fro:(n=7)">Riferimento al centurione romano Longino, che nel testo
+          evangelico trafigge con la lancia il costato di Cristo per verificarne la morte (Io
+          19,34); la conversione del centurione è già segnalata dai vangeli sinottici (Mt 27,54; Mc
+          15,39; Lc 23,47). Il nome di Longino non si trova nelle fonti bibliche, ma è citato per la
+          prima volta negli Atti di Pilato (II-III secolo) confluiti nel vangelo apocrifo di
+          Nicodemo. I riferimenti al pentimento del buon ladrone e a quello di Longino si trovano in
+          Pons de Capdoill BdT 375.2, 22-24: nostre Seigner, que ac franc chausimen / del bon lairon
+          el felon fez dolen, / e perdonet Longis qi·s repentia, e il primo di questi esempi,
+          indicato come il primo caso di indulgenza, si trova in un sermone dei padri Vittorini
+          risalente al 1214-1215 (si veda Bird 2004, p. 23). Si veda anche RS 167=904b, 22-23: Deus
+          ot pitié de Longis ke sa lance / li mist el cors, quant mercit li pria.</p>
+        <p corresp="#rs.1576.fro:(n=8)">Sul fenomeno del riscatto del voto tramite il versamento di
+          una somma di denaro Huon de Saint-Quentin ha un’opinione molto negativa, espressa in modo
+          più dettagliato in Complainte 49-60. Si veda la nota al v. 18.</p>
+        <p corresp="#rs.1576.fro:(n=11)">Anche la minaccia della privazione del paradiso è un
+          argomento tipico della predicazione, spesso accolto nelle canzoni di crociata, come si può
+          vedere per esempio in Conon de Béthune RS 1125, 15; Thibaut de Champagne RS 6, 4 e in
+          Guillem de Mur BdT 226.2, 7-8: que Jhesu Crist en tan bon luec los meta / en paradis quon
+          li siey martir so. Ma si veda anche il refrain della più antica canzone di crociata
+          francese (RS 1548a) nonché l’inizio di RS 1582 e RS 1020a=1022, 16.</p>
+        <p corresp="#rs.1576.fro[range(@n=12,@n=15)]">L’immagine dei pastori che diventano lupi (o
+          che abbandonano le pecore ai lupi, come in questo caso) è estremamente diffusa e si
+          sviluppa probabilmente a partire da Mt 7,15 (ma si veda anche Mt 10,16 e Lc 10,3); per
+          numerosi esempi si veda la nota di Peron a Guillem Figueira BdT 217.2, 247-249 sul sito
+          Rialto (www.rialto.unina.it). Per la corrispondenza con questi versi si veda anche il
+          secondo sermone dei padri Vittorini pubblicato da Bird 2004, p. 27: Mittit ergo dominus
+          prelatos, qui debent esse piscatores, et presbiteros, qui non curant de ouibus [...</p>
+        <p corresp="#rs.1576.fro:(n=18)">L’autore si riferisce probabilmente in generale (vv. 8-10)
+          al fenomeno del riscatto o della commutazione del voto, sancito dal Concilio Laterano IV
+          del 1215 (si veda la costituzione Ad liberandam, in COD II-1, pp. 576-577), in base al
+          quale un crociato poteva adempiere al suo voto anche pagando qualcuno che andasse al suo
+          posto o semplicemente versando una somma di denaro per finanziare la spedizione. In
+          particolare (vv. 12-18), egli critica gli abusi da parte del clero nell’applicazione di
+          questa pratica, che avrebbero contribuito a sottrarre risorse finanziarie e umane alla
+          Terra Santa (vv. 21-22). Critiche di questo tipo, sempre riferite ai tempi della quinta
+          crociata, sono presenti anche nell’opera e nella predicazione di Robert de Courçon (i suoi
+          sermoni non sono stati conservati, ma si veda un accenno al contenuto della sua
+          predicazione in Guillaume le Breton, Gesta Philippi Augusti, § 213) e diverranno più
+          frequenti in seguito, per esempio nell’opera di Matteo Paris. Per l’accusa di cupidigia si
+          veda Conon de Béthune RS 1314, 25-29, dove essa è però rivolta ai signori laici. Huon de
+          Saint-Quentin sembra invece relativizzare la condanna dei descroisés (v. 8) attribuendo le
+          colpe principali al clero.</p>
+        <p corresp="#rs.1576.fro:(n=20)">Il verbo al singolare si riferisce ai tre sostantivi
+          precedenti.</p>
+        <p corresp="#rs.1576.fro:(n=26)">Bédier suggerisce una possibile ricostruzione: quant nus ne
+          vuet ne faire n’ensaier.</p>
+        <p corresp="#rs.1576.fro[range(@n=30,@n=31)]">Sul tema della lentezza del soccorso alla
+          Terra Santa si veda la nota al refrain della canzone RS 886 di Maistre Renaut (Jerusalem
+          plaint et ploure / lou secors, ke trop demoure). Anche in questo caso Huon de
+          Saint-Quentin attribuisce la responsabilità del ritardo al clero.</p>
+        <p corresp="#rs.1576.fro:(n=33)">Dopo l’evocazione di Giuda al v. 11, l’autore ricorre a
+          un’altra figura emblematica di traditore, attingendo alla materia della Chanson de
+          Roland.</p>
+        <p corresp="#rs.1576.fro[range(@n=40,@n=44)]">L’esaltazione di tono quasi commerciale dei
+          vantaggi della crociata, presente anche in RS 1967, 31-38, trova probabilmente la sua
+          origine nella metafora del mercante saggio sviluppata da Bernardo di Chiaravalle, Epistola
+          363 (ed. Leclercq-Rochais, VIII), p. 315: Habes nunc, fortis miles, habes, vir bellicose,
+          ubi dimices absque periculo, ubi et vincere gloria, et mori lucrum. Si prudens mercator
+          es, si conquisitor huius saeculi, magnas quasdam tibi nundinas indico, vide ne te
+          praetereant; si veda in questo senso anche la nota ai vv. 37-40 di Conon de Béthune RS
+          1125. Per il paradiso inteso come premio si veda Conon de Béthune RS 1125, 14-16; Thibaut
+          de Champagne RS 757, 27; RS 1729, 8-9.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

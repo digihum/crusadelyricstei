@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2014-06-25</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Hofmann 1867, II, 495; Bédier-Aubry 1909, 287.</bibl>
+        </listBibl>
+        <listBibl type="essential_bibliography">
+          <bibl>Badel 1995: P. Y. Badel, Adam de la Halle, Oeuvres complètes, Paris 1995.</bibl>
+          <bibl>Bartsch 1858: </bibl>
+          <anchor xml:id="id_bibliografia"/>
+          <bibl>K. Bartsch, ‘Zu Heinrich von Morungen’, in Germania, 3 (1858), pp. 304-307.</bibl>
+          <bibl>Bec 1977-78: P. Bec, La lyrique française au moyen âge (XIIe-XIIIe siècles).
+            Contribution à une typologie des genres poétiques médiévaux, 2 vols, Paris 1977-78. </bibl>
+          <bibl>Bédier-Aubry 1909: J. Bédier and P. Aubry, Les chansons de croisade avec leurs
+            mélodies, Paris 1909.</bibl>
+          <bibl>Chailley 1942: J. Chailley, Adam de la Halle, Rondeaux à 3 voix, Paris 1942.</bibl>
+          <bibl>Dijkstra 1995a: C. Th. J. Dijkstra, La chanson de croisade. Etude thématique d’un
+            genre hybride, The Hague 1995.</bibl>
+          <bibl>Frank 1952: I. Frank, Trouvères et Minnesänger. Recueil de textes pour servir à
+            l’étude des rapports entre la poésie lyrique romane et le Minnesang au XIIIe siècle,
+            Saarbrücken, Universität des Saarlandes, 1952.</bibl>
+          <bibl>Gambino 2003: F. Gambino, Canzoni anonime di Trovatori e Trobairitz, Alessandria
+            2003.</bibl>
+          <bibl>Hofmann 1867: C. Hofmann, Sitzungsberichte der königlich bayerischen Akademie der
+            Wissenschaften zu München, 1867, II, pp. 495-96.</bibl>
+          <bibl>Koenig 1955-1970 : V. F. Koenig, Les Miracles de Nostre Dame, 4 vols., Genève
+            1955-1970.</bibl>
+          <bibl>Lecoy de la Marche 1890: A. Lecoy de la Marche, La prédication de la croisade au
+            treizième siècle, in «Revue des Questions Historiques», XLVIII (1890), pp. 5-28. </bibl>
+          <bibl>Ménard 1973 : Ph. Ménard, Manuel du français du Moyen Age, 1. Syntaxe de l’ancien
+            français, Bordeaux 1973.</bibl>
+          <bibl>Paris-Robert 1876-1893: G. Paris - U. Robert, Miracles de Nostre Dame par
+            personnages publiés d'aprés le manuscrit de la Bibliothèque nationale, 8 vols., Paris
+            1876-1893 [réimpr. New York 1966].</bibl>
+          <bibl>Throop 1940: P. A. Throop, Criticism of the Crusade: a Study of Public Opinion and
+            Crusade Propaganda, Amsterdam 1940. </bibl>
+          <bibl>Tischler 1978: H. Tischler, The Montpellier Codex. Critical Commentary, Madison
+            1978.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl>C 58r (anonymous). Empty stave.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl>C 58r (anonima). Pentagramma senza melodia.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;">
+        <p>10ab'ab'b'aab' (MW 860,41 = Frank
+        295); 3 coblas unissonans of 8 vv; rhyme a = -oi; rhyme b = -aire; assonance 10 mesaixe: 12
+        haire; equivocal rhyme: foi 1: 7, 23; identical rhymes: foi 7, 23; proi 3, 15; moi 9, 11,
+        (por) moi 14, 19, 22; traire 2, 8; faire 21: (bien) faire 5, 16 : (mal) faire 24; derivative
+        rhymes: 2, 8 traire: 20 retraire; 13 plaire: 4 desplaire; lyric caesura in vv. 1, 3, 15, 19,
+        20, 22; median caesura in v. 21; epic caesura in v. 24. The versification is common in the
+        Old French tradition; there are 20 other pieces with the same metrical shape, but only the
+        anonymous Or ai Amours servi tout mon vivant, also a unicum in C (RS 372 = MW 860:28), is
+        arranged, like this one, in 3 8-line coblas unissonans, but with different rhymes. In the
+        Occitan repertory a short anonymous text has the same metrical shape: the song Aissi m’ave
+        cum al enfan petit, not listed in BdT but registered by Frank under 295:6 (and in BEdT
+        461.9a), stemming from an anomalous and contested tradition (see Bartsch 1858, 304; Frank
+        1952, 113; Gambino 2003, 145). </p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10ab'ab'b'aab' (MW 860,41 = Frank
+        295); 3 <hi rend="italic">coblas unissonans</hi> di 8 vv; rima a = -<hi rend="italic">oi</hi>; rima b = -<hi rend="italic">aire</hi>; assonanza 10 <hi rend="italic">mesaixe</hi> : 12 <hi rend="italic">haire</hi>; rima equivoca: <hi rend="italic">foi</hi>
+        1 : 7, 23; rime identiche: <hi rend="italic">foi</hi> 7, 23; <hi rend="italic">proi</hi> 3,
+        15; <hi rend="italic">moi</hi> 9, 11, (<hi rend="italic">por</hi>) <hi rend="italic">moi</hi> 14, 19, 22; <hi rend="italic">traire</hi> 2, 8; <hi rend="italic">faire</hi> 21
+        : (<hi rend="italic">bien</hi>) <hi rend="italic">faire</hi> 5, 16 : (<hi rend="italic">mal</hi>) <hi rend="italic">faire</hi> 24; rime derivative: 2, 8 <hi rend="italic">traire</hi> : 20 <hi rend="italic">retraire</hi>; 13 <hi rend="italic">plaire</hi> : 4
+          <hi rend="italic">desplaire</hi>; cesura lirica ai vv. 1, 3, 15, 19, 20, 22; cesura
+        mediana al v. 21; cesura epica al v. 24 <hi rend="bold">[Ho cambiato l’ordine delle
+          informazioni solamente perchè ci sono abituata, ma se preferite l’altro, l’orignale va
+          bene]</hi>. Lo schema metrico è diffuso nella tradizione oitanica, sono infatti 20 gli
+        items che vi fanno capo, ma solo la canzone anonima <hi rend="italic"> Or ai Amours servi
+          tout mon vivant</hi>, anch'essa unicum di C (RS 372 = MW 860:28), è disposta, come questa,
+        su 3 coblas unissonans di 8 vv., seppure con rime diverse. Nel repertorio occitanico,
+        appartiene al medesimo schema rimico-sillabico un breve testo anonimo, non enumerato dalla
+        BdT ma registrato da Frank all’item 295:6 (e in BEdT 461,9a): la canzone di tradizione
+        anomala e discussa <hi rend="italic">Aissi m’ave cum al enfan petit</hi> (su cui si veda
+        Bartsch 1858, 304; Frank 1952, 113; Gambino 2003, 145).</p></metDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2014-06-25T16:37:36Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main"/>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="text" xml:id="rs.1659.fro" xml:lang="fro">
+        <lg n="1" type="stanza">
+          <l n="1">amisDouce dame, cui j’ain en bone foi </l>
+          <l n="2">de loiaul cuer, sens jamaix arier traire,</l>
+          <l n="3">mercit, dame, a mains jointes vos proi,</l>
+          <l n="4">se seux croixiés, ne vos doie desplaire!</l>
+          <l n="5">Desoremaix ai talent de bien faire:</l>
+          <l n="6">aleir m’en veul a glorïous tornoi</l>
+          <l n="7">outre la meir, ou la gent sont sens foi,</l>
+          <l n="8">ke Jhesu Crist firent tant de mal traire.</l>
+        </lg>
+        <lg n="2" type="stanza">
+          <l n="9">dameBiauls dous amis, certes se poise moi.</l>
+          <l n="10">Ains maix mes cuers ne fut si a mesaixe: </l>
+          <l n="11">c'outre la meir vos en irois sens moi!</l>
+          <l n="12">J’amaixe muels tous jors vestir la haire </l>
+          <l n="13">maix, pues k’il veult a Deu et a vos plaire,</l>
+          <l n="14">je ne veul pais k’il remaigne por moi. </l>
+          <l n="15">A mains jointes a la meire Deu proi</l>
+          <l n="16">ke vos ramoinst et vos laist grant bien faire!</l>
+        </lg>
+        <lg n="3" type="stanza">
+          <l n="17">amisMolt me mervoil se del sen ne mervoi,</l>
+          <l n="18">quant je dirai: ‘A Deu jusc’a repaire!’</l>
+          <l n="19">a ma dame, ke tant ait fait por moi </l>
+          <l n="20">ke lou dime n’en sauroie retraire.</l>
+          <l n="21">Maix nuls ne puet trop por Damedeu faire:</l>
+          <l n="22">quant me menbre ke il morit por moi,</l>
+          <l n="23">tant ai en lui de pitiet et de foi,</l>
+          <l n="24">riens ke je laisse ne me poroit mal faire.</l>
+        </lg>
+      </div></body><back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>There is virtuallynothing to indicate either the date or the place of compositionbeyond
+          some similarities with 13th-c. compositions (see note 3).</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Non si ricava nessun indizio né per una datazione né per una localizzazione.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>Bec 1977-78 (I, p. 157) includes this text among ‘chansons de départie féminine’, whereas
+          Dijkstra 1995 (pp. 58-59), prefers to list it among the ‘chansons d’appel à la croisade’,
+          on the grounds that the separation of the lovers seems merely a pretext to illustrate the
+          preeminence of God’s service over the service of Love. It does in fact highlight numerous
+          propaganda themes and motifs. </p>
+        <p>What makes the song unique in the panorama of the ‘crusade’ corpus is its dialogue
+          component in the first two stanzas which represents dramatically the two voices of the <hi rend="italic">chansons de départie</hi>: the feelings of the crusader about to depart,
+          expressed in a courtly register (<hi rend="italic">Douce dame</hi>, <hi rend="italic">loiaul cuer</hi>, <hi rend="italic">mercit</hi>) and with feudal images (<hi rend="italic">bone foi</hi>, <hi rend="italic">a mains jointes</hi>, <hi rend="italic">glorious tornoi</hi>), and the lament of the lady grieving over her abandonment which
+          corresponds to the style of a <hi rend="italic">chanson de femme</hi>, beginning with the
+          address <hi rend="italic">Biauls dous amis</hi>. The third stanza closes, in the first
+          person, with the declaration of the primacy of divine service in Outremer. On the question
+          of female reactions to crusading, see among others Lecoy de la Marche 1890, 20 and Throop
+          1975, 156 ff.</p>
+        <p corresp="#rs.1659.fro:(n=3)">a mains jointes: the phrase used here in its feudal sense –
+          the immixtio manuum as part of homage to the lord – is taken up again in v. 15 in the
+          sense of an act of Marian devotion, of which there are many examples, from the Miracles de
+          Nostre Dame to the Miracles de Nostre Dame par personnages (see Koenig 1955-1970 and
+          Paris-Robert 1876-1893). In a courtly context the attestations of this phrase are less
+          frequent and found well into the 13th c., which might give us some indication of the date
+          of the text. Probably the closest parallel is found in Raoul de Soissons, A la plus sage
+          et a la mieus vaillant (RS 363), vv. 15-16: ‘Et mains jointes proier en soupirant / qu'
+          el' ait pitié du plus leal amant’. Of particular interest are the examples found in two
+          musical compositions of Adam de la Halle, the polyphonic rondeau in three voices A jointes
+          mains vous proi and the love song Li maus d'amors me plaist mix a sentir, in v. 13: ‘a
+          jointes mains rians le prenderoie’. The motif had a certain diffusion in contemporary
+          musical texts: it is found in some anonymous motets of the Montpellier manuscript, all
+          written on fascicles datable from 1280 (fasc. nn. 2, 5, 6) to the end of the 13th c.
+          (fasc. n. 7): nos. XIV, XV, LIX, LXVII, CCXXXV, XCI and CXXXVI, in the triplum dedicated
+          to the Virgin A tort sui d'amours blasmée, vv. 7-9: ‘Si li cri / merci / a jointes mains,
+          et pri’ (f. 232v, Tischler 1978, 180).</p>
+        <p corresp="#rs.1659.fro:(n=6)">glorious tornoi: the image of the tourney in the Holy Land
+          is also found in Chevalier, mult estes guariz, RS 1548a, vv. 49-50: ‘Deus ad un turnei
+          pris / Entre enfern e pareïs’.</p>
+        <p corresp="#rs.1659.fro:(n=10)">mesaixe: the rhyme requires mesaire, which gives no sense.
+          Bédier suggests the hypothetical emendation contraire: ‘mais il faudrait refaire
+          l’hémistiche’, p. 291.</p>
+        <p corresp="#rs.1659.fro:(n=11)">c'outre la mer: Bédier prints contre to indicate a
+          relationship of opposition if not hostility: ‘vers la mer’; however in a note he proposes
+          the correction c’outre la mer.</p>
+        <p corresp="#rs.1659.fro:(n=12)">haire: see the Dictionnaire de l’académie française
+          (http://atilf.atilf.fr/academie9.htm): ‘n. f. Xe siècle. Issu du francique *harja,
+          “vêtement grossier fait de poil”. Chemise rugueuse faite de crin ou de poil de chèvre,
+          qu’on portait sur la peau par esprit de mortification ou par pénitence’. Compare also
+          TLFi, s.v.</p>
+        <p corresp="#rs.1659.fro:(n=13)">For the construction voler + inf. indicating the imminence
+          of an action, see Ménard 1973, § 72. Bédier prefers to correct veult, the ms reading, to
+          peult.</p>
+        <p corresp="#rs.1659.fro:(n=17)">Molt me mervoil se del sen ne mervoi: compare v. 14 of RS
+          191: ‘granz merveille est que je ne sui dervee’.</p>
+        <p corresp="#rs.1659.fro:(n=24)">To avoid the epic caesura Bédier, following Hofmann,
+          proposes correcting to lais. The last line could also be interpreted as praise of the lady: ‘nothing that I leave
+          behind could induce me to act badly, to behave badly’, that is, not to leave.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Bec 1977-78 (I, p. 157) inserisce questo testo tra le ‘chansons de départie féminine’,
+          mentre Dijkstra 1995 (pp. 58-59), preferisce enumerarlo tra le ‘chansons d’appel à la
+          croisade’, per il fatto che la separazione degli amanti sarebbe solamente un pretesto per
+          spiegare la prevalenza del servizio di Dio sul servizio d’Amore. Sottolinea infatti il
+          gran numero dei temi e dei motivi propagandistici. Ciò che rende unica la canzone nel
+          panorama del corpus ‘crociato’ è la sua componente dialogica nelle prime due <hi rend="italic">coblas</hi> che rappresenta drammaticamente le due voci delle <hi rend="italic">chansons de départie</hi>: i sentimenti del crociato in procinto di
+          partire, espressi con registro cortese (<hi rend="italic">Douce dame</hi>, <hi rend="italic">loiaul cuer</hi>, <hi rend="italic">mercit</hi>) e con immagini tratte
+          dall'immaginario feudale (<hi rend="italic">bone foi</hi>, <hi rend="italic">a mains
+            jointes</hi>, <hi rend="italic">glorious tornoi</hi>), e il lamento della dama
+          addolorata per l’abbandono che risponde con modalità proprie di una <hi rend="italic">chanson de femme</hi>, a cominciare dall'allocuzione <hi rend="italic">Biauls dous
+            amis</hi>. La terza cobla si chiude, in prima persona, con la dichiarazione della
+          primazia del servizio divino oltremare. Sulla questione delle reazioni femminili alla
+          crociata, cfr. tra gli altri Lecoy de la Marche 1890, 20 e Throop 1975, 156 sgg;.</p>
+        <p corresp="#rs.1659.fro:(n=3)">a mains jointes: il sintagma, qui espresso nella sua valenza
+          feudale, l'immixtio manuum nell'omaggio al signore, viene riproposto al v. 15 per un atto
+          di devozione mariana, di cui abbiamo numerose attestazioni dai Miracles de Nostre Dame ai
+          Miracles de Nostre Dame par personnages (cfr. Koenig 1955-1970 e Paris-Robert 1876-1893).
+          In contesto cortese le attestazioni del sintagma sono meno numerose e di pieno Duecento,
+          dato che potrebbe fornirci una suggestione per una collocazione cronologica del testo.
+          Probabilmente la più accostabile si trova in Raoul de Soissons, A la plus sage et a la
+          mieus vaillant (RS 363), vv. 15-16: «Et mains jointes proier en soupirant / qu' el' ait
+          pitié du plus leal amant». Di particolare interesse sono le attestazioni rintracciabili in
+          due componimenti musicali di Adam de la Halle, il rondeau polifonico a tre voci A jointes
+          mains vous proi e la canzone Li maus d'amors me plaist mix a sentir, al v. 13: «a jointes
+          mains rians le prenderoie». Il motivo ha avuto una certa diffusione nei testi musicali
+          coevi, lo si ritrova infatti in alcuni mottetti anonimi del codice di Montpellier, tutti
+          trascritti in fascicoli databili dal 1280 (fasc. nn. 2, 5, 6) alla fine del XIII secolo
+          (fasc. n. 7): nn. XIV, XV, LIX, LXVII, CCXXXV, XCI e CXXXVI, nel triplum dedicato alla
+          Vergine A tort sui d'amours blasmée, vv. 7-9: «Si li cri / merci / a jointes mains, et
+          pri», (f. 232v, Tischler 1978, 180).</p>
+        <p corresp="#rs.1659.fro:(n=6)">glorious tornoi:= l’immagine del torneo in Terrasanta è
+          presente anche in Chevalier, mult estes guariz, RS 1548a, vv. 49-50: «Deus ad un turnei
+          pris / Entre enfern e pareïs».</p>
+        <p corresp="#rs.1659.fro:(n=10)">mesaixe : la rima richiederebbe mesaire, che non dà senso.
+          Bédier avanza per via ipotetica l’emendamento contraire: «mais il faudrait refaire
+          l’hémistiche», p. 291.</p>
+        <p corresp="#rs.1659.fro:(n=11)">c'outre la mer: Bédier pone a testo contre per indicare una
+          relazione di opposizione se non di ostilità: ‘vers la mer’; tuttavia in nota propone di
+          correggere in c’outre la mer.</p>
+        <p corresp="#rs.1659.fro:(n=12)">haire: cfr. il Dictionnaire de l’académie française,
+          (http://atilf.atilf.fr/academie9.htm): «n. f. Xe siècle. Issu du francique *harja,
+          «vêtement grossier fait de poil». Chemise rugueuse faite de crin ou de poil de chèvre,
+          qu’on portait sur la peau par esprit de mortification ou par pénitence». Cfr. anche TLFi,
+          sv.</p>
+        <p corresp="#rs.1659.fro:(n=13)">Per la costruzione voler + inf. indicante l’imminenza di
+          un’azione, cfr. Ménard 1973, § 72. Bédier preferisce correggere veult, lezione del ms, in
+          peult.</p>
+        <p corresp="#rs.1659.fro:(n=17)">Molt me mervoil se del sen ne mervoi: il verso è certamente
+          da accostare al v. 14 di RS 191: «granz merveille est que je ne sui dervee».</p>
+        <p corresp="#rs.1659.fro:(n=24)">Per evitare la cesura epica Bédier, seguendo Hofmann,
+          propone in nota di porre a testo lais. L'interpretazione dell'ultimo verso potrebbe essere ancora un elogio alla dama e
+          intendersi come: 'nulla che io lasci potrebbe indurmi ad agire malamente, ad avere un
+          cattivo comportamento', cioè non partire.</p>
+      </div>
+    </back></text></TEI>

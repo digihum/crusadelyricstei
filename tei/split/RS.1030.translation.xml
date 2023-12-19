@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-12-01</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde 1780, II, 211; Paris 1833, 103; Leroux de Lincy 1841-1842,<hi rend="smallcaps"> I,</hi> 116; Dinaux 1837-1863, <hi rend="smallcaps">I</hi>, 140;
+            Brakelmann 1870, 56; Meyer 1877, II, 367; Bédier 1906, 379; Bédier-Aubry 1909, 62;
+            Gennrich 1951, 24; Wentzlaff-Eggebert 1960, 154; Cluzel 1969, 46; Schöber 1976, 162;
+            Dufournet 1989, 100; Dijkstra 1995a, 192.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde 1780, II, 211; Paris 1833, 103; Leroux de Lincy 1841-1842,<hi rend="smallcaps"> I,</hi> 116; Dinaux 1837-1863, <hi rend="smallcaps">I</hi>, 140;
+            Brakelmann 1870, 56; Meyer 1877, II, 367; Bédier 1906, 379; Bédier-Aubry 1909, 62;
+            Gennrich 1951, 24; Wentzlaff-Eggebert 1960, 154; Cluzel 1969, 46; Schöber 1976, 162;
+            Dufournet 1989, 100; Dijkstra 1995a, 192.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(2).</hi> M 50a (<hi rend="italic">Me sire hues doysj</hi>), T 53r
+              (<hi rend="italic">Me sire hues doisy</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(2).</hi> M 50a (<hi rend="italic">Me sire hues doysj</hi>), T 53r
+              (<hi rend="italic">Me sire hues doisy</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10ababbaba (MW 902,1 = Frank
+        302); 3 <hi rend="italic">coblas doblas</hi> (2+1); the first stanza has only 6 lines, with
+        the rhyme-scheme 10abbaba: there may have been a gap in a previous exemplar or the stanza
+        may form a sort of refrain; rhyme a: <hi rend="italic">-i</hi>, <hi rend="italic">-a</hi>;
+        rhyme b: <hi rend="italic">-ans</hi>, <hi rend="italic">-ier</hi>. Three of the four rhymes
+          (<hi rend="italic">-i</hi>, <hi rend="italic">-ans</hi>, <hi rend="italic">-ier</hi>) also
+        appear in RS 1314 by Conon de Béthune. The versification is very common, but Huon d’Oisy is
+        imiting Conon de Béthune’s song RS 1125 in particular, though the latter has a feminine
+        a-rhyme. Identical rhyme vv. 15 and 20 (the whole expression <hi rend="italic">quant il s’en
+          ala</hi>), equivocal rhyme vv. 6 and 12 (<hi rend="italic">failli</hi>, first a verb and
+        then an adjective), paronymous rhyme vv. 9 and 14 (<hi rend="italic">ci-merci</hi>, also for
+        the ear in <hi rend="italic">ausi</hi> v. 1), etymological figure vv. 3 and 16 (<hi rend="italic">preechemans-preechier</hi>); lyric caesura vv. 2, 10 and 15 (but the latter
+        is probably a case of a median caesura 5+5); feminine caesura with elision v. 11; melody in
+        both mss., with melodic structure ABAB CDC’D’ (T 601).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10ababbaba (MW 902,1 = Frank
+        302); 3 <hi rend="italic">coblas doblas</hi> (2+1); la prima strofa è di soli 6 versi con
+        schema 10abbaba: potrebbe trattarsi di una lacuna materiale della tradizione o di una specie
+        di <hi rend="italic">refrain</hi>; rima a: <hi rend="italic">-i</hi>, <hi rend="italic">-a</hi>; rima b: <hi rend="italic">-ans</hi>, <hi rend="italic">-ier</hi>; tre rime su
+        quattro (<hi rend="italic">-i</hi>, <hi rend="italic">-ans</hi>, <hi rend="italic">-ier</hi>) si trovano anche nella canzone RS 1314 di Conon de Béthune; lo schema è molto
+        diffuso, ma Huon d’Oisy imita in particolare la canzone RS 1125 di Conon de Béthune, che
+        però ha la rima a femminile; si ha rima identica ai vv. 15 e 20 (tutta l’espressione <hi rend="italic">quant il s’en ala</hi>), rima equivoca ai vv. 6 e 12 (<hi rend="italic">failli</hi>, prima verbo e poi aggettivo), rima paronima ai vv. 9 e 14 (<hi rend="italic">ci-merci</hi>, all’orecchio anche con <hi rend="italic">ausi</hi> del v. 1), figura
+        etimologica ai vv. 3 e 16 (<hi rend="italic">preechemans-preechier</hi>); vi è cesura lirica
+        ai vv. 2, 10 e 15 (ma in quest’ultimo caso si tratta più probabilmente di una cesura mediana
+        5+5); cesura femminile con elisione al v. 11; melodia in entrambi i canzonieri, con schema
+        melodico ABAB CDC’D’ (T 601).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The two manuscript versions are virtually
+        identical, with minimal variants. In both there are two lines rhyming ab apparently missing
+        in the first stanza. The various editors indicate the lacuna as corresponding to two initial
+        lines or vv. 3-4. However there are no noticeable skips or breaks in the stanza’s syntactic
+        structure and the melody is marked out regularly in both cases; it may be a case of a type
+        of refrain rather than a gap in the common source, and given this uncertainty it is better
+        not to indicate missing lines in the printed text. T’s graphy is essentially followed, its
+        northern features being preserved. For the alternation of the forms <hi rend="italic">Diu/Dieu</hi> in particular see Gossen 1976, § 9, pp. 55-58 (compare also <hi rend="italic">liu</hi> for <hi rend="italic">lieu</hi> in v. 19). M is used only for v. 3
+        where there is an error in T (<hi rend="italic">preemans</hi> which generates a hypometric
+        line).</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>I due testimoni hanno la stessa lezione, con
+        varianti minime. In entrambi i canzonieri mancano due versi con rima ab nella prima strofa.
+        I vari editori segnalano la lacuna in corrispondenza dei primi due versi o dei vv. 3-4. Non
+        si notano però salti o fratture nella struttura sintattica della strofa e la melodia è
+        regolarmente tracciata in entrambi i casi; potrebbe anche trattarsi di una sorta di <hi rend="italic">refrain</hi> piuttosto che di una lacuna materiale e, vista l’incertezza, si
+        preferisce non segnalare graficamente i versi mancanti. Si segue sostanzialmente la lezione
+        e la grafia di T, conservandone anche i tratti settentrionali. In particolare per
+        l’alternanza delle forme <hi rend="italic">Diu/Dieu</hi> si veda Gossen 1976, § 9, pp. 55-58
+        (si veda anche <hi rend="italic">liu</hi> per <hi rend="italic">lieu</hi> al v. 19). Si
+        ricorre alla lezione di M solo al v. 3 dove si riscontra un errore di T (<hi rend="italic">preemans</hi> che genera ipometria).</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-12-10T17:18:08Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Huon d’Oisy</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1030.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Despite all the saints and despite God Himself Conon is returning, and a curse on his
+              return! Shame on him and his preaching, and shame on anyone who does not say to him
+              ‘fie upon you’! When God sees him in great need He will not help him, just as he has
+              not helped Him.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Sing no more, Conon, I pray you, for your songs are no more pleasing. Now you will
+              live a shameful life here; you did not choose to die joyfully for God, and now you are
+              counted among the cowards, so you will stay here with your failed king. May Our Lord,
+              who has power over all people, have no pity, first on the king and [then] on you! </p>
+          </div>
+          <div n="3" type="stanza">
+            <p>When he set off, Conon was very brave in giving sermons and preaching to people, and
+              if a single man stayed behind, he covered him in shame and reproach. Now he has
+              returned to soil his home [his nest?], and he is filthier than when he left. For sure,
+              he can keep his cross and stow away, as it is in the same state as it was when he
+              carried it away.</p>
+          </div>
+        </div><div type="translation" xml:id="rs.1030.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>A dispetto di tutti i santi e di Dio stesso, Conon ritorna e che sia malvenuto. Sia
+              infamato lui e la sua predicazione, e sia infamato (anche) chi non gli dice
+              «vergogna»! Quando Dio lo vedrà in grande bisogno non lo soccorrerà, dal momento che
+              lui non L’ha soccorso.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Non cantate più, Conon, ve ne prego, perché le vostre canzoni non sono più piacevoli.
+              Ora resterete qui a condurre una vita disonorevole; non avete voluto morire in letizia
+              per Dio, e adesso fate parte dei codardi, così resterete con il vostro re imbelle.
+              Nostro Signore, che ha potere di giudicare tutti, non abbia pietà né del re né di
+              voi.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Conon, quando partì, fu molto zelante nel predicare e arringare la gente, e se solo
+              uno voleva restare qui, lo copriva di disonore e biasimo. Ora è tornato a insozzare la
+              sua dimora [il suo nido?], ed è più sporca di quando è partito. Può davvero riporre e
+              custodire la sua croce, perché è ancora tale e quale come quando l’ha presa.</p>
+          </div>
+        </div></body></text></TEI>

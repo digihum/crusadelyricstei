@@ -1,0 +1,485 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2014-10-05</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>La Ravallière 1742, <hi rend="smallcaps">ii</hi> 132; Leroux de Lincy 1841, <hi
+              rend="smallcaps">i</hi> 125; Tarbé 1850, 124; Meyer 1877, <hi rend="smallcaps">ii</hi>
+            370; Clédat 1892, 223; Bartsch-Horning 1895, 384; Bédier-Aubry 1909, 169; Riemann
+            1909-1910, 575; Wallensköld 1925, 183; Wagner 1949, 158; Pauphilet 1952, 898; Cremonesi
+            1955, 200; Gennrich 1955, <hi rend="smallcaps">i</hi> 9; Toja 1966, 421; Mary 1967, <hi
+              rend="smallcaps">i</hi> 360; Picot 1975, <hi rend="smallcaps">ii</hi> 64; Baumgartner
+            1983, 252; Brahney 1989, 226; Guida 1992, 106; Rosenberg-Tischler 1995, 360; Dijkstra
+            1995a, 204; Sánchez Palomino 2005, 172.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>La Ravallière 1742, <hi rend="smallcaps">ii</hi> 132; Leroux de Lincy 1841, <hi
+              rend="smallcaps">i</hi> 125; Tarbé 1850, 124; Meyer 1877, <hi rend="smallcaps">ii</hi>
+            370; Clédat 1892, 223; Bartsch-Horning 1895, 384; Bédier-Aubry 1909, 169; Riemann
+            1909-1910, 575; Wallensköld 1925, 183; Wagner 1949, 158; Pauphilet 1952, 898; Cremonesi
+            1955, 200; Gennrich 1955, <hi rend="smallcaps">i</hi> 9; Toja 1966, 421; Mary 1967, <hi
+              rend="smallcaps">i</hi> 360; Picot 1975, <hi rend="smallcaps">ii</hi> 64; Baumgartner
+            1983, 252; Brahney 1989, 226; Guida 1992, 106; Rosenberg-Tischler 1995, 360; Dijkstra
+            1995a, 204; Sánchez Palomino 2005, 172.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl>(8). K 1b-2b (<hi rend="italic">li rois de Navarre</hi>), M<hi rend="superscript"
+              >t</hi> 13cd (anonima), N 1c-2a (<hi rend="italic">li rois de Navarre</hi>), O 127bc
+            (anon.), S 316bc (anon.), T 2v (anon.), V 1cd (anon.), X 8cd (<hi rend="italic">li rois
+              de Navarre</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl>(8). K 1b-2b (<hi rend="italic">li rois de Navarre</hi>), M<hi rend="superscript"
+              >t</hi> 13cd (anonima), N 1c-2a (<hi rend="italic">li rois de Navarre</hi>), O 127bc
+            (anon.), S 316bc (anon.), T 2v (anon.), V 1cd (anon.), X 8cd (<hi rend="italic">li rois
+              de Navarre</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’">
+        <p>10ababc’c’b (MW 1159,1 = Frank 361); 5 <hi rend="italic">coblas doblas</hi> (2+2+1) with
+          a 3-line <hi rend="italic">envoi</hi> (c’c’b); rhyme a = <hi rend="italic">-a</hi>, <hi
+            rend="italic">-er</hi>, <hi rend="italic">-ez</hi>; rhyme b = <hi rend="italic"
+          >-is</hi>, <hi rend="italic">-ont</hi>, <hi rend="italic">-oir</hi>; rhyme c = <hi
+            rend="italic">-ance</hi>, <hi rend="italic">-ie</hi>, <hi rend="italic">-ee</hi>;
+          identica; rhyme <hi rend="italic">mont</hi> in vv. 16 and 22; feminine caesura with
+          elision in vv. 2 and 11; lyric caesura in vv. 29 and 36; melody in KM<hi
+            rend="superscript">t</hi>NOVX, with very few variants (van der Werf 1979, II, p. 3;
+          Tischler 1997, I n° 5).</p>
+      </metDecl>
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’">
+        <p>10ababc’c’b (MW 1159,1 = Frank 361); 5 <hi rend="italic">coblas doblas</hi> (2+2+1) con
+          un <hi rend="italic">envoi</hi> di 3 versi (c’c’b); rima a = <hi rend="italic">-a</hi>,
+            <hi rend="italic">-er</hi>, <hi rend="italic">-ez</hi>; rima b = <hi rend="italic"
+            >-is</hi>, <hi rend="italic">-ont</hi>, <hi rend="italic">-oir</hi>; rima c = <hi
+            rend="italic">-ance</hi>, <hi rend="italic">-ie</hi>, <hi rend="italic">-ee</hi>; rima
+          identica <hi rend="italic">mont</hi> ai vv. 16 e 22; cesura femminile con elisione ai vv.
+          2 e 11; cesura lirica ai vv. 29 e 36; melodia in KM<hi rend="superscript">t</hi>NOVX, con
+          pochissime varianti (van der Werf 1979, II, p. 3; Tischler 1997, I n° 5).</p>
+      </metDecl>
+      <editorialDecl xml:lang="en">
+        <p>The tradition of the text is very compact, with few variants and little stemmatic
+          significance. All the songbooks transmitting the text are witnesses of Thibaut’s
+          Liederbuch, with the sole exception of S which in this case distinguishes itself more by
+          visibly sloppy readings than by difficiliores variants. In Mt, T and V the song forms part
+          of Thibaut de Champagne’s corpus; in O, where the texts are ordered alphabetically, it is
+          the first text under the letter <hi rend="italic">S</hi>, a position traditionally
+          reserved for Thibaut, followed by two other texts; in S it is found in the centre of a
+          series of some thirty songs attributable to the king of Navarre. The attribution can
+          therefore be considered unanimous.</p>
+      </editorialDecl>
+      <editorialDecl xml:lang="it">
+        <p>La tradizione del testo è molto compatta, con poche varianti e di scarso rilievo
+          stemmatico. Tutti i canzonieri che riportano il testo di questa canzone sono testimoni del
+            <hi rend="italic">Liederbuch</hi> di Thibaut, ad eccezione del solo S che però in questo
+          caso si distingue più per qualche lezione platealmente trasandata che per varianti <hi
+            rend="italic">difficiliores</hi>. In M<hi rend="superscript">t</hi>, T e V la canzone fa
+          parte del corpus di Thibaut de Champagne; in O, nel quale i testi sono ordinati
+          alfabeticamente, si tratta del primo testo della lettera <hi rend="italic">S</hi>, posto
+          tradizionalmente riservato a Thibaut, del quale seguono altri due testi; in S si trova al
+          centro di una serie di una trentina di canzoni attribuibili al re di Navarra.
+          L’attribuzione può quindi essere considerata unanime.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2014-10-05T18:14:12Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Thibaut de Champagne</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+      <div type="text" xml:id="rs.6.fro" xml:lang="fro">
+        <lg n="1" type="stanza">
+          <l n="1">Seignor, sachiez, qui or ne s’an ira</l>
+          <l n="2">en cele terre ou Diex fu mors et vis</l>
+          <l n="3">et qui la croiz d’outremer ne penra</l>
+          <l n="4"> a painnes mais ira en paradis.</l>
+          <l n="5">Qui a en soi pitié ne remembrance,</l>
+          <l n="6">au Haut Seignor doit querre sa vanjance</l>
+          <l n="7">et delivrer sa terre et son païs.</l>
+        </lg>
+        <lg n="2" type="stanza">
+          <l n="8"> Tuit li mauvais demorront par deça</l>
+          <l n="9">qui n’ainment Dieu, bien ne honor ne pris;</l>
+          <l n="10">et chascuns dit: «ma fame que fera?»</l>
+          <l n="11">«je ne lairoie a nul fuer mes amis».</l>
+          <l n="12">Cil sont cheoit en trop fole atendance,</l>
+          <l n="13">qu’il n’est amis fors que Cil, sanz doutance,</l>
+          <l n="14">qui por nos fu en la vraie croiz mis.</l>
+        </lg>
+        <lg n="3" type="stanza">
+          <l n="15">Or s’an iront cil vaillant bacheler</l>
+          <l n="16">qui ainment Dieu et l’onour de cest mont,</l>
+          <l n="17">qui sagement vuelent a Dieu aler;</l>
+          <l n="18">et li morveus, li cendreus demorront:</l>
+          <l n="19">avugle sont, de ce ne dout je mie.</l>
+          <l n="20">Qui .i. secors ne fait Dieu en sa vie </l>
+          <l n="21">et por si po pert la gloire del mont.</l>
+        </lg>
+        <lg n="4" type="stanza">
+          <l n="22">Diex se laissa por nos en croiz pener</l>
+          <l n="23">et nos dira au jor ou tuit vanront:</l>
+          <l n="24">«Vos qui ma croiz m’aidastes a porter,</l>
+          <l n="25">vos en irez là ou mi angle sont:</l>
+          <l n="26">là me verroiz et ma mere Marie;</l>
+          <l n="27">et vos par cui je n’oi onques aïe</l>
+          <l n="28">descendrez tuit en anfer le parfont».</l>
+        </lg>
+        <lg n="5" type="stanza">
+          <l n="29">Chascuns cuide demorer touz haitiez</l>
+          <l n="30">et que jamais ne doie mal avoir;</l>
+          <l n="31">ainsi les tient Anemis et pechiez</l>
+          <l n="32">que il n’ont sens, hardement ne pooir.</l>
+          <l n="33">Biax sire Diex, ostez leur tel pensee,</l>
+          <l n="34">et nos metez en la vostre contree</l>
+          <l n="35">si saintement que vos puissons veoir.</l>
+        </lg>
+        <lg n="6" type="stanza">
+          <l n="36">Douce Dame, roïne coronee</l>
+          <l n="37">priez por nos, vierge bone eüree,</l>
+          <l n="38">et puis aprés ne nos puet mescheoir. </l>
+        </lg>
+      </div>
+      <div type="translation" xml:id="rs.6.en" xml:lang="en">
+        <head> Translation </head>
+        <div n="1" type="stanza">
+          <p>Lords, know this: whoever will not now go to that land where God died and rose again,
+            and whoever will not take the cross to Outremer will find it hard ever to go to heaven.
+            Whoever has pity and good remembrance in his heart must seek to avenge the Highest Lord
+            and liberate His land and His country.</p>
+        </div>
+        <div n="2" type="stanza">
+          <p>All the base men who do not love God, goodness or honour or reputation, will remain
+            here; and each says: “What will my wife do?”, “There is no way I would leave my
+            friends”. These are embroiled in vain preoccupations, since there is certainly no true
+            friend apart from the one who was placed upon the true cross for us. </p>
+        </div>
+        <div n="3" type="stanza">
+          <p>Soon those valiant young men who love God and the honour of this world, who wisely wish
+            to proceed towards God, will set out on their way; and the snotty-nosed faint-hearts and
+            the lechers will stay behind: they are blind, I have no doubt about it. Whoever does not
+            aid God at least once in his lifetime, and at so little cost, loses the glory of the
+            world. </p>
+        </div>
+        <div n="4" type="stanza">
+          <p>God allowed himself to suffer pain upon the cross and will say to us on the day when
+            all come together [come before Him?]: “You who helped me carry my cross, you will go to
+            where my angels are; and you from whom I had no help will all descend into the depths of
+            hell”.</p>
+        </div>
+        <div n="5" type="stanza">
+          <p>Each imagines he can live without a care in the world and that he will never have
+            anything to worry about; the Enemy and sin have such a hold on them that they have no
+            discernment, will [? see LB’s note, tho’ the text has <hi rend="italic">hardement</hi>
+            not <hi rend="italic">volonté</hi>] or energy. Good Lord God, take this illusion away
+            from them and place us in your realm in such a holy way that we may see Your face
+            [ending in ‘You’ seems too abrupt I think].</p>
+        </div>
+      </div>
+      <div type="translation" xml:id="rs.6.it" xml:lang="it">
+        <head> Translation </head>
+        <div n="1" type="stanza">
+          <p>Signori, sappiatelo, chi ora non andrà in quella terra dove Dio fu messo a morte e
+            resuscitò e chi non prenderà la croce d’oltremare difficilmente potrà mai andare in
+            paradiso. Chi ha in sé compassione e buona memoria, deve compiere la vendetta
+            dell’Altissimo e liberare la sua terra e il suo paese.</p>
+        </div>
+        <div n="2" type="stanza">
+          <p>Resteranno qui solo i vili che non amano Dio, né il bene, né l’onore, né la
+            reputazione; essi dicono: “e mia moglie cosa farà?” “non lascerò per nessuna ragione i
+            miei amici”. Sono invischiati in vane preoccupazioni, poiché non c’è vero amico al di
+            fuori di Colui, certamente, che per noi fu posto sulla vera croce.</p>
+        </div>
+        <div n="3" type="stanza">
+          <p>Presto partiranno i giovani valorosi che amano Dio e l’onore del mondo, che saggiamente
+            vogliono andare verso Dio; e i pavidi e i debosciati resteranno: sono ciechi, non ho
+            alcun dubbio. Chi non soccorre Dio neppure una volta nella vita, per così poco perde la
+            gloria del mondo.</p>
+        </div>
+        <div n="4" type="stanza">
+          <p>Dio si lasciò martoriare sulla croce per noi e ci dirà nel giorno in cui tutti saranno
+            radunati: “voi che m’avete aiutato a portare la croce, voi andrete là dove sono i miei
+            angeli: là vedrete me e mia madre Maria; e voi dai quali non ho mai ricevuto aiuto
+            scenderete tutti nell’inferno profondo”.</p>
+        </div>
+        <div n="5" type="stanza">
+          <p>Ognuno si illude di poter vivere sempre spensierato e pensa che non avrà mai
+            preoccupazioni; il Nemico e il peccato li possiedono a tal punto che non hanno
+            discernimento, né audacia, né energia. Buon Signore Dio, togliete loro questa illusione
+            e mettete noi nel vostro regno così santamente che vi possiamo vedere.</p>
+        </div>
+        <div n="6" type="stanza">
+          <p>Dolce Signora, regina incoronata, pregate per noi, Vergine beata, e così non ci
+            capiterà nulla di male.</p>
+        </div>
+      </div>
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>No specific historical allusion allow us to date this song, which has traditionally been
+          assigned to the period preceding Thibaut’s departure on the only expedition to the Holy
+          Land in which he took part. The crusade, preached at the end of 1234, only took place some
+          years later and the crusaders embarked at Marseille in August 1239. All critics have
+          agreed that the song must have been composed between these two dates, some scholars going
+          back as far as 1230 when Thibaut first pledged to go to the Holy Land (see for example
+          Dijkstra 1995a, p. 119). According to Guida 1992, p. 104 the song suggest the feeling of
+          imminent departure. Since it has often been pointed out how this text draws on typical
+          preaching vocabulary and motifs, however, the idea that it may go back to the time of
+          Thibaut first taking the cross should not be ruled out, namely in 1235 when the enthusiasm
+          aroused by the preachers made the pope strive to dissuade the crusaders from leaving
+          prematurely.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Nessun riferimento storico concreto permette di datare questa canzone, che è stata
+          tradizionalmente assegnata al periodo precedente la partenza di Thibaut per l’unica
+          spedizione in Terra Santa alla quale ha partecipato. La crociata, predicata alla fine del
+          1234, riesce a concretizzarsi solo qualche anno più tardi e i crociati si imbarcano a
+          Marsiglia nell’agosto del 1239. Tutti i critici sono concordi nel datare la canzone tra
+          questi due termini, risalendo in qualche caso fino al 1230, anno in cui per la prima volta
+          Thibaut si era impegnato a partire per la Terra Santa (si veda per esempio Dijkstra 1995a,
+          p. 119). Secondo Guida 1992, p. 104 essa trasmetterebbe la sensazione dell’imminenza della
+          partenza. Poiché è stato in più occasioni rilevato come questo testo si serva del lessico
+          e dei motivi tipici della predicazione, non escluderei invece che esso debba essere fatto
+          risalire proprio al tempo della prima presa di croce di Thibaut, in quell’anno 1235 quando
+          l’entusiasmo suscitato dai predicatori fu tale da costringere il papa ad adoperarsi per
+          dissuadere i crociati da una partenza prematura.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p corresp="#rs.6.fro:(n=1)">The end of the first line shows that this text has many
+          similarities with the song Oiés, seigneur, pereceus par oiseuses (RS 1022) attributed to
+          Richard de Fournival, and with their probable common model, Conon de Béthune’s famous
+          crusade song Ahi! Amors, com dure departie (RS 1125).</p>
+        <p corresp="#rs.6.fro:(n= )">According to Dijkstra 1995a, p. 120, Thibaut is addressing the
+          bellatores, respecting the directives of pope Alexander III which tend to restrict the
+          crusade exclusively to armed knights. </p>
+        <p corresp="#rs.6.fro:(n=2)">ou Diex fu mors et vis: Wallensköld considers the expression as
+          an hysteron proteron, whereas according to Guida 1992, followed by Sánchez Palomino 2005,
+          the syntax follows the natural order and the participle vis is to be understood as a
+          reference to the resurrection. In both verbs there may even be a passive nuance, which
+          would highlight on the one hand the culpable action of Jesus’s executioners (by extension,
+          according to the current Christian interpretation, the whole of the human race) and on the
+          other the salvific power of God the Father. In any case we are dealing with a current
+          expression, virtually a set phrase, perhaps drawn from the preachers’ repertory; see for
+          example GlFig BdT 217.7, 24 (and the theological digression of vv. 25-32, which seems to
+          confirm the possible passive interpretation of the verbs).</p>
+        <p corresp="#rs.6.fro:(n=3)">croiz d’outremer: this technical term conveys perfectly the
+          Latin expression crux transmarina introduced into preaching to distinguish expeditions to
+          the Holy Land from European crusades against Spanish Muslims or Christian heretics. The
+          expression was used for the first time on the occasion of the Albigensian crusade, perhaps
+          by the German monk and preacher Caesar of Heisterbach (see for example Dialogus
+          miraculorum I, 6).</p>
+        <p corresp="#rs.6.fro[range(@n=5,@n=7)]">The expression querre venjance is well attested and
+          requires the dative to designate the victim of a crime (TL XI, 178, 34-39), but here the
+          interpretation is complicated by the presence of the possessive sa which looks as if it
+          ought to refer to God Himself. The translation therefore takes account of the ambivalence
+          by which the crusade ought to avenge God and at the same time bring about His vengeance.
+          Guida rightly recalls that these lines also express the vassal’s duty to his lord: that of
+          avenging his death and defending his lands. </p>
+        <p corresp="#rs.6.fro[range(@n=10,@n=11)]">The religious vein and the propagandistic tone of
+          this text derive also from the rapid recourse to direct speech in these two lines. Rather
+          than drawing on the classic motif of the internal monologue developed as a debate between
+          service of God and service of the lady (as in other texts of Thibaut’s and his model Conon
+          de Béthune), the trouvère dramatises the objections of the man who hesitates: feelings and
+          interests put a brake on departure. The thought here is not with the trouvère’s courtly
+          lady, but, more realistically, with his wife. The undertstandable concern over losing what
+          is most dear makes men cautious about armed expeditions to the Holy Land. Thibaut seems to
+          be the only poet to express so vividly and directly the possible objections to going,
+          replicating this same pace of dialogue, even if it is expanded, in stanza III of RS 1152,
+          in which Thibaut turns directly to Philippe de Nanteuil to remind him that paradise can
+          only be conquered at the cost of harsh suffering (see Dijkstra 1995a, p. 120 n. 167).</p>
+        <p corresp="#rs.6.fro:(n=16)">The line is virtually identical to v. 9, whose symmetry
+          highlights the contrast between the choice of the one leaving and that of the one staying
+          behind, and specifies simultaneously the spiritual and worldly value of participating in
+          the crusade. See the commentary of Guida 1992 to vv. 15-17.</p>
+        <p corresp="#rs.6.fro:(n=18)">The first lines of this stanza can be related to vv. 30-32
+          (38-40) of Conon de Béthune’s RS 1125, which present the same situation but through the
+          much more effective and maliciously oblique one of the lady called upon to choose between
+          chaste and noble faithfulness to worthy crusading knights and the sinful and degrading
+          company of the cowards who have refused to set off. The substantival adjectives morveus
+          and cendreus seem to pick up Conon’s lasches and mauvais. Literally the adjective cendreus
+          means “having the colour and consistecy of ash” (TL II, 108, 48ff.), while morveus means
+          “snotty”. So it may be that the pair of adjectives is to be understood in a realistic and
+          pejorative literal sense. See however the more metaphorical interpretation proposed by
+          Bédier, followed by numerous other critics (Wallensköld, Sánchez Palomino) and by Guida
+          who links these expressions to the colourful compound forms of Marcabru in his famous Pax
+          in nomine Domini (in particular bufa-tizo and crup-en-cami; see the commentary of
+          Gaunt-Harvey-Paterson 2000 to Marcabru BdT 293.35, 46-48); see also GrBor BdT 242.10, 33
+          (ed. Kolsen): malvatz crup-en-cendres. This is also a case of picking up and developing
+          content already expressed in v. 8 of the preceding stanza.</p>
+        <p corresp="#rs.6.fro:(n=21)">The conjunction et is para-hypotactic and introduces the main
+          clause, as already noted by Wallensköld and then Guida; this has an intensifying force and
+          introduces an exclamatory nuance (Ménard § 195, pp. 184-185). This particular use of the
+          conjunction probably misled Bédier into thinking it was necessary to correct v. 19.</p>
+        <p corresp="#rs.6.fro:(n=23)">This evidently refers to the Day of Judgment, and the direct
+          speech of the following lines recalls the Gospel passage of Matt. 25, 31-46.</p>
+        <p corresp="#rs.6.fro:(n=26)">The figure of the Virgin Mary is not very often found in
+          French crusade songs, with the exception of RS 1659, 15-16, even though the archetypes of
+          crusade preaching appear in St Bernard, whose marial devotion and hymns to the Virgin are
+          well known. The figure of the mother of Christ is in any case an important element of the
+          religious texts of Thibaut de Champagne (see Grossel 2000). Note the elliptical
+          construction of the verb typical of the Middle Ages (Ménard, § 204).</p>
+        <p corresp="#rs.6.fro:(n=29)">The indefinite chascuns introduces two propositions dependent
+          on cuide, the first in the infinitive and the second in the subjunctive; this kind of
+          syntactic variatio is a distinctive feature of medieval language. For cuidier followed by
+          the infinitive in the sense of “think, intend” see Jensen, § 653.</p>
+        <p corresp="#rs.6.fro:(n=30)">On the use of periphrases with devoir to express the idea of
+          the future through the subjunctive see Wallensköld’s note (also Ménard, § 137).</p>
+        <p corresp="#rs.6.fro:(n=33)">See Hughes de Berzé RS 37a, 14. According to Dijkstra 1995a,
+          pp. 121-122 Thibaut’s call to the change of mentality necessary for participation in the
+          crusade becomes explicit in the song RS 1152, 10-14.</p>
+        <p corresp="#rs.6.fro[range(@n=34,@n=35)]">The contree should probably be understood here as
+          a metaphor for paradise (so already in Wallensköld), in view of the adverb saintement
+          accompanying it and the prospective possibility of seeing God face to face. This
+          metaphorical usage however seems rarely attested, and the contree in crusade songs is more
+          often the land of origin of the crusading knight, where the lady dwells.</p>
+        <p corresp="#rs.6.fro:(n=37)">On the prticular morphological use of the adjective bon with
+          adverbial force see the notes of Wallensköld and Guida (also Ménard, § 123).</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p corresp="#rs.6.fro:(n=1)">Risulta evidente fin dall’incipit che questo testo di Thibaut
+          de Champagne ha molti punti di contatto con la canzone attribuita a Richard de Fournival
+          Oiés, seigneur, pereceus par oiseuses (RS 1022) e col probabile modello di entrambi, la
+          famosa canzone di crociata di Conon de Béthune Ahi! Amors, com dure departie (RS
+          1125).</p>
+        <p corresp="#rs.6.fro:(n=_)">Secondo Dijkstra 1995a, p. 120, Thibaut si rivolge ai
+          bellatores, rispettando le direttive impartite da papa Alessandro III che tendono a
+          restringere la crociata ai soli cavalieri armati.</p>
+        <p corresp="#rs.6.fro:(n=2)">ou Diex fu mors et vis: Wallensköld per primo considera
+          l’espressione come un hysteron proteron, mentre secondo Guida 1992, seguito da Sánchez
+          Palomino 2005, la sintassi segue l’ordine naturale e il participio vis è da intendere come
+          riferimento alla resurrezione. Non è da escludere neppure la possibilità di leggere una
+          sfumatura passiva in entrambi i verbi, che metterebbe in risalto da una parte l’azione
+          colpevole dei carnefici di Gesù (per estensione, secondo l’interpretazione cristiana
+          corrente, tutto il genere umano) e dall’altra la potenza salvifica di Dio Padre. Si tratta
+          in ogni caso di un’espressione ricorrente, quasi stilematica, forse ripresa dal repertorio
+          dei predicatori; si veda per esempio GlFig BdT 217.7, 24 (e la digressione teologica dei
+          vv. 25-32, che sembra confermare la possibile interpretazione passiva dei verbi).</p>
+        <p corresp="#rs.6.fro:(n=3)">croiz d’outremer: è termine tecnico che traduce perfettamente
+          l’espressione latina crux transmarina introdotta nella predicazione per distinguere le
+          spedizioni in Terra Santa dalle crociate europee contro i musulmani spagnoli o contro i
+          cristiani eretici. L’espressione è stata utilizzata per la prima volta in occasione della
+          crociata contro gli Albigesi, forse dal monaco e predicatore tedesco Cesario di
+          Heisterbach (si veda per esempio Dialogus miraculorum I, 6).</p>
+        <p corresp="#rs.6.fro[range(@n=5,@n=7)]">L’espressione querre venjance è ben attestata ed
+          esige il dativo per designare la vittima del torto (TL XI, 178, 34-39), ma qui
+          l’interpretazione è complicata dalla presenza del possessivo sa che sembra doversi
+          riferire a Dio stesso. Nella traduzione si terrà dunque conto dell’ambivalenza
+          interpretativa per cui il crociato deve vendicare Dio e allo stesso tempo realizzare la
+          Sua vendetta. Guida ricorda giustamente che questi versi esprimono anche il dovere
+          vassallatico nei confronti del proprio signore: quello di vendicare la sua morte e di
+          difendere la sua terra.</p>
+        <p corresp="#rs.6.fro[range(@n=10,@n=11)]">La vena religiosa e la tonalità propagandistica
+          di questo testo risaltano anche nel rapido ricorso al discorso diretto di questi due
+          versi. Il troviero non attinge al classico motivo del monologo interiore che si sviluppa
+          come un dibattito tra il servizio a Dio e quello alla dama (come in altri suoi testi e nel
+          consueto modello di Conon de Béthune), ma mette in scena le obiezioni di chi esita: gli
+          affetti e gli interessi costituiscono un freno alla partenza. Il pensiero non va qui alla
+          dama cortese, ma più realisticamente alla moglie. Le comprensibili preoccupazioni di
+          perdere ciò che si ha di più caro costituiscono una causa di diffidenza verso le
+          spedizioni armate in Terra Santa. Thibaut sembra essere l’unico ad esprimere così
+          vivacemente in modo diretto le possibili obiezioni alla partenza, replicando lo stesso
+          andamento dialogico, sia pur dilatato, nella terza strofe della canzone RS 1152, nella
+          quale Thibaut si rivolge direttamente a Philippe de Nanteuil per ricordagli che il
+          paradiso potrà essere conquistato solo a prezzo di dure sofferenze (si veda Dijkstra
+          1995a, p. 120 n. 167).</p>
+        <p corresp="#rs.6.fro:(n=16)">Verso quasi identico al v. 9, che opponendo in modo simmetrico
+          la scelta di chi parte a quella di chi resta specifica meglio la valenza al contempo
+          spirituale e mondana della partecipazione alla crociata. Si veda il commento di Guida 1992
+          ai vv. 15-17.</p>
+        <p corresp="#rs.6.fro:(n=18)">I primi versi di questa strofe possono essere assimilati ai
+          vv. 30-32 (38-40) di CnBet RS 1125, che presentano la stessa situazione ma attraverso
+          l’immagine molto più efficace e maliziosamente obliqua delle dame chiamate a scegliere tra
+          una casta e nobile fedeltà ai prodi cavalieri crociati e la compagnia peccaminosa e
+          degradante dei codardi che hanno rifiutato di partire. Gli aggettivi sostantivati morveus
+          e cendreus sembrano riprendere lasches e mauvais di Conon. Letteralmente l’aggettivo
+          cendreus significa “che ha il colore e la consistenza della cenere” (TL II, 108, 48ss.),
+          mentre morveus significa “mocciosi”. Non si può escludere quindi che la coppia di
+          aggettivi sia da intendersi in senso letterale realistico e spregiativo. Si veda tuttavia
+          l’interpretazione più metaforica proposta da Bédier, seguito da numerosi altri critici
+          (Wallensköld, Sánchez Palomino) e da Guida che collega queste espressioni alle colorite
+          forme composte di Marcabruno nella sua famosa Pax in nomine Domini (in particolare
+          bufa-tizo e crup-en-cami; si veda il commento di Gaunt-Harvey-Paterson 2000 a Marcabru BdT
+          293.35, 46-48); si veda anche GrBor BdT 242.10, 33 (ed. Kolsen): malvatz crup-en-cendres.
+          Anche in questo caso si tratta di una ripresa approfondita del contenuto già espresso nel
+          v. 8 della strofe precedente.</p>
+        <p corresp="#rs.6.fro:(n=21)">La congiunzione et è paraipotattica e introduce la principale,
+          come già rilevato da Wallensköld e poi da Guida; essa ha un valore intensivo e introduce
+          una sfumatura esclamativa (Ménard § 195, pp. 184-185). Proprio questo uso particolare
+          della congiunzione avrà tratto in inganno Bédier convincendolo della necessità di
+          correggere il v. 19.</p>
+        <p corresp="#rs.6.fro:(n=23)">Si tratta evidentemente del giorno del giudizio, e il discorso
+          diretto dei versi successivi ricorda il passo evangelico di Mt 25, 31-46.</p>
+        <p corresp="#rs.6.fro:(n=26)">La figura della Vergine Maria non è molto presente nelle
+          canzoni di crociata francesi, con l’eccezione di RS 1659, 15-16, benché gli archetipi
+          della predicazione delle crociate si trovino in san Bernardo, di cui è nota la devozione
+          mariana e l’attività innologica. La figura della Madre di Cristo è in ogni caso un
+          elemento importante nei testi religiosi di Thibaut de Champagne (si veda Grossel 2000). Si
+          noti la costruzione con ellissi del verbo tipica della lingua medievale (Ménard, §
+          204).</p>
+        <p corresp="#rs.6.fro:(n=29)">L’indefinito chascuns introduce un’infinitiva concordata con
+          una completiva col congiuntivo; questo tipo di variatio sintattica è un tratto distintivo
+          della lingua medievale. Per cuidier seguito dall’infinito con il senso di “pensare, avere
+          l’intenzione” si veda Jensen, § 653.</p>
+        <p corresp="#rs.6.fro:(n=30)">Sull’uso della perifrasi con devoir per esprimere l’idea del
+          futuro nel congiuntivo si veda la nota di Wallensköld (nonché Ménard, § 137).</p>
+        <p corresp="#rs.6.fro:(n=33)">Si veda HgBer RS 37a, 14. Secondo Dijkstra 1995a, pp. 121-122
+          l’appello di Thibaut al cambiamento di mentalità necessario per partecipare alla crociata
+          diviene esplicito nella canzone RS 1152, 10-14.</p>
+        <p corresp="#rs.6.fro[range(@n=34,@n=35)]">La contree è probabilmente da intendersi qui come
+          metafora per il paradiso (già così in Wallensköld), visto l’avverbio saintement che
+          l’accompagna e la possibilità prospettata di vedere Dio faccia a faccia. Quest’uso
+          metaforico però sembra scarsamente attestato, e la contree nelle canzoni di crociata è più
+          spesso la terra d’origine del cavaliere-crociato, dove risiede la dama.</p>
+        <p corresp="#rs.6.fro:(n=37)">Sull’uso morfologico particolare dell’aggettivo bon con valore
+          avverbiale si vedano le note di Wallensköld e Guida (nonché Ménard, § 123).</p>
+      </div>
+    </back>
+  </text>
+</TEI>

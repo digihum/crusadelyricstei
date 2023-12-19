@@ -1,0 +1,674 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2014-12-01</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Wright 1839, 42; Leroux de Lincy 1841, 188; Meyer 1875, 397; Aspin 1953, 42;
+            Jeffrey-Levy 1990, 169.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Wright 1839, 42; Leroux de Lincy 1841, 188; Meyer 1875, 397; Aspin 1953, 42;
+            Jeffrey-Levy 1990, 169.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl>(2) Oxford, Bodleian Library, Douce 137, 112v (O, anonymous); London, British
+            Library, Cotton Julius D VII, 133v (L, anon.).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl>(2) Oxford, Bodleian Library, Douce 137, 112v (O, anonima); Londra, British Library,
+            Cotton Julius D VII, 133v (L, anon.).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’"><p>6a’ba’bc’c’bd’d’b (MW 1181,2); 6
+          <hi rend="italic">coblas singulars</hi>; rhyme a = <hi rend="italic">-ie</hi>, <hi
+          rend="italic">-ise</hi> (or <hi rend="italic">-ie</hi> in L), <hi rend="italic">-ie</hi>
+        (or <hi rend="italic">-ise</hi> in O), <hi rend="italic">-oille(nt)</hi> (or <hi
+          rend="italic">-oloie</hi> in L, but corrupt), <hi rend="italic">-ie </hi>(or <hi
+          rend="italic">-as</hi> in L, but corrupt), <hi rend="italic">-age</hi>; rhyme b = <hi
+          rend="italic">-ent</hi>, <hi rend="italic">-ent</hi>, <hi rend="italic">-us</hi>, <hi
+          rend="italic">-ent</hi>, <hi rend="italic">-ent</hi>, <hi rend="italic">-ir</hi>; rhyme c
+        = <hi rend="italic">-ule</hi>, <hi rend="italic">-ure</hi>, <hi rend="italic">-ie</hi>, <hi
+          rend="italic">-um(m)e</hi>, <hi rend="italic">-ise</hi>, <hi rend="italic">-ie</hi>; rhyme
+        d = <hi rend="italic">-age</hi>, <hi rend="italic">-ule</hi>, <hi rend="italic">-ie</hi>,
+          <hi rend="italic">-une</hi>, <hi rend="italic">-ance</hi> (or <hi rend="italic"
+          >-ample</hi> in O), <hi rend="italic">-ie</hi>. The verse form is basically respected, but
+        there are numerous irregularities at the rhyme. The same rhyme may be repeated several times
+        within a stanza or in different stanzas, sometimes at the same position and sometimes in
+        different positions, without there being any perceptible plan; there are also numerous
+        assonanced forms among them (<hi rend="italic">-ule</hi>, <hi rend="italic">-ure</hi>, <hi
+          rend="italic">-ume</hi>, <hi rend="italic">-une</hi>). In addition there is a huge
+        variation in the number of syllables per line (in both manuscripts, but not always in the
+        same lines), with frequent hypometric lines of five and sometimes even four syllables, and a
+        few rare cases of hypermetry. There are many cases of rich and leonine rhymes, as well as
+        identical rhymes (<hi rend="italic">glise </hi>vv. 11 and 46 [and 21 in O], <hi
+          rend="italic">plus</hi> vv. 24 and 30, <hi rend="italic">aÿe</hi> vv. 29 and 59), and one
+        example of equivocal rhyme (<hi rend="italic">sule</hi> vv. 5 e 19). No melody has been
+        preserved.</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’"><p>6a’ba’bc’c’bd’d’b (MW 1181,2); 6
+          <hi rend="italic">coblas singulars</hi>; rima a = <hi rend="italic">-ie</hi>, <hi
+          rend="italic">-ise</hi> (o <hi rend="italic">-ie</hi> in L), <hi rend="italic">-ie</hi> (o
+          <hi rend="italic">-ise</hi> in O), <hi rend="italic">-oille(nt)</hi> (o <hi rend="italic"
+          >-oloie</hi> in L, ma corrotto), <hi rend="italic">-ie </hi>(o <hi rend="italic">-as</hi>
+        in L, ma corrotto), <hi rend="italic">-age</hi>; rima b = <hi rend="italic">-ent</hi>, <hi
+          rend="italic">-ent</hi>, <hi rend="italic">-us</hi>, <hi rend="italic">-ent</hi>, <hi
+          rend="italic">-ent</hi>, <hi rend="italic">-ir</hi>; rima c = <hi rend="italic">-ule</hi>,
+          <hi rend="italic">-ure</hi>, <hi rend="italic">-ie</hi>, <hi rend="italic">-um(m)e</hi>,
+          <hi rend="italic">-ise</hi>, <hi rend="italic">-ie</hi>; rima d = <hi rend="italic"
+          >-age</hi>, <hi rend="italic">-ule</hi>, <hi rend="italic">-ie</hi>, <hi rend="italic"
+          >-une</hi>, <hi rend="italic">-ance</hi> (o <hi rend="italic">-ample</hi> in O), <hi
+          rend="italic">-ie</hi>. Lo schema metrico è sostanzialmente rispettato, ma sono numerose
+        le irregolarità che riguardano le rime. La stessa rima può essere ripetuta più volte
+        all’interno di una strofa o tornare in diverse strofe, a volte nella stessa posizione e a
+        volte in posizioni diverse, senza che si possa tuttavia individuare un disegno preciso; vi
+        sono poi numerose forme in assonanza tra loro (<hi rend="italic">-ule</hi>, <hi
+          rend="italic">-ure</hi>, <hi rend="italic">-ume</hi>, <hi rend="italic">-une</hi>). A ciò
+        si aggiunge un massiccio anisosillabismo (in entrambi i manoscritti, ma non sempre negli
+        stessi versi), con frequenti versi ipometrici di 5 e a volte addirittura di 4 sillabe, e
+        qualche caso più raro di ipermetria. Oltre ai numerosi casi di rima ricca e leonina, vi sono
+        alcuni casi di rima paronima (<hi rend="italic">fule-defule</hi> ai vv. 6 e 18, <hi
+          rend="italic">gent-argent</hi> ai vv. 10 e 34, <hi rend="italic">die-maudie</hi> vv.
+        55-58) e di rima identica (<hi rend="italic">glise </hi>vv. 11 e 46 [e 21 in O], <hi
+          rend="italic">plus</hi> vv. 24 e 30, <hi rend="italic">aÿe</hi> vv. 29 e 59), e un caso di
+        rima equivoca (<hi rend="italic">sule</hi> vv. 5 e 19). Nessuna melodia
+        conservata.</p></metDecl>
+      <editorialDecl xml:lang="en"><p>Although Aspin 1953 and then Jeffrey-Levy 1990
+        write of two different versions, the text of the two witnesses is substantially the same and
+        the divergences compatible with the types of variants that can be seen in texts of the same
+        kind and belonging to similar traditions, if one disregards the syllabic oscillations
+        typical of Anglo-Norman texts. The most significant divergence actually concerns vv. 41-42,
+        which in ms. O contain the reference to the crusade; this can be explained by the different
+        audiences for the text and the particular interests of the transcribers.The text presents
+        some of the main phenomena of the Anglo-Norman <hi rend="italic">scripta</hi>, but without
+        particular excesses. It gives the impression of having been written in an essentially
+        correct French. Also typical of Anglo-Norman texts are the frequent variations in the
+        syllabic count, often leading to cases of hypometric and more rarely hypermetric lines. Such
+        features are encountered in both copies, and at least some of these may have been present in
+        the original version. Nevertheless the irregularities are below average for the texts
+        published by Aspin, and in some (six) cases they can be corrected by comparing the readings
+        in the two manuscripts; the remaining irregularities can be ironed out through simple and
+        obvious conjectures, sometimes restoring the correct grammatical forms (vv. 27 and 60), or
+        forms that are particularly common or suggested by the sources (vv. 2, 17, 24, 30, 55). In
+        short the text gives the impression of having originally been strikingly regular, and so it
+        has seemed appropriate to suggest ways of regularising the few remaining lines as well
+        (6/7). The edition is based on ms. O which is the only manuscript to contain the sixth
+        stanza with its reference to the crusade and which certainly offers the better text for
+        stanza II, although L has been drawn on each time its reading has permitted the
+        regularisation of rhyme or syllabic count. All changes to the base manuscript are signalled:
+        the dots underneath the letters indicate the vowels which are present in the spelling of the
+        manuscript but, according to Anglo-Norman norms, do not count as syllables; the square
+        brackets indicate suppletions, especially those included to correct hypometric lines, while
+        round brackets indicate forms that could be suppressed to eliminate supernumerary syllables.
+        Inside the square brackets the use of Roman characters indicates suppletion on the basis of
+        L, while italics indicate conjectural reconstructions.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Benché Aspin 1953 e poi ancora Jeffrey-Levy 1990
+        parlino di due redazioni diverse, il testo dei due testimoni è sostanzialmente lo stesso e
+        le divergenze sono compatibili con la tipologia di varianti che si può constatare in testi
+        della medesima natura e di tradizione simile, al netto delle oscillazioni sillabiche tipiche
+        dei testi anglonormanni. La divergenza più significativa riguarda proprio i vv. 41-42, che
+        nella versione del ms. O contengono l’accenno alla crociata; essa si può spiegare con la
+        diversa destinazione del testo o con gli interessi particolari di chi l’ha trascritto.Il
+        testo presenta alcuni dei principali fenomeni della <hi rend="italic">scripta</hi>
+        anglonormanna, ma senza particolari eccessi e dando l’impressione di essere scritto in un
+        francese sostanzialmente corretto. Tipiche dei testi anglonormanni sono anche le frequenti
+        oscillazioni nel computo sillabico, che danno spesso origine a casi di ipometria e più
+        raramente di ipermetria. Tali fenomeni sono chiaramente riscontrabili in entrambe le copie
+        del testo, ed è possibile che almeno una parte di essi fosse presente anche nella versione
+        originale. Tuttavia le irregolarità risultano inferiori alla media dei testi pubblicati da
+        Aspin, e in alcuni casi (6) si possono sanare confrontando la lezione dei due testimoni; le
+        irregolarità restanti sono aggiustabili tramite congetture semplici ed evidenti, a volte
+        reintegrando le forme grammaticali corrette (vv. 27 e 60), o restaurando forme
+        particolarmente diffuse o suggerite dalle fonti (vv. 2, 17, 24, 30, 55). Il testo offre
+        insomma l’impressione di una notevole regolarità originaria, ed è quindi parso opportuno
+        suggerire delle ipotesi di regolarizzazione anche per i pochi versi rimasti (6/7), sempre
+        mettendo in evidenza gli interventi con accorgimenti grafici in modo da permettere al
+        lettore di avere un’idea chiara della versione del manoscritto che potrebbe sempre
+        corrispondere al testo originale. L’edizione del testo si fonda sulla lezione del ms. O,
+        l’unico che contiene la sesta strofa e l’accenno alla crociata, e che offre certamente il
+        testo migliore per la seconda strofa, ma si è attinto a L ogni volta che la sua lezione
+        permetteva di ricostruire la regolarità rimica o di ristabilire il corretto computo
+        sillabico. Tutti gli interventi che modificano la lezione del manoscritto di base sono
+        segnalati: il punto sottoposto indica le vocali che sono presenti nella grafia del
+        manoscritto ma, secondo la norma anglonormanna, non contano nel computo sillabico; le
+        parentesi quadre segnalano le integrazioni, soprattutto quelle per sanare le ipometrie,
+        mentre le parentesi tonde segnalano le forme che potrebbero essere eliminate per sanare le
+        ipermetrie. All’interno delle parentesi quadre, l’uso del carattere tondo indica
+        integrazioni operate sulla base della testimonianza di L, mentre il corsivo indica le
+        ricostruzioni congetturali.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2014-12-01T11:38:58Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Anonymous</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+        <p>RS 665a=1098a</p>
+        <div type="text" xml:id="rs.665a.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Ore est acumplie</l>
+            <l n="2">par [le] myen escïent</l>
+            <l n="3">la plente Jeremie</l>
+            <l n="4"> ke oï avum suvent,</l>
+            <l n="5">ke dist: «Cum[ent] set sule</l>
+            <l n="6">cyté plene de fule</l>
+            <l n="7">plurant amerement!</l>
+            <l n="8">Ore est sanz marïage</l>
+            <l n="9">e mis sur grief truage</l>
+            <l n="10">la dame de la gent».</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="11">Ceo est [de] saynte Glise,</l>
+            <l n="12">trestut apertement,</l>
+            <l n="13">ke est hunye e maumise,</l>
+            <l n="14">chescun veyt bien cument:</l>
+            <l n="15">ele se gient e plure,</l>
+            <l n="16">n’est nul ke la sucure</l>
+            <l n="17">de [tut] sun marrement;</l>
+            <l n="18">mes chescun la defule</l>
+            <l n="19">e tire cum nel sule;</l>
+            <l n="20">çoe est duel verrayment,</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="21">Jadis fu [cleregie]</l>
+            <l n="22">franche e [a] desus,</l>
+            <l n="23">amee et cherie,</l>
+            <l n="24">[ke] nule rien [pot] plus:</l>
+            <l n="25">mes ore est enservie</l>
+            <l n="26">e tant [est] avilie</l>
+            <l n="27">e abatu[e] jus;</l>
+            <l n="28">par [ic]eus est hunie</l>
+            <l n="29">dunt dust aver aÿe;</l>
+            <l n="30">jo n’os [en] dire plus.</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="31">Le rei ne l’apostoille</l>
+            <l n="32">ne pensent autrement</l>
+            <l n="33">[mes coment] il nus toillent</l>
+            <l n="34">nos biens e nostre argent,</l>
+            <l n="35">çoe est tute la summe;</l>
+            <l n="36">ke la pape de Rume</l>
+            <l n="37">au rei [trop] se consent;</l>
+            <l n="38">pur ayder sa curune,</l>
+            <l n="39">la disme a clers li dune,</l>
+            <l n="40">si [en] fet sun talent.</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="41">Le rei vet a Surie</l>
+            <l n="42">par bon entendement:</l>
+            <l n="43">vivẹra de rubberie</l>
+            <l n="44">ke la clergiẹ li rent,</l>
+            <l n="45">ja ne fẹra bone enprise,</l>
+            <l n="46">pur reyndre seynte Glise,</l>
+            <l n="47">jo quid certaynement.</l>
+            <l n="48">Ke veot aver [semblance]</l>
+            <l n="49">regarde·l(e) rei de France</l>
+            <l n="50">e sun achiefement.</l>
+          </lg>
+          <lg n="6" type="stanza">
+            <l n="51">Grevus est li tallage,</l>
+            <l n="52">mes y (nus) cuveynt suffrir;</l>
+            <l n="53">mes ceous nus funt damage,</l>
+            <l n="54">ky le deyvent cuillir.</l>
+            <l n="55">Mes que ke nus [en] die</l>
+            <l n="56">chescun en sun quer prie,</l>
+            <l n="57">si Deu le veut oïr,</l>
+            <l n="58">ke Dampnedeu (les) maudie</l>
+            <l n="59">(tut) ceous ke mettent aÿe</l>
+            <l n="60">pur [le] nostre tolir.</l>
+          </lg>
+        </div>
+        <div type="translation" xml:id="rs.665a.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Now is fulfilled, it appears to me, the lament of Jeremiah we have often heard, which
+              says: “How alone stands the city full of folly, bitterly weeping; now she is
+              husbandless and subject to heavy tribute, the princess of the peoples”.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>This most patently refers to the holy Church, which is being dishonoured and abused,
+              and all can see well how: she groans and weeps, there is no-one who aids her in all
+              her tribulations; but each tramples on her and drags her on the ground; this is truly
+              sorrowful.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Time was that the clergy was free and respected, loved and cherished above all else:
+              but now it is enslaved and greatly vilified and disprised; and it is traduced by those
+              who ought to succour it; I dare not say more.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>The king and the pope thing of nothing but stealing our goods and money from us, this
+              is the sum of it; for the pope of Rome is too compliant with the king; to support his
+              crown, he grants him the clergy’s tithe, and he does what he likes with it.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>The king goes to Syria with good intentions, (but) he will live on the spoils given
+              him at the clergy’s expense, and I certainly believe he will not succeed in his plan
+              to reimburse the holy Church. If anyone wants to have proof let him look at the king
+              of France and what <hi rend="italic">he</hi> has achieved.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>The tax is grievous, but we have to put up with it; but those who have to collect it
+              damage us. Whatever anyone may say, each man prays in his heart – may God hear him –
+              that the Lord will curse all those who collaborate in taking from us what is ours.</p>
+          </div>
+        </div>
+        <div type="translation" xml:id="rs.665a.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Ora è compiuto a mio parere il lamento di Geremia che abbiamo spesso ascoltato, che
+              dice: “Come sta sola la città piena di folla, piangendo amaramente; ora è senza marito
+              e sottoposta a un pesante tributo, la signora delle genti”.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Questo è riferito alla santa Chiesa, in tutta evidenza, che è offesa e maltrattata, e
+              ognuno vede come: essa geme e piange, non c’è nessuno che la soccorra in tutte le sue
+              tribolazioni; ma ognuno la calpesta e la trascina a terra (?), e questo è un grande
+              dolore.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Un tempo il clero era libero e rispettato, amato e benvoluto sopra ogni altra cosa:
+              ma ora è reso schiavo e molto umiliato e disprezzato; ed è vituperato da coloro che
+              dovrebbero aiutarlo; non oso dire di più.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Il re e il papa non pensano ad altro che a spogliarci dei nostri beni e del nostro
+              denaro, e questo è quanto; infatti il papa di Roma è troppo accondiscendente col re;
+              per sostenere la sua corona, gli concede la decima del clero, e ne fa ciò che
+              vuole.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Il re va in Siria con buone intenzioni, (ma) vivrà del frutto della rapina perpetrata
+              ai danni del clero, e penso davvero che non farà un buon affare per risarcire la santa
+              Chiesa. Chi vuole avere una prova guardi il re di Francia e i risultati della sua
+              impresa.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>La tassa è gravosa, ma bisogna sopportarla; ma coloro che la devono raccogliere ci
+              fanno violenza. Checché se ne dica, ciascuno nel suo cuore prega – Dio possa
+              ascoltarlo – che il Signore possa maledire coloro che collaborano a toglierci ciò che
+              è nostro.</p>
+          </div>
+        </div>
+      
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>The introductory rubric in ms. L explicitly dates the song to 1256 (<hi rend="italic"
+            >Istum canticum factum fuit anno gratie .m°cc°.lvi°. super desolacione ecclesie
+            anglicane</hi>), and the Latin chronicle of the reign of Henry III of England contained
+          in the same codex indirectly confirms this, inserting into the margin of f. 105v, which
+          corresponds to the year 1256, an explicit reference to the French song (<hi rend="italic"
+            >In fine libri invenies canticum hoc anno gallice compositum super desolacione ecclesie
+            anglicane</hi>). Henry III had taken the cross in 1250, but in 1255 the pope had invited
+          him to commute his vow, promising him the throne of Sicily in exchange for military
+          assistance against Manfred, son of the emperor Frederick II. The pope had also promised
+          Henry economic support through a new round of ecclesiastical taxes; the same Latin
+          chronicle of ms. L refers to the protests of the English clergy against the pope’s
+          decision to devolve the tithe to the king (f. 105r). The absence of lines referring to the
+          crusade in L’s version seems to confirm the idea that the clergy’s protest was directed
+          against the collection of funds for the Sicilian affair rather than the expedition to the
+          Holy Land. For this reason some critics have maintained that O’s reference to the crusade
+          is incompatible with the situation in 1256, but that it must be connected to a revision of
+          the text that must have taken place at the time of taxation linked to crusading plans of
+          Edward I, Henry’s son and successor (1274-1276, 1287 or 1291-1292). In reality the date
+          1256 attestated by L should not be set aside, since Henry III never officially agreed to
+          commute his vow, as the bishop of Hereford, the pope and his legate Rostand advised him to
+          do; on the contrary, he continued to affirm his wish to leave for the Holy Land, as he
+          delegated the administration of the Sicilian affair to his son Edmund (Weiler 2006, pp.
+          147-155; Tyerman 1988, p. 119 n. 32). Confirmation of this is found in the authoritative
+            <hi rend="italic">Chronica majora</hi> of Matthew Paris, who at the beginning of 1256
+          records the protests of many monastic communities against the rapaciousness of the
+          merchants charged with collecting the tithe who did not hesitate to assert that the money
+          was for the king’s crusade (<hi rend="italic">Chronica majora</hi> V, pp. 536 and 552).
+          The idea of dating the text to the reign of Edward I are plausible but not very likely,
+          especially as the single real crusading levy to have left any trace in contemporary
+          chronicles relates to 1291-1292 and does not seem to have provoked particular protests on
+          the clergy’s part. Such a late dating would also make it hard to explain the reference to
+          the king of France, whereas this is certainly relevant to the context of 1256.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>La canzone è datata esplicitamente al 1256 nella rubrica introduttiva riportata dal ms. L
+            (<hi rend="italic">Istum canticum factum fuit anno gratie .m°cc°.lvi°. super desolacione
+            ecclesie anglicane</hi>), e la cronaca latina del regno di Enrico III d’Inghilterra
+          contenuta nello stesso codice conferma indirettamente la datazione inserendo a margine del
+          f. 105v, che corrisponde all’anno 1256, un riferimento esplicito alla canzone francese
+            (<hi rend="italic">In fine libri invenies canticum hoc anno gallice compositum super
+            desolacione ecclesie anglicane</hi>). Il re Enrico III aveva preso la croce nel 1250, ma
+          nel 1255 il papa l’aveva invitato a commutare il voto garantendogli il trono del regno di
+          Sicilia in cambio di un aiuto militare contro Manfredi, figlio dell’imperatore Federico
+          II. Il papa aveva anche promesso a Enrico un sostegno economico tramite una nuova raccolta
+          di imposte ecclesiastiche; la stessa cronaca latina del ms. L fa riferimento alle proteste
+          del clero inglese contro la decisione del papa di devolvere la decima al re (f. 105r).
+          L’assenza dei versi che si riferiscono alla crociata nella versione di L sembra confermare
+          che la protesta del clero fosse indirizzata contro la raccolta di fondi per l’affare
+          siciliano piuttosto che per la spedizione in Terra Santa. Per questo motivo alcuni critici
+          hanno ritenuto che il riferimento alla crociata contenuto nella versione del ms. O non
+          potesse accordarsi con la situazione del 1256, ma dovesse riferirsi piuttosto a una
+          revisione del testo operata al tempo di una delle tassazioni legate ai progetti di
+          crociata di Edoardo I, figlio e successore di Enrico (1274-1276, 1287 o 1291-1292). In
+          realtà la data 1256 attestata da L non dev’essere affatto scartata, perché Enrico III non
+          accettò mai ufficialmente di commutare il voto, come gli consigliavano il vescovo di
+          Hereford, il papa e il suo legato Rostand, ma sembra al contrario aver riaffermato la sua
+          volontà di partire per la Terra Santa, delegando la gestione dell’affare siciliano al
+          figlio Edmondo (Weiler 2006, pp. 147-155; Tyerman 1988, p. 119 n. 32). Una conferma in
+          questo senso arriva dall’autorevole <hi rend="italic">Chronica majora</hi> di Matteo
+          Paris, che registra all’inizio del 1256 le proteste di molte comunità monastiche contro
+          l’esosità dei mercanti incaricati della riscossione delle decime, che non esitavano a
+          sostenere che il denaro raccolto doveva servire a finanziare la crociata del re (<hi
+            rend="italic">Chronica majora</hi> V, pp. 536 e 552). Le ipotesi di datazione che
+          riguardano il regno di Edoardo I sono plausibili ma poco probabili, anche perché l’unica
+          vera tassazione per la crociata che ha lasciato tracce nelle cronache del tempo è quella
+          del 1291-1292, che non sembra aver suscitato particolari proteste del clero. Inoltre una
+          datazione così tarda renderebbe difficile da spiegare il riferimento al re di Francia, che
+          invece risulta pertinente nel contesto del 1256.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>As in the case of the song RS 1887, the lyric form is applied to “political” content,
+          following the style of the Occitan <hi rend="italic">sirventes</hi>. This use of the <hi
+            rend="italic">canso</hi> form for invective or political purposes seems particularly
+          common in medieval Anglo-Norman literature, as is shown by the numerous anthologies
+          devoted to this type of text (Wright 1839, Aspin 1953, Jeffrey-Levy 1990). Such types of
+          lyric are found not in songbooks similar to those of the continental tradition but in
+          manuscripts containing chronicles or miscellaneous texts of historical or legal interest,
+          as is typical of this peripheral tradition. To this type of non-professional tradition
+          should be attributed the lack of formal and rhetorical refinement typifying trouvère
+          texts, even if the structure of the text and the arrangement of arguments denotes a
+          certain familiarity with the techniques of persuasion which the clerical author of the
+          text could be expected to know. The song expresses the protest of the English cleric
+          against the ecclesiastical tax imposed by the pope with the agreement of Henry III with
+          the aim of collecting the funds initially designed to finance an expedition to the Holy
+          Land, and subsequently diverted to support the project directed at the conquest of the
+          kingdom of Sicily, after the death of the emperor Frederick II. This confirms the growing
+          burden of the more material aspects of crusading organisation, and bears witness to
+          people’s impatience over the ever-increasing costs of expeditions to the East, typical of
+          the later crusading period, costs which seemed ill-justified in the light of the actual
+          results and particularly resented by the classes more directly affected by the levies. The
+          text opens in a style typical of preaching, with allegorically- interpreted scriptural
+          quotations referring to the present state of the English Church, and goes on to denounce
+          the loss of prestige of the clergy abused by those who ought to support it. The author
+          denounces the injustice of the agreement between king and pope concerning the Church’s
+          property, and stigmatises their policies, essentially accusing them of theft at the
+          clergy’s expense. The song then proceeds to a direct criticism of Henry III’s crusading
+          project, in the light of the recent failure of King Louis IX of France’s expedition, and
+          concludes by invoking divine curses on the usurious merchants charged with the
+          tax-collecting. The tenor and content of the text fit in well with the protest recorded by
+          the chronicles of 1255 and 1256, particularly with certain passages of Matthew Paris’s <hi
+            rend="italic">Chronica majora</hi>.</p>
+        <p corresp="#rs.665a.fro:(n=3)">The plente Jeremie refers to the short Biblical book of
+          Lamentations, traditionally attributed to the prophet Jeremiah.</p>
+        <p corresp="#rs.665a.fro[range(@n=5,@n=10)]">These lines constitute a virtually literal
+          translation of Lam 1,1: Quomodo sedet sola / civitas plena populo! / Facta est quasi vidua
+          / domina gentium; / princeps provinciarum / facta est sub tributo. The book of
+          Lamentations was often used in medieval Latin and vernacular to indicate oppressive
+          measures, sometimes political, imposed on the Church.</p>
+        <p corresp="#rs.665a.fro:(n=9)">Note the form sur where one would expect soz/sus. For the
+          possible confusion between sur and sus in Anglo-Norman see Pope § 401, p. 159</p>
+        <p corresp="#rs.665a.fro:(n=11)">Following the purest traditions of ecclesiastical texts,
+          the author explicitly provides the key to reading the biblical prophecy, applying it to
+          the Church. For the use of biblical quotations interpreted allegorically compare for
+          example song RS 886 of Maistre Renaut.</p>
+        <p corresp="#rs.665a.fro[range(@n=13,@n=17)]">The author picks up the biblical source again,
+          albeit indirectly, citing Lam 1,2: Plorans ploravit in nocte / et lacrymae eius in
+          maxillis eius; / non est qui consoletur eam, / ex omnibus charis eius; / omnes amici eius
+          spreverunt eam, / et facti sunt ei inimici.</p>
+        <p corresp="#rs.665a.fro:(n=19)">The reading of this line, found only in O, is hard to
+          justify and is probably corrupt. Aspin interprets sule as third person present indicative
+          of the verb suleir to which an unstressed final e was added, citing analogous cases
+          attested in the XIVth c., specifically a form voile. The sense would be “is being dragged
+          in an unusual way”, or “as is unusual”, but neither the sense nor the explanation of the
+          reading seems satisfactory, especially because there is no other attestation of this
+          verbal form and the attestations of the phenomenon in other verbs are very late. As a
+          noun, sule can mean “ground, floor” (TL 9, 791, 49ff.) and taking the previous line into
+          account one might imagine a fairly plausible interpretation of the kind: “but each one
+          tramples it and drags it to the ground” (see for example 2Sam 22,43 and Mi 7,10), but in
+          this case it is hard to explain the presence of cum and especially nel, which seems
+          impossible to interpret other than as a negative.</p>
+        <p corresp="#rs.665a.fro[range(@n=25,@n=27)]">The author attributes to the clergy the same
+          fate as that of the Church, taking up the metaphor from Lamentations.</p>
+        <p corresp="#rs.665a.fro[range(@n=28,@n=30)]">The image of friends becoming enemies again
+          reflects Lam 1,2, but at the same time anticipates stanza IV in which the accusations are
+          explicitly directed against the king and the pope.</p>
+        <p corresp="#rs.665a.fro[range(@n=36,@n=39)]">The accusation concerns the 1254 agreement
+          between Henry III and the pope (initially Innocent IV, then his successor Alexander IV)
+          over the succession in Sicily, to which the king wished to link his son Edmund. The
+          detailed history of the agreement, the papal legate Rostand’s preaching and the collecting
+          of the ecclesiastical tithe between 1254 and 1256 is related in Matthew Paris, Chronica
+          majora, V, pp. 457-459 and 510-552, but more concise references are also found in the
+          chronicle of St Benet of Hulme, pp. 201-206. There is no explicit mention of the Sicilian
+          question in the song, but the curune alluded to in v. 38, rather than being a simple
+          metonymy for the king, may actually refer to the Sicilian crown promised to Henry by the
+          pope.</p>
+        <p corresp="#rs.665a.fro[range(@n=41,@n=42)]">If we disregard the idea that these lines are
+          incompatible with any reference to the crusade in 1256, an interpretation whose
+          inconsistency has already been demonstrated, O’s reading is clearly better than L’s which
+          appears to be a hasty and clumsy revision, seriously irregular both in syllabic count and
+          choice of rhymes. It is hard to establish whether the expression in v. 42 is to be taken
+          literally or ironically.</p>
+        <p corresp="#rs.665a.fro:(n=44)">The verb rendre needs to be understood in the sense of
+          “consign, cede”, rubberie being considered “plunder, fruit of robbery”; the verb also has
+          the technical sense of “to pay” tribute (TL 8, 796, 27-44) and the author is probably
+          playing on this ambiguity.</p>
+        <p corresp="#rs.665a.fro:(n=46)">Here again the verb rendre assumes a particular meaning,
+          that of “redeem, repay, reimburse” attested in TL 8, 790, 26-34 and 794, 7ff.</p>
+        <p corresp="#rs.665a.fro[range(@n=49,@n=50)]">Louis IX had returned from the Holy Land in
+          1254, where he had stayed for four years to consolidate the overseas territories. However,
+          he did not succeed in completely eradicating the impression of failure created by the
+          defeat of Mansura in 1250, the king’s captivity and the enormous sum paid for his ransom
+          (see the introduction to RS 1887). Matthew Paris gives an account of the Christians’
+          defeat and the king’s capture (Chronica majora V, pp. 157-159), but also emphasizes
+          several times how the money for the financing of this disastrous crusade had been extorted
+          from the Church in France, as he had similarly denounced the damage done to the Church in
+          England (Chronica majora V, pp. 116-117 and 170-172). The author’s comparison between
+          Henry’s crusading project and the ruinous outcome of king of France’s crusade is therefore
+          unsurprising (Chronica majora V, pp. 174-175, but see also the interesting correspondence
+          with a passage on p. 102, in which Matthew Paris comments on Henry III’s taking of the
+          cross in 1250: Hujus autem dubitationis seminarium praestitit regis Francorum exemplum
+          perniciosum, qui [pecuniam</p>
+        <p corresp="#rs.665a.fro[range(@n=51,@n=60)]">Stanza VI, found only in ms. O, shows some
+          interesting similarities of content and form with Matthew Paris’s attack on the
+          ecclesiastical tax of 1255-1256 (Chronica majora V, pp. 535-536); see especially the
+          sentence: Et praeter hoc quod etsi intolerabile sit, tamen tolerabilius reputatur, bonis
+          temporalibus violenter depraedantur in relation to vv. 51-54. A subsequent sentence where
+          he laments that the clergy are prey to the usurers responsible for collecting the tax,
+          calling for divine vengeance, shows similarities to the whole stanza, especially vv.
+          55-60: Concedere cogimur terminos solutionis, quos nullo modo tenere possumus, ut
+          incidamus in laqueos usurariorum suorum, quos socios eorum novimus et participes. Datur
+          potestas personis prorsus indignis super nobiles ecclesias et eorum praelatos excellentes.
+          Venduntur praelati, ut boves et asini; ecce ultimae conditio servitutis. Ecce venditores,
+          eiciendi a templo, flagellandi. Sed quia ignobilius est facere injuriam violenter quam
+          pati cum innocentia, credendum est quod super hoc clamor ascendat querulus ad Deum Dominum
+          ultionum.</p>
+        <p corresp="#rs.665a.fro:(n=51)">For taillage in the sense of “levy” see TL 10, 36,
+          46-49.</p>
+        <p corresp="#rs.665a.fro[range(@n=53,@n=54)]">The lines probably refer to the papal legate
+          Rostand and above all to the merchants and usurers charged with tax-collection against
+          whom Matthew Paris also inveighs, as shown above. See also Chronica majora V, p. 552.</p>
+        <p corresp="#rs.665a.fro[range(@n=58,@n=60)]">Those on whom the divine curse should fall
+          will be the ones mentioned in vv. 53-54, namely the legate Rostand and the merchants
+          charged with the tax-collection. For the correspondence of these lines with certain
+          passages of contemporary chronicles see above.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Come nel caso della canzone RS 1887, siamo in presenza di un uso della forma lirica al
+          servizio di un contenuto “politico”, secondo lo stile del sirventese occitanico. Questa
+          tipo d’invettiva o di destinazione civile della forma-canzone sembra essere
+          particolarmente diffuso nella letteratura anglonormanna medievale, com’è documentato dalle
+          numerose raccolte antologiche consacrate a questa tipologia di testi (Wright 1839, Aspin
+          1953, Jeffrey-Levy 1990). Essa si trova attestata non già in canzonieri simili a quelli
+          della tradizione continentale, ma piuttosto in manoscritti contenenti cronache o vari
+          testi miscellanei d’interesse storico o giuridico, com’è tipico di questa tradizione
+          periferica. A questo tipo di tradizione non professionale dovrà essere attribuita la
+          mancanza di quella ricercatezza formale e retorica che caratterizza invece i testi dei
+          trovieri, sebbene la struttura del testo e la disposizione degli argomenti denotino una
+          certa familiarità con la tecnica suasoria che non doveva fare difetto al chierico
+          medievale autore del testo. La canzone esprime la protesta del clero inglese contro la
+          tassazione ecclesiastica imposta dal papa in accordo col re Enrico III allo scopo di
+          raccogliere i fondi previsti inizialmente per finanziare una spedizione in Terra Santa, e
+          dirottati in seguito a sostegno del progetto finalizzato alla conquista della corona del
+          regno di Sicilia, dopo la morte dell’imperatore Federico II. Essa costituisce una conferma
+          del peso crescente degli aspetti più materiali nell’organizzazione delle campagne, e offre
+          una testimonianza dell’insofferenza tipica della fase più tarda delle crociate verso i
+          costi sempre più elevati delle spedizioni in Oriente, non adeguatamente bilanciati da
+          risultati in linea con le aspettative e mal tollerati dalle classi più direttamente
+          coinvolte dalla tassazione. Il testo si apre nello stile tipico della predicazione, con
+          citazioni scritturali interpretate allegoricamente e riferite alla condizione attuale
+          della chiesa inglese, per denunciare in seguito la perdita di prestigio del clero
+          maltrattato da chi dovrebbe sostenerlo. L’autore denuncia l’ingiustizia dell’accordo tra
+          re e papa contro i beni materiali della chiesa e stigmatizza la politica delle due
+          autorità, accusandole sostanzialmente di furto ai danni del clero. La canzone prosegue
+          quindi con una critica diretta al progetto di crociata di Enrico III, alla luce del
+          recente fallimento della spedizione del re di Francia Luigi IX, e si conclude invocando la
+          maledizione divina contro i mercanti usurai incaricati della riscossione delle imposte. Il
+          tenore e il contenuto del testo si adattano bene alla protesta registrata dalle cronache
+          negli anni 1255 e 1256, e in particolare si possono trovare notevoli corrispondenze con
+          alcuni passi della <hi rend="italic">Chronica majora</hi> di Matteo Paris.</p>
+        <p corresp="#rs.665a.fro:(n=3)">La plente Jeremie indica il breve libro biblico delle
+          Lamentazioni, tradizionalmente attribuito al profeta Geremia.</p>
+        <p corresp="#rs.665a.fro[range(@n=5,@n=10)]">Questi versi costituiscono una traduzione quasi
+          letterale di Lam 1,1: Quomodo sedet sola / civitas plena populo! / Facta est quasi vidua /
+          domina gentium; / princeps provinciarum / facta est sub tributo. Il libro delle
+          Lamentazioni è stato spesso usato nel medioevo latino e volgare per indicare le
+          vessazioni, a volte anche politiche, alle quali era sottoposta la chiesa.</p>
+        <p corresp="#rs.665a.fro:(n=9)">Si noti l’uso della forma sur dove ci si aspetterebbe
+          soz/sus. Per la possibile confusione tra sur e sus in anglonormanno si veda Pope § 401, p.
+          159.</p>
+        <p corresp="#rs.665a.fro:(n=11)">Nella più pura tradizione dei testi ecclesiastici, l’autore
+          fornisce esplicitamente la chiave di lettura della profezia biblica, applicandola alla
+          chiesa. Per l’uso di citazioni bibliche interpretate allegoricamente si veda per esempio
+          la canzone RS 886 di Maistre Renaut.</p>
+        <p corresp="#rs.665a.fro[range(@n=13,@n=17)]">L’autore riprende, sia pure in modo indiretto,
+          la fonte biblica, citando Lam 1,2: Plorans ploravit in nocte / et lacrymae eius in
+          maxillis eius; / non est qui consoletur eam, / ex omnibus charis eius; / omnes amici eius
+          spreverunt eam, / et facti sunt ei inimici.</p>
+        <p corresp="#rs.665a.fro:(n=19)">La lezione di questo verso, che si trova solo in O, è
+          difficile da giustificare ed è probabilmente corrotta. Aspin interpreta sule come la terza
+          persona del presente indicativo del verbo suleir, alla quale sarebbe stata aggiunta una e
+          finale atona, citando casi analoghi attestati nel XIV secolo e in particolare una forma
+          voile. Il senso sarebbe “viene trascinata in modo non abituale”, oppure “come non è
+          abituata”, ma sia il senso sia la giustificazione della lezione non sembrano
+          soddisfacenti, tanto più che non si trova nessun’altra attestazione di questa forma
+          verbale e le attestazioni del fenomeno in altri verbi sono molto tarde. Come sostantivo,
+          sule può significare “suolo, pavimento” (TL 9, 791, 49ss.) e considerando anche il verso
+          precedente si potrebbe immaginare un’interpretazione assai plausibile del tipo: “ma ognuno
+          la calpesta e la trascina a terra” (si veda per esempio 2Sam 22,43 e Mi 7,10), ma in
+          questo caso è difficile spiegare la presenza di cum e soprattutto di nel, che non sembra
+          possibile interpretare altrimenti che come una negazione.</p>
+        <p corresp="#rs.665a.fro[range(@n=25,@n=27)]">L’autore attribuisce al clero la stessa sorte
+          della chiesa, riprendendo la metafora delle Lamentazioni.</p>
+        <p corresp="#rs.665a.fro[range(@n=28,@n=30)]">L’immagine degli amici che diventano avversari
+          riprende ancora una volta il contenuto di Lam 1,2, ma allo stesso tempo anticipa il
+          contenuto della quarta strofa nella quale le accuse sono rivolte in modo esplicito al re e
+          al papa.</p>
+        <p corresp="#rs.665a.fro[range(@n=36,@n=39)]">L’accusa riguarda certamente l’accordo del
+          1254 tra Enrico III e il papa (inizialmente Innocenzo IV, poi il suo successore Alessandro
+          IV) per la successione al regno di Sicilia, al quale il re voleva associare il figlio
+          Edmondo. La storia dell’accordo, della predicazione del legato papale Rostand e
+          dell’attività di raccolta della decima ecclesiastica tra 1254 e 1256 è raccontata nel
+          dettaglio in Matteo Paris, Chronica majora, V, pp. 457-459 e 510-552, ma cenni più
+          sintetici si trovano anche nella cronaca di St Benet of Hulme, pp. 201-206. Nella canzone
+          non viene fatta alcuna menzione esplicita della questione siciliana, ma c’è da chiedersi
+          se la curune evocata al v. 38 sia una semplice metonimia per indicare il re o se l’autore
+          intenda parlare proprio della corona del regno di Sicilia promessa dal papa a Enrico.</p>
+        <p corresp="#rs.665a.fro[range(@n=41,@n=42)]">Al netto della presunta incompatibilità
+          dell’accenno alla crociata con la data 1256, un’interpretazione di cui si è mostrata
+          l’inconsistenza, la lezione di O è nettamente migliore. L’alternativa di L sembra infatti
+          una revisione frettolosa e goffa, gravemente irregolare tanto nel computo sillabico quanto
+          nella scelta delle rime. Difficile stabilire se l’espressione del v. 42 vada presa alla
+          lettera oppure interpretata in senso ironico.</p>
+        <p corresp="#rs.665a.fro:(n=44)">Il verbo rendre andrà interpretato nel senso di
+          “consegnare, cedere”, considerando rubberie come “il bottino, il frutto della rapina”; il
+          verbo ha in ogni caso anche il senso tecnico di “versare” un tributo (TL 8, 796, 27-44) ed
+          è probabile che l’autore giochi su questa ambiguità.</p>
+        <p corresp="#rs.665a.fro:(n=46)">Anche in questo caso il verbo rendre assume un significato
+          particolare, quello di “riscattare, contraccambiare, risarcire” attestato in TL 8, 790,
+          26-34 e 794, 7ss.</p>
+        <p corresp="#rs.665a.fro[range(@n=49,@n=50)]">Luigi IX era tornato nel 1254 dalla Terra
+          Santa, dov’era rimasto per circa quattro anni per consolidare i territori d’oltremare,
+          senza tuttavia riuscire a cancellare completamente l’impressione suscitata dalla disfatta
+          di Mansura nel 1250, dalla conseguente prigionia del re e dall’ingentissima somma di
+          denaro versata per riscattarlo (si veda per questo l’introduzione di RS 1887). Matteo
+          Paris racconta la sconfitta dei cristiani e la cattura del re (Chronica majora V, pp.
+          157-159), ma sottolinea anche a più riprese come i soldi per il finanziamento di questa
+          crociata disastrosa siano stati estorti alla chiesa francese in modo analogo a quello
+          denunciato ai danni della chiesa inglese (Chronica majora V, pp. 116-117 e 170-172). Non
+          stupisce quindi il paragone che l’autore istituisce tra il progetto di crociata di Enrico
+          e l’esito fallimentare di quello analogo del re di Francia (Chronica majora V, pp.
+          174-175, ma si veda anche l’interessante corrispondenza con un passo di p. 102, nel quale
+          Matteo Paris commenta la presa di croce di Enrico III nel 1250: Hujus autem dubitationis
+          seminarium praestitit regis Francorum exemplum perniciosum, qui [pecuniam</p>
+        <p corresp="#rs.665a.fro[range(@n=51,@n=60)]">La sesta strofa, che si trova solo nel ms. O,
+          mostra alcune interessanti analogie di contenuto e di forma con l’invettiva di Matteo
+          Paris contro la tassa ecclesiastica del 1255-1256 (Chronica majora V, pp. 535-536); si
+          veda in particolare la frase: Et praeter hoc quod etsi intolerabile sit, tamen
+          tolerabilius reputatur, bonis temporalibus violenter depraedantur in relazione ai vv.
+          51-54, oppure, in relazione a tutta la strofa ma soprattutto ai vv. 55-60, una frase
+          successiva dove si lamenta che il clero sia preda degli usurai responsabili della
+          riscossione e si invoca la vendetta divina: Concedere cogimur terminos solutionis, quos
+          nullo modo tenere possumus, ut incidamus in laqueos usurariorum suorum, quos socios eorum
+          novimus et participes. Datur potestas personis prorsus indignis super nobiles ecclesias et
+          eorum praelatos excellentes. Venduntur praelati, ut boves et asini; ecce ultimae conditio
+          servitutis. Ecce venditores, eiciendi a templo, flagellandi. Sed quia ignobilius est
+          facere injuriam violenter quam pati cum innocentia, credendum est quod super hoc clamor
+          ascendat querulus ad Deum Dominum ultionum.</p>
+        <p corresp="#rs.665a.fro:(n=51)">Per taillage nel senso di “imposta” si veda TL 10, 36,
+          46-49.</p>
+        <p corresp="#rs.665a.fro[range(@n=53,@n=54)]">I versi fanno probabilmente riferimento al
+          legato papale Rostand e soprattutto ai mercanti e usurai incaricati della riscossione
+          contro i quali si scaglia Matteo Paris, come segnalato sopra. Si veda anche Chronica
+          majora V, p. 552.</p>
+        <p corresp="#rs.665a.fro[range(@n=58,@n=60)]">I destinatari della maledizione divina
+          invocata saranno gli stessi personaggi evocati ai vv. 53-54, cioè il legato Rostand e i
+          mercanti incaricati della riscossione delle imposte. Per la corrispondenza di questi versi
+          con alcuni passi delle cronache contemporanee si veda sopra.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

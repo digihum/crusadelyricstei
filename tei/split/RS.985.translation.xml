@@ -1,0 +1,252 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-08-25</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde 1780, II, 270; Crapelet 1829, 132; Michel 1830, 33; Brakelmann
+            1870-1891, 114; Fath 1883, 54; Bédier-Aubry 1909, 87; Bartsch 1920, 164; Ullsperger
+            1935, 61; Delbouille 1936, 227; Brittain 1937, 140; Pauphilet 1952, 875; Spaziani 1954,
+            33; Cremonesi 1955, 107; Lerond 1964, 76; Toja 1966, 229; Cluzel 1969, 113; van der Werf
+            1977-1979, 243; Alvar 1982, 256; Baumgartner 1983, 240; Bergner 1983, 458; Dufournet
+            1989, 114; Rosenberg-Tischler 1995, 388; Gaullier-Bougassas 2009, 516 (for the romances
+            containing quotations, references are given only to the editions of the <hi rend="italic">Roman du Châtelain de Coucy</hi>, and not to <hi rend="italic">Guillaume
+              de Dole</hi>, for which the single ms. has been consulted directly).</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde 1780, II, 270; Crapelet 1829, 132; Michel 1830, 33; Brakelmann
+            1870-1891, 114; Fath 1883, 54; Bédier-Aubry 1909, 87; Bartsch 1920, 164; Ullsperger
+            1935, 61; Delbouille 1936, 227; Brittain 1937, 140; Pauphilet 1952, 875; Spaziani 1954,
+            33; Cremonesi 1955, 107; Lerond 1964, 76; Toja 1966, 229; Cluzel 1969, 113; van der Werf
+            1977-1979, 243; Alvar 1982, 256; Baumgartner 1983, 240; Bergner 1983, 458; Dufournet
+            1989, 114; Rosenberg-Tischler 1995, 388; Gaullier-Bougassas 2009, 516 (per quanto
+            riguarda i romanzi a citazioni, si danno solo i riferimenti alle edizioni del <hi rend="italic">Roman du Châtelain de Coucy</hi>, ma non a quelle del <hi rend="italic">Guillaume de Dole</hi>, di cui si è consultato direttamente il manoscritto
+            unico).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss</hi>. <hi rend="bold">(13+3)</hi>: A 155a (<hi rend="italic">li
+              Kastelains de Chouci</hi>), C 125v (<hi rend="italic">Muse an Borse</hi>), K 95b (<hi rend="italic">li Chastelains de Couci</hi>), L 62v (anonymous), M 53c (<hi rend="italic">li Chastelains de Couci</hi>), O 73c (anon.), P 30c (<hi rend="italic">li Chastelains de Conci</hi>), R<hi rend="superscript">3</hi> 129v (anon.), T 155v
+              (<hi rend="italic">li Chastelains</hi>), U 38r (anon.), V 75b (anon.), X 69a (<hi rend="italic">Li Chastelains de Couci</hi>), a 13v (<hi rend="italic">li
+              Castelains</hi>), u 73b (vv. 1-8 = <hi rend="italic">Guillaume de Dole</hi> vv.
+            922-929); <hi rend="italic">Roman du Châtelain de Coucy et de la Dame de Fayel</hi> vv.
+            7005-7011 (vv. 1-8, 2 mss.).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss. (13+3)</hi>: A 155a (<hi rend="italic">li Kastelains de
+              Chouci</hi>), C 125v (<hi rend="italic">Muse an Borse</hi>), K 95b (<hi rend="italic">li Chastelains de Couci</hi>), L 62v (anonima), M 53c (<hi rend="italic">li
+              Chastelains de Couci</hi>), O 73c (anon.), P 30c (<hi rend="italic">li Chastelains de
+              Conci</hi>), R<hi rend="superscript">3</hi> 129v (anon.), T 155v (<hi rend="italic">li
+              Chastelains</hi>), U 38r (anon.), V 75b (anon.), X 69a (<hi rend="italic">Li
+              Chastelains de Couci</hi>), a 13v (<hi rend="italic">li Castelains</hi>), u 73b (vv.
+            1-8 = <hi rend="italic">Guillaume de Dole</hi> vv. 922-929); <hi rend="italic">Roman du
+              Châtelain de Coucy et de la Dame de Fayel</hi> vv. 7005-7011 (vv. 1-8, 2 mss.).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10a’ba’bbba’6b (MW 966,4 = Frank
+        312); 6 <hi rend="italic">coblas ternas</hi> “incatenate”; rima a: <hi rend="italic">-ete</hi>, <hi rend="italic">-ee</hi>; rima b: <hi rend="italic">-er</hi>, <hi rend="italic">-on</hi>; la <hi rend="italic">chanson de départie</hi> RS 757 di Thibaut de
+        Champagne si serve di uno schema molto simile e quasi speculare; rima derivativa ai vv. 15 e
+        27 (<hi rend="italic">pramete-entremete</hi>); ‘annominatio per immutationem’ ai vv. 9 e 11
+          (<hi rend="italic">doucete-boucete</hi>); rima grammaticale ai vv. 17-29 (<hi rend="italic">regardee-garder</hi>) e 19-30 (<hi rend="italic">plouree-plourer</hi>); rima
+        equivoca tra i vv. 18 e 21-40 (<hi rend="italic">non</hi>, ma identica tra i vv. 21-40 dove
+        tutta la locuzione finale è molto simile), 44-48 (<hi rend="italic">pardon</hi>); rima
+        equivoca all’orecchio tra i vv. 20-42 (<hi rend="italic">hom-on</hi>), 34-38-46 (<hi rend="italic">dont-don</hi>, ma identica tra i vv. 38-46); numerose rime paronime in <hi rend="italic">-on</hi>; vi è cesura lirica al v. 43 e cesura femminile con elisione al v.
+        33; il testo presenta tre linee melodiche diverse: una nel ms. R, una in V e la terza in
+        AKLMOPTUXa, con numerose varianti; schema melodico ABAB CDEF (T 577,1).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10a’ba’bbba’6b (MW 966,4 = Frank
+        312); 6 <hi rend="italic">coblas ternas</hi> “incatenate”; rima a: <hi rend="italic">-ete</hi>, <hi rend="italic">-ee</hi>; rima b: <hi rend="italic">-er</hi>, <hi rend="italic">-on</hi>; la <hi rend="italic">chanson de départie</hi> RS 757 di Thibaut de
+        Champagne si serve di uno schema molto simile e quasi speculare; rima derivativa ai vv. 15 e
+        27 (<hi rend="italic">pramete-entremete</hi>); ‘annominatio per immutationem’ ai vv. 9 e 11
+          (<hi rend="italic">doucete-boucete</hi>); rima grammaticale ai vv. 17-29 (<hi rend="italic">regardee-garder</hi>) e 19-30 (<hi rend="italic">plouree-plourer</hi>); rima
+        equivoca tra i vv. 18 e 21-40 (<hi rend="italic">non</hi>, ma identica tra i vv. 21-40 dove
+        tutta la locuzione finale è molto simile), 44-48 (<hi rend="italic">pardon</hi>); rima
+        equivoca all’orecchio tra i vv. 20-42 (<hi rend="italic">hom-on</hi>), 34-38-46 (<hi rend="italic">dont-don</hi>, ma identica tra i vv. 38-46); numerose rime paronime in <hi rend="italic">-on</hi>; vi è cesura lirica al v. 43 e cesura femminile con elisione al v.
+        33; il testo presenta tre linee melodiche diverse: una nel ms. R, una in V e la terza in
+        AKLMOPTUXa, con numerose varianti; schema melodico ABAB CDEF (T 577,1).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The number and order of stanzas fairly clearly
+        show the division AMOR<hi rend="superscript">3</hi>Ta–KLPVX–CU, but the usual paucity of
+        errors and the particularly high incidence of contamination make it impossible to clarify
+        further the relations between the mss. and to use the stemma systematically to reconstruct
+        the text. A few common errors occur only in KLPVX, in vv. 25-27 (the rhyme is modified and
+        hence the metrical shape of the stanza is distorted), 34 (the reading <hi rend="italic">vit</hi> seems a corrupt form of Aa’s <hi rend="italic">vient</hi>) and 37). Collation
+        therefore gives rise to the identification of three different “editions” rather than a
+        collection of explicable variants of the same text. Tripartite readings which seem to
+        confirm the existence of the three families are found in vv. 11 and 27-28. Mss. OR<hi rend="superscript">3</hi> e CU appear particularly contaminated, and in some cases divide
+        to follow the readings of different families (vv. 3, 5 and 10); but even M sometimes acts
+        autonomously and includes readings from other families, in vv. 26, 30 and 36 for example.
+        The particular situation of the manuscript tradition makes it impossible to produce a truly
+        critical edition and requires an edition based on the reading of a version of one of the
+        manuscript groups. That of AMOR<hi rend="superscript">3</hi>Ta has been chosen, not only
+        because it is the only complete one, but also because it presents several better readings.
+        This choice also necessarily implies the acceptance of the particular stanzaic structure
+        defined here as “interlaced” <hi rend="italic">coblas ternas</hi>, though some doubt about
+        its authenticity remains: the rhymes of stanzas I and II are picked up in stanza IV, while
+        the rhymes of stanzas V and VI are anticipated in stanza III. This case is unique in Old
+        French lyric which inevitably gives rise to some uncertainty. In cases of a threefold
+        division the reading of AMOR<hi rend="superscript">3</hi>Ta is always adopted, as in a
+        twofold division if the group is in essential agreement (vv. 3 and 5), even when all the
+        other mss. agree on the same reading (vv. 14, 26, 30). If mss. AMOR<hi rend="superscript">3</hi>Ta are virtually uniform, decisions are made one by one on the basis of the value
+        of the different readings, taking account of the other witnesses. T, which shows some
+        northern characteristics, has been chosen as base. As far as the attribution is concerned,
+        only ms. C, notoriously unreliable, offers a different one; in L, O and V the text is
+        integrated into the section devoted to the Châtelain de Coucy.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>La tradizione manoscritta di questa canzone
+        delinea abbastanza nettamente tre famiglie AMOR<hi rend="superscript">3</hi>Ta, KLPVX, CU,
+        già a partire dal numero e dall’ordine delle strofe; ma l’abituale scarsità di errori e
+        l’incidenza particolarmente importante della contaminazione rendono impossibile approfondire
+        ulteriormente i rapporti tra i testimoni e servirsi in modo sistematico dello stemma per la
+        ricostruzione del testo. Alcuni errori comuni sono reperibili solo per la famiglia KLPVX ai
+        vv. 25-27 (viene modificata la rima e perciò alterato lo schema metrico della strofa), 34
+        (la lezione <hi rend="italic">vit</hi> sembra una forma corrotta di <hi rend="italic">vient</hi> di Aa) e 37. La collazione dà quindi luogo all’identificazione di tre
+        “redazioni” diverse più che di un insieme di varianti razionalizzabili dello stesso testo.
+        Lezioni tripartite che sembrano confermare l’esistenza delle tre famiglie si trovano ai vv.
+        11 e 27-28. Risultano particolarmente contaminati i mss. OR<hi rend="superscript">3</hi> e
+        CU, che in alcuni casi si separano per seguire lezioni di famiglie diverse (vv. 3, 5 e 10);
+        ma anche M si comporta a volte in modo autonomo e accoglie le lezioni di altre famiglie per
+        esempio ai vv. 26, 30 e 36. La situazione particolare della tradizione manoscritta non
+        permette di procedere a una vera e propria edizione critica, obbligandoci a proporre la
+        lezione di una delle “redazioni” del testo. Si è scelta quella di AMOR<hi rend="superscript">3</hi>Ta non solo perché è l’unica completa, ma anche perché presenta in diverse
+        occasioni la lezione migliore. La scelta di riprodurre l’edizione di AMOR<hi rend="superscript">3</hi>Ta implica necessariamente anche l’accettazione della particolare
+        struttura strofica che abbiamo definito a <hi rend="italic">coblas ternas</hi> “incatenate”,
+        pur permanendo qualche dubbio circa la sua autenticità: le rime delle strofe i e ii vengono
+        infatti riprese nella strofa iv, mentre le rime delle strofe v e vi sono anticipate nella
+        strofa iii. Si tratta di un caso unico nella lirica francese che suscita inevitabilmente
+        qualche perplessità. In caso di lezione tripartita si sceglie sempre la lezione di AMOR<hi rend="superscript">3</hi>Ta, così come nelle opposizioni bipartite se il gruppo resta
+        compatto (vv. 3 e 5), anche quando tutti gli altri testimoni si accordano sulla medesima
+        lezione (vv. 14, 26, 30). Se i mss. AMOR<hi rend="superscript">3</hi>Ta non sono compatti,
+        si decide di volta in volta sulla base del valore delle lezioni alternative, anche tenendo
+        conto della testimonianza degli altri canzonieri. Si è scelta come base la lezione del ms.
+        T, la cui grafia mostra qualche caratteristica settentrionale. Per quanto riguarda
+        l’attribuzione, solo il ms. C, notoriamente poco affidabile, ne propone una diversa; in L, O
+        e V il testo è integrato nella sezione dedicata al Castellano di Coucy.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-08-30T15:22:02Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Châtelain de Coucy</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.985.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>The new season and May and violet and nightingale invite me to sing, and my courtly
+              heart makes me such a sweet gift of a new love that I dare not refuse it; now may God
+              allow me to rise to such honour as to hold naked in my arms the one in whom I have my
+              heart and thoughts, before I go overseas.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>At the beginning I found her so sweet and did not think to suffer on her account, but
+              her sweet face and her lovely mouth and her lovely shining, laughing, bright eyes had
+              taken me prisoner before I dared to offer [my service]; but if she is now willing to
+              retain and free me, I prefer to fail with her, if she gives me hope, than succeed with
+              another.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Alas, why did I allow my eyes to look upon her, the sweet creature with the name of
+              False Beloved? She smiles at me, and I have wept so much for her: no man was ever
+              betrayed so sweetly. As long as I was my own, she did me nothing but good, but now I
+              am hers she kills me without cause; and because I have loved her from the bottom of my
+              heart, I know no other reason for it.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Of the thousand sighs I owe her as a debt she will not acquit me of a single one, and
+              False Love does not cease to intrude and prevent me from sleeping or resting. If she
+              kills me she will have less to be concerned about, because I know not how to take
+              revenge beyond by weeping; for the one whom Love destroys and disinherits knows not
+              where to seek justice.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Above all joy the one that I have from Love is sovereign; God, shall I then be
+              deprived of it? Yes, by God, such is my destiny, for such a destiny the wicked grant
+              me. And they well know they are committing a great wrong, since one who takes away
+              that which he is unable to give wins [only] enemies and war: he does nothing but
+              lose.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>My grief is so secretly concealed that it cannot be recognised by my expression; if
+              it were not for the wretched people I should not have sighed in vain: Love would have
+              given me its reward. But just when I should have received my gift, my love was
+              revealed and made known: may they never be forgiven!</p>
+          </div>
+        </div><div type="translation" xml:id="rs.985.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>La nuova stagione e maggio e la violetta e l’usignolo mi invitano a cantare, e il mio
+              cuore cortese mi fa un così dolce regalo di un nuovo amore che non oso rifiutarlo; che
+              Dio mi permetta di assurgere a un tale onore da poter tenere una volta nuda tra le mie
+              braccia colei in cui è tutto il mio cuore e il mio pensiero, prima di andare
+              oltremare.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>All’inizio la trovai talmente dolce da non pensare che avrei potuto soffrire a causa
+              sua, ma il suo dolce viso e la sua bella bocca e suoi occhi brillanti e ridenti e
+              limpidi mi conquistarono (ancora) prima che osassi offrirmi; ma se ora mi vuole
+              prendere e lasciare, preferisco fallire con lei, se mi dà una speranza, che riuscire
+              con un’altra.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Ahimè, perché l’ho guardata, la dolce creatura che ha nome Falsa Amica? Lei mi
+              sorride, e io ho tanto pianto per lei: nessuno fu mai tradito così dolcemente. Quando
+              avevo (ancora) il dominio su me stesso, non mi fece altro che del bene, ma ora che
+              sono suo mi uccide senza ragione; e poiché io l’ho amata di cuore, non (ne) ha alcun
+              motivo.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Dei mille sospiri di cui le sono debitore non me ne vuole condonare nemmeno uno, e
+              l’amore sleale non cessa d’intromettersi e non mi lascia dormire né riposare. Se lei
+              mi uccide non avrà molto di cui preoccuparsi, perché non so vendicarmi se non
+              piangendo; perché colui che Amore distrugge e disereda non sa a chi chiedere
+              giustizia.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Di tutte le gioie, quella che viene d’amore è la sovrana; Dio, ne sarò dunque
+              privato? Sì, per Dio, così mi è destinato, perché tale destino mi offrono i malvagi. E
+              sanno bene di commettere un grave torto, perché chi toglie ciò di cui non può fare
+              dono ne guadagna nemici e guerra: non può che rimetterci.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Il mio dolore è talmente ben celato che non si può indovinare dal mio aspetto; se non
+              fosse per quegli sciagurati non avrei sospirato invano: Amore mi avrebbe dato il suo
+              premio. Ma proprio quando avrei dovuto ricevere il mio dono, il mio amore fu svelato e
+              palesato: che non siano mai perdonati!</p>
+          </div>
+        </div></body></text></TEI>

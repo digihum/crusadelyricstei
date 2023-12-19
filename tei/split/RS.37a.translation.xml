@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>rs37a</title>
+				<author>Linda Paterson</author>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					<date>2013-11-03</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<p>unknown</p>
+			</publicationStmt>
+			<sourceDesc>
+				<listBibl type="manuscripts" xml:lang="en">
+					<head>Mss. (2).</head>
+					<bibl>D<hi rend="superscript">p</hi> 210d-211a (anonima),</bibl> <bibl>H<hi rend="superscript">p</hi> 46ab (<hi rend="italic">N’Ugo de
+							Bersié</hi> ). </bibl>
+				</listBibl>
+				<listBibl type="manuscripts" xml:lang="it">
+					<head>Mss. (2).</head>
+					<bibl>D<hi rend="superscript">p</hi> 210d-211a (anonima),</bibl> <bibl>H<hi rend="superscript">p</hi> 46ab (<hi rend="italic">N’Ugo de
+							Bersié</hi>).</bibl>
+				</listBibl>
+				<listBibl type="essential_bibliography">
+
+					<bibl>
+						<hi rend="underline">Abulafia 1990</hi>: David Abulafia, <hi rend="italic">Federico II. Un imperatore medievale</hi>, Torino, Einaudi, 1990. </bibl>
+					<bibl>
+						<hi rend="underline">Arveiller-Gouiran 1987</hi>: Raymond Arveiller, Gérard
+						Gouiran, <hi rend="italic">L’œuvre poétique de Falquet de Romans,
+							troubadour</hi>, Aix-en Provence, Université de Provence, 1987. </bibl>
+					<bibl>
+						<hi rend="underline">Barbieri 1997</hi>: Luca Barbieri, «Signori-trovieri
+						in Borgogna: una lirica attribuita a Gautier de Berzé», <hi rend="italic">Medioevo romanzo</hi>, 21 (1997), pp. 107-131. </bibl>
+					<bibl>
+						<hi rend="underline">Barbieri 2001</hi>: Luca Barbieri, <hi rend="italic">Le liriche di Hugues de Berzé, edizione critica</hi>, Milano, CUSL,
+						2001. </bibl>
+					<bibl>
+						<hi rend="underline">Bédier 1906</hi>: Joseph Bédier, «Sur deux chansons de
+						croisade», <hi rend="italic">Romania</hi>, 35 (1906), pp. 387-393. </bibl>
+					<bibl>
+						<hi rend="underline">Bédier-Aubry 1909</hi>: Joseph Bédier, Pierre Aubry,
+							<hi rend="italic">Les chansons de croisade avec leurs mélodies</hi>,
+						Paris, Champion, 1909 (Genève, Slatkine, 2011). </bibl>
+					<bibl>
+						<hi rend="underline">Chaume 1938</hi>: Maurice Chaume, «Les premiers
+						seigneurs de Berzé», <hi rend="italic">Annales de l’Académie de Mâcon</hi>,
+						s. III, 33 (1938), pp. 161-172. </bibl>
+					<bibl>
+						<hi rend="underline">Engelcke 1886</hi>: Karl Engelcke, «Die Lieder des
+						Hugues de Bregi», <hi rend="italic">Archiv für das Studium des neueren
+							Sprachen und Literaturen</hi>, 75 (1886), pp. 147-176. </bibl>
+					<bibl>
+						<hi rend="underline">Gallina 1985</hi>: Mario Gallina, «Fra Occidente e
+						Oriente: la “crociata” aleramica per Tessalonica», in <hi rend="italic">
+							Piemonte medievale, forme del potere e della società, studi per Giovanni
+							Tabacco</hi>, Torino, Einaudi, 1985, pp. 65-83. </bibl>
+					<bibl>
+						<hi rend="underline">Gouiran 1994</hi>: Gérard Gouiran, «À propos de la vie
+						de Hugues de Berzé, trouvère bourguignon. Essai de nouvelle chronologie», in
+							<hi rend="italic"> Actas do XIX Congreso Internacional de Lingüística e
+							Filoloxía Románicas</hi>, publicadas por R. Lorenzo, VII, A Coruña,
+						Fundación “Pedro Barrié de la Maza, Conde de Fenosa”, 1994, pp. 339-351. </bibl>
+					<bibl>
+						<hi rend="underline">Guida 1992</hi>: Saverio Guida, <hi rend="italic">Canzoni di crociata</hi>, Parma, Pratiche, 1992 </bibl>
+					<bibl>
+						<hi rend="underline">Haberstumpf 1995</hi>: Walter Haberstumpf, <hi rend="italic"> Dinastie europee nel Mediterraneo orientale: i Monferrato
+							e i Savoia nei secoli XII-XV</hi>, Torino, Scriptorium, 1995. </bibl>
+					<bibl>
+						<hi rend="underline">Langlois 1984</hi>: Charles-Victor Langlois, <hi rend="italic">La vie en France au Moyen Âge de la fin du XII</hi>
+						<hi rend="italic superscript">e</hi>
+						<hi rend="italic">au milieu du XIV</hi>
+						<hi rend="italic superscript">e</hi>
+						<hi rend="italic"> siècle d’après des moralges du temps</hi>, II, Paris,
+						Hachette, 1926 (= Genève, Slatkine, 1984), pp. 88-106. </bibl>
+					<bibl>
+						<hi rend="underline">Lecoy 1938</hi>: Felix Lecoy, <hi rend="italic">La</hi> Bible <hi rend="italic">au seigneur de Berzé</hi>, <hi rend="italic"> édition critique d’après tous les manuscrits connus</hi>, Paris, Droz, 1938. </bibl>
+					<bibl>
+						<hi rend="underline">Lecoy 1942-1943</hi>: Felix Lecoy, «Pour la
+						chronologie de Hugues de Berzé», <hi rend="italic">Romania</hi>, 67
+						(1942-1943), pp. 243-254. </bibl>
+					<bibl>
+						<hi rend="underline">Paris 1889</hi>: Gaston Paris, «Hugues de Berzé», <hi rend="italic">Romania</hi>, 18 (1889), pp. 553-570. </bibl>
+					<bibl>
+						<hi rend="underline">Schultz 1892</hi>: Oscar Schultz, «Urkundliches zu
+						Hugues de Berzé», <hi rend="italic">Zeitschrift für romanische
+							Philologie</hi>, 16 (1892), pp. 504-508. </bibl>
+					<bibl>
+						<hi rend="underline">Usseglio 1926</hi>: Leopoldo Usseglio, <hi rend="italic"> I marchesi di Monferrato in Italia ed in Oriente durante
+							i secoli XII e XIII</hi>, 2 voll., Casale Monferrato, Biblioteca della
+						Società storica subalpina, 1926. </bibl>
+					<bibl>
+						<hi rend="underline">Zenker 1896</hi>: Rudolf Zenker, <hi rend="italic">Die
+							Gedichte des Folquet von Romans</hi>, Halle a. S., Niemeyer, 1896. </bibl>
+
+				</listBibl>
+				<listBibl type="previous_editions">
+					<bibl><hi rend="italic">Archiv</hi>, 34, 1863, 403 (testo di H<hi rend="superscript">p</hi>);</bibl>
+					<bibl>Paris 1889, 554;</bibl> <bibl> Zenker 1896, 11;</bibl> <bibl>Bédier 1906, 387;</bibl> <bibl>Bédier-Aubry 1909, 153;</bibl> <bibl>Arveiller-Gouiran 1987, 4;</bibl> <bibl>Guida 1992, 90;</bibl> <bibl>Dijkstra 1995a, 203;</bibl> <bibl>Barbieri 2001, 173.</bibl>
+				</listBibl>
+			</sourceDesc>
+
+		</fileDesc>
+		<encodingDesc>
+			<editorialDecl xml:lang="it">
+				<p> Entrambi i manoscritti riportano un testo di tre strofi rivestito di una patina
+					linguistica occitanica, leggermente più marcata nel caso di H<hi rend="superscript">p</hi> . La <hi rend="italic">razo</hi> con
+					l’attribuzione a Hugues de Berzé si trova solo in H<hi rend="superscript">p</hi>, mentre il primo <hi rend="italic">envoi</hi> è unicamente in D <hi rend="superscript">p</hi> . </p>
+				<p> Si sono resi necessari solo quattro piccoli interventi sul testo di D <hi rend="superscript">p</hi>, tre dei quali dovuti a una minima ipometria
+					facilmente sanabile attraverso la lezione di H<hi rend="superscript">p</hi>
+					(vv. 14, 16, 17), mentre nell’ultimo caso si tratta di un adattamento grafico
+					del nome del trovatore citato. Viene riportata anche la breve <hi rend="italic">razo</hi> introduttiva di H<hi rend="superscript">p</hi> che contiene il
+					nome dell’autore; essa è scritta in occitano, senza commistione di francese, e
+					con l’italianismo <hi rend="italic">con</hi> per <hi rend="italic">ab</hi> .
+				</p>
+			</editorialDecl>
+			<editorialDecl xml:lang="en" default="true">
+				<p>Both manuscripts transmit a text of three stanzas having overtones of Occitan,
+					slightly more marked in H<hi rend="superscript">p</hi> . The <hi rend="italic">razo</hi> with the attribution to Hugues de Berzé is found only in H<hi rend="superscript">p</hi>, while the first <hi rend="italic">envoi</hi> is
+					only in D<hi rend="superscript">p</hi> . </p>
+				<p> Four small interventions have been needed in D<hi rend="superscript">p</hi> ’s
+					text, three of which are due to the lack of a minim producing a hypometric line,
+					easily rectifiable from readings in H<hi rend="superscript">p</hi> (vv. 14, 16,
+					17), while the fourth case concerns a variant of the name of the troubadour
+					referred to. The short introductory <hi rend="italic">razo</hi> of H<hi rend="superscript">p</hi> is also printed here; it is written in Occitan,
+					without any mixture of French, and contains the italianism <hi rend="italic">con</hi> for <hi rend="italic">ab</hi> . </p>
+			</editorialDecl>
+			<metDecl pattern="10 a&#x2019;b&#x2019;a&#x2019;b&#x2019;ccb&#x2019;b&#x2019;" xml:lang="it">
+				<p> 10 a’b’a’b’ccb’b’ (MW 1163,6 = Frank 362); 3 <hi rend="italic">coblas
+						unissonans</hi> con 2 <hi rend="italic">envois</hi> di 4 versi (ccb’b’);
+					rima a: <hi rend="italic">-age</hi> ; rima b: <hi rend="italic">-ie</hi> ; rima
+					c: <hi rend="italic">-is</hi> . La canzone RS 23 <hi rend="italic">Bien emploie
+						son cuer et son corage</hi>, attribuita a Moniot d’Arras, è evidentemente
+					un ‘contrafactum’ del testo di Hugues de Berzé (stesso schema metrico e stesse
+					rime). </p>
+
+			</metDecl>
+			<metDecl pattern="10 a&#x2019;b&#x2019;a&#x2019;b&#x2019;ccb&#x2019;b&#x2019;" xml:lang="en" default="true">
+				<p> 10 a’b’a’b’ccb’b’ (MW 1163,6 = Frank 362); 3 <hi rend="italic">coblas
+						unissonans</hi> with 2 <hi rend="italic">envois</hi> of 4 lines (ccb’b’);
+					rhyme a: <hi rend="italic">-age</hi> ; rhyme b: <hi rend="italic">-ie</hi> ;
+					rhyme c: <hi rend="italic">-is</hi> . The song RS 23 <hi rend="italic">Bien
+						emploie son cuer et son corage</hi>, attributed to Moniot d’Arras, is
+					evidently a contrafactum of Hugues de Berzé’s text, the versification being
+					identical in all respects.</p>
+			</metDecl>
+			<appInfo>
+				<application ident="TEI_fromDOCX" version="2.15.0">
+					<label>DOCX to TEI</label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<revisionDesc>
+			<change>
+				<date>$LastChangedDate: 2014-01-13T11:14:41Z$</date>
+				<name>Linda Paterson</name>
+			</change>
+		</revisionDesc>
+	</teiHeader><text><front>
+			<div type="preface">
+				<p>
+					<hi rend="bold">Hugues de Berzé</hi>
+				</p>
+				<p>
+					<hi rend="italic bold">Bernart, di me Falqet, q’om tient a sage</hi> (RS 37a) </p>
+				<p xml:lang="fro">
+					<hi rend="italic"> N’Ugo de Bersié mandet aquestas coblas a Falqet de Rotmans
+						per un joglar q’avia nom Bernart d’Argentau, per predicar lui qe vengues con
+						lui outra mar</hi>
+				</p>
+
+				<p xml:lang="en"> Hugues de Berzé sent these stanzas to Falquet de Romans by means
+					of a jongleur who was called Bernart d’Argentau, to exhort him to go overseas
+					with him. </p>
+				<p xml:lang="it"> Hugues de Berzé inviò queste strofi a Falquet de Romans per mezzo
+					di un giullare che si chiamava Bernart d’Argentau, per esortarlo ad andare con
+					lui oltremare. </p>
+
+			</div>
+
+		</front><body><div type="translation" xml:id="RS.37a.eng" corresp="RS.37a.fro" xml:lang="en">
+				<div type="stanza" n="1">
+					<p>Bernart, tell Falquet for me, since he is said to be wise, that he should not
+						waste all his sense on folly, as the two of us have spent a great part of
+						our life in pleasure-seeking, and have learned enough about the world to
+						know that each day is worth less [than the previous one]. It looks as if it
+						would be good to amend one’s life, for the time for play/ diversion is
+						coming to an end.</p>
+				</div>
+				<div type="stanza" n="2">
+					<p>God, what grief, what loss and what damage [comes about] when a man of worth
+						fails to correct himself! But there are some people who, when they see their
+						fine situation and their house all full of rich furnishings, think there is
+						no other paradise. Do not believe this, Falquet my sweet friend, but keep us
+						company in Outremer, because all this fails yet God will never fail.</p>
+				</div>
+				<div type="stanza" n="3">
+					<p>Bernart, you will also take a message to my marquis, whom I love without
+						deceit: I beg him to go on this pilgrimage, since Monferrat is bound to do
+						so out of hereditary duty. The Holy Land would have been lost on another
+						occasion if it had not been for Conrad: he won such honour in this
+						undertaking that there will never be a day when people will not say of him
+						that Syria was recovered by him.</p>
+				</div>
+				<div type="stanza" n="4">
+					<p>And do not worry about taking money, for his cousin, the emperor Frederick,
+						will have plenty and he will not lack for it, since the marquis gave him a
+						great welcome in Lombardy.</p>
+				</div>
+				<div type="stanza" n="5">
+					<p>Bernart, tell my lord the good marquis for me, that on my behalf he should
+						give you what you have asked of me, for now I have the cross which forbids
+						me and begs me not to spend my money on foolish things.</p>
+				</div>
+			</div><div type="translation" xml:id="RS.37a.it" xml:lang="it" corresp="RS.37a.fro">
+				<div type="stanza" n="1">
+					<p> Bernardo, riferisci da parte mia a Falchetto, che è ritenuto saggio, che non
+						sprechi tutto il suo senno in cose vane, poiché entrambi abbiamo speso nei
+						piaceri gran parte della nostra vita, e abbiamo conosciuto abbastanza il
+						mondo per sapere che vale ogni giorno di meno. Per questo sarebbe bene
+						correggere la propria condotta, perché il tempo del gioco volge alla fine.
+					</p>
+				</div>
+				<div type="stanza" n="2">
+					<p> Dio, che dolore, che perdita e che danno, quando un uomo di valore non si
+						converte! Ma c’è qualcuno che, quando vede la sua buona posizione e la
+						propria casa ricca e piena, pensa che non vi sia altro paradiso. Non lo
+						pensate, caro dolce amico Falchetto; fatevi piuttosto nostro compagno
+						oltremare: perché tutto questo finisce ma Dio non verrà mai meno.</p>
+
+				</div>
+				<div type="stanza" n="3">
+					<p> Bernardo, tu riferirai un messaggio anche al mio marchese, che amo
+						lealmente: che io lo prego di fare questo pellegrinaggio, perché il
+						Monferrato ne è tenuto per dovere ereditario. La Terra Santa sarebbe già
+						stata persa una volta, se non fosse stato per Corrado: si procurò tanto
+						onore in quell’impresa che non vi sarà mai un tempo in cui non si dirà che
+						la Siria fu riscattata da lui.</p>
+
+				</div>
+				<div type="stanza" n="4">
+					<p> E non si preoccupi di portare del denaro, perché suo cugino, l’imperatore
+						Federico, ne avrà molto e non gli mancherà, dal momento che il marchese gli
+						ha fatto una bella accoglienza in Lombardia.</p>
+
+
+				</div>
+				<div type="stanza" n="5">
+					<p> Bernardo, riferisci al buon marchese, mio signore, che ti dia per me quello
+						che mi hai chiesto, perché ormai la croce mi intima e supplica di non
+						spendere il denaro in cose vane.</p>
+
+
+
+				</div>
+			</div></body></text></TEI>

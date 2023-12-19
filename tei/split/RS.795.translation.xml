@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-03-05</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Huet 1912, p. 29; Vaillant 1913,<hi rend="exldetailsdisplayval"> </hi>p. 28; Raugei
+            1981, p. 175.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Huet 1912, p. 29; Vaillant 1913,<hi rend="exldetailsdisplayval"> </hi>p. 28; Raugei
+            1981, p. 175.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss</hi>.: <hi rend="bold">(2).</hi> M 88r-88v (<hi rend="italic">~Me s(ire) Gautiers dargies</hi>), T 143r (<hi rend="italic">Me sire gautiers
+              dargies</hi>).</bibl>
+          <bibl> [@type=manuscripts,@xml:lang=it]</bibl>
+          <bibl><hi rend="bold">Mss</hi>.: <hi rend="bold">(2).</hi> M 88r-88v (<hi rend="italic">~Me s(ire) Gautiers dargies</hi>), T 143r (<hi rend="italic">Me sire gautiers
+              dargies</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>7a4b7a4b7a4b7a4b4a4a4a4b4a4a4a4b4a4a8b (MW 693,1); 4 <hi rend="italic">coblas
+          singulars</hi> and an 11-line <hi rend="italic">envoi</hi> a4a4a4b4a4a4a4b4a4a8b; rhyme a
+        = <hi rend="italic">-er, -ant, -ié, -é</hi>; rhyme b = <hi rend="italic">-ir, -ai, -ort,
+          -ent</hi>; between stanzas III and IV the two mss. also transmit a probably interpolated
+        stanza distinguished by the alternation of m. and f. rhymes (rhyme a’ = <hi rend="italic">-ie</hi>; rhyme b = <hi rend="italic">is</hi>). Unicum. For further details see Raugei,
+        pp. 175-176. The melody is transmitted in both mss.with the structure ABCD ABCD EFGH IKG’L
+        MNO (T 467).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>7a4b7a4b7a4b7a4b4a4a4a4b4a4a4a4b4a4a8b (MW 693,1); 4 <hi rend="italic">coblas
+          singulars</hi>, con un <hi rend="italic">envoi</hi> di 11 versi (a4a4a4b4a4a4a4b4a4a8b);
+        rima a = <hi rend="italic">-er, -ant, -ié, -é</hi>; rima b = <hi rend="italic">-ir, -ai,
+          -ort, -ent</hi>; tra le strofe III e IV i due manoscritti riportano una strofa
+        probabilmente interpolata, caratterizzata da una rima ‘a’ femminile (rima a’ = <hi rend="italic">-ie</hi>; rima b = <hi rend="italic">is</hi>). <hi rend="italic">Unicum</hi>. Per ulteriori dettagli si veda Raugei, pp. 175-176. La melodia è trasmessa da
+          entrambi i manoscritti, secondo lo schema ABCD ABCD EFGH IKG’L MNO (T 467).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>Apart from a few minor variants the two mss.
+        transmit the same text, including st. IIIb, though T has an inferior (erroneous?) reading in
+        v. 42 and errors in 60 and 61, as well as a lacuna from v. 17 to v. 33; a modern hand has
+        filled in the missing lines from the text of M. Graphy M.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>A parte qualche minima variante i manoscritti
+        riportano lo stesso testo, che include la strofa IIIb, anche se T ha una lezione deteriore
+        (erronea?) al v. 42 e lezioni erronee ai vv. 60 e 61, oltra a una lacuna dal v. 17 al v. 33;
+        una mano moderna ha integrato i versi mancanti secondo la lezione di M. Grafia di
+        M.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-03-13T10:18:23Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Gautier de Dargies</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.795.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>I certainly imagined I would refrain from singing forever, but I cannot think of a
+              better way to express my heart and thoughts, which are making me very angry; I am
+              forced to divide and separate myself from my heart. Sweet person, fair of face, I pay
+              too dearly for you; most bitter do I find the memory of your bearing, your speech,
+              your playfulness, your approach; now I can weep and give myself over to sorrow; it
+              will be long before I ever repent of this!</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>To come to see her candid laughing countenance – her bright face, fresh and pleasing
+              – was my doom; when I looked on her, I gazed on her most sweetly, and fell in love
+              with her. Now she has plunged me into great affliction; God, what shall I do! Full of
+              sorrow and sore laments, deeply troubled, henceforth I shall take my distance from
+              her: the most worthy lady whom I love so much with a true heart. Hereafter I shall
+              find myself sleeping little and waking much.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>I have taken leave of the one who has slain me so; I had great suffering for it, but
+              this was wrong. She kept me firmly underfoot, with no pleasure, and she always kept me
+              away from contact with her. She did wrong to deceive me, neglected as I was, and left
+              me little comfort. Now I arraign her: she has burdened me too much, and I bear a heavy
+              load. I have made my preparations and my decision for, sighing, I am on my way to the
+              port (the end?). </p>
+          </div>
+          <div n="13" type="stanza">
+            <p><hi rend="italic">Sorrowfully I leave my sweet love and in great sadness. Although I
+                still have life in my body, after leaving her company things are now worse for me:
+                my joy has ended. It seems to me that I have in no way deserved this, but rather the
+                pity I foolishly yearned for has perished; I have left it in her land, in Brie (?),
+                and I go off to Syria most downcast because of her.</hi></p>
+          </div>
+          <div n="4" type="stanza">
+            <p>My lady, whom I have loyally loved, and for a long time, has certainly strung me
+              along as she wished; she gave me many a fair look, but falsely, and I have most dearly
+              paid for it. I still feel its effects: she has severely wounded and damaged me – I
+              have endured this most patiently – and caused me great pain and much (love-)sickness;
+              I have little help for my health; I have gone so far astray that now, be truly aware
+              of this, my torments are all doubled.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>I have long remained loyal, but have gained so little; I found humiliation. I tell
+              the truth: unless I lie, she has rewarded me to her liking. So a man who expects his
+              just deserts is a fool.</p>
+          </div>
+        </div><div type="translation" xml:id="rs.795.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Ho pensato seriamente di smettere di cantare per sempre, ma non riesco a immaginare
+              un modo migliore per esprimere il mio stato d’animo e il mio pensiero, che mi esaspera
+              oltremodo; sono costretto a separarmi dal mio cuore e abbandonarlo. Bella persona,
+              viso grazioso, pago un prezzo troppo alto per voi; trovo particolarmente amaro il
+              ricordo del vostro portamento, delle vostre parole, della vostra allegria, del vostro
+              appressarvi; ora posso (solo) piangere e lasciarmi sopraffare dal dolore; sarà troppo
+              tardi quando me ne pentirò.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Vedere il suo volto candido e sorridente, il suo viso luminoso, fresco e piacevole, è
+              stata la mia rovina; quando la guardai, l’osservai con tenerezza, e mi innamorai di
+              lei. Ora mi ha gettato in un grande sconforto; Dio, che farò? Pieno di tristezza e di
+              grande dolore, profondamente turbato, d’ora in poi l’eviterò: la donna più nobile, che
+              amo così tanto di vero cuore. Oramai mi toccherà dormire poco e vegliare molto.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Ho detto addio a colei che mi ha ucciso in questo modo; ne ho sofferto molto, e ho
+              fatto male. Mi ha tenuto saldamente sotto i piedi, privo di piacere, e mi ha sempre
+              escluso dalla sua considerazione. Si è comportata male quando, dopo avermi trascurato,
+              mi ha ingannato e mi ha concesso ben poco conforto. Ora io l’accuso: mi ha troppo
+              oppresso, e ne porto un grande peso. Ho procurato e deciso di incamminarmi sospirando
+              verso il porto (la fine?).</p>
+          </div>
+          <div n="13" type="stanza">
+            <p><hi rend="italic">Dolente e molto triste lascio il mio dolce amore. Anche se ho
+                (ancora) vita in corpo, dopo aver lasciato la sua compagnia tutto va male: la mia
+                gioia è finita. Mi sembra di non avere in alcun modo meritato questo, ma è morta per
+                me la pietà che ho vanamente agognato; l’ho lasciata nella sua terra, a Brie (?), e
+                me ne vado molto afflitto a causa sua.</hi></p>
+          </div>
+          <div n="4" type="stanza">
+            <p>La mia signora, che ho amato fedelmente e a lungo, si è davvero presa gioco di me; mi
+              ha illuso mostrandosi falsamente ben disposta, e l’ho pagato a caro prezzo. Ne sento
+              ancora gli effetti: mi ha molto tormentato e prostrato – e l’ho sopportato
+              pazientemente – e mi ha molto angustiato e fatto soffrire; ma per la mia salute ho
+              poco giovamento; ho tanto vagato a vuoto, sappiatelo bene, che ora tutti i miei
+              tormenti sono raddoppiati.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Sono rimasto fedele a lungo, e ne ho guadagnato così poco; vi ho trovato (solo)
+              commiserazione. Dico la verità: se non mi sbaglio, mi ha ripagato a suo capriccio. È
+              folle chi si aspetta la loro riconoscenza.</p>
+          </div>
+        </div></body></text></TEI>

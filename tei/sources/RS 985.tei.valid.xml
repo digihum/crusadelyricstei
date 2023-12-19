@@ -1,0 +1,537 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-08-25</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde 1780, II, 270; Crapelet 1829, 132; Michel 1830, 33; Brakelmann
+            1870-1891, 114; Fath 1883, 54; Bédier-Aubry 1909, 87; Bartsch 1920, 164; Ullsperger
+            1935, 61; Delbouille 1936, 227; Brittain 1937, 140; Pauphilet 1952, 875; Spaziani 1954,
+            33; Cremonesi 1955, 107; Lerond 1964, 76; Toja 1966, 229; Cluzel 1969, 113; van der Werf
+            1977-1979, 243; Alvar 1982, 256; Baumgartner 1983, 240; Bergner 1983, 458; Dufournet
+            1989, 114; Rosenberg-Tischler 1995, 388; Gaullier-Bougassas 2009, 516 (for the romances
+            containing quotations, references are given only to the editions of the <hi
+              rend="italic">Roman du Châtelain de Coucy</hi>, and not to <hi rend="italic">Guillaume
+              de Dole</hi>, for which the single ms. has been consulted directly).</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde 1780, II, 270; Crapelet 1829, 132; Michel 1830, 33; Brakelmann
+            1870-1891, 114; Fath 1883, 54; Bédier-Aubry 1909, 87; Bartsch 1920, 164; Ullsperger
+            1935, 61; Delbouille 1936, 227; Brittain 1937, 140; Pauphilet 1952, 875; Spaziani 1954,
+            33; Cremonesi 1955, 107; Lerond 1964, 76; Toja 1966, 229; Cluzel 1969, 113; van der Werf
+            1977-1979, 243; Alvar 1982, 256; Baumgartner 1983, 240; Bergner 1983, 458; Dufournet
+            1989, 114; Rosenberg-Tischler 1995, 388; Gaullier-Bougassas 2009, 516 (per quanto
+            riguarda i romanzi a citazioni, si danno solo i riferimenti alle edizioni del <hi
+              rend="italic">Roman du Châtelain de Coucy</hi>, ma non a quelle del <hi rend="italic"
+              >Guillaume de Dole</hi>, di cui si è consultato direttamente il manoscritto
+            unico).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss</hi>. <hi rend="bold">(13+3)</hi>: A 155a (<hi rend="italic">li
+              Kastelains de Chouci</hi>), C 125v (<hi rend="italic">Muse an Borse</hi>), K 95b (<hi
+              rend="italic">li Chastelains de Couci</hi>), L 62v (anonymous), M 53c (<hi
+              rend="italic">li Chastelains de Couci</hi>), O 73c (anon.), P 30c (<hi rend="italic"
+              >li Chastelains de Conci</hi>), R<hi rend="superscript">3</hi> 129v (anon.), T 155v
+              (<hi rend="italic">li Chastelains</hi>), U 38r (anon.), V 75b (anon.), X 69a (<hi
+              rend="italic">Li Chastelains de Couci</hi>), a 13v (<hi rend="italic">li
+              Castelains</hi>), u 73b (vv. 1-8 = <hi rend="italic">Guillaume de Dole</hi> vv.
+            922-929); <hi rend="italic">Roman du Châtelain de Coucy et de la Dame de Fayel</hi> vv.
+            7005-7011 (vv. 1-8, 2 mss.).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss. (13+3)</hi>: A 155a (<hi rend="italic">li Kastelains de
+              Chouci</hi>), C 125v (<hi rend="italic">Muse an Borse</hi>), K 95b (<hi rend="italic"
+              >li Chastelains de Couci</hi>), L 62v (anonima), M 53c (<hi rend="italic">li
+              Chastelains de Couci</hi>), O 73c (anon.), P 30c (<hi rend="italic">li Chastelains de
+              Conci</hi>), R<hi rend="superscript">3</hi> 129v (anon.), T 155v (<hi rend="italic">li
+              Chastelains</hi>), U 38r (anon.), V 75b (anon.), X 69a (<hi rend="italic">Li
+              Chastelains de Couci</hi>), a 13v (<hi rend="italic">li Castelains</hi>), u 73b (vv.
+            1-8 = <hi rend="italic">Guillaume de Dole</hi> vv. 922-929); <hi rend="italic">Roman du
+              Châtelain de Coucy et de la Dame de Fayel</hi> vv. 7005-7011 (vv. 1-8, 2 mss.).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’"><p>10a’ba’bbba’6b (MW 966,4 = Frank
+        312); 6 <hi rend="italic">coblas ternas</hi> “incatenate”; rima a: <hi rend="italic"
+          >-ete</hi>, <hi rend="italic">-ee</hi>; rima b: <hi rend="italic">-er</hi>, <hi
+          rend="italic">-on</hi>; la <hi rend="italic">chanson de départie</hi> RS 757 di Thibaut de
+        Champagne si serve di uno schema molto simile e quasi speculare; rima derivativa ai vv. 15 e
+        27 (<hi rend="italic">pramete-entremete</hi>); ‘annominatio per immutationem’ ai vv. 9 e 11
+          (<hi rend="italic">doucete-boucete</hi>); rima grammaticale ai vv. 17-29 (<hi
+          rend="italic">regardee-garder</hi>) e 19-30 (<hi rend="italic">plouree-plourer</hi>); rima
+        equivoca tra i vv. 18 e 21-40 (<hi rend="italic">non</hi>, ma identica tra i vv. 21-40 dove
+        tutta la locuzione finale è molto simile), 44-48 (<hi rend="italic">pardon</hi>); rima
+        equivoca all’orecchio tra i vv. 20-42 (<hi rend="italic">hom-on</hi>), 34-38-46 (<hi
+          rend="italic">dont-don</hi>, ma identica tra i vv. 38-46); numerose rime paronime in <hi
+          rend="italic">-on</hi>; vi è cesura lirica al v. 43 e cesura femminile con elisione al v.
+        33; il testo presenta tre linee melodiche diverse: una nel ms. R, una in V e la terza in
+        AKLMOPTUXa, con numerose varianti; schema melodico ABAB CDEF (T 577,1).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’"><p>10a’ba’bbba’6b (MW 966,4 = Frank
+        312); 6 <hi rend="italic">coblas ternas</hi> “incatenate”; rima a: <hi rend="italic"
+          >-ete</hi>, <hi rend="italic">-ee</hi>; rima b: <hi rend="italic">-er</hi>, <hi
+          rend="italic">-on</hi>; la <hi rend="italic">chanson de départie</hi> RS 757 di Thibaut de
+        Champagne si serve di uno schema molto simile e quasi speculare; rima derivativa ai vv. 15 e
+        27 (<hi rend="italic">pramete-entremete</hi>); ‘annominatio per immutationem’ ai vv. 9 e 11
+          (<hi rend="italic">doucete-boucete</hi>); rima grammaticale ai vv. 17-29 (<hi
+          rend="italic">regardee-garder</hi>) e 19-30 (<hi rend="italic">plouree-plourer</hi>); rima
+        equivoca tra i vv. 18 e 21-40 (<hi rend="italic">non</hi>, ma identica tra i vv. 21-40 dove
+        tutta la locuzione finale è molto simile), 44-48 (<hi rend="italic">pardon</hi>); rima
+        equivoca all’orecchio tra i vv. 20-42 (<hi rend="italic">hom-on</hi>), 34-38-46 (<hi
+          rend="italic">dont-don</hi>, ma identica tra i vv. 38-46); numerose rime paronime in <hi
+          rend="italic">-on</hi>; vi è cesura lirica al v. 43 e cesura femminile con elisione al v.
+        33; il testo presenta tre linee melodiche diverse: una nel ms. R, una in V e la terza in
+        AKLMOPTUXa, con numerose varianti; schema melodico ABAB CDEF (T 577,1).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The number and order of stanzas fairly clearly
+        show the division AMOR<hi rend="superscript">3</hi>Ta–KLPVX–CU, but the usual paucity of
+        errors and the particularly high incidence of contamination make it impossible to clarify
+        further the relations between the mss. and to use the stemma systematically to reconstruct
+        the text. A few common errors occur only in KLPVX, in vv. 25-27 (the rhyme is modified and
+        hence the metrical shape of the stanza is distorted), 34 (the reading <hi rend="italic"
+          >vit</hi> seems a corrupt form of Aa’s <hi rend="italic">vient</hi>) and 37). Collation
+        therefore gives rise to the identification of three different “editions” rather than a
+        collection of explicable variants of the same text. Tripartite readings which seem to
+        confirm the existence of the three families are found in vv. 11 and 27-28. Mss. OR<hi
+          rend="superscript">3</hi> e CU appear particularly contaminated, and in some cases divide
+        to follow the readings of different families (vv. 3, 5 and 10); but even M sometimes acts
+        autonomously and includes readings from other families, in vv. 26, 30 and 36 for example.
+        The particular situation of the manuscript tradition makes it impossible to produce a truly
+        critical edition and requires an edition based on the reading of a version of one of the
+        manuscript groups. That of AMOR<hi rend="superscript">3</hi>Ta has been chosen, not only
+        because it is the only complete one, but also because it presents several better readings.
+        This choice also necessarily implies the acceptance of the particular stanzaic structure
+        defined here as “interlaced” <hi rend="italic">coblas ternas</hi>, though some doubt about
+        its authenticity remains: the rhymes of stanzas I and II are picked up in stanza IV, while
+        the rhymes of stanzas V and VI are anticipated in stanza III. This case is unique in Old
+        French lyric which inevitably gives rise to some uncertainty. In cases of a threefold
+        division the reading of AMOR<hi rend="superscript">3</hi>Ta is always adopted, as in a
+        twofold division if the group is in essential agreement (vv. 3 and 5), even when all the
+        other mss. agree on the same reading (vv. 14, 26, 30). If mss. AMOR<hi rend="superscript"
+          >3</hi>Ta are virtually uniform, decisions are made one by one on the basis of the value
+        of the different readings, taking account of the other witnesses. T, which shows some
+        northern characteristics, has been chosen as base. As far as the attribution is concerned,
+        only ms. C, notoriously unreliable, offers a different one; in L, O and V the text is
+        integrated into the section devoted to the Châtelain de Coucy.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>La tradizione manoscritta di questa canzone
+        delinea abbastanza nettamente tre famiglie AMOR<hi rend="superscript">3</hi>Ta, KLPVX, CU,
+        già a partire dal numero e dall’ordine delle strofe; ma l’abituale scarsità di errori e
+        l’incidenza particolarmente importante della contaminazione rendono impossibile approfondire
+        ulteriormente i rapporti tra i testimoni e servirsi in modo sistematico dello stemma per la
+        ricostruzione del testo. Alcuni errori comuni sono reperibili solo per la famiglia KLPVX ai
+        vv. 25-27 (viene modificata la rima e perciò alterato lo schema metrico della strofa), 34
+        (la lezione <hi rend="italic">vit</hi> sembra una forma corrotta di <hi rend="italic"
+          >vient</hi> di Aa) e 37. La collazione dà quindi luogo all’identificazione di tre
+        “redazioni” diverse più che di un insieme di varianti razionalizzabili dello stesso testo.
+        Lezioni tripartite che sembrano confermare l’esistenza delle tre famiglie si trovano ai vv.
+        11 e 27-28. Risultano particolarmente contaminati i mss. OR<hi rend="superscript">3</hi> e
+        CU, che in alcuni casi si separano per seguire lezioni di famiglie diverse (vv. 3, 5 e 10);
+        ma anche M si comporta a volte in modo autonomo e accoglie le lezioni di altre famiglie per
+        esempio ai vv. 26, 30 e 36. La situazione particolare della tradizione manoscritta non
+        permette di procedere a una vera e propria edizione critica, obbligandoci a proporre la
+        lezione di una delle “redazioni” del testo. Si è scelta quella di AMOR<hi rend="superscript"
+          >3</hi>Ta non solo perché è l’unica completa, ma anche perché presenta in diverse
+        occasioni la lezione migliore. La scelta di riprodurre l’edizione di AMOR<hi
+          rend="superscript">3</hi>Ta implica necessariamente anche l’accettazione della particolare
+        struttura strofica che abbiamo definito a <hi rend="italic">coblas ternas</hi> “incatenate”,
+        pur permanendo qualche dubbio circa la sua autenticità: le rime delle strofe i e ii vengono
+        infatti riprese nella strofa iv, mentre le rime delle strofe v e vi sono anticipate nella
+        strofa iii. Si tratta di un caso unico nella lirica francese che suscita inevitabilmente
+        qualche perplessità. In caso di lezione tripartita si sceglie sempre la lezione di AMOR<hi
+          rend="superscript">3</hi>Ta, così come nelle opposizioni bipartite se il gruppo resta
+        compatto (vv. 3 e 5), anche quando tutti gli altri testimoni si accordano sulla medesima
+        lezione (vv. 14, 26, 30). Se i mss. AMOR<hi rend="superscript">3</hi>Ta non sono compatti,
+        si decide di volta in volta sulla base del valore delle lezioni alternative, anche tenendo
+        conto della testimonianza degli altri canzonieri. Si è scelta come base la lezione del ms.
+        T, la cui grafia mostra qualche caratteristica settentrionale. Per quanto riguarda
+        l’attribuzione, solo il ms. C, notoriamente poco affidabile, ne propone una diversa; in L, O
+        e V il testo è integrato nella sezione dedicata al Castellano di Coucy.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-08-30T15:22:02Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Châtelain de Coucy</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+        <div type="text" xml:id="rs.985.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Li noveaus tans et mais et vïolete</l>
+            <l n="2">et roussignols me semont de chanter,</l>
+            <l n="3">et mes fins cuers me fait d’une amourete</l>
+            <l n="4"> si douç present ke ne l’os refuser;</l>
+            <l n="5">or me laist Diex en tel honor monter</l>
+            <l n="6">ke cele ou j’ai mon cuer et mon penser</l>
+            <l n="7">tiegne une fois entre mes bras nuete</l>
+            <l n="8">ains keˇaille outremer.</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="9">Au comenchier la trovai si doucete</l>
+            <l n="10">ne ne quidai pour li mal endurer,</l>
+            <l n="11">mais ses dols vis et sa belle boucete</l>
+            <l n="12">et si bel oel vair et riant et cler</l>
+            <l n="13">m’orent ains pris ke m’osaisse doner;</l>
+            <l n="14">mais s’or me vieut retenir et cuiter,</l>
+            <l n="15">miex aim a li faillir, si me pramete,</l>
+            <l n="16">k’a une autre achiever.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="17">Las! pour quoi l’ai de mes iex regardee,</l>
+            <l n="18">la douce riens ki Fausse Amie a non?</l>
+            <l n="19">Ele me rit et je l’ai tant plouree:</l>
+            <l n="20">si docement ne fu traïs nus hom.</l>
+            <l n="21">Tant com fui miex, ne me fist se bien non,</l>
+            <l n="22">mais or sui siens si m’ochist sans raison;</l>
+            <l n="23">et pour itant ke de cuer l’ai amee,</l>
+            <l n="24">n’i set autre ocoison.</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="25">De mil sospirs ke je li doi par dete</l>
+            <l n="26">ne me velt pas d’un tot seul aquiter,</l>
+            <l n="27">ne Fause Amor ne laist ke s’entremete</l>
+            <l n="28">ne ne mi laist dormir ne reposer.</l>
+            <l n="29">S’ele m’ochist, mains avra a garder,</l>
+            <l n="30">si ne m’en sai vengier fors au plourer;</l>
+            <l n="31">car ki Amors destruit et desirete</l>
+            <l n="32">ne s’en set ou clamer.</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="33">Sour toute joie est cele coronee</l>
+            <l n="34">ke j’ai d’Amors; Diex, i faurai je dont?</l>
+            <l n="35">Oïl, par Dieu, tex est ma destinee,</l>
+            <l n="36">car tel destin mi doinent li felon;</l>
+            <l n="37">si sevent bien k’il font grant mesprison,</l>
+            <l n="38">car ki ce taut dont ne puet faire don</l>
+            <l n="39">il en conquiert anemis et mellee:</l>
+            <l n="40">n’i fait se perdre non.</l>
+          </lg>
+          <lg n="6" type="stanza">
+            <l n="41">Si coiement est ma dolors celee</l>
+            <l n="42">k’a mon samblant ne la reconoist on;</l>
+            <l n="43">se ne fuissent la gens maleüree</l>
+            <l n="44">n’eüsse pas sospiré em pardon:</l>
+            <l n="45">Amors m’eüst doné son guerredon;</l>
+            <l n="46">mais en cel point ke dui avoir mon don,</l>
+            <l n="47">lor fu m’amors ensegnïe et mostree:</l>
+            <l n="48">ja n’aient il pardon!</l>
+          </lg>
+        </div>
+        <div type="translation" xml:id="rs.985.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>The new season and May and violet and nightingale invite me to sing, and my courtly
+              heart makes me such a sweet gift of a new love that I dare not refuse it; now may God
+              allow me to rise to such honour as to hold naked in my arms the one in whom I have my
+              heart and thoughts, before I go overseas.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>At the beginning I found her so sweet and did not think to suffer on her account, but
+              her sweet face and her lovely mouth and her lovely shining, laughing, bright eyes had
+              taken me prisoner before I dared to offer [my service]; but if she is now willing to
+              retain and free me, I prefer to fail with her, if she gives me hope, than succeed with
+              another.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Alas, why did I allow my eyes to look upon her, the sweet creature with the name of
+              False Beloved? She smiles at me, and I have wept so much for her: no man was ever
+              betrayed so sweetly. As long as I was my own, she did me nothing but good, but now I
+              am hers she kills me without cause; and because I have loved her from the bottom of my
+              heart, I know no other reason for it.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Of the thousand sighs I owe her as a debt she will not acquit me of a single one, and
+              False Love does not cease to intrude and prevent me from sleeping or resting. If she
+              kills me she will have less to be concerned about, because I know not how to take
+              revenge beyond by weeping; for the one whom Love destroys and disinherits knows not
+              where to seek justice.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Above all joy the one that I have from Love is sovereign; God, shall I then be
+              deprived of it? Yes, by God, such is my destiny, for such a destiny the wicked grant
+              me. And they well know they are committing a great wrong, since one who takes away
+              that which he is unable to give wins [only] enemies and war: he does nothing but
+              lose.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>My grief is so secretly concealed that it cannot be recognised by my expression; if
+              it were not for the wretched people I should not have sighed in vain: Love would have
+              given me its reward. But just when I should have received my gift, my love was
+              revealed and made known: may they never be forgiven!</p>
+          </div>
+        </div>
+        <div type="translation" xml:id="rs.985.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>La nuova stagione e maggio e la violetta e l’usignolo mi invitano a cantare, e il mio
+              cuore cortese mi fa un così dolce regalo di un nuovo amore che non oso rifiutarlo; che
+              Dio mi permetta di assurgere a un tale onore da poter tenere una volta nuda tra le mie
+              braccia colei in cui è tutto il mio cuore e il mio pensiero, prima di andare
+              oltremare.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>All’inizio la trovai talmente dolce da non pensare che avrei potuto soffrire a causa
+              sua, ma il suo dolce viso e la sua bella bocca e suoi occhi brillanti e ridenti e
+              limpidi mi conquistarono (ancora) prima che osassi offrirmi; ma se ora mi vuole
+              prendere e lasciare, preferisco fallire con lei, se mi dà una speranza, che riuscire
+              con un’altra.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Ahimè, perché l’ho guardata, la dolce creatura che ha nome Falsa Amica? Lei mi
+              sorride, e io ho tanto pianto per lei: nessuno fu mai tradito così dolcemente. Quando
+              avevo (ancora) il dominio su me stesso, non mi fece altro che del bene, ma ora che
+              sono suo mi uccide senza ragione; e poiché io l’ho amata di cuore, non (ne) ha alcun
+              motivo.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Dei mille sospiri di cui le sono debitore non me ne vuole condonare nemmeno uno, e
+              l’amore sleale non cessa d’intromettersi e non mi lascia dormire né riposare. Se lei
+              mi uccide non avrà molto di cui preoccuparsi, perché non so vendicarmi se non
+              piangendo; perché colui che Amore distrugge e disereda non sa a chi chiedere
+              giustizia.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Di tutte le gioie, quella che viene d’amore è la sovrana; Dio, ne sarò dunque
+              privato? Sì, per Dio, così mi è destinato, perché tale destino mi offrono i malvagi. E
+              sanno bene di commettere un grave torto, perché chi toglie ciò di cui non può fare
+              dono ne guadagna nemici e guerra: non può che rimetterci.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Il mio dolore è talmente ben celato che non si può indovinare dal mio aspetto; se non
+              fosse per quegli sciagurati non avrei sospirato invano: Amore mi avrebbe dato il suo
+              premio. Ma proprio quando avrei dovuto ricevere il mio dono, il mio amore fu svelato e
+              palesato: che non siano mai perdonati!</p>
+          </div>
+        </div>
+        <div type="text" xml:lang="en ">
+          <p>Luca Barbieri 2015</p>
+        </div>
+        <div type="text" xml:lang="it ">
+          <p>Luca Barbieri 2015</p>
+        </div>
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>It is fruitless to speculate about the possibility of deducing the relative chronology of
+          the Châtelain de Coucy’s two “crusade songs”, as Bédier 1909, p. 100 does, even if it is
+          true that RS 985 seems to describe an initial phase of love, which ought logically to
+          precede that described in RS 679; but there is no need even to mention how risky it is to
+          apply overly autobiographical and chronological criteria to the medieval French lyric. It
+          can simply be said that if RS 679, as a <hi rend="italic">chanson de départie</hi>, was
+          composed just before departure, RS 985, given the generic indication of future departure
+          on crusade contained in v. 8, could have been composed at any time between the Châtelain
+          taking the cross and the beginning of the Third or Fourth Crusade. Nothing is known about
+          the date when he first took the cross, while in the case of the Fourth Crusade
+          Villehardouin, § 7 tells us that the Châtelain did so between the beginning of Advent (28
+          November) 1199 and the start of Lent (23 February) 1200.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Non si può speculare sulla possibilità di dedurre dal testo delle due “canzoni di
+          crociata” del Castellano di Coucy l’eventuale anteriorità dell’una rispetto all’altra,
+          come fa Bédier 1909, p. 100, anche se è vero che la canzone RS 985 sembra descrivere una
+          fase iniziale dell’amore, che dovrebbe precedere quella descritta nella RS 679; ma non
+          occorre ricordare quanto sia rischioso applicare criteri eccessivamente autobiografici e
+          cronologici alla lirica francese medievale. Si può solo dire che se la RS 679, in quanto
+            <hi rend="italic">chanson de départie</hi>, dovrebbe essere stata composta
+          nell’imminenza della partenza, la RS 985, visto l’accenno generico alla futura partenza
+          per la crociata contenuto nel v. 8, potrebbe essere stata scritta in qualsiasi momento tra
+          la presa di croce e l’inizio della terza o della quarta crociata. Nulla si sa sulla data
+          della prima presa di croce, mentre nel caso della quarta crociata la testimonianza di
+          Villehardouin, § 7 ci permette di sapere che il Castellano di Coucy prese la croce a una
+          data compresa tra l’inizio dell’Avvento (28 novembre) del 1199 e l’inizio della Quaresima
+          (23 febbraio) del 1200.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>This text is neither a <hi rend="italic">chanson de départie</hi> nor a crusade song as
+          it is traditionally understood, but a classic song of courtly love which begins in the
+          light style of a pastourelle to end tragically because of the lady’s indifference and the
+          pernicious action of the slanderers. The only sign of departure on crusade occurs in v. 8,
+          at the end of the first stanza, but this simple indication referring to a figure such as
+          the Châtelain de Coucy, whose actual participation in two crusades is well known, and the
+          legend of love and death celebrated in the romance of which he is the protagonist, invite
+          us to consider it as integral to the corpus (for other arguments see Dijkstra 1995a,
+          55-56). It contains some points of contact with RS 679, where the lady seems indifferent
+          to the lover’s suffering (vv. 13-14) and the poet blames the action of the slanderers (vv.
+          33-34), but the style of the two texts is very different.</p>
+        <p corresp="#rs.985.fro:(n=7)">The beginning of this song is reminiscent of a pastourelle
+          both for its frequent diminutives and for the reference to nakedness; see for example the
+          “canso-pastourelle” of Jocelin de Dijon RS 95, 11-20. The explicit references to nakedness
+          are not very common in the OF lyric and nearly all are in genres other than the courtly
+          love song. </p>
+        <p corresp="#rs.985.fro:(n=8)">The various strategies adopted by the manuscript tradition
+          (ançoiz qu’aille, ains que voise, ains que j’aille, ains k’en aille), which even lead to
+          the production of hypermetric readings such as those of L (ains que je m’en voise) and UV
+          (ainz que je voise), suggest the existence of an original hiatus ains ke aille.</p>
+        <p corresp="#rs.985.fro:(n=10)">C’s hypometric reading and the initial diffraction of the
+          tradition (ja ne, je ne, que ne, qu’onc ne, qu’ains ne) suggest the existence of an
+          original initial ne ne, wih syllabic repetition having led to the suppression of an
+          element (as attestated by C). Such a solution is made difficilior from the fact that in
+          this case the sentence is linked to a previous positive statement (but the possibility of
+          this usage is documentated by Ménard § 214, pp. 198-199; for the series ne ne see Ménard §
+          419 point 1°, p. 332), and compare AMa in v. 28.</p>
+        <p corresp="#rs.985.fro[range(@n=14,@n=15)]">The main problem with v. 14 concerns the
+          presence or absence of an initial negation, which leads to two different interpretations.
+          The variant with a negation is attestated by mss. CU+KLPVX and accepted by all editors,
+          but it has every appearance of a facilior and trivial interpretation. It is possible
+          however to remain faithful to AMOR3Ta if we understand the two verbs as feudal metaphors
+          (retenir means “take into service”, while quiter means “free from service”; compare the
+          similar interpretation of Bédier 1909 and Lerond 1964), or even in the literal sense
+          (“keep with her” and “leave, abandon”) meaning “if she wants to take me and (then) leave
+          me”, or else “if she wants to take me (into her service) and free me”; in this case the
+          negation does not seem necessary. Concerning v. 15, it should be recalled that prometre
+          can also mean “concede, grant some hope” or “ordain” (cfr. God X, 430c and VI, 432a) and
+          the first sense seems particularly interesting, given the use of the subjunctive which
+          could be interpreted as indicating a wish along the lines of si m’aït Diex.</p>
+        <p corresp="#rs.985.fro:(n=19)">The idea of mockery inherent in the reading quant de moi rit
+          di MOR3T is never otherwise attestated in this form in OF lyric and fits ill with the idea
+          of the “sweet death” expressed in the following line. It must refer to a smile, perhaps
+          cruel, but nonetheless a real smile, so the reading ele se rit is preferable, unanimously
+          attested by the mss. of the other two families and also supported by Aa. See for example
+          Tristan en prose (ed. Curtis) III, iii, 688, 55 (p. 14): Amors me rit, et puis me point
+          jusques au sanc.</p>
+        <p corresp="#rs.985.fro:(n=23)">ACUa’s reading is the only one that does not syntactically
+          link this line to the previous one, thus avoiding an awkward contradiction (it does not
+          make much sense to say the lady is killing the poet because he has loved her faithfully
+          after having just said she has no reason to do so); it seems much better to isolate vv.
+          23-24 syntactically and interpret them as meaning that precisely because the poet has
+          loved the lady faithfully, she has no excuse.</p>
+        <p corresp="#rs.985.fro:(n=35)">I do not share the opinion of Lerond 1964, p. 81 who see in
+          MR3T’s nenil/naie a lectio difficilior, justifying it with a strained interpretation. It
+          seems rather that the negation is a lectio facilior arising from the idea that the poet
+          cannot passively resign himself to an unrewarding fate. But such a fate is made inevitable
+          by the interference of the slanderers and in any case the expression teux est mon destin /
+          ma destinee in the OF lyric nearly always expresses the idea of resignation to a negative
+          situation. Compare RS 679, 9-11: Beaus sire Diex, k’iert il dont et coment? / convenra il
+          k’ens la fin congié praigne? / Oïl, par Dieu, ne puet estre autrement.</p>
+        <p corresp="#rs.985.fro[range(@n=38,@n=39)]">This phrase with its proverbial overtones is
+          not entirely clear, even if the general sense is intelligible: the slanderers who take
+          away the joy of love will not be able to restore it. Certain exceptions to the formula
+          faire don could suggest a passive sense (“receive as a gift, freely”), in which case it
+          would have the much clearer sense of “who takes away what he cannot receive as a gift”;
+          but it could also be interpreted more simply as “who takes away (from others) what he
+          himself cannot give”, in other words love. See Colin Muset RS 989, 8-12: Amors ont malvais
+          renon, / car li riche al cuer felon / sont amé por faire don, / et li cortois povres hom /
+          aime seus.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Non si tratta in questo caso né di una <hi rend="italic">chanson de départie</hi> né
+          tantomeno di una canzone di crociata tradizionalmente intesa, ma di una classica canzone
+          d’amore cortese che inizia con lo stile leggero di una pastorella per finire tragicamente
+          a causa dell’indifferenza della dama e dell’azione perniciosa dei calunniatori. L’unico
+          accenno alla partenza per la crociata si trova al v. 8, alla fine della prima strofa, ma
+          questo semplice accenno riferito a un personaggio come il Castellano di Coucy di cui si
+          conosce l’effettiva partecipazione a due crociate e la leggenda d’amore e morte celebrata
+          nel romanzo che lo vede protagonista invita a considerarla parte integrante del corpus
+          (per altri argomenti si veda Dijkstra 1995a, 55-56). Si può trovare inoltre qualche punto
+          di contatto con la canzone RS 679, dove la dama sembra indifferente alle sofferenze
+          dell’amante (vv. 13-14) e il poeta biasima l’azione dei calunniatori (vv. 33-34), ma lo
+          stile dei due testi è comunque molto diverso.</p>
+        <p corresp="#rs.985.fro:(n=7)">L’inizio di questa canzone ricorda una pastorella anche per i
+          frequenti diminutivi e il riferimento alla nudità; si veda per esempio la
+          “canzone-pastorella” di Jocelin de Dijon RS 95, 11-20. I riferimenti espliciti alla nudità
+          non sono molto numerosi nella lirica francese e quasi tutti al di fuori della canzone
+          cortese.</p>
+        <p corresp="#rs.985.fro:(n=8)">Le molteplici strategie dilatatorie adottate dalla tradizione
+          manoscritta (ançoiz qu’aille, ains que voise, ains que j’aille, ains k’en aille), che
+          arrivano fino alla produzione di lezioni ipermetriche come quella di L (ains que je m’en
+          voise) e di UV (ainz que je voise) suggeriscono l’esistenza di uno iato originario ains ke
+          aille.</p>
+        <p corresp="#rs.985.fro:(n=10)">La lezione ipometrica di C e la diffrazione iniziale della
+          tradizione (ja ne, je ne, que ne, qu’onc ne, qu’ains ne) fa sospettare l’esistenza di un
+          originale ne ne iniziale, con ripetizione sillabica che ha facilitato la soppressione di
+          un elemento (come attestato da C). Tale soluzione è resa difficilior dal fatto che in
+          questo caso la frase è coordinata a una prima sentenza positiva (ma la possibilità di
+          questo uso è documentata da Ménard § 214, pp. 198-199; per la successione ne ne si veda
+          Ménard § 419 punto 1°, p. 332), ed è in ogni caso attestata dai mss. AMa al v. 28.</p>
+        <p corresp="#rs.985.fro[range(@n=14,@n=15)]">Il problema principale del v. 14 riguarda la
+          presenza o l’assenza di una negazione iniziale, che porta a due interpretazioni diverse.
+          La variante con negazione è attestata dai mss. CU+KLPVX ed è accolta da tutti i principali
+          editori, ma ha tutta l’aria di un’interpretazione facilior e scontata. Si potrebbe invece
+          restare fedeli a AMOR3Ta intendendo i due verbi come metafore feudali (retenir significa
+          “prendere al servizio”, mentre quiter significa “liberare dal servizio”; si veda del resto
+          l’interpretazione in questa direzione di Bédier 1909 e Lerond 1964) o anche in senso
+          proprio (in questo caso “tenere con sé” e “lasciare, abbandonare”) col significato di “se
+          mi vuole prendere e (poi) lasciare”, oppure “se mi vuole prendere (al suo servizio) e
+          liberare”; in questo caso la negazione non mi pare affatto necessaria. Per quanto riguarda
+          il v. 15, va ricordato che prometre può significare anche “concedere, dare una speranza” o
+          “ordinare” (cfr. God X, 430c e VI, 432a) e soprattutto il primo significato sembra
+          interessante, visto l’uso del congiuntivo che potrebbe essere interpretato con valore
+          ottativo analogo al tipo si m’aït Diex.</p>
+        <p corresp="#rs.985.fro:(n=19)">Il valore di scherno insito nella lezione quant de moi rit
+          di MOR3T non è mai attestato in questa forma nella lirica francese e si adatta male
+          all’idea della “dolce morte” espressa nel verso successivo. Deve trattarsi di un sorriso,
+          forse crudele, ma pur sempre di un vero sorriso, e per questo si preferisce in questo caso
+          la lezione ele se rit attestata in modo compatto dai testimoni delle altre due famiglie e
+          confermata anche da Aa. Si veda per esempio Tristan en prose (ed. Curtis) III, iii, 688,
+          55 (p. 14): Amors me rit, et puis me point jusques au sanc.</p>
+        <p corresp="#rs.985.fro:(n=23)">La lezione di ACUa è l’unica che non lega sintatticamente
+          questo verso al precedente, evitando così una fastidiosa contraddizione (non ha molto
+          senso dire che la dama uccide l’autore per il fatto che egli l’ha amata lealmente dopo
+          aver appena detto che non ha nessun motivo per farlo); mi sembra molto più efficace
+          isolare sintatticamente i vv. 23-24 e interpretarli nel senso che proprio perché l’autore
+          ha amato lealmente la dama, questa non ha alcuna scusa.</p>
+        <p corresp="#rs.985.fro:(n=35)">Non condivido l’opinione di Lerond 1964, p. 81 che vede in
+          nenil/naie di MR3T una lectio difficilior giustificandola con un’interpretazione troppo
+          forzata per essere plausibile. Mi sembra al contrario che la negazione sia una lectio
+          facilior suscitata dall’idea che l’autore non possa rassegnarsi passivamente a un destino
+          ingrato. Ma tale destino è reso inevitabile dall’intervento dei calunniatori e in ogni
+          caso l’espressione teux est mon destin / ma destinee nella lirica francese esprime quasi
+          sempre l’idea di rassegnazione a un’opzione negativa. Si veda peraltro la corrispondenza
+          con RS 679, 9-11: Beaus sire Diex, k’iert il dont et coment? / convenra il k’ens la fin
+          congié praigne? / Oïl, par Dieu, ne puet estre autrement.</p>
+        <p corresp="#rs.985.fro[range(@n=38,@n=39)]">Questa frase dal sapore proverbiale non è
+          chiarissima, anche se il senso generale è comprensibile: i calunniatori che sottraggono la
+          gioia d’amore alla fine non potranno che rimetterci. Alcune accezioni della formula faire
+          don potrebbero far pensare a un uso in senso passivo (“ricevere in regalo,
+          gratuitamente”), nel qual caso si avrebbe il senso molto più chiaro di “chi sottrae ciò
+          che non può avere in dono”; ma si potrebbe anche interpretare più semplicemente “chi
+          sottrae (ad altri) ciò che lui stesso non può offrire”, cioè amore. Si veda Colin Muset RS
+          989, 8-12: Amors ont malvais renon, / car li riche al cuer felon / sont amé por faire don,
+          / et li cortois povres hom / aime seus.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

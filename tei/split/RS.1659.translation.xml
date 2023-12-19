@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2014-06-25</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Hofmann 1867, II, 495; Bédier-Aubry 1909, 287.</bibl>
+        </listBibl>
+        <listBibl type="essential_bibliography">
+          <bibl>Badel 1995: P. Y. Badel, Adam de la Halle, Oeuvres complètes, Paris 1995.</bibl>
+          <bibl>Bartsch 1858: </bibl>
+          <anchor xml:id="id_bibliografia"/>
+          <bibl>K. Bartsch, ‘Zu Heinrich von Morungen’, in Germania, 3 (1858), pp. 304-307.</bibl>
+          <bibl>Bec 1977-78: P. Bec, La lyrique française au moyen âge (XIIe-XIIIe siècles).
+            Contribution à une typologie des genres poétiques médiévaux, 2 vols, Paris 1977-78. </bibl>
+          <bibl>Bédier-Aubry 1909: J. Bédier and P. Aubry, Les chansons de croisade avec leurs
+            mélodies, Paris 1909.</bibl>
+          <bibl>Chailley 1942: J. Chailley, Adam de la Halle, Rondeaux à 3 voix, Paris 1942.</bibl>
+          <bibl>Dijkstra 1995a: C. Th. J. Dijkstra, La chanson de croisade. Etude thématique d’un
+            genre hybride, The Hague 1995.</bibl>
+          <bibl>Frank 1952: I. Frank, Trouvères et Minnesänger. Recueil de textes pour servir à
+            l’étude des rapports entre la poésie lyrique romane et le Minnesang au XIIIe siècle,
+            Saarbrücken, Universität des Saarlandes, 1952.</bibl>
+          <bibl>Gambino 2003: F. Gambino, Canzoni anonime di Trovatori e Trobairitz, Alessandria
+            2003.</bibl>
+          <bibl>Hofmann 1867: C. Hofmann, Sitzungsberichte der königlich bayerischen Akademie der
+            Wissenschaften zu München, 1867, II, pp. 495-96.</bibl>
+          <bibl>Koenig 1955-1970 : V. F. Koenig, Les Miracles de Nostre Dame, 4 vols., Genève
+            1955-1970.</bibl>
+          <bibl>Lecoy de la Marche 1890: A. Lecoy de la Marche, La prédication de la croisade au
+            treizième siècle, in «Revue des Questions Historiques», XLVIII (1890), pp. 5-28. </bibl>
+          <bibl>Ménard 1973 : Ph. Ménard, Manuel du français du Moyen Age, 1. Syntaxe de l’ancien
+            français, Bordeaux 1973.</bibl>
+          <bibl>Paris-Robert 1876-1893: G. Paris - U. Robert, Miracles de Nostre Dame par
+            personnages publiés d'aprés le manuscrit de la Bibliothèque nationale, 8 vols., Paris
+            1876-1893 [réimpr. New York 1966].</bibl>
+          <bibl>Throop 1940: P. A. Throop, Criticism of the Crusade: a Study of Public Opinion and
+            Crusade Propaganda, Amsterdam 1940. </bibl>
+          <bibl>Tischler 1978: H. Tischler, The Montpellier Codex. Critical Commentary, Madison
+            1978.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl>C 58r (anonymous). Empty stave.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl>C 58r (anonima). Pentagramma senza melodia.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;">
+        <p>10ab'ab'b'aab' (MW 860,41 = Frank
+        295); 3 coblas unissonans of 8 vv; rhyme a = -oi; rhyme b = -aire; assonance 10 mesaixe: 12
+        haire; equivocal rhyme: foi 1: 7, 23; identical rhymes: foi 7, 23; proi 3, 15; moi 9, 11,
+        (por) moi 14, 19, 22; traire 2, 8; faire 21: (bien) faire 5, 16 : (mal) faire 24; derivative
+        rhymes: 2, 8 traire: 20 retraire; 13 plaire: 4 desplaire; lyric caesura in vv. 1, 3, 15, 19,
+        20, 22; median caesura in v. 21; epic caesura in v. 24. The versification is common in the
+        Old French tradition; there are 20 other pieces with the same metrical shape, but only the
+        anonymous Or ai Amours servi tout mon vivant, also a unicum in C (RS 372 = MW 860:28), is
+        arranged, like this one, in 3 8-line coblas unissonans, but with different rhymes. In the
+        Occitan repertory a short anonymous text has the same metrical shape: the song Aissi m’ave
+        cum al enfan petit, not listed in BdT but registered by Frank under 295:6 (and in BEdT
+        461.9a), stemming from an anomalous and contested tradition (see Bartsch 1858, 304; Frank
+        1952, 113; Gambino 2003, 145). </p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10ab'ab'b'aab' (MW 860,41 = Frank
+        295); 3 <hi rend="italic">coblas unissonans</hi> di 8 vv; rima a = -<hi rend="italic">oi</hi>; rima b = -<hi rend="italic">aire</hi>; assonanza 10 <hi rend="italic">mesaixe</hi> : 12 <hi rend="italic">haire</hi>; rima equivoca: <hi rend="italic">foi</hi>
+        1 : 7, 23; rime identiche: <hi rend="italic">foi</hi> 7, 23; <hi rend="italic">proi</hi> 3,
+        15; <hi rend="italic">moi</hi> 9, 11, (<hi rend="italic">por</hi>) <hi rend="italic">moi</hi> 14, 19, 22; <hi rend="italic">traire</hi> 2, 8; <hi rend="italic">faire</hi> 21
+        : (<hi rend="italic">bien</hi>) <hi rend="italic">faire</hi> 5, 16 : (<hi rend="italic">mal</hi>) <hi rend="italic">faire</hi> 24; rime derivative: 2, 8 <hi rend="italic">traire</hi> : 20 <hi rend="italic">retraire</hi>; 13 <hi rend="italic">plaire</hi> : 4
+          <hi rend="italic">desplaire</hi>; cesura lirica ai vv. 1, 3, 15, 19, 20, 22; cesura
+        mediana al v. 21; cesura epica al v. 24 <hi rend="bold">[Ho cambiato l’ordine delle
+          informazioni solamente perchè ci sono abituata, ma se preferite l’altro, l’orignale va
+          bene]</hi>. Lo schema metrico è diffuso nella tradizione oitanica, sono infatti 20 gli
+        items che vi fanno capo, ma solo la canzone anonima <hi rend="italic"> Or ai Amours servi
+          tout mon vivant</hi>, anch'essa unicum di C (RS 372 = MW 860:28), è disposta, come questa,
+        su 3 coblas unissonans di 8 vv., seppure con rime diverse. Nel repertorio occitanico,
+        appartiene al medesimo schema rimico-sillabico un breve testo anonimo, non enumerato dalla
+        BdT ma registrato da Frank all’item 295:6 (e in BEdT 461,9a): la canzone di tradizione
+        anomala e discussa <hi rend="italic">Aissi m’ave cum al enfan petit</hi> (su cui si veda
+        Bartsch 1858, 304; Frank 1952, 113; Gambino 2003, 145).</p></metDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2014-06-25T16:37:36Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main"/>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1659.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Sweet lady, whom I love faithfully with a loyal and ever-constant heart, I beseech
+              you, lady, with joined hands I beseech you, let it not displease you if I have taken
+              the cross! Henceforth I have the desire to do what is good: I wish to go away to the
+              glorious tourney overseas, where live the faithless people who brought Jesus Christ so
+              much suffering.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Fair sweet friend, certainly this grieves me. Never was my heart so downcast: you
+              will go overseas without me! I would rather wear a hairshirt for all my days but,
+              since this pleases God and you, I do not wish it not to happen on my account. With
+              hands joined I beseech the Mother of God to bring you back home and let you perform
+              great deeds!</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>I shall be amazed if I do not to go out of my mind when I say ‘Adieu, until my
+              return!’ to my lady, who has done so much for me that I could not recount the tenth of
+              it. But no-one can do too much for the Lord God: when I remember that He died for me,
+              I have so much compassion and faith in Him that nothing I leave behind could hurt me.
+            </p>
+          </div>
+        </div><div type="translation" xml:id="rs.1659.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>«O dolce dama, che amo fedelmente con cuore leale e senza mai ripensamenti, vi prego
+              signora, a mani giunte vi prego, non vi dispiaccia se ho preso la croce! Da ora in poi
+              ho desiderio di agire nel bene: sto per andarmene al glorioso torneo oltremare, dove
+              vive gente senza fede che tanto fece soffrire Gesù Cristo».</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>«Bello e dolce amico, certo mi addolora. Mai prima d’ora il mio cuore fu così preso
+              dallo sconforto: andrete oltre mare senza di me! Preferirei indossare per sempre il
+              sacco ma, poiché piace a Dio e a voi, non voglio che l’impresa si fermi a causa mia.
+              Prego la Madre di Dio a mani giunte che vi riporti a casa e che vi faccia compiere
+              buone azioni!». </p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Sarei molto sorpreso di non uscire di senno quando dirò: «Addio, al mio ritorno!»
+              alla mia dama, che tanto ha fatto per me da non saperne dire la decima parte. Ma non è
+              mai troppo per il Signore Iddio: quando mi sovviene che egli morì per me, ho tanta
+              compassione e fede in lui che nulla che io lasci potrebbe farmi del male.</p>
+          </div>
+        </div></body></text></TEI>

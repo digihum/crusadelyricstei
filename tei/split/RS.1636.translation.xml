@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-10-21</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Bédier-Aubry 1909, 271, Tyssens 2015, 81.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Bédier-Aubry 1909, 271, Tyssens 2015, 81.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: (2) C 165rv (anonymous), U 20v (anonymous).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: (2) C 165rv (anonima), U 20v (anonima).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10a’ba’bba’b (MW 901,39 = Frank
+        301); 4 <hi rend="italic">coblas doblas</hi> + 1 <hi rend="italic">singular</hi>; rhyme a
+          -<hi rend="italic">ise</hi>, -<hi rend="italic">ie</hi>, -<hi rend="italic">oie</hi>;
+        rhyme b -<hi rend="italic">ant</hi> (<hi rend="italic">ent</hi>), -<hi rend="italic">eir</hi>, -<hi rend="italic">ir</hi>; very common versification (29 cases), used
+        especially by Gace Brulé in three songs in <hi rend="italic">coblas doblas</hi> (RS 1779, RS
+        1502, RS 42); decasyllables <hi rend="italic">a maiore</hi>: vv. 6, 18; median caesura: v.
+        3; lyric caesura: vv. 12, 27, 33; elision in vv. 1, 3, 9, 14, 18, 31; hiatus in vv. 3, 18;
+        v. 25 is hypometric by one syllable in U.</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10a’ba’bba’b (MW 901,39 = Frank
+        301); 4 <hi rend="italic">coblas doblas</hi> + 1 <hi rend="italic">singular</hi>; rima a =
+          -<hi rend="italic">ise</hi>, -<hi rend="italic">ie</hi>, -<hi rend="italic">oie</hi>; rima
+        b -<hi rend="italic">ant</hi> (<hi rend="italic">ent</hi>), -<hi rend="italic">eir</hi>,
+          -<hi rend="italic">ir</hi>; schema metrico-rimico molto frequente (29 casi), impiegato
+        specialmente da Gace Brulé in tre canzoni strutturate in <hi rend="italic">coblas
+          doblas</hi> (RS 1779, RS 1502, RS 42); decasillabi <hi rend="italic">a maiore</hi>: vv. 6,
+        18; cesura mediana: v. 3; cesura lirica: vv. 12, 27, 33; sinalefe ai vv. 1, 3, 9, 14, 18,
+        31; dialefe ai vv. 3, 18; il v. 25 è ipometro di una sillaba in U.</p></metDecl>
+      <editorialDecl xml:lang="en"><p>There is an empty stave in both mss.. In C stanza
+        V is missing and f. 165v has been left completely blank after six lines, at the end of the
+        transcription of stanza IV. There would therefore have been enough space for the
+        transcription of other stanzas. However, because of the <hi rend="italic">coblas doblas</hi>
+        structure and the essentially courtly theme of the song, this last stanza in ms. U might be
+        considered spurious, a reworking of the text designed to add the two traditional motifs of
+        the double service of God and Love and the heart which remains beside the beloved while the
+        body leaves for overseas. I follow the graphy of the Lorraine ms. C.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>In entrambi i mss. il pentagramma è lasciato
+        senza notazione. In C manca la V strofe e il f. 165v è stato lasciato completamente bianco
+        dopo sei righi, alla fine della trascrizione della quarta strofe. Ci sarebbe stato dunque lo
+        spazio sufficiente per la trascrizione anche di strofi successive. Tuttavia, e per la
+        struttura strofica a <hi rend="italic">coblas doblas</hi> e per l’argomentazione
+        essenzialmente cortese della canzone, si potrebbe considerare spuria quest’ultima strofa del
+        ms. U e vederla come prodotto di un rimaneggiamento teso a inserire i due motivi
+        tradizionali del doppio servizio a Dio e ad Amore e del cuore che rimane accanto all‘amata
+        mentre il corpo parte per la <hi rend="italic">voie</hi> ultramarina. Si segue la grafia del
+        lorenese C.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-21T15:22:41Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Anonymous</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1636.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>New Love has set itself within my heart and calls upon me to make a new song. But I
+              do not know from where to draw my joy, since it is fitting, if Love wishes me to sing,
+              for it to give me a heart joyful from my desire, for I can sing in no other way. All
+              loyal lovers know this well.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Although I have always sung my best turned towards <hi rend="italic">fin’Amor</hi>,
+              which I serve and ardently love – may it give me true passion and desire! –, it has
+              behaved most tyrannically towards me, so I congratulate myself inasfar as my lady has
+              looked most favourably upon me! I must sing and offer my service: I shall have great
+              joy if this pleases her. </p>
+          </div>
+          <div n="3" type="stanza">
+            <p>If Love has ever hurt or betrayed me, from now on I must not reproach it, for anyone
+              who blames me in connection with Love is a fool: even if I were still overseas I
+              should still want to think of my lady, because her beauty and her great courtliness
+              would be well able to improve me both here and there.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>If I go off to the land of Syria, this will not make me take my heart away [from
+              her], since I am ever a <hi rend="italic">fin aman</hi>, without any deceit, this I
+              can swear: I wish to serve and revere her wherever I may be! Sweet lady, your
+              sovereignty gives me passion and desire to sing.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>My will does not wholly belong to me, I need to serve Our Lord. I shall put my whole
+              soul and body into the passage, but my heart will never be able to part from my lady:
+              God let me have joy of her! I shall not leave her for anything in the world, because I
+              wish to die a <hi rend="italic">fin aman</hi>.</p>
+          </div>
+        </div><div type="translation" xml:id="rs.1636.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Di nuovo Amore si è insediato nel mio cuore e mi spinge a fare un nuovo canto; ma io
+              non so da dove trarre la mia gioia, cosicché mi conviene, se Amore vuole che io canti,
+              che mi doni il cuore gioioso dal mio desiderio, perché non posso cantare in altro
+              modo. Lo sanno bene tutti gli amanti leali.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Sebbene abbia sempre cantato al mio meglio rivolto a <hi rend="italic">fin’Amor</hi>,
+              che servo e amo con ardore – che mi doni sempre passione e desiderio! –, molto mi ha
+              tiranneggiato, così mi felicito con me stesso che la mia dama mi abbia fatto bel
+              sembiante! Devo cantare e offrire il mio servizio: ne avrò gran gioia se riesco a
+              piacerle.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Se mai Amore mi ha fatto male o ingannato, d’ora in avanti non mi devo lamentare,
+              perché è folle chi mi biasima riguardo ad Amore. Anche se fossi al di là del mare
+              penserei di continuo alla mia dama, perché la sua bellezza e la sua gran cortesia e
+              qui e là mi potranno rendere migliore. </p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Se anche me ne andassi in terra di Siria, non allontanerei per questo il mio cuore da
+              lei, perché rimango sempre un <hi rend="italic">fin amans</hi>, senza alcun inganno,
+              sono pronto a giurarlo: voglio servirla e riverirla ovunque mi trovi! Dolce dama, la
+              vostra signoria mi doni passione e desiderio di cantare.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>La mia volontà non appartiene tutta a me, nostro Signore mi toccherà servire. Metterò
+              nel passaggio tutta la mia anima e il mio corpo, ma mai il mio cuore si potrà dividere
+              dalla mia dama, che Dio mi conceda di gioire di lei! Per niente al mondo me ne
+              separerei, perché vorrei morire da <hi rend="italic">fin amans</hi>.</p>
+          </div>
+        </div></body></text></TEI>

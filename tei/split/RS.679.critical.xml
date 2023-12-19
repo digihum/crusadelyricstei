@@ -1,0 +1,548 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-08-25</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde 1780, II, 300; Crapelet 1829, 137; Michel 1830, 79; Brakelmann
+            1870-1891, 103; Fath 1883, 36; Paris-Langlois 1897, 287; Bédier-Aubry 1909, 99;
+            Delbouille 1936, 238; Woledge 1961, 101; Lerond 1964, 57; Maillard 1967, 28; Mary 1967,
+            I, 206; Cluzel 1969, 109; Schöber 1976, 205; van der Werf 1977-1979, 224; Bec 1977-1978,
+            II, 96; Aspland 1979, 154; Collins 1982, 23; Baumgartner 1983, 236; Picot 1975, II, 6;
+            Dijkstra 1995a, 196; Rosenberg-Tischler 1995, 384; Gaullier-Bougassas 2009, 534 (as far
+            as romances containing quotations are concerned, references are given only to editions
+            of the <hi rend="italic">Roman du Châtelain de Coucy</hi>, which contains the complete
+            text).</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde 1780, II, 300; Crapelet 1829, 137; Michel 1830, 79; Brakelmann
+            1870-1891, 103; Fath 1883, 36; Paris-Langlois 1897, 287; Bédier-Aubry 1909, 99;
+            Delbouille 1936, 238; Woledge 1961, 101; Lerond 1964, 57; Maillard 1967, 28; Mary 1967,
+            I, 206; Cluzel 1969, 109; Schöber 1976, 205; van der Werf 1977-1979, 224; Bec 1977-1978,
+            II, 96; Aspland 1979, 154; Collins 1982, 23; Baumgartner 1983, 236; Picot 1975, II, 6;
+            Dijkstra 1995a, 196; Rosenberg-Tischler 1995, 384; Gaullier-Bougassas 2009, 534 (per
+            quanto riguarda i romanzi a citazioni, si danno solo i riferimenti alle edizioni del <hi rend="italic">Roman du Châtelain de Coucy</hi>, che contiene il testo
+            integrale).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss. (11+28)</hi>: A 153a (anonymous), C 17v (<hi rend="italic">li
+              Chaistelain de Cousi</hi>), K 107b (<hi rend="italic">li Chastelains de Couci</hi>), M
+            52d (anon.), O 4d (anon.), P 39b (<hi rend="italic">li Chastelains de Couci</hi>), R<hi rend="superscript">3</hi> 119r (anon.), T 155r (<hi rend="italic">li
+            Chastelains</hi>), U 19v (anon.), V 80a (anon.), X 76c (<hi rend="italic">li Chastelains
+              de Couci</hi>); <hi rend="italic">Roman du Châtelain de Coucy et de la Dame de
+              Fayel</hi> vv. 7347-7398 (2 mss.), <hi rend="italic">Roman de la Violette </hi>vv.
+            4624-4631 (vv. 9-16, 4 mss.), <hi rend="italic">La Châtelaine de Vergy</hi> vv. 295-302
+            (vv. 9-16, 22 mss.).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss</hi>. <hi rend="bold">(11+28)</hi>: A 153a (anonima), C 17v (<hi rend="italic">li Chaistelain de Cousi</hi>), K 107b (<hi rend="italic">li Chastelains
+              de Couci</hi>), M 52d (anon.), O 4d (anon.), P 39b (<hi rend="italic">li Chastelains
+              de Couci</hi>), R<hi rend="superscript">3</hi> 119r (anon.), T 155r (<hi rend="italic">li Chastelains</hi>), U 19v (anon.), V 80a (anon.), X 76c (<hi rend="italic">li
+              Chastelains de Couci</hi>); <hi rend="italic">Roman du Châtelain de Coucy et de la
+              Dame de Fayel</hi> vv. 7347-7398 (2 mss.), <hi rend="italic">Roman de la Violette
+            </hi>vv. 4624-4631 (vv. 9-16, 4 mss.), <hi rend="italic">La Châtelaine de Vergy</hi> vv.
+            295-302 (vv. 9-16, 22 mss.).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10 ab’ab’b’aac (MW 889,2); 6 <hi rend="italic">coblas doblas</hi>; the 4-line <hi rend="italic">envoi</hi> (b’aac) is found
+        only in U and is very probably spurious, even if confirmed by the version found in the <hi rend="italic">Roman du Châtelain de Coucy</hi>; rhyme a: <hi rend="italic">-ent</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-o(u)r</hi>; rhyme b: <hi rend="italic">-aigne</hi>, <hi rend="italic">-ie</hi>, <hi rend="italic">-oie/-aie</hi> (a licence also
+        found in Gace Brulé RS 787 and RS 1590); rhyme c: <hi rend="italic">-ais</hi> (rhyme c is
+        fixed in all stanzas). The unusual use of the isolated rhyme within the stanza is
+        compensated for by the repetition of the same rhyme in every stanza. The anonymous song <hi rend="italic">Li chastelains de Couci ama tant</hi> (RS 358) is a <hi rend="italic">contrafactum</hi> of our text. The author pays great attention to varying the rhymes and
+        to avoiding redundant effects, though there is a paranomous rhyme in vv. 37 and 44 (<hi rend="italic">voie-revoie</hi>), an equivocal rhyme in vv. 8 and 32 (<hi rend="italic">lais</hi>, in the first case a nominative noun and the second a verb), and an identical
+        rhyme in vv. 42 and 45, with repetition of the same formulaic expression (<hi rend="italic">en quel lieu ke je soie</hi>). The caesurae are also generally regular: there is a
+        feminine caesura with elision in vv. 15 and 41. Melody in AKMOPR<hi rend="superscript">3</hi>TUVX, with insignifcant variants; melodic scheme AA’ AA’ BCDE (T 401,1).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10 ab’ab’b’aac (MW 889,2); 6 <hi rend="italic">coblas doblas</hi>, l’<hi rend="italic">envoi</hi> di 4 versi (b’aac) è solo
+        in U ed è con tutta probabilità spurio, benché confermato dalla versione contenuta nel <hi rend="italic">Roman du Châtelain de Coucy</hi>; rima a: <hi rend="italic">-ent</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-o(u)r</hi>; rima b: <hi rend="italic">-aigne</hi>, <hi rend="italic">-ie</hi>, <hi rend="italic">-oie/-aie</hi> (licenza
+        segnalata anche in Gace Brulé RS 787 e RS 1590); rima c: <hi rend="italic">-ais</hi> (la
+        rima c è fissa in tutte le strofe); l’uso poco comune della rima irrelata all’interno della
+        strofa è compensato dal fatto che la stessa rima viene ripresa in tutte le strofe; la
+        canzone anonima <hi rend="italic">Li chastelains de Couci ama tant</hi> (RS 358) è un <hi rend="italic">contrafactum</hi> del nostro testo; l’autore presta molta attenzione a
+        variare le rime e a non creare effetti di ridondanza; si ha però rima paronima ai vv. 37 e
+        44 (<hi rend="italic">voie-revoie</hi>), rima equivoca tra i vv. 8 e 32 (<hi rend="italic">lais</hi>, nel primo caso sostantivo e nel secondo verbo) e una rima identica ai vv. 42 e
+        45, con ripetizione della medesima espressione formulare (<hi rend="italic">en quel lieu ke
+          je soie</hi>); anche le cesure sono in genere regolari: vi è cesura femminile con elisione
+        ai vv. 15 e 41; melodia in AKMOPR<hi rend="superscript">3</hi>TUVX, con varianti poco
+        significative; schema melodico AA’ AA’ BCDE (T 401,1).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>Three families seem to stand out fairly clearly
+        (see also Schwan 1886, p. 137): the usual group AMT (s<hi rend="superscript">I</hi>), in
+        this case joined by O, a notoriously contaminated songbook, here particularly close to A
+        (there are no common errors but only common readings); KPR<hi rend="superscript">3</hi>VX
+          (s<hi rend="superscript">II</hi>), thanks to the irregular rhymes of v. 25 and stanza VI
+        and to various common readings, some <hi rend="italic">facilior</hi> (this group seems to
+        transmit a re-written, inferior version, perhaps influenced by the legend that sprang up
+        around the Châtelain de Coucy; see Jung 1986, pp. 8-10); and the couple CU (s<hi rend="superscript">III</hi>; error at the rhyme in v. 10 plus other <hi rend="italic">facilior</hi> readings). The result is a strong incidence of contamination: clearly
+        contaminated are R<hi rend="superscript">3</hi>V, O and also CU which, while at times
+        confirming the good readings of AMOT, often separate from each other and come closer to the
+        two alternative readings. Because of the strong level of contamination and the scarcity of
+        common errors which stand in the way of a traditional reconstructive approach, it has been
+        decided not to opt for a hybrid text but basically to reproduce the text of the AMT group
+        because of the quality of its readings, often confirmed by O and also CU (vv. 6, 24, 26,
+        46-48), even when the tradition offers three variants each supported by one of the families
+        of Schwan (vv. 12, 20, 25, 28, 31, 45). In some cases this decision has probably led to a
+        banal and perhaps inferior reading of s<hi rend="superscript">I</hi> (vv. 15, 31 and 45).
+        Effort has nevertheless been made to avoid including in the text the reading from one single
+        family when this is unanimously opposed to the testimony of the other groups (vv. 8, 19/22,
+        21, 24, 26, 30). The graphy is that of ms. T (U for the <hi rend="italic">envoi</hi>),
+        characterised by northern traits which must also be those of the author’s <hi rend="italic">scripta</hi>. The attribution can be considered essentially unanimous, since even in A,
+        M, O and R<hi rend="superscript">3</hi> the text is integrated into the section devoted to
+        the Châtelain de Coucy.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Nella tradizione manoscritta di questa canzone
+        sembrano delinearsi abbastanza nettamente tre famiglie (si veda anche Schwan 1886, p. 137):
+        il consueto gruppo composto da AMT (s<hi rend="superscript">I</hi>), ai quali in questo caso
+        si aggrega anche O, canzoniere notoriamente contaminato, qui particolarmente vicino ad A
+        (non vi sono errori congiuntivi, ma solo lezioni comuni); KPR<hi rend="superscript">3</hi>VX
+          (s<hi rend="superscript">II</hi>), grazie alle rime irregolari del v. 25 e della strofa vi
+        e a varie lezioni comuni alcune delle quali banalizzanti (questo gruppo sembra portatore di
+        una lezione rielaborata e deteriore, forse influenzata dalla leggenda fiorita attorno al
+        Castellano di Coucy; si veda Jung 1986, pp. 8-10); la coppia CU (s<hi rend="superscript">III</hi>; errore in rima al v. 10 più altre banalizzazioni). Risulta forte l’incidenza
+        della contaminazione: sono chiaramente contaminati R<hi rend="superscript">3</hi>V, O e
+        anche CU, che pur confermando a volte le buone lezioni di AMOT, spesso si separano
+        avvicinandosi alle due lezioni alternative. A causa della forte contaminazione e della
+        scarsità di errori congiuntivi che impediscono un approccio ricostruttivo tradizionale, si è
+        scelto di non optare per un testo ibrido e di riprodurre sostanzialmente il testo del gruppo
+        AMT per la qualità della lezione, spesso confermata da O e anche da CU (vv. 6, 24, 26,
+        46-48), anche quando la tradizione propone tre varianti ciascuna sostenuta da una delle
+        famiglie di Schwan (vv. 12, 20, 25, 28, 31, 45). In alcuni casi questa scelta ha
+        probabilmente comportato la promozione a testo di lezioni di s<hi rend="superscript">I</hi>
+        banali e forse deteriori (vv. 15, 31 e 45). Si è tuttavia cercato di evitare di promuovere a
+        testo la lezione di una sola famiglia quando a essa si oppongono in modo compatto i
+        testimoni degli altri gruppi (vv. 8, 19/22, 21, 24, 26, 30). Si adotta la grafia del ms. T
+        (quella di U per il congedo), caratterizzata da tratti settentrionali che dovevano
+        appartenere anche alla <hi rend="italic">scripta</hi> dell’autore. Per quanto riguarda
+        l’attribuzione, essa può essere considerata sostanzialmente unanime, poiché anche nei
+        canzonieri A, M, O e R<hi rend="superscript">3</hi> il testo è integrato nella sezione
+        dedicata al Castellano di Coucy.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-08-30T18:10:25Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Châtelain de Coucy</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="text" xml:id="rs.679.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">A vous amant, plus k’a nul’autre gent,</l>
+            <l n="2">est bien raisons ke ma dolor complaigne,</l>
+            <l n="3">car il m’estuet partir outreement</l>
+            <l n="4"> et desevrer de ma loial compaigne;</l>
+            <l n="5">et, quant li pert, n’est riens ki me remaigne;</l>
+            <l n="6">et sachiés bien, Amors, seürement,</l>
+            <l n="7">s’ainc nus morut por avoir cuer dolent,</l>
+            <l n="8"> dont n’ert par moi mais meüs vers ne lais.</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="9">Beaus sire Diex, k’iert il dont et coment?</l>
+            <l n="10">convenra il k’ens la fin congié praigne?</l>
+            <l n="11">Oïl, par Dieu, ne puet estre autrement,</l>
+            <l n="12">sans li m’estuet aler en terre estraigne;</l>
+            <l n="13">or ne quic mais ke grans maus me soffraigne</l>
+            <l n="14">quant de li n’ai confort n’alegement,</l>
+            <l n="15">ne de nule autre amor joie n’atent</l>
+            <l n="16">fors ke de li, ne sai se ch’iert jamais.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="17">Beaus sire Diex, k’iert il del consirrer,</l>
+            <l n="18">del grant soulas et de la compaignie</l>
+            <l n="19">et des samblanz ke me soloit moustrer</l>
+            <l n="20">cele ki m’ert dame, compaigne, amie?</l>
+            <l n="21">Et quant recort sa simple courtoisie</l>
+            <l n="22">et les dols mos ke suet a moi parler,</l>
+            <l n="23">coment me puet li cuers el cors durer?</l>
+            <l n="24">quant ne s’em part, certes molt est mauvais.</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="25">Ne me vaut pas Diex por noient doner</l>
+            <l n="26">tos les deduis k’ai eüs ens ma vie,</l>
+            <l n="27">ains les me fait c(h)ierement comperer,</l>
+            <l n="28">s’ai grant paour chis loiers ne m’ochie;</l>
+            <l n="29">merchi Amors, s’ainc Diex fist vilonie,</l>
+            <l n="30">ke vilains fait boine amor desevrer:</l>
+            <l n="31">ne je ne puis l’amor de moi oster</l>
+            <l n="32">et si m’estuet ke jou ma dame lais.</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="33">Or seront lié li faus losengeor</l>
+            <l n="34">cui tant pesoit des biens k’avoir soloie,</l>
+            <l n="35">mais ja de çou n’ere pelerins jor</l>
+            <l n="36">ke ja vers aus boine volenté aie;</l>
+            <l n="37">por tant porrai perdre tote ma voie,</l>
+            <l n="38">car tant m’ont fait de mal li traïtor,</l>
+            <l n="39">se Diex voloit k’il eüssent m’amor,</l>
+            <l n="40">ne me porroit cargier plus pesant fais.</l>
+          </lg>
+          <lg n="6" type="stanza">
+            <l n="41">Je m’en vois, dame: a Dieu le creator</l>
+            <l n="42">comanc vo cors, en quel lieu ke je soie,</l>
+            <l n="43">ne sai se ja verrés mais mon retor;</l>
+            <l n="44">aventure est que jamais vous revoie;</l>
+            <l n="45">por Dieu vous pri, en quel lieu ke je soie,</l>
+            <l n="46">ke nos convens tenés, viegne ou demour,</l>
+            <l n="47">et je proi Dieu k’ausi me doinst honor</l>
+            <l n="48">com je vous ai esté amis verais.</l>
+          </lg>
+          <lg n="7" type="stanza">
+            <l n="49">De moie part di, chançons, si t’en croie,</l>
+            <l n="50">que sols m’en vois, que n’ai altre seignor;</l>
+            <l n="51">et bien sachiez, dame de grant valor,</l>
+            <l n="52">se je revieng, que por vos servir nais.</l>
+          </lg>
+        </div><div type="text" xml:lang="en ">
+          <p>Luca Barbieri 2015</p>
+        </div><div type="text" xml:lang="it ">
+          <p>Luca Barbieri 2015</p>
+        </div></body><back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>The trouvère is almost certainly to be identified with Guy IV, Castellan of Coucy (dép.
+          Aisne, arr. Laon), who was born before his father’s death in 1167 and died at sea in 1203
+          during the Fourth Crusade. Often confused with the titular lord and owner of the fief, the
+          castellan is actually the official responsible for the custody and defence of a castle,
+          usually in charge of a garrison (Barthélémy 1984, p. 148). Guy IV appears with the title
+          of Castellan of Coucy in some documents dated between 1186 and 1202, the year the Fourth
+          Crusade set out, and he is also titled Viscount of Soissons and Lord of Namcel (Melleville
+          1855, p. 254). The fact that the documents only define him as castellan from 1186 onwards
+          suggests that he was born not much before his father’s death, perhaps around 1165; he must
+          have still been relatively young at the time of the Fourth Crusade. Guy IV took part in
+          both Third and Fourth Crusades and died at sea in June 1203 during the crossing of the
+          Aegean sea, as Villehardouin, § 124, confirms. Villehardouin also states that he was among
+          those who opposed the deviation to Constantinople but nevertheless remained with the
+          crusaders (§§ 113-117). Guy was married to a certain Marguerite (d’Epagny, according to
+          Melleville 1855, p. 256) but remained childless; for this reason the post of castellan of
+          Coucy was inherited by Mauduite, his father’s only living sister, who passed it on to her
+          son Renaud de Magny, previously destined for the clerical life, who is referred to as
+          castellan in documents written between 1207 and 1218. The Châtelain de Coucy is the
+          protagonist of a late-13th-c. romance vaguely inspired by his life, but certainly
+          justified by the success of his lyrics, which it frequently quotes. The <hi rend="italic">Roman du Châtelain de Coucy et de la Dame de Fayel</hi> identifies the trouvère as
+          Renaud de Magny, who however never took part in a crusade and would have had to have done
+          so before acceding to the title of castellan. In addition, the author of the romance
+          situates the action within the context of the Third Crusade, producing a distortion of
+          history which makes all other dates unreliable. The song is addressed to lovers awaiting
+          the imminent departure on crusade (even if this is never mentioned explicitly) and treats
+          the painful necessity of separation from the beloved and the predicament of having to give
+          precedence to God’s rather than the lady’s service. If such autobiographical indications
+          are to be taken seriously, the text must have been composed shortly before departure on
+          one of the two expeditions in which the Châtelain took part, so in the early months of
+          1190 or of 1202.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Il troviero va identificato quasi certamente con Guy IV castellano di Coucy (dip. Aisne,
+          arr. Laon), nato prima del 1167, data della morte del padre, e morto in mare nel 1203
+          durante la quarta crociata. Spesso confuso a torto con il signore titolare e proprietario
+          del feudo, il castellano è invece l’ufficiale responsabile della custodia e della difesa
+          di un castello, solitamente posto a capo di una guarnigione appositamente costituita
+          (Barthélémy 1984, p. 148). Guy IV appare con il titolo di Castellano di Coucy in alcuni
+          documenti tra il 1186 e il 1202, anno della partenza per la quarta crociata, e risulta
+          anche insignito dei titoli di visconte di Soissons e signore di Namcel (Melleville 1855,
+          p. 254). Il fatto che nei documenti sia definito castellano solo a partire dal 1186 lascia
+          pensare che sia nato non molto prima della morte del padre, forse verso il 1165; egli
+          doveva essere ancora relativamente giovane al tempo della quarta crociata. Guy IV ha
+          partecipato alla terza e alla quarta crociata ed è morto in mare nel giugno del 1203
+          durante la traversata dell’Egeo, come conferma Villehardouin, § 124. Sempre secondo
+          Villehardouin, egli era tra coloro che si erano opposti alla deviazione verso
+          Costantinopoli ma erano comunque rimasti con i crociati (§§ 113-117). Guy risulta sposato
+          con una Margherita (d’Epagny, secondo Melleville 1855, p. 256) dalla quale tuttavia non
+          ebbe figli; per questo motivo la carica di castellano di Coucy fu ereditata da Mauduite,
+          unica sorella del padre ancora in vita, che la trasmise al figlio Renaud de Magny,
+          destinato in precedenza alla vita clericale, che risulta castellano in documenti scritti
+          tra il 1207 e il 1218. Il Castellano di Coucy è il protagonista di un romanzo della fine
+          del XIII secolo vagamente ispirato alla sua vita, ma certamente legittimato dal successo
+          delle sue liriche, delle quali contiene numerose citazioni. Il <hi rend="italic">Roman du
+            Châtelain de Coucy et de la Dame de Fayel</hi> identifica il troviero con Renaud di
+          Magny, il quale tuttavia non ha mai partecipato a una crociata e nel caso l’avrebbe fatto
+          prima di accedere al titolo di castellano. Inoltre, l’autore del romanzo colloca l’azione
+          nel contesto della terza crociata, operando uno stravolgimento storico che rende
+          inaffidabile ogni altro dato. La canzone è indirizzata agli amanti nell’imminenza della
+          partenza per la crociata (anche se questa non viene mai nominata direttamente) e mette a
+          tema la necessità dolorosa della separazione dall’amata e il dilemma della precedenza da
+          accordare al servizio divino rispetto a quello della dama. Se si prendono sul serio tali
+          indicazioni autobiografiche, il testo sarà stato composto poco prima di partire per une
+          dalle due spedizioni alle quali il Castellano ha partecipato, quindi nei primi mesi del
+          1190 o del 1202.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>The literary merits of the Châtelain de Coucy were immediately recognised by his
+          contemporaries, as is shown by his privileged position at the beginning of the main
+          songbooks immediately after Gace Brulé, his elevation to the ranks of exemplary lover
+          proposed by Eustache le Peintre in RS 2116, 33-35 (along with Tristan and Blondel de
+          Nesle, though the comparison with Tristan already exists in the Châtelain’s most famous
+          song, RS 40, 19-20), confirmed by the <hi rend="italic">incipit</hi> of the anonymous RS
+          358 (<hi rend="italic">Li chastelains de Couci ama tant / qu’ainz por amor nus n’en ot
+            dolor graindre</hi>), which is moreover a <hi rend="italic">contrafactum</hi> of our RS
+          679. One of the Châtelain’s lines (the <hi rend="italic">incipit </hi>of RS 40) is quoted
+          in v. 7 of the song RS 1252 by Gilles de Viés Maisons, which also cites Gace Brulé and
+          Blondel de Nesle. The legend of the castellan who is a perfect lover and loyal knight,
+          immortalised in the <hi rend="italic">Roman du Châtelain de Coucy</hi>, finds an excellent
+          starting-point in RS 679, though it mainly concerns the farewell to the lady and the
+          exaltation of courtly love. The present song does not actually mention the overseas
+          expedition, which can only be deduced by certain vague indications (see especially vv.
+          25-27 and the use of the “technical” noun <hi rend="italic">voie</hi> in v. 37); but the
+          author stresses the duty and necessity of departure, reinforced by the insistent recourse
+          to <hi rend="italic">m’estuet</hi> (vv. 3, 12, 32) and the adverb <hi rend="italic">outreement</hi> (v. 3) and summed up in vv. 11-12. The success of the Châtelain de
+          Coucy’s songs is demonstrated both by the romance of which he is the protagonist and by
+          their insertion into the main romances containing lyric quotations: Jean Renart’s<hi rend="italic"> Guillaume de Dole</hi>, Gerbert de Montreuil’s <hi rend="italic">Roman de
+            la Violette</hi> and the <hi rend="italic">Châtelaine de Vergi</hi>.</p>
+        <p corresp="#rs.679.fro[range(@n=Whether the song RS 679 was written at the time of the Third Crusade or the Fourth, it is in any case one of the oldest chansons de d&#xE9;partie with a male first,@n=person speaker, if one disregards Conon de B&#xE9;thune&#x2019;s RS, which despite the novelty of the opening adieu still bears the imprint of a classic song of crusading exhortation (Dijsktra 1995a, p. 164). The chanson de d&#xE9;partie is a typically French variation of the crusade song, which progressively emphasises the theme of love at the expense of its political and religious side and its tone of exhortation or invective. The Ch&#xE2;telain de Coucy&#x2019;s crusade songs are essentially love)]">On the pain of separation see Chardon de Croisilles RS 499, 9-11: Amors, ci a trop dure
+          desevree / quant il m’estuet partir de la meillor / qui onques fust ne qui jamés soit nee.
+          The formula m’estuet is also found three times in RS 499 (vv. 3, 10, 22), and is typical
+          of the chanson de départie (compare v. 12 with Châtelain d’Arras RS 140, 1 and RS 1582,
+          36).</p>
+        <p corresp="#rs.679.fro[range(@n=7,@n=8)]">For the idea of death for love see RS 1582,
+          39-40: Se nus morut por leament amer, / ne cuit vivre dresk’a havre de meir and Hugues de
+          Berzé RS 1126, 1-2: S’onques nuns hons por dure departie / ot cuer dolant, dont l’ai je
+          par raison. The theme of death within the love relationship is analysed by Zaganelli 1982,
+          pp. 143-157.</p>
+        <p corresp="#rs.679.fro:(n=17)">Nearly all editors have considered the substantival
+          infinitive consirrer to have its usual sense of “lack, privation”, the following nouns
+          specifying its objects; but this interpretation requires one to accept a strong
+          anacoluthon and to ignore the syntactic construction of a perfectly symetrical list headed
+          by consirrer. In reality consirrer can also mean “amorous thought, amorous care” and can
+          thus acquire positive force.</p>
+        <p corresp="#rs.679.fro:(n=23)">The theme of the separation of the lady linked to the
+          separation of the heart from the body is adopted in very similar terms by Hugues de Berzé
+          RS 1126, 49-50, but is already present in Conon de Béthune RS 1125, 7-8. See also RS 1582,
+          5-6 and the whole of RS 499 by Chardon de Croisilles, especially vv. 5-8, 14-15 (quant mes
+          cors va fere sa destinee, / et mes fins cuers s’est ja mis el retor) and 21-24 (Dex, ou
+          irai? ferai je noise ou cri, / quant il m’estuet fere la departie / de mon fin cuer et
+          lessier a celi / qui ainc du sien ne me lessa partie?). The separation of the heart from
+          the body is one of the central themes of all of the Châtelain’s production, which can
+          explain the insertion of the eaten heart motif into the Roman du Châtelain de Coucy.</p>
+        <p corresp="#rs.679.fro[range(@n=25,@n=27)]">God asks for the knight’s service in exchange
+          for the joy of love granted to him. This is a more courtly version of the typical
+          preaching theme of exchange found in some crusade songs, according to which service of God
+          through crusading is the fair price to pay for salvation procured by Christ by His death
+          on the cross. The use of this motif, along with other analogies found in the chansons de
+          départie, allows us to link the present text to the context of crusading; compare for
+          example Huon de Saint-Quentin RS 1576, 1-8; Richard de Fournival RS 1022, 1-8; RS 401,
+          3-7; RS 1967, 21-30.</p>
+        <p corresp="#rs.679.fro[range(@n=29,@n=30)]">These lines introduce the theme of the discreet
+          reproach to God for the cruel separation from the lady, echoed in several other crusade
+          songs such as RS 191, 6-7: si qu’a bien pou que vers Deu ne m’irais, / qui m’a osté de
+          grant joie ou j’estoie; Guiot de Dijon RS 21, 30-32: Sire Dex, por quel feïs? / Quant
+          l’uns a l’autre atalente, / Por coi nos as departis?; Hugues de Berzé RS 1126, 33-36: Un
+          confort voi en vostre dessevrance, / que je n’avrai a Deu que reprochier; / mais quant por
+          li me covient vos laissier, / je ne sai rien de greingnor reprochance and Thibaut de
+          Champagne RS 757, 5-6: Dex! pour quoi fu la terre d’outremer, / qui tant amant avra fait
+          dessevrer. Syntactically this is probably a case of the particular use of the expression
+          faire que with a neutral relative pronoun, for which see Ménard § 69, p. 83 and Jensen §
+          22, p. 12.</p>
+        <p corresp="#rs.679.fro[range(@n=31,@n=32)]">For these lines, and particularly for the idea
+          of the contrast between the physical separation from the lady and the impossibility of
+          separating from love, see Chardon de Croisilles RS 499, 3-5: lessier m’estuet la riens
+          qu’ai plus amee / por Damledieu servir, mon criator, / et neporquant tot remaing a
+          Amor.</p>
+        <p corresp="#rs.679.fro[range(@n=33,@n=40)]">As Bédier 1909, p. 106 observed, these lines
+          are to be understood within the crusading context. The crusader obtained the indulgence
+          only for those sins of which he repented and which he confessed, and was also invited to
+          pardon those who had done him injury. Hence the trouvère declares he will lose the
+          spiritual benefits of his pilgrimage because he is incapable of forgiving the great harm
+          done to him by the slanderers. It is noteworthy that voie (v. 37), which corresponds to
+          the Latin iter, is one of the terms with which pilgrimage and crusade were commonly
+          indicated; see for example Thibaut de Champagne RS 757, 23: quant j’onques vos aler en
+          ceste voie; RS 1133, 18-19: se ceste voie est perie, vilains sera li retours; RS 1636, 31:
+          L’arme et lo cors mettrai tot en la voie; RS 1738a, 3-4: Li rois de France est croisiés /
+          pour aler en chele voie.</p>
+        <p corresp="#rs.679.fro:(n=35)">I have chosen to translate pelerin as “penitent” to make the
+          context clearer, but it should be remembered that pelerinage is another term with which
+          the crusade is commonly defined, along with voie; hence pelerin has the technical sense of
+          “crusader”, along with the more generic one of “pilgrim”. See Conon de Béthune RS 1125,
+          27: partiront tot a cest pelerinaige; Raoul de Soissons RS 1204, Se j’ai lonc tans esté en
+          Romenie / et outremer fet mon pelerinage. The exclamation Sire, aidiés au pelerin
+          constitutes the initial line of the refrain of Guiot de Dijon RS 21.</p>
+        <p corresp="#rs.679.fro[range(@n=45,@n=48)]">The commitment to mutual fidelity before
+          departure on crusade is also expressed in Thibaut de Champagne’s RS 1469, 13-16: por ce
+          vos pri, d’amors douce senblance, / c’on ne s’en doit partir por esmaiance, / ne ja de moi
+          nel verrez avenir, / que tout parfaiz vuil en amors morir and Chardon de Croisilles’ RS
+          499, 41-44: Au departir, douce dame, vos pri / que ja por riens que losengiers vos die /
+          ne m’oubliez, et je tot autresi / jamés vers vos ne ferai vilanie.</p>
+        <p corresp="#rs.679.fro[range(@n=49,@n=52)]">The envoi is almost certainly spurious, being
+          attested only in U and the version in the Roman del Châtelain de Coucy, but it is worth
+          recording it to point out the evolution towards explicit reference to crusading, which is
+          particularly clear in the romance version, vv. 7395-7398: Nus n’a pité. Va, cançons, si
+          t’en croie / Que je m’en vois siervir Nostre Seignour; / Si saciés bien, dame de grant
+          valour, / Se je revieng, que pour vous siervir vais. It is not impossible that such a
+          version was already present in the model used by the romance author, but it is much more
+          likely that we are faced with an innovation due to the demands of the narrative text,
+          since the song is inserted at precisely the point where the Châtelain commits himself to
+          leave on crusade. Compare the strong similarities with the envoi to RS 1582, 41-44: Car
+          atresi con la flors nest de l’ante, / n’est li grans duelz de vos ki me tormante; / mais,
+          s’en revien, sour sains le puis jurer, / ke c’iert por vos servir et honorer.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>I meriti letterari del Castellano di Coucy ebbero un immediato riconoscimento tra i
+          contemporanei, come testimoniano la sua posizione privilegiata in testa ai principali
+          canzonieri, dopo Gace Brulé, l’elevazione al rango di amante esemplare proposta da
+          Eustache le Peintre nella canzone RS 2116, 33-35 (insieme a Tristano e a Blondel de Nesle;
+          ma il paragone con Tristano si trova già nella più nota canzone del Castellano, RS 40,
+          19-20) e confermato dall’<hi rend="italic">incipit</hi> della canzone anonima RS 358 (<hi rend="italic">Li chastelains de Couci ama tant / qu’ainz por amor nus n’en ot dolor
+            graindre</hi>), che oltretutto è un <hi rend="italic">contrafactum</hi> della nostra RS
+          679. Un verso del Castellano è anche citato al v. 7 della canzone <hi rend="italic">cum
+            auctoritate</hi> RS 1252 di Gilles de Viés Maisons (<hi rend="italic">incipit </hi>di RS
+          40), nella quale sono citati anche Gace Brulé e Blondel de Nesle. La leggenda del
+          castellano perfetto amante e cavaliere leale, resa immortale dal <hi rend="italic">Roman
+            du Châtelain de Coucy</hi>, trova un ottimo spunto nella canzone RS 679, che però è
+          prevalentemente consacrata all’addio alla dama e all’esaltazione dell’amore cortese.
+          L’evento della spedizione oltremare non è neppure nominato e si può dedurre solo da
+          qualche vago accenno (si vedano in particolare i vv. 25-27 e l’uso del sostantivo
+          “tecnico” <hi rend="italic">voie</hi> al v. 37); l’autore insiste invece sul dovere e
+          sulla necessità della partenza, idea ben rappresentata dall’insistito ricorso
+          all’espressione impersonale<hi rend="italic"> m’estuet</hi> (vv. 3, 12, 32; a cui si può
+          aggiungere l’avverbio <hi rend="italic">outreement</hi> del v. 3) e sintetizzata nei vv.
+          11-12. Oltre alla fortuna assicurata loro dal romanzo di cui risulta protagonista, le
+          canzoni del Castellano di Coucy sono inserite nei principali romanzi a citazioni liriche:
+          il <hi rend="italic">Guillaume de Dole</hi> di Jean Renart, il <hi rend="italic">Roman de
+            la Violette</hi> di Gerbert de Montreuil e la <hi rend="italic">Châtelaine de
+          Vergi</hi>.</p>
+        <p>A prescindere dal fatto che sia stata scritta in occasione della terza o della quarta
+          crociata, la canzone RS 679 è in ogni caso tra le più antiche <hi rend="italic">chansons
+            de départie</hi> a soggetto maschile, se non si considera tale la RS 1125 di Conon de
+          Béthune, che malgrado la novità iniziale ha ancora l’impianto di una classica canzone di
+          esortazione alla crociata (Dijsktra 1995a, p. 164). La <hi rend="italic">chanson de
+            départie</hi> è una declinazione tipicamente francese delle canzoni di crociata, che
+          accentua sempre più l’aspetto amoroso a scapito di quello politico-religioso e del tono di
+          esortazione o invettiva. Anche le canzoni di crociata del Castellano di Coucy sono
+          sostanzialmente delle canzoni d’amore che esasperano la tensione della partenza e
+          considerano la crociata unicamente come un dovere ineluttabile e doloroso, mentre
+          l’afflato ideale e religioso tipico delle canzoni di esortazione, e presente anche nei
+          testi di Conon de Béthune, non trova nessuno spazio: in primo piano c’è solo l’esaltazione
+          della dama amata e l’analisi psicologica della sofferenza dell’amante costretto al
+          distacco (definizioni e analisi delle <hi rend="italic">chansons de départie</hi> in Bec
+          1977, I, pp. 150-157 e Dijkstra 1995a, pp. 35-49). Sono notevoli le affinità tematiche e
+          formulari tra la canzone RS 679 e la RS 1126 di Hugues de Berzé, la RS 757 di Thibaut de
+          Champagne, la RS 499 di Chardon de Croisilles, l’anonima RS 1582 e anche con la RS 1575 di
+          Gautier de Dargies, che non è considerata abitualmente come una canzone di crociata perché
+          non contiene alcun riferimento esplicito alle spedizioni in Terra Santa ma solo un accenno
+          iniziale a un generico lungo soggiorno fuori dalla Francia.</p>
+        <p corresp="#rs.679.fro[range(@n=3,@n=4)]">Sul dolore della separazione si veda Chardon de
+          Croisilles RS 499, 9-11: Amors, ci a trop dure desevree / quant il m’estuet partir de la
+          meillor / qui onques fust ne qui jamés soit nee. La formula m’estuet si trova tre volte
+          anche in RS 499 (vv. 3, 10, 22), ed è tipica della chanson de départie (si confronti il v.
+          12 con Châtelain d’Arras RS 140, 1 e RS 1582, 36).</p>
+        <p corresp="#rs.679.fro[range(@n=7,@n=8)]">Per l’idea della morte per amore si veda RS 1582,
+          39-40: Se nus morut por leament amer, / ne cuit vivre dresk’a havre de meir e Hugues de
+          Berzé RS 1126, 1-2: S’onques nuns hons por dure departie / ot cuer dolant, dont l’ai je
+          par raison. Il tema della morte all’interno della relazione amorosa è analizzato da
+          Zaganelli 1982, pp. 143-157.</p>
+        <p corresp="#rs.679.fro:(n=17)">Quasi tutti gli editori hanno considerato l’infinito
+          sostantivato consirrer nel senso abituale di “mancanza, privazione”, di cui i sostantivi
+          successivi specificherebbero gli oggetti; ma questa interpretazione richiede di accettare
+          un forte anacoluto e d’ignorare la costruzione sintattica che propone un elenco
+          perfettamente simmetrico di cui consirrer sarebbe il primo elemento. In realtà consirrer
+          ha anche il valore di “pensiero amoroso, cura amorosa” e in questo senso può assumere una
+          valenza positiva.</p>
+        <p corresp="#rs.679.fro:(n=23)">Il tema della separazione dalla dama legato alla separazione
+          del cuore dal corpo viene ripreso con termini molto simili da Hugues de Berzé RS 1126,
+          49-50, ma è già presente in Conon de Béthune RS 1125, 7-8. Si veda anche RS 1582, 5-6 e
+          l’intera canzone RS 499 di Chardon de Croisilles, ma soprattutto i vv. 5-8, 14-15 (quant
+          mes cors va fere sa destinee, / et mes fins cuers s’est ja mis el retor) e 21-24 (Dex, ou
+          irai? ferai je noise ou cri, / quant il m’estuet fere la departie / de mon fin cuer et
+          lessier a celi / qui ainc du sien ne me lessa partie?). Quello della separazione del cuore
+          dal corpo è uno dei temi centrali di tutta la produzione del Castellano, che può
+          giustificare l’inserimento del motivo del cuore mangiato nel Roman du Châtelain de
+          Coucy.</p>
+        <p corresp="#rs.679.fro[range(@n=25,@n=27)]">Dio chiede al cavaliere un servizio in cambio
+          delle gioie amorose accordategli; si tratta di una versione più cortese del tema del
+          contraccambio tipico della predicazione che trova riscontro in alcune canzoni di crociata,
+          secondo il quale il servizio a Dio attraverso la crociata sarebbe il giusto prezzo da
+          pagare per la salvezza procurata da Cristo con la sua morte in croce. Il ricorso a questo
+          motivo, insieme alle altre analogie riscontrate con le chansons de départie, permette di
+          legare la canzone RS 679 del Castellano di Coucy al contesto delle canzoni di crociata; si
+          veda per esempio Huon de Saint-Quentin RS 1576, 1-8; Richard de Fournival RS 1022, 1-8; RS
+          401, 3-7; RS 1967, 21-30.</p>
+        <p corresp="#rs.679.fro[range(@n=29,@n=30)]">Si affaccia in questi versi il tema del
+          rimprovero discreto a Dio per la crudele separazione dalla dama, che verrà ripreso in
+          diverse altre canzoni di crociata come RS 191, 6-7: si qu’a bien pou que vers Deu ne
+          m’irais, / qui m’a osté de grant joie ou j’estoie; Guiot de Dijon RS 21, 30-32: Sire Dex,
+          por quel feïs? / Quant l’uns a l’autre atalente, / Por coi nos as departis?; Hugues de
+          Berzé RS 1126, 33-36: Un confort voi en vostre dessevrance, / que je n’avrai a Deu que
+          reprochier; / mais quant por li me covient vos laissier, / je ne sai rien de greingnor
+          reprochance e Thibaut de Champagne RS 757, 5-6: Dex! pour quoi fu la terre d’outremer, /
+          qui tant amant avra fait dessevrer. A livello sintattico si tratta con tutta probabilità
+          di un particolare uso dell’espressione faire que con un pronome relativo neutro, per cui
+          si veda Ménard § 69, p. 83 e Jensen § 22, p. 12.</p>
+        <p corresp="#rs.679.fro[range(@n=31,@n=32)]">Per questi versi, e soprattutto per l’idea del
+          contrasto tra la separazione fisica dalla dama e l’impossibilità di separarsi da amore, si
+          veda Chardon de Croisilles RS 499, 3-5: lessier m’estuet la riens qu’ai plus amee / por
+          Damledieu servir, mon criator, / et neporquant tot remaing a Amor.</p>
+        <p corresp="#rs.679.fro[range(@n=33,@n=40)]">Come già ricorda Bédier 1909, p. 106, il
+          significato di questi versi si capisce all’interno della dinamica propria della crociata.
+          Il cavaliere crociato otteneva l’indulgenza solo per i peccati di cui si pentiva e che
+          confessava, ed era invitato anche a perdonare coloro che gli avevano fatto del male. In
+          questo senso il troviero afferma di temere di perdere i benefici spirituali del suo
+          pellegrinaggio perché si ritiene incapace di perdonare il gran male arrecatogli dai
+          calunniatori. Va ricordato che voie (v. 37), che corrisponde al latino iter, è uno dei
+          termini con cui si indicavano comunemente il pellegrinaggio e la crociata; si veda per
+          esempio Thibaut de Champagne RS 757, 23: quant j’onques vos aler en ceste voie; RS 1133,
+          18-19: se ceste voie est perie, vilains sera li retours; RS 1636, 31: L’arme et lo cors
+          mettrai tot en la voie; RS 1738a, 3-4: Li rois de France est croisiés / pour aler en chele
+          voie.</p>
+        <p corresp="#rs.679.fro:(n=35)">Ho scelto di rendere pelerin con “penitente” per rendere più
+          chiaro il contesto, ma non va dimenticato che pelerinage è un altro termine con cui si
+          definiva comunemente la crociata, insieme a voie; per cui pelerin ha tecnicamente il
+          significato di “crociato”, insieme a quello più generico di “pellegrino”. Si veda Conon de
+          Béthune RS 1125, 27: partiront tot a cest pelerinaige; Raoul de Soissons RS 1204, Se j’ai
+          lonc tans esté en Romenie / et outremer fet mon pelerinage; l’esclamazione Sire, aidiés au
+          pelerin costituisce il verso iniziale del refrain di Guiot de Dijon RS 21.</p>
+        <p corresp="#rs.679.fro[range(@n=45,@n=48)]">L’impegno di fedeltà reciproca prima della
+          partenza per la crociata si trova espresso anche in Thibaut de Champagne RS 1469, 13-16:
+          por ce vos pri, d’amors douce senblance, / c’on ne s’en doit partir por esmaiance, / ne ja
+          de moi nel verrez avenir, / que tout parfaiz vuil en amors morir e Chardon de Croisilles
+          RS 499, 41-44: Au departir, douce dame, vos pri / que ja por riens que losengiers vos die
+          / ne m’oubliez, et je tot autresi / jamés vers vos ne ferai vilanie.</p>
+        <p corresp="#rs.679.fro[range(@n=49,@n=52)]">Il congedo è quasi certamente spurio, essendo
+          attestato solo da U e dalla versione del Roman del Châtelain de Coucy, ma vale la pena
+          riportarlo soprattutto per segnalare l’evoluzione verso il riferimento esplicito alla
+          crociata, ben visibile soprattutto nella versione contenuta del romanzo, vv. 7395-7398:
+          Nus n’a pité. Va, cançons, si t’en croie / Que je m’en vois siervir Nostre Seignour; / Si
+          saciés bien, dame de grant valour, / Se je revieng, que pour vous siervir vais. Non si può
+          escludere che tale versione esplicita si trovasse già nel modello usato dell’autore, ma è
+          molto più probabile che si tratti di un’innovazione dovuta alle esigenze del testo
+          narrativo, poiché la canzone è inserita proprio nel punto dove il Castellano si impegna a
+          partire per la crociata. Si vedano le forti analogie con il congedo di RS 1582, 41-44: Car
+          atresi con la flors nest de l’ante, / n’est li grans duelz de vos ki me tormante; / mais,
+          s’en revien, sour sains le puis jurer, / ke c’iert por vos servir et honorer.</p>
+      </div>
+    </back></text></TEI>

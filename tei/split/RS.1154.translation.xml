@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    
+    
+    
+    <fileDesc><titleStmt><title>E! coens d’Anjo, on dist per felonnie (RS 1154)</title><author>Raoul de Soissons</author><funder>AHRC</funder><principal>Linda Paterson</principal><respStmt><name>Steve Ranford</name><name>Mike Paterson</name><resp xml:lang="en">Conversion to TEI-conformant markup by</resp><resp xml:lang="it">Conversione al markup conforme a TEI di</resp></respStmt>        <respStmt>
+      <name>Luca Barbieri</name>
+      <resp xml:lang="en">Italian Translation by</resp>
+      <resp xml:lang="it">Traduzione italiana di</resp>
+    </respStmt>
+      
+      <respStmt>
+        <name>Anna Radaelli</name>
+        <resp xml:lang="en">Italian translation checked by</resp>
+        <resp xml:lang="it">Traduzione italiana controllata da</resp>
+      </respStmt>
+    </titleStmt>      <editionStmt>
+      <edition><date>2014</date></edition>
+    </editionStmt>
+      <publicationStmt>
+        <publisher>French Department, University of Warwick</publisher>
+        <date>2014</date><availability status="free"><licence xml:lang="en" target="https://creativecommons.org/licenses/by-sa/4.0/legalcode"> Distributed under the Creative Commons Attribution-ShareAlike 4.0 International Public License</licence><licence xml:lang="it" target="https://creativecommons.org/licenses/by-sa/4.0/legalcode.it">Distribuito sotto la Licenza Pubblica Creative Commons Attribuzione-CondividiAlloStessoModo 4.0 Internazionale</licence></availability></publicationStmt>
+      
+    
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Jubinal 1838, 46; Brakelmann 1868, 285 (diplomatic edition of ms. C); Winkler 1914,
+            46; Beck 1927, 17 (diplomatic edition of ms. O); Rosenberg-Tischler 1995, 646; Hardy
+            2009 (www.lfa.uottawa.ca/activites/textes/ineke/Chansons/R1154ed.htm).</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Jubinal 1838, 46; Brakelmann 1868, 285 (edizione diplomatica del ms. C); Winkler
+            1914, 46; Beck 1927, 17 (edizione diplomatica del ms. O); Rosenberg-Tischler 1995, 646;
+            Hardy 2009 (www.lfa.uottawa.ca/activites/textes/ineke/Chansons/R1154ed.htm).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts">
+          <head> Mss. </head>
+          <bibl>(3): C 64v [66v] (<hi rend="italic">messires raious de Soixons</hi>), O 12c (anon.),
+            Me 57v? (<hi rend="italic">Messire Thierri de Soissons</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;">
+        <p>10a’ba’bba’a’cc (MW 891,2 = Frank 298); six <hi rend="italic">coblas redondas</hi>, with
+          a two-line <hi rend="italic">envoi</hi> which picks up the c rhyme of the last stanza;
+          rhyme a = <hi rend="italic">-ie</hi>; rhyme b = <hi rend="italic">-ui</hi>, <hi rend="italic">-on(s)</hi>, <hi rend="italic">-is</hi>, <hi rend="italic">-ir</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-or</hi>; rhyme c = <hi rend="italic">-on</hi>, <hi rend="italic">-is</hi>, <hi rend="italic">-ir</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-or</hi>, <hi rend="italic">-é</hi>. The versification with
+            <hi rend="italic">coblas redondas</hi> is typical of Raoul di Soissons, who uses it in
+          six other pieces; here he produces a complex structure consisting of one constant rhyme
+          and two others which change from stanza to stanza according to a pattern of <hi rend="italic">retrogradatio</hi> (from the second stanza the b rhyme echoes the c rhyme
+          of the preceding stanza); frequent rich rhymes (for example <hi rend="italic">oblie</hi>,
+            <hi rend="italic">folie</hi>, <hi rend="italic">lie</hi> vv. 28, 33 and 34; <hi rend="italic">mie</hi>, <hi rend="italic">anemie</hi>, <hi rend="italic">amie</hi> vv.
+          3, 10, 24 and 42) and derivative rhymes (for example <hi rend="italic">ocis</hi> and <hi rend="italic">ocie</hi> vv. 22 and 43, <hi rend="italic">partis</hi> and <hi rend="italic">partir</hi> vv. 23 and 27, <hi rend="italic">oblie </hi>and <hi rend="italic">oblieir</hi> vv. 28 and 35); equivocal rhymes <hi rend="italic">partir</hi> vv. 27 and 32; identical rhymes <hi rend="italic">mie</hi> vv. 3 and 10,
+            <hi rend="italic">vie</hi> vv. 15 and 21. Lyric caesuras occur in vv. 15, 25, 37 and 54
+          and a feminine caesura with elision in vv. 17 (if the decasyllable is considered to be
+          structured according to the form 6+4) and 20. Melody in O (T 660).</p>
+      </metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;">
+        <p>10a’ba’bba’a’cc (MW 891,2 = Frank 298); 6 <hi rend="italic">coblas redondas</hi>, con un
+            <hi rend="italic">envoi</hi> di 2 versi che riprendono la rima c dell’ultima strofe;
+          rima a = <hi rend="italic">-ie</hi>; rima b = <hi rend="italic">-ui</hi>, <hi rend="italic">-on(s)</hi>, <hi rend="italic">-is</hi>, <hi rend="italic">-ir</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-or</hi>; rima c = <hi rend="italic">-on</hi>,
+            <hi rend="italic">-is</hi>, <hi rend="italic">-ir</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-or</hi>, <hi rend="italic">-é</hi>; lo schema a <hi rend="italic">coblas
+            redondas</hi> è tipico di Raoul di Soissons, che vi ricorre in altri sei casi; l’autore
+          disegna in questo componimento una struttura complessa costituita da una rima costante e
+          da altre due rime che cambiano di strofa in strofa secondo un rapporto di <hi rend="italic">retrogradatio</hi> (a partire dalla seconda strofa la rima b riprende la
+          rima c della strofa precedente); frequenti rime paronime (per esempio <hi rend="italic">oblie</hi>, <hi rend="italic">folie</hi>, <hi rend="italic">lie</hi> ai vv. 28, 33 e
+          34; <hi rend="italic">mie</hi>, <hi rend="italic">anemie</hi>, <hi rend="italic">amie</hi>
+          ai vv. 3, 10, 24 e 42) e derivative (per esempio <hi rend="italic">ocis</hi> e <hi rend="italic">ocie</hi> ai vv. 22 e 43, <hi rend="italic">partis</hi> e <hi rend="italic">partir</hi> ai vv. 23 e 27, <hi rend="italic">oblie </hi>e <hi rend="italic">oblieir</hi> ai vv. 28 e 35); rima equivoca <hi rend="italic">partir</hi>
+          ai vv. 27 e 32; rime identiche <hi rend="italic">mie</hi> ai vv. 3 e 10, <hi rend="italic">vie</hi> ai vv. 15 e 21; vi è cesura lirica ai vv. 15, 25, 37 e 54; cesura femminile
+          con elisione ai vv. 17 (se si considera il decasillabo strutturato secondo la forma 6+4) e
+          20. Melodia in O (T 660).</p>
+      </metDecl>
+      <editorialDecl xml:lang="en">
+        <p>The complete text of six stanzas + envoi is found only in ms. C; ms. O transmits only
+          stanza I, while we have only the third stanza of the text which was in the lost songbook
+          of Mesmes (close to N, according to Huet 1902, xxiv), transcribed by Claude Fauchet in his
+          Recueil de l’origine de la langue et poësie françoise, published in 1591. The text given
+          here is that of C, with the the variants of O and Me adding little of quantitative or
+          qualitative significance. For the attribution to Thierry de Soissons see the introduction
+          to song RS 1204.</p>
+      </editorialDecl>
+      <editorialDecl xml:lang="it">
+        <p>Il testo completo delle sei strofe e dell’<hi rend="italic">envoi</hi> si trova solo nel
+          ms. C; il ms. O riporta unicamente la strofa incipitaria, mentre del testo che si trovava
+          nel perduto canzoniere di Mesmes (vicino a N, secondo Huet 1902, xxiv) abbiamo solo la
+          terza strofa, trascritta da Claude Fauchet nel suo <hi rend="italic">Recueil de l’origine
+            de la langue et poësie françoise</hi>, pubblicato nel 1591. Il testo proposto è quello
+          di C, anche alla luce della scarsa rilevanza quantitativa e qualitativa delle varianti di
+          O e Me. Per l’attribuzione a Thierry de Soissons si veda l’introduzione alla canzone RS
+          1204.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2014-10-04T15:21:51Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Raoul de Soissons</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1154.en" xml:lang="en">
+        <head> Translation </head>
+        <div n="1" type="stanza">
+          <p>Ah, Count of Anjou, it is treacherously said that I only know how to sing through other
+            people. What they say is true, I do not deny it, because I was never my own master; and
+            if they want to know whose man I am, I shall tell through my great courtliness: know
+            that Love so holds me in its power that I have neither the ability, will or intellect to
+            compose a song without him.</p>
+        </div>
+        <div n="2" type="stanza">
+          <p>My Lord, be aware, and have no doubt about it, that a knight will not have great renown
+            without true love and without its lordship, and no-one can be a worthy man without it;
+            for it tramples the highest barons underfoot and makes the poor lead a high life.
+            Prowess, honour and the pleasures of company derive from its support, and it gives more
+            joy to its friends than anyone could have outside paradise.</p>
+        </div>
+        <div n="3" type="stanza">
+          <p>Love has sorely tested me in Syria and in Egypt, where I was taken prisoner, for I was
+            constantly in fear for my life and every day I was sure I would be killed; but despite
+            this my heart was never separated or parted from my sweet enemy, nor in France during my
+            grave illness, when I thought I would die from my gout, was my heart capable of leaving
+            her.</p>
+        </div>
+        <div n="4" type="stanza">
+          <p>It is no marvel if a true lover occasionally forgets his amorous desire, when he goes
+            overseas alone for two or three years or more without returning. I certainly thought I
+            could escape its prison, but I was presumptuous and foolish in this thought, for Love
+            has imprisoned me and holds and binds me so fast that even if I flee I cannot forget
+            her, but instead am constrained to be at her mercy once more. </p>
+        </div>
+        <div n="5" type="stanza">
+          <p>From the anguish I have felt on her account no-one could escape without dying, and for
+            fear of the death that threatens me I have come to her to cry her mercy; and if by
+            weeping I cannot find mercy, I must die without the comfort of another lover; and if she
+            wishes my love for her to kill me, she would have a cruel, unfeeling heart, if she let
+            me die in such pain.</p>
+        </div>
+        <div n="6" type="stanza">
+          <p>Ah, Count of Anjou, through your singing you could have joy and reputation and honour,
+            but my joy is over, without reward, and all my songs have turned to weeping, so that I
+            shall never sing again; I therefore beg you, and my song begs you, to sing it so that it
+            will be heard before the one who surpasses in goodness all other ladies in
+            Christendom.</p>
+        </div>
+        <div n="7" type="stanza">
+          <p>As truly as I speak truth, may God send me joy and health from her.</p>
+        </div>
+      </div><div type="translation" xml:id="rs.1154.it" xml:lang="it">
+        <head> Translation </head>
+        <div n="1" type="stanza">
+          <p>Ah, conte d’Angiò, si dice per cattiveria che io non so cantare se non per altri. È
+            vero quello che dicono, non lo nego, perché non sono mai stato padrone di me stesso. E
+            se vogliono sapere a chi appartengo glielo dirò per la mia grande cortesia: sappiate che
+            Amore mi tiene a tal punto in sua balia che non ho capacità, volontà né ragione per
+            comporre una canzone senza di lui.</p>
+        </div>
+        <div n="2" type="stanza">
+          <p>Signore sappiate, e non abbiate dubbi su questo, che un cavaliere non sarà mai di
+            grande fama senza il buon amore e al di fuori della sua signoria, e nessuno senza di lui
+            può essere un prode, perché egli pone sotto i suoi piedi i più alti baroni e ai poveri
+            fa condurre una vita elevata. Prodezza, onore e consolazione vengono dal suo soccorso, e
+            dà più gioia ai suoi amici di quanta se ne possa mai avere, se non in paradiso.</p>
+        </div>
+        <div n="3" type="stanza">
+          <p>Amore mi ha duramente messo alla prova in Siria e in Egitto, dove fui fatto
+            prigioniero, perché la mia vita era costantemente in pericolo e ogni giorno temetti di
+            essere ucciso, ma non per questo il mio cuore si è mai separato o allontanato dalla mia
+            dolce nemica; e anche in Francia durante la mia grave malattia, quando credetti di
+            morire per la mia gotta, il mio cuore non poteva separarsi da lei.</p>
+        </div>
+        <div n="4" type="stanza">
+          <p>Non c’è da meravigliarsi se un amante leale dimentica qualche volta il suo desiderio
+            amoroso, quando se ne va solo oltremare due o tre anni o più senza tornare. Ho creduto
+            davvero di potermi liberare dalla sua prigione, ma si è trattato di un pensiero folle e
+            sconsiderato, perché Amore mi ha catturato e mi tiene e mi lega così forte che anche
+            fuggendo non lo posso dimenticare, anzi sono costretto a rimettermi alla sua mercé.</p>
+        </div>
+        <div n="5" type="stanza">
+          <p>Dall’angoscia che ho provato a causa sua non si può sfuggire se non con la morte, e per
+            paura della morte che mi minaccia sono venuto a chiederle mercé, e se (neppure)
+            piangendo non riesco a trovare mercé mi toccherà morire senza conforto d’altra amante; e
+            se vuole che l’amore per lei mi uccida, (allora) avrebbe davvero un cuore crudele e
+            privo di bontà, se mi lasciasse morire in un tale dolore.</p>
+        </div>
+        <div n="6" type="stanza">
+          <p>Ah, conte d’Angiò, con il vostro canto potreste avere gioia e stima e onore, ma la mia
+            gioia è finita senza premio, e tutti i miei canti sono trasformati in lamenti, così che
+            non canterò mai più. Per questo vi prego, e la mia canzone vi prega, che la cantiate in
+            modo da farla udire davanti a colei che supera in bontà tutte le altre della
+            cristianità.</p>
+        </div>
+        <div n="7" type="stanza">
+          <p>Com’è vero che dico la verità, Dio mi mandi per suo tramite gioia e salute.</p>
+        </div>
+      </div></body></text></TEI>

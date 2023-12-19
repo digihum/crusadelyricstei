@@ -1,0 +1,527 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>rs37a</title>
+				<author>Linda Paterson</author>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					<date>2013-11-03</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<p>unknown</p>
+			</publicationStmt>
+			<sourceDesc>
+				<listBibl type="manuscripts" xml:lang="en">
+					<head>Mss. (2).</head>
+					<bibl>D<hi rend="superscript">p</hi> 210d-211a (anonima),</bibl> <bibl>H<hi rend="superscript">p</hi> 46ab (<hi rend="italic">N’Ugo de
+							Bersié</hi> ). </bibl>
+				</listBibl>
+				<listBibl type="manuscripts" xml:lang="it">
+					<head>Mss. (2).</head>
+					<bibl>D<hi rend="superscript">p</hi> 210d-211a (anonima),</bibl> <bibl>H<hi rend="superscript">p</hi> 46ab (<hi rend="italic">N’Ugo de
+							Bersié</hi>).</bibl>
+				</listBibl>
+				<listBibl type="essential_bibliography">
+
+					<bibl>
+						<hi rend="underline">Abulafia 1990</hi>: David Abulafia, <hi rend="italic">Federico II. Un imperatore medievale</hi>, Torino, Einaudi, 1990. </bibl>
+					<bibl>
+						<hi rend="underline">Arveiller-Gouiran 1987</hi>: Raymond Arveiller, Gérard
+						Gouiran, <hi rend="italic">L’œuvre poétique de Falquet de Romans,
+							troubadour</hi>, Aix-en Provence, Université de Provence, 1987. </bibl>
+					<bibl>
+						<hi rend="underline">Barbieri 1997</hi>: Luca Barbieri, «Signori-trovieri
+						in Borgogna: una lirica attribuita a Gautier de Berzé», <hi rend="italic">Medioevo romanzo</hi>, 21 (1997), pp. 107-131. </bibl>
+					<bibl>
+						<hi rend="underline">Barbieri 2001</hi>: Luca Barbieri, <hi rend="italic">Le liriche di Hugues de Berzé, edizione critica</hi>, Milano, CUSL,
+						2001. </bibl>
+					<bibl>
+						<hi rend="underline">Bédier 1906</hi>: Joseph Bédier, «Sur deux chansons de
+						croisade», <hi rend="italic">Romania</hi>, 35 (1906), pp. 387-393. </bibl>
+					<bibl>
+						<hi rend="underline">Bédier-Aubry 1909</hi>: Joseph Bédier, Pierre Aubry,
+							<hi rend="italic">Les chansons de croisade avec leurs mélodies</hi>,
+						Paris, Champion, 1909 (Genève, Slatkine, 2011). </bibl>
+					<bibl>
+						<hi rend="underline">Chaume 1938</hi>: Maurice Chaume, «Les premiers
+						seigneurs de Berzé», <hi rend="italic">Annales de l’Académie de Mâcon</hi>,
+						s. III, 33 (1938), pp. 161-172. </bibl>
+					<bibl>
+						<hi rend="underline">Engelcke 1886</hi>: Karl Engelcke, «Die Lieder des
+						Hugues de Bregi», <hi rend="italic">Archiv für das Studium des neueren
+							Sprachen und Literaturen</hi>, 75 (1886), pp. 147-176. </bibl>
+					<bibl>
+						<hi rend="underline">Gallina 1985</hi>: Mario Gallina, «Fra Occidente e
+						Oriente: la “crociata” aleramica per Tessalonica», in <hi rend="italic">
+							Piemonte medievale, forme del potere e della società, studi per Giovanni
+							Tabacco</hi>, Torino, Einaudi, 1985, pp. 65-83. </bibl>
+					<bibl>
+						<hi rend="underline">Gouiran 1994</hi>: Gérard Gouiran, «À propos de la vie
+						de Hugues de Berzé, trouvère bourguignon. Essai de nouvelle chronologie», in
+							<hi rend="italic"> Actas do XIX Congreso Internacional de Lingüística e
+							Filoloxía Románicas</hi>, publicadas por R. Lorenzo, VII, A Coruña,
+						Fundación “Pedro Barrié de la Maza, Conde de Fenosa”, 1994, pp. 339-351. </bibl>
+					<bibl>
+						<hi rend="underline">Guida 1992</hi>: Saverio Guida, <hi rend="italic">Canzoni di crociata</hi>, Parma, Pratiche, 1992 </bibl>
+					<bibl>
+						<hi rend="underline">Haberstumpf 1995</hi>: Walter Haberstumpf, <hi rend="italic"> Dinastie europee nel Mediterraneo orientale: i Monferrato
+							e i Savoia nei secoli XII-XV</hi>, Torino, Scriptorium, 1995. </bibl>
+					<bibl>
+						<hi rend="underline">Langlois 1984</hi>: Charles-Victor Langlois, <hi rend="italic">La vie en France au Moyen Âge de la fin du XII</hi>
+						<hi rend="italic superscript">e</hi>
+						<hi rend="italic">au milieu du XIV</hi>
+						<hi rend="italic superscript">e</hi>
+						<hi rend="italic"> siècle d’après des moralges du temps</hi>, II, Paris,
+						Hachette, 1926 (= Genève, Slatkine, 1984), pp. 88-106. </bibl>
+					<bibl>
+						<hi rend="underline">Lecoy 1938</hi>: Felix Lecoy, <hi rend="italic">La</hi> Bible <hi rend="italic">au seigneur de Berzé</hi>, <hi rend="italic"> édition critique d’après tous les manuscrits connus</hi>, Paris, Droz, 1938. </bibl>
+					<bibl>
+						<hi rend="underline">Lecoy 1942-1943</hi>: Felix Lecoy, «Pour la
+						chronologie de Hugues de Berzé», <hi rend="italic">Romania</hi>, 67
+						(1942-1943), pp. 243-254. </bibl>
+					<bibl>
+						<hi rend="underline">Paris 1889</hi>: Gaston Paris, «Hugues de Berzé», <hi rend="italic">Romania</hi>, 18 (1889), pp. 553-570. </bibl>
+					<bibl>
+						<hi rend="underline">Schultz 1892</hi>: Oscar Schultz, «Urkundliches zu
+						Hugues de Berzé», <hi rend="italic">Zeitschrift für romanische
+							Philologie</hi>, 16 (1892), pp. 504-508. </bibl>
+					<bibl>
+						<hi rend="underline">Usseglio 1926</hi>: Leopoldo Usseglio, <hi rend="italic"> I marchesi di Monferrato in Italia ed in Oriente durante
+							i secoli XII e XIII</hi>, 2 voll., Casale Monferrato, Biblioteca della
+						Società storica subalpina, 1926. </bibl>
+					<bibl>
+						<hi rend="underline">Zenker 1896</hi>: Rudolf Zenker, <hi rend="italic">Die
+							Gedichte des Folquet von Romans</hi>, Halle a. S., Niemeyer, 1896. </bibl>
+
+				</listBibl>
+				<listBibl type="previous_editions">
+					<bibl><hi rend="italic">Archiv</hi>, 34, 1863, 403 (testo di H<hi rend="superscript">p</hi>);</bibl>
+					<bibl>Paris 1889, 554;</bibl> <bibl> Zenker 1896, 11;</bibl> <bibl>Bédier 1906, 387;</bibl> <bibl>Bédier-Aubry 1909, 153;</bibl> <bibl>Arveiller-Gouiran 1987, 4;</bibl> <bibl>Guida 1992, 90;</bibl> <bibl>Dijkstra 1995a, 203;</bibl> <bibl>Barbieri 2001, 173.</bibl>
+				</listBibl>
+			</sourceDesc>
+
+		</fileDesc>
+		<encodingDesc>
+			<editorialDecl xml:lang="it">
+				<p> Entrambi i manoscritti riportano un testo di tre strofi rivestito di una patina
+					linguistica occitanica, leggermente più marcata nel caso di H<hi rend="superscript">p</hi> . La <hi rend="italic">razo</hi> con
+					l’attribuzione a Hugues de Berzé si trova solo in H<hi rend="superscript">p</hi>, mentre il primo <hi rend="italic">envoi</hi> è unicamente in D <hi rend="superscript">p</hi> . </p>
+				<p> Si sono resi necessari solo quattro piccoli interventi sul testo di D <hi rend="superscript">p</hi>, tre dei quali dovuti a una minima ipometria
+					facilmente sanabile attraverso la lezione di H<hi rend="superscript">p</hi>
+					(vv. 14, 16, 17), mentre nell’ultimo caso si tratta di un adattamento grafico
+					del nome del trovatore citato. Viene riportata anche la breve <hi rend="italic">razo</hi> introduttiva di H<hi rend="superscript">p</hi> che contiene il
+					nome dell’autore; essa è scritta in occitano, senza commistione di francese, e
+					con l’italianismo <hi rend="italic">con</hi> per <hi rend="italic">ab</hi> .
+				</p>
+			</editorialDecl>
+			<editorialDecl xml:lang="en" default="true">
+				<p>Both manuscripts transmit a text of three stanzas having overtones of Occitan,
+					slightly more marked in H<hi rend="superscript">p</hi> . The <hi rend="italic">razo</hi> with the attribution to Hugues de Berzé is found only in H<hi rend="superscript">p</hi>, while the first <hi rend="italic">envoi</hi> is
+					only in D<hi rend="superscript">p</hi> . </p>
+				<p> Four small interventions have been needed in D<hi rend="superscript">p</hi> ’s
+					text, three of which are due to the lack of a minim producing a hypometric line,
+					easily rectifiable from readings in H<hi rend="superscript">p</hi> (vv. 14, 16,
+					17), while the fourth case concerns a variant of the name of the troubadour
+					referred to. The short introductory <hi rend="italic">razo</hi> of H<hi rend="superscript">p</hi> is also printed here; it is written in Occitan,
+					without any mixture of French, and contains the italianism <hi rend="italic">con</hi> for <hi rend="italic">ab</hi> . </p>
+			</editorialDecl>
+			<metDecl pattern="10 a&#x2019;b&#x2019;a&#x2019;b&#x2019;ccb&#x2019;b&#x2019;" xml:lang="it">
+				<p> 10 a’b’a’b’ccb’b’ (MW 1163,6 = Frank 362); 3 <hi rend="italic">coblas
+						unissonans</hi> con 2 <hi rend="italic">envois</hi> di 4 versi (ccb’b’);
+					rima a: <hi rend="italic">-age</hi> ; rima b: <hi rend="italic">-ie</hi> ; rima
+					c: <hi rend="italic">-is</hi> . La canzone RS 23 <hi rend="italic">Bien emploie
+						son cuer et son corage</hi>, attribuita a Moniot d’Arras, è evidentemente
+					un ‘contrafactum’ del testo di Hugues de Berzé (stesso schema metrico e stesse
+					rime). </p>
+
+			</metDecl>
+			<metDecl pattern="10 a&#x2019;b&#x2019;a&#x2019;b&#x2019;ccb&#x2019;b&#x2019;" xml:lang="en" default="true">
+				<p> 10 a’b’a’b’ccb’b’ (MW 1163,6 = Frank 362); 3 <hi rend="italic">coblas
+						unissonans</hi> with 2 <hi rend="italic">envois</hi> of 4 lines (ccb’b’);
+					rhyme a: <hi rend="italic">-age</hi> ; rhyme b: <hi rend="italic">-ie</hi> ;
+					rhyme c: <hi rend="italic">-is</hi> . The song RS 23 <hi rend="italic">Bien
+						emploie son cuer et son corage</hi>, attributed to Moniot d’Arras, is
+					evidently a contrafactum of Hugues de Berzé’s text, the versification being
+					identical in all respects.</p>
+			</metDecl>
+			<appInfo>
+				<application ident="TEI_fromDOCX" version="2.15.0">
+					<label>DOCX to TEI</label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<revisionDesc>
+			<change>
+				<date>$LastChangedDate: 2014-01-13T11:14:41Z$</date>
+				<name>Linda Paterson</name>
+			</change>
+		</revisionDesc>
+	</teiHeader><text><front>
+			<div type="preface">
+				<p>
+					<hi rend="bold">Hugues de Berzé</hi>
+				</p>
+				<p>
+					<hi rend="italic bold">Bernart, di me Falqet, q’om tient a sage</hi> (RS 37a) </p>
+				<p xml:lang="fro">
+					<hi rend="italic"> N’Ugo de Bersié mandet aquestas coblas a Falqet de Rotmans
+						per un joglar q’avia nom Bernart d’Argentau, per predicar lui qe vengues con
+						lui outra mar</hi>
+				</p>
+
+				<p xml:lang="en"> Hugues de Berzé sent these stanzas to Falquet de Romans by means
+					of a jongleur who was called Bernart d’Argentau, to exhort him to go overseas
+					with him. </p>
+				<p xml:lang="it"> Hugues de Berzé inviò queste strofi a Falquet de Romans per mezzo
+					di un giullare che si chiamava Bernart d’Argentau, per esortarlo ad andare con
+					lui oltremare. </p>
+
+			</div>
+
+		</front><body/><back>
+			<div type="historical" xml:lang="en">
+				<p> The composition of the song is situated in the years around the fifth crusade,
+					between 1213 (Frederick II pledged to leave for the Holy Land on 12 July of that
+					year), and 1225, year of the death of William VI of Monferrat (17 September?)
+					who is therefore the marquis mentioned in the text. However, the plan to
+					announce a new crusade was only proposed by Pope Innocent III during the fourth
+					Lateran Council of November 1215, which is probably the <hi rend="italic">terminus post quem</hi> for the piece. </p>
+				<p> This date takes us to the mention of the emperor Frederick contained in the
+					first <hi rend="italic">envoi</hi>, preserved only in ms. D <hi rend="superscript">p</hi> . Frederick was de facto emperor after his
+					coronation at Aachen on 25 July 1215 which completed that of Mainz on 9 December
+					1212, but official documents attribute this title to him only after his
+					coronation in Rome on 22 November 1220. There is however at least one poetic
+					text, the crusade song <hi rend="italic">BdT</hi> 10.11 of Aimeric de Peguillan,
+					datable to 1213, where the author refers to Frederick as <hi rend="italic">emperador</hi> (v. 45, even if the plural form could be interpreted in a
+					generic sense as ‘those who are competing for the imperial crown’); the song <hi rend="italic">BdT</hi> 10.52 by the same troubadour dedicated to the <hi rend="italic">emperaire</hi> (v. 51) could predate 1220. Similarly the
+					splendid reception reserved for the Swabian ruler at the court of Monferrat
+					mentioned in the same <hi rend="italic">envoi</hi> (v. 28) may refer to
+					Frederick’s visit to Monferrat in September 1220, when he was on his way to Rome
+					to receive the imperial crown; but alternatively it may allude to events in
+					Genoa on 14 July 1212, when William had been present at the disembarkation of
+					the emperor and then escorted him as far as Asti and Pavia along the road
+					leading to his coronation at Mainz. </p>
+				<p>According to Bédier, Hugues de Berzé’s song must have been composed before the
+					evacuation of Damietta on 7 September 1221, following the defeat of al-Mansūra
+					on 27 August. Despite Frederick’s promises, after this date we know of no
+					serious attempts to organise expeditions to the Holy Land such as would give
+					rise to the present text until at least the Diet of San Germano in July 1225,
+					when the emperor was forced to renew his pledge to leave before the end of 1227.
+					In addition William VI of Monferrat had definitively abandoned his plan to lead
+					an expedition to Egypt and was involved in the question of the succession in the
+					kingdom of Thessalonica, whose designated ruler was his young brother
+					Demetrios.</p>
+				<p> The allusion contained in the first <hi rend="italic">envoi</hi> concerning
+					Frederick’s economic support of William of Monferrat may refer generally to
+					Frederick’s economic resources rather than to a precise event, and this would
+					not conflict with the dating proposed by Bédier. The French scholar notes that
+					the use of the verb <hi rend="italic">porter</hi> in v. 25 seems to indicate not
+					so much a loan made by Frederick to the Marquis as the conviction that the
+					emperor ought to take part in the expedition financing it with his own means
+					(Bédier-Aubry 1909, p. 159). </p>
+				<p> Against the hypothesis that Hugues de Berzé died before August 1220, which would
+					bring the <hi rend="italic">terminus ante quem</hi> forward by a year, see the
+					arguments of Gouiran 1994, pp. 343-345 and Barbieri 2001, pp. 176-177. The fact
+					that official documents do not mention Hugues de Berzé’s name can be explained
+					either by a prolonged absence, or by his actual departure for the Holy Land, or
+					by his entry into the order of the Templars, an event apparently confirmed by
+					the document cited in Barbieri 2001, p. 9 and perhaps also hinted at in vv. 5-8. </p>
+				<p> In conclusion, if the first <hi rend="italic">envoi</hi> is authentic the song
+					is likely to have been written between November 1220 and September 1221; if on
+					the other hand it is considered spurious, or if the reference to Frederick as
+					emperor is not considered secure, it could have been written at any time between
+					1215 and 1221 (some suitable occasions have been listed by Lecoy 1942-1943, p.
+					253). The <hi rend="italic">envoi</hi> does appear somewhat unusual in that it
+					seems to carry straight on from the sentence of the preceding stanza, and the
+					presence of so many specific references in so few lines may appear suspect, as
+					if the <hi rend="italic">envoi</hi> had perhaps been written to adapt the song
+					to a particular historical context. Nonetheless, neither the chronology nor the
+					language poses serious objections to its authenticity, and in any case the time
+					frame indicated by the references contained in the <hi rend="italic">envoi</hi>
+					is included within the time frame established by the rest of the song. </p>
+				<p>There finally remains the question of the cross which the author says he has (v.
+					31). This does not mean that Hugues de Berzé took the cross again on his return
+					from the Fourth Crusade, let alone that he actually left for the Holy Land a
+					second time, even if this possibility cannot be completely excluded (information
+					about the last part of his life is very fragmentary); in any case the reference
+					may be to him belonging to the Templars, whose habit was adorned with a large
+					red cross.</p>
+			</div>
+
+			<div type="historical" xml:lang="it">
+				<p> La composizione della canzone va collocata negli anni attorno alla quinta
+					crociata, tra il 1213 (Federico II si impegnò a partire per la Terra Santa il 12
+					luglio di quell’anno) e il 1225, data della morte di Guglielmo VI di Monferrato
+					(17 settembre?), che sarà di conseguenza il marchese evocato nel testo; il
+					progetto di indire una nuova crociata fu però proposto da papa Innocenzo III
+					solo nel corso del Concilio Lateranense IV del novembre 1215, ed è questo
+					probabilmente il <hi rend="italic">terminus post quem</hi> da ritenere. </p>
+				<p> Questa data ci riporta alla menzione di Federico imperatore contenuta nel primo
+						<hi rend="italic">envoi</hi>, conservato dal solo ms. D <hi rend="superscript">p</hi> . Federico lo era di fatto dall’incoronazione di
+					Aquisgrana del 25 luglio 1215 che completava quella di Magonza del 9 dicembre
+					1212, ma gli atti ufficiali gli attribuiscono questo titolo solo a partire
+					dall’incoronazione di Roma del 22 novembre 1220; vi è però almeno un testo
+					poetico, la canzone di crociata <hi rend="italic">BdT</hi> 10.11 di Aimeric de
+					Peguillan, databile al 1213, dove l’autore si riferisce a Federico con il titolo
+					di <hi rend="italic">emperador</hi> (v. 45, anche se la forma plurale potrebbe
+					essere interpretata in senso generico come “coloro che si contendono la corona
+					imperiale”); anche la canzone <hi rend="italic">BdT</hi> 10.52 dello stesso
+					trovatore dedicata all’ <hi rend="italic">emperaire</hi> (v. 51) potrebbe essere
+					anteriore al 1220. Allo stesso modo, la bella accoglienza riservata al sovrano
+					svevo dalla corte di Monferrato di cui parla il medesimo <hi rend="italic">envoi</hi> (v. 28) potrebbe riferirsi al passaggio di Federico in
+					Monferrato nel settembre 1220, mentre si accingeva a raggiungere Roma per
+					ricevervi l’incoronazione imperiale, ma anche all’episodio di Genova del 14
+					luglio 1212, quando Guglielmo aveva assistito allo sbarco dell’imperatore per
+					poi scortarlo fino ad Asti e a Pavia lungo la strada che lo portava a ricevere
+					l’incoronazione di Magonza. </p>
+				<p> Secondo Bédier, la canzone di Hugues de Berzé deve essere stata scritta prima
+					dell’evacuazione di Damietta del 7 settembre 1221, seguita alla sconfitta di
+					al-Mansūra del 27 agosto. Malgrado le promesse di Federico, dopo questa data non
+					si conoscono seri tentativi di organizzare spedizioni in Terra Santa, tali da
+					giustificare un testo come il nostro, almeno fino alla Dieta di San Germano del
+					luglio 1225, nella quale l’imperatore fu costretto ad impegnarsi nuovamente a
+					partire entro il 1227. Inoltre Guglielmo VI di Monferrato aveva ormai
+					abbandonato il progetto di guidare una spedizione in Egitto ed era coinvolto
+					nella questione della successione del regno di Tessalonica, il cui sovrano
+					designato era il giovane fratello Demetrio. </p>
+				<p> L’accenno contenuto nel primo <hi rend="italic">envoi</hi> circa l’aiuto
+					economico di Federico a Guglielmo di Monferrato potrebbe riferirsi in modo
+					generico alle disponibilità economiche di Federico piuttosto che a un evento
+					preciso, e questo non contrasterebbe con la datazione proposta da Bédier. Lo
+					stesso studioso francese fa notare che l’uso del verbo <hi rend="italic">porter</hi> al v. 25 sembra indicare non tanto un prestito ricevuto, quanto
+					la convinzione che l’imperatore dovesse partecipare alla spedizione
+					finanziandola con i propri mezzi (Bédier-Aubry 1909, p. 159). </p>
+				<p> Contro l’ipotesi che Hugues de Berzé fosse morto prima dell’agosto 1220, fatto
+					che anticiperebbe di un anno il <hi rend="italic">terminus ante quem</hi>, si
+					vedano gli argomenti di Gouiran 1994, pp. 343-345 e di Barbieri 2001, pp.
+					176-177. Il silenzio degli atti ufficiali sul nome di Hugues de Berzé si può
+					spiegare con un’assenza prolungata, con la sua effettiva partenza per la Terra
+					Santa o con il suo ingresso nei templari, evento che sembra confermato dal
+					documento riportato in Barbieri 2001, p. 9 e forse adombrato anche da alcune
+					espressioni contenute nella canzone (vv. 5-8). </p>
+				<p> In conclusione, se si considera autentico il primo <hi rend="italic">envoi</hi>
+					la canzone sarà stata scritta verosimilmente tra novembre 1220 e settembre 1221;
+					se invece lo si considera spurio, o se non si ritiene cronologicamente
+					vincolante il riferimento a Federico imperatore, essa può essere stata scritta
+					in qualsiasi momento tra il 1215 e il 1221 (e alcune occasioni propizie sono
+					elencate da Lecoy 1942-1943, p. 253). Va detto che l’ <hi rend="italic">envoi</hi> ha effettivamente un carattere particolare, dato che sembra
+					continuare senza interruzione il periodo della strofe precedente e la presenza
+					di tanti riferimenti concreti in così pochi versi può apparire sospetta.
+					Tuttavia bisogna anche segnalare che né la cronologia né la lingua pongono serie
+					obiezioni all’autenticità e che in ogni caso il lasso di tempo indicato dai
+					riferimenti contenuti nel congedo è compreso in quello determinato senza tener
+					conto del congedo stesso. </p>
+				<p> Da ultimo rimane la questione della menzione della croce che l’autore dice di
+					portare (v. 31). Non risulta che Hugues de Berzé abbia preso nuovamente la croce
+					dopo il ritorno dalla quarta crociata né tantomeno che sia realmente partito
+					alla volta della Terra Santa, anche se non lo si può escludere completamente (le
+					informazioni sull’ultima parte della sua vita sono molto frammentarie); potrebbe
+					trattarsi in ogni caso di un riferimento alla sua appartenenza ai templari, il
+					cui abito si fregiava in effetti di una grande croce rossa. </p>
+			</div>
+			<div type="notes" xml:lang="en">
+				<p> The Burgundian trouvère Hugues de Berzé sends this song to the troubadour
+					Falquet de Romans through Bernart (of Argentau, according to the <hi rend="italic">razo</hi> ), to invite him and the marquis of Monferrat, at
+					whose court the troubadour probably resided, to join a new crusade to the Holy
+					Land. Mentioned are the exploits of Conrad Monferrat in Tyre and the links of
+					kinship between the Monferrat family and the emperor Frederick II, who was
+					supposed to take part in the expedition and finance it from his own resources.
+					In contrast to song RS 1126, this one is a true crusading song of a fairly
+					traditional hortatory kind, and confirms existing links between trouvères and
+					troubadours. It contains some analogies to the anonymous song RS 401 and to some
+					extent to the song RS 6 of Thibaut de Champagne. For a more in-depth commentary
+					see Barbieri 2001, pp. 184-193. </p>
+				<p corresp="#RS.37a.fro:(n=1)"> The affective pleonastic use of the personal pronoun
+					placed after a verb requires a tonic form in OF, i.e. the form <hi rend="italic">moi</hi> attestated in H<hi rend="superscript">p</hi> . The same
+					expression recurs in D<hi rend="superscript">p</hi> in v. 29. </p>
+				<p corresp="#RS.37a.fro[range(@n=5,@n=6)]"> The moralising theme of the decline of
+					the world is a <hi rend="italic">topos</hi> of medieval literature, to which
+					Hugues de Berzé has recourse several times in his <hi rend="italic">Bible</hi>
+					(see for example vv. 5-7). Moreover the whole song is interwoven with moralising
+					expressions and images more typical of the <hi rend="italic">Bible</hi> than the
+					lyric production of our trouvère (see for example in stanza I of the present
+					piece the noun <hi rend="italic">lecherie</hi> and the verb <hi rend="italic">esmender</hi> ). </p>
+				<p corresp="#RS.37a.fro:(n=8)"> This line puzzled Paris and Bédier, who stressed its
+					problematic aspects (principally the expression <hi rend="italic">esfor de</hi>
+					) without however proposing satisfactory solutions. We may be faced with an
+					archetype error which is impossible to amend conjecturally. Guida 1992, p. 326
+					proposes the interpretation <hi rend="italic">es(t) for</hi> (following H <hi rend="superscript">p</hi> ’s graphy), with <hi rend="italic">for</hi> &lt;
+						<hi rend="smallcaps">forum</hi> in the sense of ‘Art, Weise’ ( <hi rend="italic">TL</hi> 3, 2330, 1-10). Such a proposal has the advantage of
+					respecting the manuscript readings and offering satisfactory sense, but would
+					involve a hapax in medieval French literature, as well as an anomalous
+					linguistic and syntactical form; the absence of an article is surprising, and in
+					addition the expression <hi rend="italic">a la fin</hi> is normally used with
+					temporal adverbial force rather than in the sense required by Guida’s
+					interpretation ( <hi rend="italic">a la fin est</hi> = ‘volge al termine’). I
+					have provisionally followed this last solution in order to respect as far as
+					possible D<hi rend="superscript">p</hi> ’s reading, but I remain convinced that
+					the ms. readings are irremediably corrupt. </p>
+				<p corresp="#RS.37a.fro[range(@n=11,@n=13)]"> The comparison recalls the biblical
+					parable of the rich man (Luke 12, 16-21), and there may be some similarity with
+					vv. 767-771 of the <hi rend="italic">Bible</hi>: <hi rend="italic">Fols est qui
+						a grant esperance / en grant richece, ne fïance; / car kanc que l’en a
+						assamblé / de richesce en tout son aé, / pert on trestout en mains d’une
+						heure</hi> . </p>
+				<p corresp="#RS.37a.fro:(n=18)">As indicated above, the marquis in question is
+					certainly William VI of Monferrat, son of Boniface who led the Fourth Crusade in
+					which Hugues de Berzé also took part.</p>
+				<p corresp="#RS.37a.fro:(n=20)"> A similar appeal to William of Monferrat based on
+					the valour of his ancestors is found in AiPeg <hi rend="italic">BdT</hi> 10.11,
+					51-53. This is the same song of 1213 whose v. 45 refers to Frederick II as
+					emperor; its vv. 57-58, with their emphasis on worldly vanity and the appeal to
+					make <hi rend="italic">sens</hi> prevail, may be related to st. I of Hugues de
+					Berzé. </p>
+				<p corresp="#RS.37a.fro:(n=22)"> The fact that the author points out to William the
+					example of his uncle Conrad of Monferrat and not that of his father Boniface,
+					even though the latter led the Fourth Crusade, is explained on the one hand by
+					the epic resistance of Tyre besieged by Saladin in 1187, which allowed the
+					survival of the Latin kingdom of Jerusalem and the continuity of the Christian
+					presence in the Holy Land, and on the other by the atypical character of the
+					Fourth Crusade, which ended not with the liberation of the Holy Land but with
+					war against the eastern Christians. In his <hi rend="italic">Bible</hi> Hugues
+					de Berzé often criticises the outcome of the Fourth Crusade and the role (?) of
+					Boniface of Monferrat (see for example vv. 419-484). </p>
+				<p corresp="#RS.37a.fro[range(@n=25,@n=28)]"> This <hi rend="italic">envoi</hi> ’s
+					sole attestation in D<hi rend="superscript">p</hi> has been discussed in the
+					introduction. It should be added that the references to the involvement of
+					Frederick II and his economic resources could reflect the period following the
+					Diet of San Germano in July 1225, where the emperor pledged to leave before the
+					end of 1227 and had to commit 100.000 ounces of gold towards financing the
+					crusade. This sum was to be placed in the custody of Ermanno di Salza and would
+					only be restored to him on his departure. Under this scenario the <hi rend="italic">envoi</hi> (and perhaps the whole song) would have been
+					composed between the time of Boniface II of Montferrat’s return from Greece
+					(beginning of 1226) and Frederick’s excommunication (September 1227). But this
+					hypothesis is opposed by the new marquis’s total lack of interest in the crusade
+					to the Holy land and the bad relations between him and Frederick at that time,
+					due to the failure to pay off the old debts of Boniface’s father and Boniface’s
+					adhesion to the Lombard League opposing the Emperor. </p>
+				<p corresp="#RS.37a.fro:(n=25)"> The form <hi rend="italic">ni</hi> is rare in
+					French (Ménard § 419 <hi rend="italic">remarque</hi> ) and may be an occitanism,
+					just as <hi rend="italic">seit</hi> which is a rather archaic form in French.
+					For the position of <hi rend="italic">ne</hi> co-ordinating conjunction at the
+					beginnng of a sentence see Ménard, § 420. </p>
+				<p corresp="#RS.37a.fro:(n=27)"> The form <hi rend="italic">n’avra</hi> may also be
+					an occitanism, but even in French <hi rend="italic">n’a</hi> is a rather rare
+					but well attested variant for <hi rend="italic">en a</hi> (see Jensen § 364 and
+					the examples in <hi rend="italic">TL</hi> III, 155, 52ff.) which is also found
+					in Thibaut de Champagne RS 273, 12 and 30. </p>
+				<p corresp="#RS.37a.fro:(n=30)"> The spelling of the subjunctive <hi rend="italic">don</hi> of both mss. is Occitan; in French it should be <hi rend="italic">doin(s)t</hi>, but the variant <hi rend="italic">dont</hi> is attested
+					(Fouché 144, § 70). </p>
+				<p corresp="#RS.37a.fro:(n=31)"> The doubt expressed by Bédier-Aubry 1909, p. 165
+					concerning the inadmissibility of the expression <hi rend="italic">je ai la
+						crois</hi> with the sense ‘I have taken the cross’ would be irrelevant if
+					the author were here referring, as suggested, to the cross of the Templar house. </p>
+				<p corresp="#RS.37a.fro:(n=32)"> The form <hi rend="italic">no</hi> of the negative
+					particle attested in D<hi rend="superscript">p</hi> is allowed in French (see
+						<hi rend="italic">TL</hi> 6, 544, 26). </p>
+			</div>
+
+			<div type="notes" xml:lang="it">
+				<p> Il troviero borgognone Hugues de Berzé invia questa canzone al trovatore Falquet
+					de Roman attraverso il giullare Bernart (d’Argentau, secondo la <hi rend="italic">razo</hi> ), per invitare lui e il marchese di Monferrato,
+					presso la cui corte verosimilmente il trovatore risiede, a partecipare ad una
+					nuova crociata in Terra Santa. Vengono menzionate le imprese di Corrado di
+					Monferrato a Tiro e la parentela degli aleramici con l’imperatore Federico II,
+					che si supponeva dovesse partecipare alla spedizione finanziandola con i propri
+					mezzi. A differenza della canzone RS 1126, si tratta in questo caso di un vero e
+					proprio testo di esortazione alla crociata di impianto piuttosto tradizionale,
+					che conferma i legami esistenti tra trovieri e trovatori. Vi si può trovare
+					qualche analogia con la canzone anonima RS 401 e in parte con la canzone RS 6 di
+					Thibaut de Champagne. Per un commento più approfondito si veda Barbieri 2001,
+					pp. 184-193. </p>
+				<p corresp="#RS.37a.fro:(n=1)">L’uso affettivo pleonastico del pronome personale
+					posto dopo un verbo richiede una forma tonica e in francese sarebbe quindi
+					necessaria la forma <hi rend="italic">moi</hi> attestata da H <hi rend="superscript">p</hi> . La stessa espressione ricorre in D <hi rend="superscript">p</hi> anche al v. 29. </p>
+				<p corresp="#RS.37a.fro[range(@n=5,@n=6)]">Il tema morale della decadenza del mondo
+					è un <hi rend="italic">topos</hi> della letteratura medievale, al quale Hugues
+					de Berzé ricorre più volte nella sua <hi rend="italic">Bible</hi> (si vedano per
+					esempio i vv. 5-7). Del resto tutta la canzone è intessuta di forme e immagini
+					morali più tipiche della <hi rend="italic">Bible</hi> che della produzione
+					lirica del nostro troviero (si vedano per esempio in questa prima strofe il
+					sostantivo <hi rend="italic">lecherie</hi> e il verbo <hi rend="italic">esmender</hi> ). </p>
+				<p corresp="#RS.37a.fro:(n=8)">Questo verso ha suscitato le perplessità di Paris e
+					Bédier, che ne hanno sottolineato i punti problematici (principalmente
+					l’espressione <hi rend="italic">esfor de</hi> ) senza tuttavia proporre
+					soluzioni soddisfacenti. Non è escluso che si possa essere in presenza di una
+					corruttela d’archetipo impossibile da sanare congetturalmente. Guida 1992, p.
+					326 propone d’interpretare <hi rend="italic">es(t) for</hi> (secondo la grafia
+					di H<hi rend="superscript">p</hi> ), con <hi rend="italic">for</hi>
+					<hi rend="smallcaps">forum</hi> nel senso di “Art, Weise” ( <hi rend="italic">TL</hi> 3, 2330, 1-10). Tale proposta ha il vantaggio di rispettare la
+					lezione dei manoscritti e di offrire un senso soddisfacente, ma si tratterebbe
+					di un hapax nella letteratura francese medievale, oltre che di una forma
+					linguistica e sintattica anomala; stupisce infatti l’assenza di un determinante,
+					e anche l’espressione <hi rend="italic">a la fin</hi> è normalmente usata con
+					valore avverbiale temporale piuttosto che in senso proprio come richiesto
+					dall’interpretazione di Guida ( <hi rend="italic">a la fin est</hi> = “volge al
+					termine”). Il proposito assunto di rispettare per quanto possibile la lezione di
+					D<hi rend="superscript">p</hi> mi spinge ad accettare provvisoriamente
+					quest’ultima soluzione, ma permane la convinzione che la lezione offerta dai
+					testimoni sia irrimediabilmente corrotta. </p>
+				<p corresp="#RS.37a.fro[range(@n=11,@n=13)]">Il paragone ricorda la parabola biblica
+					del ricco epulone (Lc 12, 16-21), e vi si può riscontrare qualche analogia con i
+					vv. 767-771 della <hi rend="italic">Bible</hi>: <hi rend="italic"> Fols est qui
+						a grant esperance / en grant richece, ne fïance; / car kanc que l’en a
+						assamblé / de richesce en tout son aé, / pert on trestout en mains d’une
+						heure</hi> . </p>
+				<p corresp="#RS.37a.fro:(n=18)">Come si è detto, il marchese in questione è
+					certamente Guglielmo VI di Monferrato, figlio di Bonifacio che guidò la quarta
+					crociata alla quale partecipò anche Hugues de Berzé. </p>
+				<p corresp="#RS.37a.fro:(n=20)">Un analogo richiamo a Guglielmo di Monferrato
+					fondato sul valore dei suoi antenati si trova in AiPeg <hi rend="italic">BdT</hi> 10.11, 51-53. Si tratta della stessa canzone del 1213 che reca al
+					v. 45 il riferimento a Federico II imperatore; e anche i vv. 57-58 del congedo,
+					con la sottolineatura della vanità del mondo e l’invito a fare prevalere il <hi rend="italic">sens</hi>, si possono avvicinare alla prima strofe di Hugues
+					de Berzé. </p>
+				<p corresp="#RS.37a.fro:(n=22)">Il fatto che l’autore additi a Guglielmo l’esempio
+					dello zio Corrado di Monferrato e non quello del padre Bonifacio, che pure guidò
+					la quarta crociata, si spiega da un lato con il valore epico dell’episodio della
+					resistenza di Tiro assediata da Saladino nel 1187, che permise la sopravvivenza
+					del regno latino di Gerusalemme e la continuità della presenza cristiana in
+					Terra Santa, e dall’altro con il carattere atipico della quarta crociata, non
+					finalizzata alla liberazione della Terra Santa ma indirizzata contro i cristiani
+					d’Oriente. Lo stesso Hugues de Berzé nella sua <hi rend="italic">Bible</hi>
+					manifesta a più riprese il suo giudizio critico sull’esito della quarta crociata
+					e sul ruolo di Bonifacio di Monferrato (si vedano per esempio i vv. 419-484). </p>
+				<p corresp="#RS.37a.fro[range(@n=25,@n=28)]">Sulle questioni sollevate da questo <hi rend="italic">envoi</hi> riportato dal solo D<hi rend="superscript">p</hi>
+					si è già detto nell’introduzione. Si può aggiungere che i riferimenti al
+					coinvolgimento di Federico II e alla sua disponibilità economica potrebbero
+					trovare un riscontro anche nel periodo successivo alla Dieta di San Germano del
+					luglio 1225, nella quale l’imperatore si impegnò a partire entro il 1227 e fu
+					costretto a vincolare al fine del finanziamento della crociata 100.000 once
+					d’oro, che gli sarebbero state restituite solo al momento della partenza,
+					ponendole sotto la custodia di Ermanno di Salza. Alla luce di questi elementi,
+					l’ <hi rend="italic">envoi</hi> (e forse tutta la canzone) potrebbe anche essere
+					stato scritto tra il momento del ritorno di Bonifacio II di Monferrato dalla
+					Grecia (inizio 1226) e quello della scomunica di Federico II (settembre 1227).
+					Ma a questa ipotesi si oppongono il disinteresse totale del nuovo marchese per
+					la crociata in Terra Santa e i cattivi rapporti che intercorrevano tra lui e
+					Federico, dovuti alla mancata restituzione degli antichi debiti paterni e
+					all’adesione di Bonifacio alla Lega Lombarda che si opponeva all’imperatore. </p>
+
+				<p corresp="#RS.37a.fro:(n=25)">La forma <hi rend="italic">ni</hi> è rara in
+					francese (Ménard § 419 <hi rend="italic">remarque</hi> ) e sarà anch’essa
+					provenzalismo, così come <hi rend="italic">seit</hi> che in francese è forma
+					assai arcaica. Per la posizione iniziale di frase di <hi rend="italic">ne</hi>
+					congiunzione coordinante si veda Ménard, § 420. </p>
+				<p corresp="#RS.37a.fro:(n=27)">La forma <hi rend="italic">n’avra</hi> potrebbe
+					essere un provenzalismo, ma anche in francese <hi rend="italic">n’a</hi> è una
+					variante piuttosto rara ma ben attestata per <hi rend="italic">en a</hi> (si
+					veda Jensen § 364 e gli esempi forniti da <hi rend="italic">TL</hi> III, 155,
+					52ss.) che si trova anche in TbCha RS 273, 12 e 30. </p>
+
+				<p corresp="#RS.37a.fro:(n=30)">La grafia del congiuntivo <hi rend="italic">don</hi>
+					di entrambi i testimoni è provenzale; in francese si dovrebbe avere <hi rend="italic">doin(s)t</hi>, ma la variante <hi rend="italic">dont</hi> è
+					attestata (Fouché 144, § 70). </p>
+				<p corresp="#RS.37a.fro:(n=31)">Il dubbio espresso da Bédier-Aubry 1909, p. 165
+					circa l’ammissibilità dell’espressione <hi rend="italic">je ai la crois</hi> con
+					il senso di “ho preso la croce” diventerebbe irrilevante se qui l’autore facesse
+					riferimento, come si è suggerito, alla croce dell’abito dei templari. </p>
+				<p corresp="#RS.37a.fro:(n=32)"> La forma <hi rend="italic">no</hi> della particella
+					negativa attestata da D<hi rend="superscript">p</hi> è ammessa in francese (si
+					veda <hi rend="italic">TL</hi> 6, 544, 26). </p>
+
+
+			</div>
+		</back></text></TEI>

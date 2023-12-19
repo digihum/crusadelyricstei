@@ -5,7 +5,7 @@
 
 			<titleStmt>
 				<title>rs273</title>
-				<author>Linda Paterson</author>
+				<author>Thibaut de Champagne</author>
 			</titleStmt>
 			<editionStmt>
 				<edition>
@@ -191,16 +191,16 @@
 	</teiHeader>
 	<text>
 		<front>
-			<div type="preface">
-				<p>
-					<hi rend="bold">Thibaut de Champagne</hi>
-				</p>
-				<p>
-					<hi rend="italic bold">Diex est ausis conme li pellicans</hi> (RS 273) </p>
-			</div>
+			<titlePage>
+				<docTitle>
+					<titlePart type="main">Thibaut de Champagne</titlePart>
+					<titlePart type="sub"></titlePart>
+				</docTitle>
+				<docAuthor/>
+			</titlePage>
 		</front>
 		<body>
-			<div type="poem" xml:id="RS.273.fro" xml:lang="fro">
+			<div type="text" xml:id="RS.273.fro" xml:lang="fro">
 				<lg type="stanza" n="1">
 					<l n="1"> Diex est ausis conme li pellicans </l>
 					<l n="2">qui fait son nif el plus haut arbre sus,</l>

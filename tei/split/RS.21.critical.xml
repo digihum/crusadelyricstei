@@ -1,0 +1,589 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-12-10</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Michel 1830, 95-98; Leroux de Lincy 1842, I, 105-108; Meyer 1877, II, 368-369;
+            Crepet 1861-1863, I, 188-191; Bédier-Aubry 1909, 107-117; Bartsch-Wiese 1910, 368-369;
+            Gennrich 1925, 44-45; Spanke 1925, 188-190; Nissen 1928, 1-3; Rosenberg-Tischler 1981,
+            293-296; Tischler 1997, n. 16; Lannutti 1999, pp. 18-49.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Michel 1830, 95-98; Leroux de Lincy 1842, I, 105-108; Meyer 1877, II, 368-369;
+            Crepet 1861-1863, I, 188-191; Bédier-Aubry 1909, 107-117; Bartsch-Wiese 1910, 368-369;
+            Gennrich 1925, 44-45; Spanke 1925, 188-190; Nissen 1928, 1-3; Rosenberg-Tischler 1981,
+            293-296; Tischler 1997, n. 16; Lannutti 1999, pp. 18-49.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(7)</hi> C 86v-87r (<hi rend="italic">la dame dou Fael</hi>); K
+            385-386; M 174v (<hi rend="italic">Guios de Digon</hi>); O 28r; T 128v-129r; X 33r-33v;
+              E<hi rend="superscript">n</hi> 91-92. Lacuna in E<hi rend="superscript">n</hi>
+            corresponding to vv. 1-7 and part of v. 8, part of v. 42, vv. 43-54 and part of v.
+            55.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl>(7) C 86v-87r (<hi rend="italic">la dame dou Fael</hi>); K 385-386; M 174v (<hi rend="italic">Guios de Digon</hi>); O 28r; T 128v-129r; X 33r-33v; E<hi rend="superscript">n</hi> 91-92. Lacuna in E<hi rend="superscript">n</hi>
+            corrispondente ai vv. 1-7 e parte del v. 8; parte del v. 42, vv. 43-54 e parte del v.
+            55.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>7a’ba’ba’ba’b // c’dc’d; 5 <hi rend="italic">coblas doblas</hi> (2+2+1); rhyme a = <hi rend="italic">-age, - ente,
+          -ue</hi>; rhyme b = <hi rend="italic">-er, -is, -ier</hi>; rhyme c = <hi rend="italic">-ee; -in</hi>; rich rhyme: st. I <hi rend="italic">corage : m’assoage, reconforter :
+          n’afoler : retorner</hi>; st. II <hi rend="italic">pelerinage : lignage : mariage,
+          trespasser : parler, retorner: trover</hi>; st. III <hi rend="italic">dolente : atalente;
+          ne ris : feïs</hi>; st. IV <hi rend="italic">atente : atalente, douce vente : je.l
+          sente</hi>; st. V <hi rend="italic">deceüe : vestue, argue : char nue, embracier :
+          assoagier</hi>. Identical rhyme: vv. 6 and 16 <hi rend="italic">retorner</hi>, vv. 8 and
+        20 <hi rend="italic">parler</hi>, vv. 31 and 41 <hi rend="italic">atalente</hi>. Melody
+        KMOTX. Empty stave in CE<hi rend="superscript">n</hi>. Melodic shape: MT: AA<hi rend="superscript">1</hi>AA<hi rend="superscript">1</hi>AA<hi rend="superscript">1</hi> /
+        BC // AA<hi rend="superscript">1</hi>B<hi rend="superscript">1</hi>C<hi rend="superscript">1</hi>; KOX: AABA<hi rend="superscript">1</hi>B<hi rend="superscript">1</hi>A<hi rend="superscript">1</hi> / B<hi rend="superscript">1</hi>C // AAB<hi rend="superscript">1</hi>C.</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>7a’ba’ba’ba’b // c’dc’d; 5 <hi rend="italic">coblas doblas</hi> (2+2+1); rima a = <hi rend="italic">-age, - ente,
+          -ue</hi>; rima b = <hi rend="italic">-er, -is, -ier</hi>; rima c = <hi rend="italic">-ee;
+          -in</hi>; rima ricca: III str. <hi rend="italic">dolente : atalente</hi>. Rinforzo
+        protonico: strofa I <hi rend="italic">corage : m’assoage, reconforter : n’afoler :
+          retorner</hi>; II str. <hi rend="italic">pelerinage : lignage : mariage, trespasser :
+          parler, retorner: trover</hi>; III str. <hi rend="italic">ne ris : feïs</hi>; IV str. <hi rend="italic">atente : atalente, douce vente : je.l sente; V str. deceüe : vestue, argue :
+          char nue, embracier : assoagier</hi>. Rima identica: vv. 6 e 16 <hi rend="italic">retorner</hi>, vv. 8 e 20 <hi rend="italic">parler</hi>, vv. 31 e 41 <hi rend="italic">atalente</hi>. Melodia KMOTX. Rigatura musicale vuota in CE<hi rend="superscript">n</hi>.
+        Schema melodico: MT: AA<hi rend="superscript">1</hi> AA<hi rend="superscript">1</hi> AA<hi rend="superscript">1</hi> / BC // AA<hi rend="superscript">1</hi>B<hi rend="superscript">1</hi>C<hi rend="superscript">1</hi>; KOX: AA BA<hi rend="superscript">1</hi> B<hi rend="superscript">1</hi>A<hi rend="superscript">1</hi> / B<hi rend="superscript">1</hi>C
+        // AAB<hi rend="superscript">1</hi>C.</p></metDecl>
+      <editorialDecl xml:lang="en"><p>Stanza order: CMTE<hi rend="superscript">n</hi>
+        KOX I I<lb/> II III<lb/> III II<lb/> IV V<lb/> V IVThe variants and stanza order indicate
+        the existence of two manuscript families, CMT/KOX (respectively <hi rend="italic"><seg style="font-family:Symbol;"></seg></hi> and <hi rend="italic"><seg style="font-family:Symbol;"></seg></hi> according to the symbols adopted in
+        Bédier-Aubry 1909), with manuscript E<hi rend="superscript">n</hi> forming the third branch
+        of the tradition, rendering the tradition tripartite and being decisive for the choice of
+        variants. The α family is identified from a single significant error (v. 49, <hi rend="italic">engignié</hi> CMT, <hi rend="italic">deceüe</hi> KOX: CMT’s reading gives an
+        irregular rhyme). E<hi rend="superscript">n</hi> lacks v. 49 and therefore a possible common
+        error with CMT cannot be ruled out. The γ family can be supposed from the stanza order (III
+        II, V IV), which violates the <hi rend="italic">coblas doblas</hi> structure. Unless one
+        supposes polygenesis, the reading <hi rend="italic">en biauvoisin</hi> (v. 26), which
+        violates the rhyme (<hi rend="italic">en cest païs</hi> CMT, <hi rend="italic">en
+          belv[oi]sins</hi> E<hi rend="superscript">n</hi>), can be seen as a common error in KOX v.
+          E<hi rend="superscript">n</hi>. Within the α and γ families there is a common error in KX
+        v. O (v. 17: <hi rend="italic">car autre</hi> KX, <hi rend="italic">car au gré</hi> O: KX’s
+        reading gives no sense) and a common error in CT v. M (v. 14: <hi rend="italic">iert
+          trespaisseis</hi> CT, <hi rend="italic">verrai passer</hi> M: CT’s reading violates the
+        rhyme). In this latter case, my inclination has been, not without considerable hesitation
+        (see the commentary to vv. 13-14), to discount the possibility that M may have corrected an
+        obvious error and restored the rhyme, because of the fact that a form of the verb <hi rend="italic">veoir</hi> is also present in KOX, E<hi rend="superscript">n</hi> (<hi rend="italic">voie </hi>KOX, <hi rend="italic">voi</hi> E<hi rend="superscript">n</hi>).
+        The variants of ms E<hi rend="superscript">n</hi>, which is close to α through its stanza
+        order, agree sometimes with one family, sometimes with the other, but also present some
+        isolated readings (cfr. Lannutti 1999, pp. 20-21). Where E<hi rend="superscript">n</hi> is
+        either lacunary or presents isolated readings, the family containing the base ms. M is
+        followed. </p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Ordine delle strofe: CMTE<hi rend="superscript">n</hi> KOX I I<lb/> II III<lb/> III II<lb/> IV V<lb/> V IVL’esame della <hi rend="italic">varia lectio</hi> e l’ordine delle strofe permettono di individuare due famiglie di
+        manoscritti, CMT/KOX (rispettivamente <hi rend="italic"><seg style="font-family:Symbol;"></seg></hi> e <hi rend="italic"><seg style="font-family:Symbol;"></seg></hi> secondo
+        la simbologia adottata in Bédier-Aubry 1909), rispetto alle quali il codice E<hi rend="superscript">n</hi> si colloca in posizione parallela, rendendo la tradizione
+        tripartita e diventando decisivo per la scelta delle varianti. La famiglia <hi rend="italic"><seg style="font-family:Symbol;"></seg></hi> si individua sul fondamento di un unico
+        errore significativo (v. 49, <hi rend="italic">engignié</hi> CMT, <hi rend="italic">deceüe</hi> KOX: la lezione di CMT falsa la rima). Si noti che in E<hi rend="superscript">n</hi> manca il v. 49 e che quindi non è pos­sibile escludere un suo eventuale accordo in
+        errore con CMT. La famiglia γ è presumibile in considerazione dell’ordine delle strofe (III
+        II, V IV), che guasta la struttura delle <hi rend="italic">coblas doblas</hi>. A meno di
+        ipotizzare una poligenesi, può essere ritenuta errore comune a KOX contro E<hi rend="superscript">n</hi> la lezione <hi rend="italic">en biauvoisin</hi> del v. 26, che
+        falsa la rima (<hi rend="italic">en cest païs</hi> CMT, <hi rend="italic">en
+          belv[oi]sins</hi> E<hi rend="superscript">n</hi>). All’interno delle famiglie <hi rend="italic"><seg style="font-family:Symbol;"></seg></hi> e <hi rend="italic"><seg style="font-family:Symbol;"></seg></hi> si riscontrano un errore comune a KX contro O
+        (v. 17: <hi rend="italic">car autre</hi> KX, <hi rend="italic">car au gré</hi> O: la lezione
+        di KX non dà senso) e un errore comune a CT contro M (v. 14: <hi rend="italic">iert
+          trespaisseis</hi> CT, <hi rend="italic">verrai passer</hi> M: la lezione di CT falsa la
+        rima). Per quest’ultimo caso, si è propensi a scartare, non senza forti riserve (vedi il
+        com­mento ai vv. 13-14), l’eventualità che M abbia potuto correggere un errore evidente e
+        ripristinare la rima, per il fatto che una voce del verbo <hi rend="italic">veoir</hi> è
+        presente anche nei codici KOX, E<hi rend="superscript">n</hi> (<hi rend="italic">voie</hi>
+        KOX, <hi rend="italic">voi</hi> E<hi rend="superscript">n</hi>). Il codice E<hi rend="superscript">n</hi>, che per l’ordine delle strofe è vicino a <hi rend="italic"><seg style="font-family:Symbol;"></seg></hi>, per le varianti si accorda ora con l’una ora
+        con l’al­tra famiglia, ma presenta anche alcune lezioni isolate (cfr. Lannutti 1999, pp.
+        20-21). Nei casi in cui il soccorso del codice E<hi rend="superscript">n</hi> viene a
+        mancare (ossia quando E<hi rend="superscript">n</hi> è lacunoso o presenta delle lezioni
+        isolate), si segue la famiglia a cui appartiene il manoscritto base M.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-12-10T17:52:05Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Guiot de Dijon</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="text" xml:id="rs.21.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Chanterai por mon corage</l>
+            <l n="2">que je vueill reconforter, </l>
+            <l n="3">car avec mon grant damage </l>
+            <l n="4">ne vueill morir n’afoler</l>
+            <l n="5">quant de la terre sauvage</l>
+            <l n="6">ne voi nului retorner, </l>
+            <l n="7">ou cil est qui m’assoage </l>
+            <l n="8">le cuer, quant j’en oi parler. </l>
+            <l n="9">Dex, quant crieront «Outree!»,</l>
+            <l n="10">Sire, aidiez au pelerin</l>
+            <l n="11">por qui sui espoentee,</l>
+            <l n="12">car felon sunt Sarrazin! </l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="13">Soufferai mon lonc estaige </l>
+            <l n="14">tant que l’an voi trespasser </l>
+            <l n="15">il est en pelerinage,</l>
+            <l n="16">dont Dex le lait retorner! </l>
+            <l n="17">Car, au gré de mon lignage, </l>
+            <l n="18">ne quier ochoison trover </l>
+            <l n="19">d’autrui face mariage. </l>
+            <l n="20">Mult est fox qui en veut parler! </l>
+            <l n="21">Dex, quant crieront «Outree!», </l>
+            <l n="22">Sire, aidiez au pelerin</l>
+            <l n="23">por qui sui espoentee,</l>
+            <l n="24">car felon sunt Sarrazin! </l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="25">De ce sui au cuer dolente, </l>
+            <l n="26">que cil n’est en Biauvoisis</l>
+            <l n="27">en qui j’ai mise m’entente: </l>
+            <l n="28">je nen ai ne gieu ne ris. </l>
+            <l n="29">S’il est biaus et je sui gente, </l>
+            <l n="30">Sire Dex, por que.l feïs? </l>
+            <l n="31">Quant l’uns a l’autre atalente, </l>
+            <l n="32">por coi nos as departis? </l>
+            <l n="33">Dex, quant crieront «Outree!», </l>
+            <l n="34">Sire, aidiez au pelerin</l>
+            <l n="35">por qui sui espoentee, </l>
+            <l n="36">car felon sunt Sarrazin! </l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="37">De ce sui en bone atente, </l>
+            <l n="38">que je son homage pris. </l>
+            <l n="39">Quant l’alaine douce vente </l>
+            <l n="40">qui vient devers le païs </l>
+            <l n="41">ou cil est qui m’atalente, </l>
+            <l n="42">volentiers i tor mon vis: </l>
+            <l n="43">adont m’est vis que je.l sente </l>
+            <l n="44">par desoz mon mantel gris. </l>
+            <l n="45">Dex, quant crieront «Outree!» </l>
+            <l n="46">Sire, aidiez au pelerin</l>
+            <l n="47">por qui sui espoentee, </l>
+            <l n="48">car felon sunt Sarrazin! </l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="49">De ce sui mout deceüe, </l>
+            <l n="50">que ne fui au convoier; </l>
+            <l n="51">sa chemise qu’ot vestue </l>
+            <l n="52">m’envoia por embracier. </l>
+            <l n="53">La nuit, quant s’amors m’argue, </l>
+            <l n="54">la met delez moi couchier,</l>
+            <l n="55">toute nuit a ma char nue, </l>
+            <l n="56">por mes malz assoagier. </l>
+            <l n="57">Dex, quant crieront «Outree!» </l>
+            <l n="58">Sire, aidiez au pelerin</l>
+            <l n="59">por qui sui espoentee, </l>
+            <l n="60">car felon sunt Sarrazin! </l>
+          </lg>
+        </div><div type="text" xml:lang="en ">
+          <p>Anna Radaelli 2015</p>
+        </div><div type="text" xml:lang="it ">
+          <p>Anna Radaelli 2015</p>
+        </div></body><back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>Bédier-Aubry 1909, p. 111, « à cause d’un certain archaïsme de style», suggests that the
+          song may refer to the Third Crusade and have been composed around the end of the 12th c.
+          According to Lannutti 1999 (§ 2.2. of her <hi rend="italic">Introduzione</hi>) the
+          stylistic archaism could actually have been the result of a particular expressive choice.
+          On this basis and because of the total lack of historical information in the text, its
+          date of composition remains uncertain, but its atrribution to Guiot de Dijon by MM<hi rend="superscript">i</hi> is an indication that it may date from the first third or half
+          of the 13th c. </p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Bédier-Aubry 1909, p. 111, «à cause d’un certain archaïsme de style», avanza l'ipotesi
+          che la canzone faccia riferimento alla terza crociata e che sia stata composta sul finire
+          del XII secolo. Secondo Lannutti 1999 (§ 2.2. dell’<hi rend="italic">Introduzione</hi>)
+          l’arcaismo di stile potrebbe essere in realtà il frutto di una precisa scelta espressiva.
+          Con queste premesse e per l'assoluta mancanza di elementi di carattere storico, la
+          localizzazione cronologica del componimento rimane incerta e d’altra parte l’attribuzione
+          di MM<hi rend="superscript">i</hi> a Guiot de Dijon è un indizio che la canzone possa
+          risalire al primo terzo o alla prima metà del XIII secolo. </p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p corresp="#rs.21.fro:(n=3)">Avec here has concessive force (Bédier translates «malgré ma
+          grande misère»). Cfr. Bédier-Aubry 1909, p. 114.</p>
+        <p corresp="#rs.21.fro:(n=4)">morir n’afoler. Synonymic iteration. The reading foler,
+          recorded only in KX and so not supported by the stemma, is interpreted as a variant
+          without prefix of afoler, although one cannot rule out the possibility of it representing
+          the homograph foler ‘turn mad’, ‘behave like a lunatic’. Cfr. v. 20, in which the
+          adjective fox refers to someone who thinks that the lady could break the tie that unites
+          her to her man. </p>
+        <p corresp="#rs.21.fro:(n=5)">terre sauvage. The adjective sauvage is generally used in
+          courtly language to mean ‘hostile, cruel’ with reference to Love or the beloved lady: see
+          for example Perrin d'Angicourt RS 552, v. 12: que, quant plus l’aim et plus la truis
+          sauvage; Thibaut de Champagne RS 714, v. 4: Ainz puis Amors ne fui vers moi sauvage;
+          Thibaut de Champagne RS 1467, v. 4: si la truis vers moi sauvage; for Occitan compare
+          Peirol, BdT 366.9, vv. 9-10: Si.m fai tort ni.m mostr’orguoill, / A mi es fer’e salvatge,
+          and for Italian, Tomaso da Faenza, v. 14, istata m’è sempre salvagia e guerera (ms. V
+          108). In the present case, however, sauvage describes the land overseas where the lover is
+          and from which the woman sees none return. An identical expression is found in the Roman
+          de la Rose, vv. 7519-7520: Li mariniers qui par mer nage / Cerchant mainte terre sauvage,
+          translated in Fiore LVI 1-2, Il marinaio che tuttor navicando / va per lo mar cercando
+          terra istrana. 8 Compare Leonardi 1994, commentary to 74,10: ed en strano paese e ’n
+          crudel soe, who stresses the semantic equivalence of (i)strano and sauvage, and the fact
+          that the two terms belong to the semantic field of amor de lonh. He refers to Gaucelm
+          Faidit, BdT 167.2, v. 5 q’en pays estraing and V 597 Chiaro Davanzati, v. 1: Adimorando ’n
+          istrano paese, where the expression corresponds to the terra lonhdana of Jaufre Rudel’s
+          Quan lo rius de la fontana BdT 262.3, v. 8 and to the lontana terra of Re Federico’s song
+          Dolze meo drudo, e!, va’ .te .ne V 48, vv. 11-12 (dicioché, più disiai, / il. mi. tolle
+          lontana terra). The place also recalls the para-folkloric motif of the distant land or
+          country from which none can return, situated overseas and frequented by characters such as
+          the wandering trickster or the man driven mad by love, usually accoutred with the overcoat
+          and stick typical of the pilgrim. See Avalle 1989, pp. 14-16, 105-7 and the commentary to
+          v. 51. The refrain A Dieu commant amouretes, / Car je m’en vois / Souspirant en terre
+          estrange (B 12, see the commentary to VII 29-30) also derives from this motif. In the
+          Charroi de Nîmes, vv. 773-74, Quant il venront enz el regne sauvage, / S’en serviront
+          Jhesu l’esperitable, sauvage is defined as the territory controlled by the Saracens, which
+          Guillaume is preparing to reconquer. In courtly language estrange, like sauvage, can also
+          assume the meaning ‘hostile, cruel’ (see e.g. Gace Brulé RS 562=115, vv. 11-12: ce qu’ele
+          m’est si estraigne / fait l’amour croistre e dobler; Bernart de Ventadorn, BdT 70.30, vv.
+          33-36: Ma donna fo al comensar / franch’e de bela companha; / e per so la dei mas lauzar /
+          que si.m fas fer’et estranha; L 205 [V 716</p>
+        <p corresp="#rs.21.fro:(n=8)">In support of α’s reading Contini 1978, p. 53, cites v. 3 of
+          the Chastelain de Couci RS 40, m’adoucist si le cuer et rassouage, on whose fortune see
+          Gruber 1983, in Formisano 1990, pp. 339-356. Note also that the variant of γ is repeated
+          in v. 56 where it is supported by all the manuscripts. </p>
+        <p>
+          <hi rend="italic">j’en oi</hi>: This isolated reading of E<hi rend="superscript">n</hi> is
+          hard to decipher, coming at the end of the lacuna in the first stanza. K’s variant however
+          is a simple graphy (on <hi rend="italic">ai</hi> forr <hi rend="italic">oi</hi>, see Pope
+          1973, § 518).</p>
+        <p corresp="#rs.21.fro:(n=9)">The variant crierons of γ was considered erroneous by Bédier,
+          who uses it in the construction of his stemma (see Bédier-Aubry 1909, pp. 109-10), but is
+          to be retained as an indifferent reading (1st as well as 3rd person, referring to the
+          whole of Christendom). In this case, α’s reading is is supported by En (crieront = α +
+          En). On Outree, the pilgrim’s marching cry, see Paris 1880, pp. 44-45.</p>
+        <p corresp="#rs.21.fro:(n=11)">por = α + En. Contini 1978, p. 56 presumably considered the
+          use of the neutral quoi in En incongruous in the place of qui (= cui) recorded in the
+          other mss. (as also in v. 59). But in Old French the use of quoi referring to persons is
+          quite common. See Foulet 1972, § 257 and Jensen 1990, § 436.</p>
+        <p corresp="#rs.21.fro:(n=14)">l’an = α + En; voi = γ (voie) + En (the reading is supported
+          by the form of the verb veoir present in M, v. CT iert); trespasser = CT (trespasseis) +
+          En, v. M passer and γ rapasser. The present indicative of En, incongruous if the sense
+          ‘until’ is given to tant que (the construction would require the subjective in that case),
+          creates no problem in the context of a result clause, in other words if tant que is
+          related to the lonc of the preceding line: tant lonc que + indicative. The difficulty of
+          relating tant to lonc is sufficient to explain the variety of the readings, which should
+          presumably be considered as the result of attempts to interpret and hence as arbitrary
+          confections. From this point of view, if we remain within the context of the least radical
+          confection, that of the α family, the most likely hypothesis is that the text of M (tant
+          que l’an verrai passer) may derive from a correction to the erroneous reading that has
+          filtered into CT, rather than from a different branch of the tradition. </p>
+        <p corresp="#rs.21.fro:(n=15)">il est en pelerinage is an elliptical construction, supported
+          by the isolated variant que mut in En, in which the conjunction is explicit. There is an
+          analogous construction in v. 19.</p>
+        <p corresp="#rs.21.fro:(n=17)">The term lignage (Prov. linhatge) recalls feudal vocabulary
+          and the values of fidelity and self-denial towards the lord in force within the clan (see
+          also the note to v. 38).</p>
+        <p corresp="#rs.21.fro:(n=20)">fox. The adjective expresses an idea of folly as
+          transgression against courtly obligations (compare De amore, II xxxii 86 «Nemo duplici
+          potest amore ligari»), as the troubadours typically understand them. According to
+          Dragonetti 1959, in French poetry ‘love’s madness’ is unusally understood as irrational
+          passion. </p>
+        <p corresp="#rs.21.fro:(n=27)">The reading is supported by the agreement of γ with En and
+          confirmed by v. 7 «on ai meza m’ententa» from Bernard de Ventadorn’s song quoted above
+          (see also the note to vv. 11 and 39), also in coblas doblas, with alternating paroxytonic
+          and oxytonic rhymes. The first of the two stanzas with the rhyme in -enta -is is here
+          echoes in stanzas III and IV, as is shown by the common use of various rhyme-words: in
+          stanza III, entente / ententa, gente / genta, atalente / atalenta; in stanza IV, vente /
+          venta, païs / païs, sente / senta. </p>
+        <p><hi rend="italic">j’ai mise m’entente</hi>: <hi rend="italic">Metre s’entente en
+            aucun</hi> is equivalent to ‘place oneself at the service of someone’ and so expresses
+          the <hi rend="italic">traditio personae.</hi> In Italian poetry the expression is used in
+          V 737 Chiaro Davanzati, vv. 1-2 «Gientile mia gioia, in chui mess’o mia ’ntenza».</p>
+        <p corresp="#rs.21.fro:(n=28)">The stemma does not provide an indication of how to select
+          the initial monosyllable. The reading adopted here is therefore that of the base ms. </p>
+        <p><hi rend="italic">je nen</hi>: this could also be represented as <hi rend="italic">je
+            n’en</hi>, the pronoun being pleonastic or referring to <hi rend="italic">cil</hi>, but
+          this would lose the emphasis on the lady’s absolute unhappiness.</p>
+        <p corresp="#rs.21.fro[range(@n=39,@n=40)]">The indissoluble bond uniting the lady to her
+          lover (see the note to vv. 4 and 20), here expressed in feudal terms, is sufficient reason
+          for her to hope for their reunion.</p>
+        <p corresp="#rs.21.fro:(n=39)">The reading adopted here is supported by the agreement of En
+          and γ. The incipit of the quoted song of Bernart de Ventadorn, echoed here, has come down
+          to us in two alternative versions: «Can la do(u)ss’aura venta» (mss. C, RV, Ma, with the
+          adjective placed after the noun in mss. NO) and «Can la freid(a) aura (freidura) venta»
+          (ADbG). The latter version was preferred by both Appel and Lazar, who consider it
+          difficilior. It cannot therefore be ruled out, as Contini 1978, p. 58 observes, that α’s
+          reading was influenced by the facilior incipit.</p>
+        <p corresp="#rs.21.fro:(n=40)">With respect to the isolated reading of En, the reading of α
+          and γ, in which the douce of the previous line is repeated, appears to be a
+          simplification, perhaps confirmed by the presence of the combination douz païs in the
+          refrain used in stanza V of Guiot de Dijon’s Quant je voi pluz felons rire (RS 1503),
+          equivalent to the dolze terra of Giacomino Pugliese, V 58 vv. 34-35: «in dolze terra
+          dimoranza face / madonna, c’alo Fiore sta vicino». The motif of the wind coming from the
+          beloved’s land (see Contini 1974, p. 275, note; d’Heur 1972; Spaggiari 1985), amply
+          attested in Occitan lyric (in the incipit of Peire Vidal BdT 364.1 Ab l’alen tir vas me
+          l’aire and Marcabru BdT 293.2 A l’alena del ven doussa, and in the cantiga de amigo BdT
+          392.5a Oi, altas undas), is also found in the Charroi de Nîmes. </p>
+        <p corresp="#rs.21.fro:(n=42)">mon. Isolated reading of En.</p>
+        <p corresp="#rs.21.fro:(n=46)">mantel. As Contini 1978, p. 59 has observed, «par desoz mon
+          mantel gris» echoes vv. 23-24 of a song of Guillem de Peitieus (BdT 183.1): «Enquer me
+          lais Dieus viure tan / qu’aia mas mans soz son mantel». Even more marked is the lexical
+          and situational affinity with two passages of Bernart Marti, BdT 63.8, vv. 33-35: «Assatz
+          val mais qu’emperaire, / Si desotz son mantel vayre / Josta son bel cors m’aiziu», where
+          vayre is synonymous with gris; BdT 63.7a, vv. 52-56: «q’ieu no.l serai ja mensongiers / –
+          qant piegz seria qe Judas – / qe en dormen e en veillan mi desvesti dal som mantel / m’es
+          vis qe mos cors s’i sejorn», where the withdrawl of the cloak represents the end of a love
+          relationship, broken off by the lady. In the passages quoted the cloak is therefore an
+          image of the lady’s availability, including the physical, which is hoped for or regretted
+          for its absence. The lady can give her own cloak and so share it with her lover, that is
+          grant her love to him, just as she can deny it, hence break off their love relationship.
+          The lovers in our piece and Bernart Marti’s song just quoted seem to divide their cloak
+          with the unattainable beloved. Both lovers are therefore prisoners of their love, inasmuch
+          as the impossibility of satisfying their own desires cannot imply renunciation («q’ieu
+          no.l serai ja mensongiers»).</p>
+        <p>The adjective <hi rend="italic">gris</hi>, synonymous with <hi rend="italic">vair</hi>,
+          belongs to the precise semantic field of the attributes of power, wealth and nobility, as
+          Spaggiari 1985, pp. 252-53 has observed, referring to vv. 41-42 of a song of Guillem de
+          Peitieus IX (BdT 183.10): «Aissi guerpisc joi e deport / e vair e gris e sembeli» and vv.
+          29-30 of the crusade song RS 1548a: «Deguerpit ad e vair e gris, / Chastel e viles e
+          citez». The latter also has a similar metrico-musical structure. In both passages, the
+          dittology <hi rend="italic">vair e gris</hi> has the force of a noun indicating a type of
+          fur (compare the modern French terms ‘petit-gris’ and ‘vair’, the latter equivalent to the
+          Italian ‘vaio’). Spaggiari 1985, pp. 252-53 also notes that the passage concerning
+          crusaders’ equipment, contained in the bull <hi rend="italic">Quantum predecessores</hi>
+          with which Eugenius III proclaimed the Second Crusade, includes an admonishment not to
+          wear precious clothes («vestibus variis aut grisiis»). The expression <hi rend="italic">vair e gris</hi> in the same sense also recurs in some 13th-c. northern Italian texts
+          (see for example the <hi rend="italic">Istoria</hi> of the Pseudo Uguccione, vv. 51-560,
+          v. 177: «lo vaio et lo grig[i]o [et] l’armellino» and vv. 661-892, v. 877: «né vaio né
+          grigio, né pelliccione»; Uguccione da Lodi, <hi rend="italic">Libro,</hi> vv. 62-64: «Quel
+          qe fosse segnore dal levant’ al ponente / dig vair e deli grisi, del’òr e del’arçente / le
+          vile e li casteli aves’ en tenimente», and v. 267: «dus’ e cont’ e marqesi, qe porta gris’
+          e vair’», ecc.), as well as in a composition of Giacomo d’Aquino, V 41, v. 5-8: «vaio né
+          griso, né nulla gioia che sia, / io non voria / né sengnoria, / ma tutavia / veder lo
+          bello viso», which may echo Guillem’s song («joi e deport / e vair e gris»).</p>
+        <p corresp="#rs.21.fro:(n=50)">The term convoier designates the escort made up of relatives
+          and friends who accompany the crusader, equipped as a pilgrim, on the first stage of his
+          departure (Bédier-Aubry 1909, p. 117).</p>
+        <p corresp="#rs.21.fro:(n=51)">The chemise is the long shirt of coarse cloth worn by the
+          crusader-pilgrim as he set off, barefoot, provided with a bag and stick, until he reached
+          the next stage, when he changed back into his usual clothes (Bédier-Aubry 1909, pp.
+          116-17). See the comment in the note to v. 5.</p>
+        <p corresp="#rs.21.fro[range(@n=54,@n=55)]">As there is no evidence from En, which is
+          lacunary here, the reading of α, to which the base ms. belongs, has been adopted: delez v.
+          γ’s avec and toute nuit v. γ’s mult estroit. In the latter case Bédier’s argues for γ’s
+          reading: «Mout estroit (OKX) vaut mieux que toute nuit, parce que l’on a déjà la nuit au
+          v. 53» (Bédier-Aubry 1909, p. 117).</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p corresp="#rs.21.fro:(n=3)"> Avec ha qui valore concessivo (Bédier traduce «malgré ma
+          grande misère»). Cfr. Bédier-Aubry 1909, p. 114. </p>
+        <p corresp="#rs.21.fro:(n=4)">morir n’afoler. Iterazione sinonimica. La lezione foler,
+          riportata dai soli mano­scritti KX e quindi non sostenuta dalla ricostruzione stemmatica,
+          va interpretata come variante senza prefisso di afoler, sebbene non si possa escludere che
+          si tratti dell’omografo foler ‘diventare folle’, ‘comportarsi da folle’. Cfr. il v. 20, in
+          cui l’aggettivo fox è riferito a chi pensa che la donna possa infrangere il legame che la
+          unisce al suo uomo, di cui al v. 38.</p>
+        <p corresp="#rs.21.fro:(n=5)">terre sauvage. L’aggettivo sauvage, più spesso usato nel
+          linguaggio cortese nel significato di ‘avverso, crudele’ in riferimento a Amore o alla
+          donna amata (vedi ad esempio Perrin d'Angicourt RS 552, v. 12: «que, quant plus l’aim et
+          plus la truis sauvage»; Thibaut de Champagne RS 714, v. 4: «Ainz puis Amors ne fui vers
+          moi sauvage»; Thibaut de Champagne RS 1467, v. 4: «si la truis vers moi sauvage»; per
+          l’ambito provenzale Peirol, BdT 366,9, vv. 9-10: «Si.m fai tort ni.m mostr’orguoill, / A
+          mi es fer’e salvatge»; per l’ambito italiano V 108 Tomaso da Faenza, v. 14: «istata m’è
+          sempre salvagia e guerera»), serve qui invece a connotare il paese d’oltremare dove si
+          trova l’amato e da cui l’amante non vede nessuno fare ritorno. Identica espressione in
+          Roman de la Rose, vv. 7519-7520: «Li mariniers qui par mer nage / Cerchant mainte terre
+          sauvage», tradotto poi in Fiore LVI 1-2 «Il marinaio che tuttor navicando / va per lo mar
+          cercando terra istrana». Si veda in proposito Leonardi 1994, commento a 74,10: «ed en
+          strano paese e ’n crudel soe», dove si sottolinea l’equivalenza semantica di (i)strano e
+          sauvage e l’appartenenza dei due termini al campo semantico dell’amor de lonh, con
+          riferimento a Gaucelm Faidit, BdT 167,2, v. 5 «q’en pays estraing», cui si può accostare V
+          597 Chiaro Davanzati, v. 1: «Adimorando ’n istrano paese» (l’espressione corrisponde al
+          terra lonhdana della can­zone di Jaufre Rudel Quan lo rius de la fontana BdT 262,3, v. 8:
+          «Amors de terra lonhdana», e al lontana terra della canzone di Re Federico Dolze meo
+          drudo, e!, va’ .te .ne V 48, vv. 11-12: «dicioché, più disiai, / il. mi. tolle lontana
+          terra»). Il luogo rimanda inoltre ad un motivo di ca­rattere para­folclorico, quello della
+          terra lontana o paese lontano da cui nessuno può mai fare ritorno, situato oltremare e
+          frequentato da perso­naggi, come il vagabondo gabbatore o il folle per amore, che sono
+          soli­tamente muniti degli accessori tipici del pellegrino, la schiavina e il ba­stone. Si
+          veda in proposito Avalle 1989, pp. 14-16, 105-107 e il commento al v. 51. A questo stesso
+          motivo va ricondotto anche il refrain «A Dieu commant amouretes, / Car je m’en vois /
+          Souspirant en terre estrange» (B 12, su cui si veda il commento a VII 29-30). Nel Charroi
+          de Nîmes, vv. 773-774: «Quant il venront enz el regne sauvage, / S’en serviront Jhesu
+          l’esperitable», viene definito sauvage il territorio domi­nato dai Saraceni, che Guillaume
+          si ap­presta a riconquistare. Va inoltre notato che nel linguaggio cortese anche estrange,
+          come sauvage, può assumere il significato di ‘avverso, crudele’ (vedi ad es. Gace Brulé RS
+          562=115, vv. 11-12: «ce qu’ele m’est si estraigne / fait l’amour croistre e dobler»;
+          Bernart de Ventadorn, BdT 70,30, vv. 33-36: «Ma donna fo al comensar / franch’e de bela
+          companha; / e per so la dei mas lauzar / que si.m fas fer’et estranha»; L 205 [V 716</p>
+        <p corresp="#rs.21.fro:(n=8)">A sostegno della lezione di α, Contini 1978, p. 53, cita il v.
+          3 del Chastelain de Couci RS 40, m’adoucist si le cuer et rassouage, sulla cui fortuna si
+          veda Gruber 1983, in Formisano 1990, pp. 339-356. Si consideri, inoltre, che la variante
+          di γ è ripetuta anche al v. 56 e confermata, per questo luogo, dalla totalità dei
+          manoscritti. </p>
+        <p><hi rend="italic">j’en oi</hi>. <hi rend="italic">Lectio singularis</hi> di E<hi rend="superscript">n</hi> di difficile decifrazione, a conclu­sione della lacuna
+          relativa alla prima strofa. La variante di K è invece puramente grafica (sulla grafia <hi rend="italic">ai</hi> per <hi rend="italic">oi</hi>, cfr. Pope 1973, § 518).</p>
+        <p corresp="#rs.21.fro:(n=9)">La variante crierons di γ, considerata erronea da Bédier, che
+          la utilizza per la costruzione del suo stemma (vedi Bédier-Aubry 1909, pp. 109-110), è
+          invece da ritenersi adiafora (prima persona anziché terza persona, in riferimento
+          all’intera cristianità). In questo caso, la lezione di α è confermata da En (crieront = α
+          + En). Su Outree, grido di marcia dei pellegrini, vedi Paris 1880, pp. 44-45. </p>
+        <p corresp="#rs.21.fro:(n=11)">por = α + En. Contini 1978, p. 56 ritiene presumibilmente
+          incongruo l’impiego del neutro quoi in En, in luogo del qui (= cui) riportato dagli altri
+          codici (come an­che al v. 59). Va comunque notato che nel francese antico l’impiego di
+          quoi in riferimento a persona è tutt’altro che raro. Si veda in proposito Foulet 1972, §
+          257 e Jensen 1990, § 436.</p>
+        <p corresp="#rs.21.fro:(n=14)">l’an = α + En; voi = γ (voie) + En (la lezione è confermata
+          dalla voce del verbo veoir presente in M, contro iert di CT); trespasser = CT
+          (trespasseis) + En, contro il passer di M e il rapasser di γ (un’alternanza repasser /
+          trespasser si registra anche in XV 47). Il presente indicativo di En, incongruo se si dà a
+          tant que valore di ‘finché’ (la costruzione richiederebbe in tal caso un congiuntivo), non
+          crea problemi in contesto consecutivo, cioè se tant que viene messo in relazione con il
+          lonc del verso precedente: tant lonc que + indicativo. La difficoltà di collegare tant a
+          lonc è sufficiente a spiegare la varietà delle lezioni, che andranno presumibilmente
+          considerate come il risultato di ten­tativi di interpretazione e quindi come rifacimenti
+          arbitrari. Da questo punto di vista, rimanendo nell’ambito del rifacimento meno radicale,
+          quello della famiglia α, diventa più probabile l’ipotesi che il testo di M (tant que l’an
+          verrai passer) possa derivare da una correzione della lezione erronea filtrata in CT,
+          piuttosto che da un diverso ramo della tradizione. </p>
+        <p corresp="#rs.21.fro:(n=15)">il est en pelerinage. Costruzione asindetica, confermata
+          dalla variante isolata que mut di En, in cui la congiunzione è esplicita. Analoga
+          costruzione asindetica al v. 19. </p>
+        <p corresp="#rs.21.fro:(n=17)">Il termine lignage (prov. linhatge) rimanda al lessico
+          feudale e ai valori di fedeltà e abnegazione nei confronti del signore vigenti all’interno
+          del clan (vedi anche il commento al v. 38).</p>
+        <p corresp="#rs.21.fro:(n=20)">fox. L’aggettivo esprime un’idea della follia come mancanza,
+          infrazione, trasgressione ai doveri cortesi (cfr. De amore, II xxxii 86 «Nemo duplici
+          potest amore ligari»), in accezione tipicamente trobadorica. Secondo Dragonetti 1959,
+          nella poesia francese la «folie amoureuse» viene invece solitamente intesa come passione
+          irrazionale. </p>
+        <p corresp="#rs.21.fro:(n=27)">La lezione è sostenuta dall’accordo di γ con En e confermata
+          dal v. 7 «on ai meza m’ententa» della già citata canzone di Bernard de Ventadorn (su cui
+          si veda inoltre la nota ai vv. 11 e 39), anch’essa in coblas doblas, con alternanza di
+          rime piane e tronche. La prima delle due strofe con rime in -enta -is è qui riecheggiata
+          nelle strofe iii e iv, come dimostra l’uso comune di diverse parole in rima: nella iii
+          strofa, oltre entente / ententa, gente / genta, atalente / atalenta; nella iv strofa,
+          vente / venta, païs / païs, sente / senta.</p>
+        <p><hi rend="italic">j’ai mise m’entente</hi>. <hi rend="italic">Metre s’entente en
+            aucun</hi> vale per ‘porsi al servizio di qualcuno’ ed esprime quindi la <hi rend="italic">traditio personae</hi>, su cui si veda la nota a II 31-32. In ambito
+          italiano lo stilema viene impiegato in V 737 Chiaro Davanzati, vv. 1-2 «Gientile mia
+          gioia, in chui mess’o mia ’ntenza».</p>
+        <p corresp="#rs.21.fro:(n=28)">Lo stemma non fornisce indicazioni relative alla scelta del
+          monosillabo iniziale. La lezione adottata è quindi quella del manoscritto base. </p>
+        <p><hi rend="italic">je nen</hi>. Il testo ammetterebbe anche una trascrizione <hi rend="italic">je n’en</hi>, con pronome pleonastico o riferibile a <hi rend="italic">cil</hi>, che tuttavia risulterebbe meno funzionale all’interpretazione proposta, dove
+          si tende a sottolineare la condizione di assoluta infelicità in cui si trova la donna.</p>
+        <p corresp="#rs.21.fro[range(@n=29,@n=30)]">L’inscindibilità del legame che unisce la donna
+          al suo uomo (vedi la nota ai vv. 4 e 20), qui espresso nei termini del linguaggio feudale,
+          è ragione sufficiente a sperare nel ricongiungimento.</p>
+        <p corresp="#rs.21.fro:(n=39)">La lezione adottata è sostenuta dall’accordo di En con γ.
+          L’incipit della citata canzone di Bernart de Ventadorn, qui riecheggiato, ci è pervenuto
+          in due versioni alternative: «Can la do(u)ss’aura venta» (nei codici C, RV, Ma, con
+          l’aggettivo posto dopo il sostantivo nei codici NO) e «Can la freid(a) aura (freidura)
+          venta» (nella famiglia ADbG). Quest’ultima versione è stata messa a testo sia da Appel sia
+          da Lazar, che la consi­derano difficilior. Non è escluso quindi, come nota Contini 1978,
+          p. 58, che la lezione di α sia stata influenzata dall’incipit facilior. </p>
+        <p corresp="#rs.21.fro:(n=40)">Rispetto alla singularis di En, la lezione di α e γ, in cui
+          viene ripetuto il douce del verso precedente, si configura come banalizzante, come
+          potrebbe confermare la presenza della combinazione douz païs nel refrain utilizzato per la
+          v strofe della canzone V, equivalente al dolze terra di V 58 Giacomino Pugliese, vv.
+          34-35: «in dolze terra dimoranza face / madonna, c’alo Fiore sta vicino». Il motivo del
+          vento proveniente dal paese della persona amata (vedi Contini 1974, p. 275, nota; d’Heur
+          1972; Spaggiari 1985), ampiamente attestato nella lirica provenzale (negli incipit di
+          Peire Vidal BdT 364,1 Ab l’alen tir vas me l’aire e Marcabru BdT 293,2 A l’alena del ven
+          doussa, e nella cantiga de amigo BdT 392,5a Oi, altas undas), si riscontra anche nel
+          Charroi de Nîmes. </p>
+        <p corresp="#rs.21.fro:(n=42)">mon. Lectio singularis di En. </p>
+        <p corresp="#rs.21.fro:(n=46)">mantel. Come già notato in Contini 1978, p. 59, «par desoz
+          mon mantel gris» rimanda ai vv. 23-24 di una canzone di Guglielmo d’Aquitania (BdT 183,1):
+          «Enquer me lais Dieus viure tan / qu’aia mas mans soz son mantel». Ancora più evidente
+          l’affinità del lessico e della situazione a due luoghi di Bernart Marti, BdT 63,8, vv.
+          33-35: «Assatz val mais qu’emperaire, / Si desotz son mantel vayre / Josta son bel cors
+          m’aiziu», dove vayre è sinonimo di gris; BdT 63,7a, vv. 52-56: «q’ieu no.l serai ja
+          mensongiers / — qant piegz seria qe Judas — / qe en dormen e en veillan mi desvesti dal
+          som mantel / m’es vis qe mos cors s’i sejorn», dove la sottrazione del mantello
+          rappresenta la fine di una relazione amorosa, interrotta per volontà della donna amata.
+          Nei luoghi citati il mantello è dunque immagine della disponibilità, anche fisica, della
+          donna, che viene auspicata o rimpianta. La donna può donare il proprio mantello e quindi
+          dividerlo con l’amante, cioè concedergli il proprio amore, così come negarglielo, cioè
+          interrompere la relazione amorosa. Come alla donna del nostro componimento anche
+          all’amante della canzone di Bernart Marti appena citata, sembra (m’es vis / m’est vis) di
+          dividere il mantello con la persona amata, irraggiungibile. Ambedue gli amanti sono
+          comunque prigionieri del loro amore, tanto che l’impossibilità di soddisfare i propri
+          desideri non può implicare la rinuncia («q’ieu no.l serai ja mensongiers»).</p>
+        <p><hi rend="italic">gris</hi>. L’aggettivo <hi rend="italic">gris</hi>, sinonimo di <hi rend="italic">vair</hi>, rimanda invece ad un preciso campo semantico, quello degli
+          attributi di potere, ricchezza e nobiltà, già chiamato in causa da Spaggiari 1985, pp.
+          252-253, che segnala i vv. 41-42 di una canzone di Guglielmo IX (BdT 183,10): «Aissi
+          guerpisc joi e deport / e vair e gris e sembeli» e i vv. 29-30 della canzone di crociata
+          RS 1548a: «Deguerpit ad e vair e gris, / Chastel e viles e citez». Quest’ultima presenta
+          anche un’analoga struttura metrico-musicale. In ambedue i luoghi, la dittologia <hi rend="italic">vair e gris</hi> ha valore di sostantivo indicante un tipo di pelliccia
+          (cfr. i termini del francese moderno ‘petit-gris’ e ‘vair’, quest’ultimo equivalente
+          all’italiano ‘vaio’). Sempre in Spaggiari 1985, pp. 252-253 si nota inoltre che nel passo
+          riguardante l’equipaggiamento dei crociati, contenuto nella bolla <hi rend="italic">Quantum predecessores</hi> con cui Eugenio III proclama la seconda crociata, è presente
+          un ammoni­mento a non munirsi di abiti preziosi («vestibus variis aut grisiis»). La
+          dittologia <hi rend="italic">vair e gris</hi> nello stesso significato è ricorrente anche
+          in alcuni testi italiani del duecento di area settentrionale (vedi ad es. la <hi rend="italic">Istoria</hi> dello Pseudo Uguccione, vv. 51-560, v. 177: «lo vaio et lo
+          grig[i]o [et] l’armellino» e vv. 661-892, v. 877: «né vaio né grigio, né pelliccione»;
+          Uguccione da Lodi, <hi rend="italic">Libro,</hi> vv. 62-64: «Quel qe fosse segnore dal
+          levant’ al ponente / dig vair e deli grisi, del’òr e del’arçente / le vile e li casteli
+          aves’ en tenimente», e v. 267: «dus’ e cont’ e marqesi, qe porta gris’ e vair’», ecc.),
+          nonché in un componimento di Giacomo d’Aquino, V 41, v. 5-8: «vaio né griso, né nulla
+          gioia che sia, / io non voria / né sengnoria, / ma tutavia / veder lo bello viso», dove è
+          forse presente l’eco della canzone di Guglielmo («joi e deport / e vair e gris»).</p>
+        <p><hi rend="italic">mon mantel gris</hi>. Il mantello variegato può comunque appartenere
+          solo alla donna, come dimostra l’impiego del possessivo <hi rend="italic">son</hi> nelle
+          canzoni di Bernart Marti e Guglielmo, a soggetto maschile, e del possessivo <hi rend="italic">mon</hi> nella nostra canzone, a soggetto femminile. Esso è simbolo di
+          potere, cioè di sovranità, ed è possibile che, al di là delle implicazioni di carattere
+          erotico e carnale, vada interpretato come una metafora del rapporto di vassallaggio
+          intercorrente tra amante e donna amata. Non si può inoltre escludere un’allusione alla
+          condizione senza scampo dell’amante cortese, nell’ambito della visione paradossale
+          dell’amore, come sembrano suggerire alcuni versi di un sonetto di Monte Andrea (V 692, vv.
+          1-4 «Di svariato colore portto vesta: / là dove sta, comprende mio efetto. / Uno solo
+          punto di me fuori non ne<hi rend="superscript">.</hi> sta: / in sì onesta vita son
+          coretto, / portto di tutti mali, che co<hi rend="superscript">.</hi> me sta»), dove <hi rend="italic">vesta di svariato colore</hi> potrebbe equivalere a <hi rend="italic">mantel gris</hi>.</p>
+        <p corresp="#rs.21.fro:(n=50)">Il termine convoier designa la scorta, costituita da parenti
+          e amici, che accompagna il crociato, equipaggiato da pellegrino, dalla par­tenza alla
+          prima tappa (Bédier-Aubry 1909, p. 117).</p>
+        <p corresp="#rs.21.fro:(n=51)">La chemise non è altro che la schiavina indossata alla
+          partenza dal crociato-pellegrino, che procedeva a piedi nudi, munito di bisaccia e
+          bastone, fino alla tappa successiva, dove riprendeva gli abiti usuali (Bédier-Aubry 1909,
+          pp. 116-117). Vedi in proposito il commento al v. 5.</p>
+        <p corresp="#rs.21.fro[range(@n=54,@n=55)]">Mancando il riscontro di En, che è lacunoso, si
+          è messa a testo la lezione di α, cui appartiene il manoscritto base: delez contro avec di
+          γ e toute nuit contro mult estroit di γ. Per quest’ultimo caso si tengano pre­senti le
+          considerazioni di Bédier, che adotta invece la le­zione di γ: «Mout estroit (OKX) vaut
+          mieux que toute nuit, parce que l’on a déja la nuit au v. 53» (Bédier-Aubry 1909, p.
+          117).</p>
+      </div>
+    </back></text></TEI>

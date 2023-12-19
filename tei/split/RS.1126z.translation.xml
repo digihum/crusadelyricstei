@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-08-30</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde1780, II, 304; Michel 1830, 89; Le Roux de Lincy 1841, I, 101; Keller
+            1844, 257; Tarbé 1851, 65; Mætzner 1853, 93-96; Fath 1883, 91; Engelcke 1886, 169;
+            Bédier-Aubry 1909, 119; Beck 1937, 94; Gennrich 1953, I, 4; Blume 1957, VI, 872; Lerond
+            1964, 178; Dufournet 1989, 104; Dijkstra 1995a, 199; Barbieri 2001, 237.</bibl>
+        </listBibl>
+        <listBibl type="essential_bibliography">
+          <bibl>Arveiller-Gouiran 1987: Raymond Arveiller, Gérard Gouiran, L’œuvre poétique de
+            Falquet de Romans, troubadour, Aix-en Provence, Université de Provence, 1987.</bibl>
+          <bibl>Barbieri 1997: Luca Barbieri, «Signori-trovieri in Borgogna: una lirica attribuita a
+            Gautier de Berzé», Medioevo romanzo, 21 (1997), pp. 107-131.</bibl>
+          <bibl>Barbieri 2001: Luca Barbieri, Le liriche di Hugues de Berzé, edizione critica,
+            Milano, CUSL, 2001.</bibl>
+          <bibl>Bédier 1906: Joseph Bédier, «Sur deux chansons de croisade», Romania, 35 (1906), pp.
+            387-393.</bibl>
+          <bibl>Bédier-Aubry 1909: Joseph Bédier, Pierre Aubry, Les chansons de croisade avec leurs
+            mélodies, Paris, Champion, 1909 (Genève, Slatkine, 2011).</bibl>
+          <bibl>Chaume 1938: Maurice Chaume, «Les premiers seigneurs de Berzé», Annales de
+            l’Académie de Mâcon, s. III, 33 (1938), pp. 161-172.</bibl>
+          <bibl>Engelcke 1886: Karl Engelcke, «Die Lieder des Hugues de Bregi», Archiv für das
+            Studium des neueren Sprachen und Literaturen, 75 (1886), pp. 147-176.</bibl>
+          <bibl>Gouiran 1994: Gérard Gouiran, «À propos de la vie de Hugues de Berzé, trouvère
+            bourguignon. Essai de nouvelle chronologie», in Actas do XIX Congreso Internacional de
+            Lingüística e Filoloxía Románicas, publicadas por R. Lorenzo, VII, A Coruña, Fundación
+            “Pedro Barrié de la Maza, Conde de Fenosa”, 1994, pp. 339-351.</bibl>
+          <bibl>Langlois 1984: Charles-Victor Langlois, La vie en France au Moyen Âge de la fin du
+            XIIe au milieu du XIVe siècle d’après des moralistes du temps, II, Paris, Hachette, 1926
+            (= Genève, Slatkine, 1984), pp. 88-106.</bibl>
+          <bibl>Lecoy 1938: Felix Lecoy, La Bible au seigneur de Berzé, édition critique d’après
+            tous les manuscrits connus, Paris, Droz, 1938.</bibl>
+          <bibl>Lecoy 1942-1943: Felix Lecoy, «Pour la chronologie de Hugues de Berzé», Romania, 67
+            (1942-1943), pp. 243-254.</bibl>
+          <bibl>Lerond 1964: Alain Lerond, Chansons attribuées au Chastelain de Couci (fin du XIIe –
+            début du XIIIe siècle), Paris, Presses Universitaires de France, 1964.</bibl>
+          <bibl>Paris 1889: Gaston Paris, «Hugues de Berzé», Romania, 18 (1889), pp. 553-570.</bibl>
+          <bibl>Schultz 1892: Oscar Schultz, «Urkundliches zu Hugues de Berzé», Zeitschrift für
+            romanische Philologie, 16 (1892), pp. 504-508.</bibl>
+          <bibl>Zenker 1896: Rudolf Zenker, Die Gedichte des Folquet von Romans, Halle a. S.,
+            Niemeyer, 1896.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts">
+          <head> Mss. </head>
+          <bibl>A 135d [158d] (<hi rend="italic">mesire Uges de Bregi</hi>; vv. 1-12 only), C
+            221v-222r (<hi rend="italic">li rois de Naivairez</hi>), D 1rv [37rv] (<hi rend="italic">Hughes de Bregi chevaliers</hi>), H 226d-227a (anon.), K 106d-107b (<hi rend="italic">li chastelains de Couci</hi>), L<hi rend="superscript">n</hi> 14rv (anon.), M<hi rend="superscript">i</hi> Bc (<hi rend="italic">me sire Huges de Bregi</hi>, only the
+            incipit in the table), O 131ac (anon., modern attribution <hi rend="italic">Chastelains
+              de Coucy</hi>), O<hi rend="superscript">p</hi> 54b-55b (anon.), P 38c-39b (<hi rend="italic">li chastelains de Couci</hi>), Q<hi rend="superscript">p</hi> 112cd (<hi rend="italic">Çirardus </hi>[<hi rend="italic">Brunelus</hi>]), R<hi rend="superscript">3</hi> 123r-124r (anon.), T 103v (<hi rend="italic">me sire Hughes
+              de Bregi</hi>), U 99rv (anon.), V 79c-80a (anon.), X 75d-76c (<hi rend="italic">li
+              chastelains de Couci</hi>), a 26ac (<hi rend="italic">mesire Uges de
+            Bregi</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10 a&#x2019;bba&#x2019;cca&#x2019;a&#x2019;"><p>10 a’bba’cca’a’ (MW 1410,3 =
+        Frank 549); 6 <hi rend="italic">coblas doblas</hi> + 1 four-line <hi rend="italic">envoi</hi> (cca’a’); rhyme a: <hi rend="italic">-ie</hi>, <hi rend="italic">-endre</hi>,
+          <hi rend="italic">-ance</hi>; rhyme b: <hi rend="italic">-on</hi>, <hi rend="italic">-i</hi>, <hi rend="italic">-ier</hi>; rhyme c: <hi rend="italic">-is</hi>, <hi rend="italic">-or</hi>, <hi rend="italic">-er</hi>. The metrical shape is imited by
+        Thibaut de Champagne in RS 1469 (with a f. c rhyme); melody in ADKOL<hi rend="superscript">n</hi>PR<hi rend="superscript">3</hi>TVXa; the groups KOPX+D and ATa+V+L<hi rend="superscript">n</hi> have two similar melodies with few variants but diverging by a
+        fifth; however ms. R<hi rend="superscript">3</hi> presents an independent melody.</p></metDecl>
+      <metDecl xml:lang="it" pattern="10 a&#x2019;bba&#x2019;cca&#x2019;a&#x2019;"><p>10 a’bba’cca’a’ (MW 1410,3 =
+        Frank 549); 6 <hi rend="italic">coblas doblas</hi> con un <hi rend="italic">envoi</hi> di 4
+        versi (cca’a’); rima a: <hi rend="italic">-ie</hi>, <hi rend="italic">-endre</hi>, <hi rend="italic">-ance</hi>; rima b: <hi rend="italic">-on</hi>, <hi rend="italic">-i</hi>,
+          <hi rend="italic">-ier</hi>; rima c: <hi rend="italic">-is</hi>, <hi rend="italic">-or</hi>, <hi rend="italic">-er</hi>; questo schema è ripreso da Thibaut de Champagne
+        nella canzone RS 1469 (con la rima c femminile); melodia in ADKOL<hi rend="superscript">n</hi>PR<hi rend="superscript">3</hi>TVXa; i gruppi KOPX+D e ATa+V+L<hi rend="superscript">n</hi> hanno due linee melodiche simili con poche varianti ma
+        divergenti di una quinta; il ms. R<hi rend="superscript">3</hi> presenta invece una linea
+        melodica indipendente.</p></metDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-08-30T18:35:42Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Hugues de Berzé</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1126.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Se mai qualcuno ebbe il cuore triste per una crudele separazione, io ho ben ragione
+              di averlo, poiché mai una tortora che ha perso il proprio compagno fu più sconsolata
+              di me. Ognuno piange la propria terra e il proprio paese, quando si separa dai propri
+              amici intimi, ma non vi è nessun addio, per quanto si dica, più doloroso di quello tra
+              amante e amata.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>desiderio di rivederla mi ha suggerito l’idea folle (da cui mi sono guardato per
+              molto tempo) di andare da lei; dunque mi sono messo in una situazione che mi farà
+              morire e, se vivrò, la mia vita sarà come morte, poiché colui che ha cominciato ad
+              essere allegro, gioioso e felice ha una sorte peggiore, quando la sua gioia viene
+              meno, che se morisse sul colpo.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Se avessi saputo altrettanto bene, quando ho preso la decisione, che il congedo da
+              voi mi avrebbe causato tanti tormenti, avrei lasciato la mia anima al vostro servizio
+              e sarei andato a rendere grazie a Dio del fatto che voi mi abbiate concesso di poter
+              aspirare al vostro amore; ma io mi accontento dell’attesa, poiché ognuno vi ama senza
+              ricevere nulla.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Un crociato innamorato deve ben ponderare se debba andare verso Dio o rimanere qui,
+              poiché nessuno, dopo che Amore l’ha preso, dovrebbe addossarsi un simile peso. Non si
+              possono servire tanti padroni, ma poiché un cuore nobile che aspira ad un grande onore
+              non può evitarlo, non mi dovete, signora, biasimare per questo.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Trovo nella nostra separazione almeno un conforto: che io non avrò niente da
+              rimproverarmi davanti a Dio; anzi, poiché per causa sua sono costretto a lasciarvi,
+              non vi è nulla più di questo che meriti un grande biasimo. Poiché colui che Dio fa
+              partire ed allontanare da un tale amore, in modo tale che non può tornare sui suoi
+              passi, ha più dolore e tristezza di quanto avrebbe mai il re se perdesse la
+              Francia.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Ahimè, signora, non c’è più spazio per i ripensamenti, sono costretto a separarmi da
+              voi senza indugio: ho fatto tanto che non posso più tirarmi indietro. Ma se restare
+              non fosse una viltà e una vergogna, andrei a domandare ai veri amanti il permesso di
+              trattenermi ancora; ma voi siete di così grande valore che il vostro amico non può
+              venir meno al proprio compito.</p>
+          </div>
+          <div n="7" type="stanza">
+            <p>a) Mi stupisco che possa resistere il cuore di chi prende commiato dalla sua dama
+              prima di partire; le trasmetta piuttosto l’addio in Francia dalla Lombardia, perché un
+              lungo struggimento raddoppia (il dolore del)la separazione.</p>
+          </div>
+          <div n="8" type="stanza">
+            <p>b) È davvero folle colui che va oltremare e prende commiato dalla sua dama prima di
+              partire; le trasmetta piuttosto l’addio in Francia dalla Lombardia, perché il commiato
+              raddoppia il desiderio.</p>
+          </div>
+        </div><div type="translation" xml:id="rs.1126.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>If ever a man had a sorrowful heart because of a cruel separation, then it is right
+              that I should have one, since a turtle-dove which loses its companion was never more
+              disconsolate than I. Everyone pines for his country and his land when he leaves his
+              close friends, but whatever anyone may say, there is no parting as painful as that
+              between lover and beloved.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>The desire to see her again has given me the insane idea (which I have resisted for a
+              long time) of going back to her; so I have put myself in a situation which will bring
+              about my death, and if I live, my life will be like death, for a man who has learned
+              to be merry and joyful and glad is much worse off, once his joy is over, than if he
+              died straight away.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Had I known as well, when I decided on this parting, that it would have tormented me
+              so, I should have left my soul in your service and gone to thank God for ever allowing
+              me to aspire to your love; but I am content to wait, since everyone loves you like
+              this without receiving anything.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>A crusader in love must well ponder whether to go towards God or to remain here, for
+              no-one, once Love has taken hold of him, ought ever to assume such a heavy burden: one
+              cannot serve more than one lord; but since a noble heart that aspires to high honour
+              cannot avoid doing this, you ought not, my lady, to blame me for it.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>I see one comfort in parting from you: I will have nothing for which to reproach
+              myself before God. On the contrary, I know nothing more blameworthy than being made to
+              leave you for Him, since a man who sees such love being split apart without him being
+              able to go back on his decision has much greater grief and sorrow than the king would
+              were he to lose France.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Ah, lady, there is no more room for indecision! – I have to leave you without delay;
+              I have gone so far that I cannot turn back. But if staying behind were not a base and
+              shameful thing, I would go and ask true lovers for permission to remain; yet you are
+              of such great worth that your lover ought not to fail in his duty.</p>
+          </div>
+          <div n="7" type="stanza">
+            <p>a) I marvel how a man’s heart can hold out when he bids his lady farewell at the
+              moment of his departure; instead he should send it to her in France from Lombardy, for
+              lingering heartache doubles the [grief of the] separation.</p>
+          </div>
+          <div n="8" type="stanza">
+            <p>b) A man going overseas is out of his mind if he bids farewell to his lady before
+              leaving; instead he sends it to her in France from Lombardy, because the farewell
+              doubles desire.</p>
+          </div>
+        </div></body></text></TEI>

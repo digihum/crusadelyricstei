@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-09-15</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Stickney 1879, 75; Meyer 1907, 47; Zink 1980, 86; Djikstra 1995, 112 e 216 (text
+            Stickney); Gambino 2015, IX,29.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Stickney 1879, 75; Meyer 1907, 47; Zink 1980, 86; Djikstra 1995, 112 e 216 (testo
+            Stickney); Gambino 2015, IX,29.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>. (1): Firenze, BNC. Magl. VII 1040, f. 51v (n. 29).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>. (1): Firenze, BNC. Magl. VII 1040, f. 51v (n. 29).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’"><p>This piece is a <hi rend="italic"
+          >chanson d’ami</hi> in the <hi rend="italic">ballete</hi> form. The presentation of the
+        stanzas, which follows the <hi rend="italic">mise en page</hi> of the manuscript with the
+        initials of the three mini-stanzas aligned in a colum on the left-hand side, is as follows:
+        a one-line refrain at the beginning of the song + three octosyllabic quatrains (feminine for
+        rhyme -a, masculine for rhyme -b) ending in the repetition of the refrain which echoes the
+        rhyme of the first and last line of the stanza, according to the scheme 8A’ 8a’bba’ 8A’
+        8a’bba’ 8A’ 8a’bba’ 8A’; rhyme -<hi rend="italic">a</hi> = <hi rend="italic">odes</hi> (-<hi
+          rend="italic">orte</hi>[<hi rend="italic">n</hi>]); rhyme -<hi rend="italic">b</hi> = -<hi
+          rend="italic">is</hi> (-<hi rend="italic">ir</hi>); the assonances emphasize the
+        essentially musical, responsorial nature of the text; v. 9 hypometric.For the stanzaic
+        structure Stickney 1879 (also Gambino 2015) simply follows the arrangement of the 11 lines
+        as transcribed in the manuscript. Meyer 1907, p. 47, classifying the text as a <hi
+          rend="italic">rondel</hi>, sets it out as 16 lines in which the first four constitute the
+        refrain, presented in its entirety both at the beginning and at the end of the composition
+        and repeated, but with only in the first two lines, in the middle of the text (as vv. 7 and
+        8); the same structure is given by Zink 1980, 86 who identifies the piece as a <hi
+          rend="italic">rondeau</hi>.</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’"><p>Si tratta di una <hi
+          rend="italic">chanson d’ami</hi> in forma di <hi rend="italic">ballete</hi>. La
+        configurazione strofica qui presentata, che segue la <hi rend="italic">mise en page</hi> del
+        manoscritto con le iniziali delle tre strofette incolonnate sulla sinistra, è stata
+        organizzata come segue: refrain di un verso a inizio canzone + tre quartine in ottonari
+        (femminili per la rima -a, maschili per la rima -b) chiuse dalla ripetizione del refrain che
+        riprende il primo e l’ultimo verso della strofe, secondo lo schema 8A’ 8a’bba’ 8A’ 8a’bba’
+        8A’ 8a’bba’ 8A’; rima -<hi rend="italic">a</hi> = -<hi rend="italic">odes</hi> (-<hi
+          rend="italic">orte</hi>[<hi rend="italic">n</hi>]); rima -<hi rend="italic">b</hi> = -<hi
+          rend="italic">is</hi> (-<hi rend="italic">ir</hi>); le assonanze rimarcano la natura
+        essenzialmente musicale del testo di tipo responsoriale; v. 9 ipometro. Per quanto riguarda
+        la morfologia strofica, Stickney 1879 si è limitato a seguire la disposizione degli 11 versi
+        trascritti nel manoscritto; lo stesso fa Gambino 2015. Meyer 1907, p. 47, classificando il
+        testo come <hi rend="italic">rondel</hi> lo dispone su 16 versi in cui i primi quattro
+        costituiscono il refrain, presentato nella sua interezza sia all’inizio che alla fine del
+        componimento e riproposto, ma solo nei primi due versi, nel mezzo del testo (come vv. 7 e
+        8); la stessa struttura è pubblicata da Zink 1980, 86 che lo identifica come un <hi
+          rend="italic">rondeau</hi>.</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The manuscript is a composite paper codex from
+        the late 14th - early 15th c. and is the work of an Italian copyist; the <hi rend="italic"
+          >ballete</hi> is transcribed in the final final quinternion (ff. 48-57, cfr. De Robertis
+        1959 and De Robertis 1960, n. 50) which contains a small collection of Italian lyrics (<hi
+          rend="italic">siciliane</hi>, <hi rend="italic">ballate</hi>, <hi rend="italic"
+          >sonetti</hi> and <hi rend="italic">strambotti</hi>) and French ones (<hi rend="italic"
+          >virelais</hi>, <hi rend="italic">balletes</hi>, pastourelles and other short songs with
+        refrain). Jennings 2014 has recently lingered over this last fascicle which, combining the
+        last section of the Magliabechiano VII 1040 with the end of ms. , may derive from a single
+        original manuscript containing a collection of Italian and French lyric poetry whose
+        selection was very probably thematically inspired by popularisation of <hi rend="italic"
+          >Heroides</hi> transcribed in the same <hi rend="italic">Zibaldone</hi> (a collection of
+        heterogeneous elements) at the end of the 14th c. for the personal use of the Florentine
+        merchant Amelio Bonaguisi.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Si tratta di un codice cartaceo composito della
+        fine del XIV - inizio XV secolo, opera di un copista italiano; la <hi rend="italic"
+          >ballete</hi> è trascritta nell’ultimo quinterno (ff. 48-57, cfr. De Robertis 1959 e De
+        Robertis 1960, n. 50) che raccoglie una piccola collezione lirica italiana (contenente <hi
+          rend="italic">siciliane</hi>, ballate, sonetti e strambotti) e francese (<hi rend="italic"
+          >virelais</hi>, <hi rend="italic">balletes</hi>, pastorelle e altre canzoncine à refrain).
+        Su quest’ultimo fascicolo si è soffermata recentemente Jennings 2014 la quale, combinando
+        l’ultima sezione del Magliabechiano VII 1040 con la finale del ms. , riesce a risalire a un
+        unico originario manoscritto contenente una collezione di poesia lirica italiana e francese
+        la cui selezione è stata molto probabilmente ispirata tematicamente dal volgarizzamento
+        delle <hi rend="italic">Heroides </hi>ovidiane trascritto nello stesso <hi rend="italic"
+          >Zibaldone</hi> alla fine del XIV secolo per uso personale dal mercante fiorentino Amelio
+        Bonaguisi.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-09-15T14:54:05Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Anonymous</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+        <div type="text" xml:id="rs.1656b.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">[Lasse, pour quoy, Mestre de Rodes!]</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="2">Lasse! pour quoy, Mestre de Rodes, </l>
+            <l n="3">en menés vous mon dous amis, </l>
+            <l n="4">qui m’asemble li plus jolis</l>
+            <l n="5">de trestut ses qui la cros porten? </l>
+            <l n="6">[Lasse, pour quoy, Mestre de Rodes!]</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="7">Ge aroye plus ciere estre morte, </l>
+            <l n="8">. . . . . . . . . . . . . . . . . . . . . . . . . </l>
+            <l n="9">char il m’a mis en oblis</l>
+            <l n="10">. . . . . . . . . . . . . . . . . . . . . . . . . </l>
+            <l n="11">Lasse, pour quoy [mestre de Rodes!] </l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="12">Set anelet qu’al doy ge porte</l>
+            <l n="13">me fet le cuer pour mi partir</l>
+            <l n="14">quar ge ne sai le revenir, </l>
+            <l n="15">e sesi moy trop deschonforte! </l>
+            <l n="16">[Lasse, pour quoy mestre de Rodes!]</l>
+          </lg>
+        </div>
+        <div type="translation" xml:id="rs.1656b.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p><hi rend="italic">Alas, Master of Rhodes!</hi></p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Alas, Master of Rhodes, why are you taking away my sweet love, who seems to me the
+              handsomest of all who wear the cross? </p>
+          </div>
+          <div n="3" type="stanza">
+            <p><hi rend="italic">Alas, Master of Rhodes!</hi></p>
+          </div>
+          <div n="4" type="stanza">
+            <p>I would rather die / ... / for he has forgotten me / ...</p>
+          </div>
+          <div n="5" type="stanza">
+            <p><hi rend="italic">Alas, Master of Rhodes! </hi></p>
+          </div>
+          <div n="6" type="stanza">
+            <p>This little ring I wear on my finger breaks my heart in two, for I do not know when
+              he will return, and this gives me too much pain!</p>
+          </div>
+          <div n="7" type="stanza">
+            <p><hi rend="italic">Alas, Master of Rhodes! </hi></p>
+          </div>
+        </div>
+        <div type="translation" xml:id="rs.1656b.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p><hi rend="italic">Ahimé, Maestro di Rodi!</hi></p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Ahimé, Maestro di Rodi, perché vi portate via il mio dolce amico, che per me è il più
+              bello fra tutti quelli che indossano la croce? </p>
+          </div>
+          <div n="3" type="stanza">
+            <p><hi rend="italic">Ahimé, Maestro di Rodi! </hi></p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Preferirei morire / ... / che si è scordato di me / ...</p>
+          </div>
+          <div n="5" type="stanza">
+            <p><hi rend="italic">Ahimé, Maestro di Rodi! </hi></p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Questo anellino che porto al dito mi infrange il cuore, perché non so quando
+              ritornerà e questo mi fa troppo male!</p>
+          </div>
+          <div n="7" type="stanza">
+            <p><hi rend="italic">Ahimé, Maestro di Rodi! </hi></p>
+          </div>
+        </div>
+        <div type="text" xml:lang="en ">
+          <p>Anna Radaelli 2016</p>
+        </div>
+        <div type="text" xml:lang="it ">
+          <p>Anna Radaelli 2016</p>
+        </div>
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>The <hi rend="italic">mestre de Rodes</hi> addressed by the girl in the refrain is in all
+          probability the Provençal Foulques de Villaret (cfr. Luttrell 1992), grand master of the
+          Hospitallers in 1305-19. In 1306 he was the author of a tract arguing for the reconquest
+          of the Holy Land after the fall of Acre, the <hi rend="italic">Tractatus dudum </hi><hi
+            rend="highlight"><seg rend="italic">habitus</seg></hi><hi rend="italic"> ultra mare</hi>
+          («per magistrum et conventum Hospitalis et per alios probos viros qui diu steterunt ultra
+          mare, qualiter Terra Sancta possit per Christianos recuperari»), which proposes the
+          organisation of a <hi rend="italic">passagium particulare</hi> under the direction of pope
+          Clement V and led by the Hospitallers (cfr. Petit 1899 and Balard 2007). After a series of
+          similar instances in which the Order advocated the crusade project and the conquest of
+          Rhodes (cfr. Kedar – Schein 1979 and Demurger 2002, p. 121), in September 1307 the pope
+          conceded the investiture of the island to the grand master Foulques de Villaret (cfr. De
+          Laville Le Roulx 1913), who on 11 August 1308 saw his diplomatic efforts crowned with the
+          bull <hi rend="italic">Exsurgat Deus</hi> in which the pope announced an expedition to
+          Rhodes under the leadership of the Hospitallers which anticipated a military mobilisation
+          of at least five years. The fleet left Marseille in mid-September 1309 with twenty-five
+          crusader galleys and ten Genoese boats. Rhodes was definitively conquered on 15 August
+          1310, setting the foundations of a state of the Knights of St John. The <hi rend="italic"
+            >chanson d’ami</hi> in the form of a Florentine <hi rend="italic">ballete</hi> must
+          therefore date from 1309, coinciding with the departure of the Hospitaller crusade, as
+          confirmed by the verbs in the present tense in vv. 3, 4, 5.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Il <hi rend="italic">mestre de Rodes</hi> cui si rivolge la fanciulla nel refrain è con
+          ogni probabilità il provenzale Foulques de Villaret (cfr. Luttrell 1992), gran maestro
+          dell'ordine dell'Ospedale tra il 1305 e il 1319. Nel 1306 fu autore di una memoria per la
+          riconquista della Terrasanta dopo la caduta di san Giovanni d’Acri, il <hi rend="italic"
+            >Tractatus dudum </hi><hi rend="highlight"><seg rend="italic">habitus</seg></hi><hi
+            rend="italic"> ultra mare</hi> («per magistrum et conventum Hospitalis et per alios
+          probos viros qui diu steterunt ultra mare, qualiter Terra Sancta possit per Christianos
+          recuperari»), col quale si propone l’organizzazione di un <hi rend="italic">passagium
+            particulare</hi> sotto la direzione di papa Clemente V e con la guida giovannita (cfr.
+          Petit 1899 e Balard 2007). Dopo una serie di simili istanze in cui l’Ordine manifestava il
+          progetto di crociata e della conquista di Rodi (cfr. Kedar – Schein 1979 e Demurger 2002,
+          p. 121), nel settembre 1307 il papa concede l’investitura dell’isola al maestro generale
+          Foulques de Villaret (cfr. De Laville Le Roulx 1913), che l’11 agosto 1308 vede coronati i
+          suoi sforzi diplomatici con la bolla <hi rend="italic">Exsurgat Deus</hi> con cui il papa
+          indice l’invio di una spedizione a Rodi sotto la guida degli Ospitalieri che prevede una
+          mobilitazione militare di almeno 5 anni. La flotta partì da Marsiglia a metà settembre
+          1309 con venticinque galere dei crociati e dieci battelli dei Genovesi. Rodi venne
+          definitivamente conquistata il 15 agosto del 1310, gettando le fondamenta di uno Stato
+          dell'Ordine gerosolimitano. La <hi rend="italic">chanson d’ami</hi> in forma di <hi
+            rend="italic">ballete</hi> fiorentina andrà dunque fatta risalire al 1309, in
+          coincidenza con la partenza della crociata giovannita, come confermerebbero i verbi al
+          presente dei vv. 3, 4, 5.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p corresp="#rs.1656b.fro:(n=1)">Stickney 1879, p. 75, reads E lasse and corrects to Elas,
+          while in v. 11 he prefers to print Lasse. Meyer 1907, p. 47, noting that the E is written
+          in a different ink, prints Lasse, as in v. 11. Gambino 2015 prints E lasse (vv. 1 and 11).
+          I read the sign not as an E but as a paragraph sign indicating the presence of the
+          refrain, so print Lasse.</p>
+        <p corresp="#rs.1656b.fro:(n=4)">m’asemble: from similare; Stickney 1879, p. 75 emends to me
+          semble; Meyer 1907 (also Gambino 2015), p. 47, suggests emending to m’a semblé.</p>
+        <p corresp="#rs.1656b.fro:(n=9)">Hypometric by one syllable; Meyer 1907, p. 47 suggests the
+          emendation mis tote en oblis.</p>
+        <p corresp="#rs.1656b.fro:(n=13)">ms. pour mi is emended to par mi by Stickney, p. 75 (also
+          Meyer and Gambino 2015). The form may be due to the Italian scribe.</p>
+        <p corresp="#rs.1656b.fro:(n=14)">For the motif of the uncertainty of returning from
+          crusade, see also Guiot de Dijon RS 21, vv. 5-8: Ne vueill morir n'afoler / Quant de la
+          terre sauvage, / Ne voi nului retorner / Ou cil est qui m'assoage / Le cuer quant j'en oi
+          parler.</p>
+        <p corresp="#rs.1656b.fro:(n=16)">The writing is difficult to read.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p corresp="#rs.1656b.fro:(n=1)">Stickney 1879, p. 75, legge E lasse e corregge in Elas,
+          mentre al v. 11 preferisce porre Lasse. Meyer 1907, p. 47, notando che la E è scritta con
+          inchiostro diverso, mette a testo Lasse, come al v. 11. Gambino 2015 pone a testo E lasse
+          (vv. 1 e 11). Da parte mia, leggendo il segno grafico non come una E ma come un segno di
+          paragrafo per segnalare la presenza del refrain, pongo a testo Lasse.</p>
+        <p corresp="#rs.1656b.fro:(n=4)">m’asemble: da similare; Stickney 1879, p. 75 corregge in me
+          semble; Meyer 1907, p. 47, propone di correggere in m’a semblé (seguito da Gambino
+          2015).</p>
+        <p corresp="#rs.1656b.fro:(n=9)">Ipometro di una sillaba; Meyer 1907, p. 47 propone di
+          correggere mis tote en oblis.</p>
+        <p corresp="#rs.1656b.fro:(n=13)">pour mi del ms. è stato corretto in par mi da Stickney, p.
+          75, seguito da Meyer e ripreso da Gambino 2015. La forma potrebbe essere dovuta al copista
+          italiano.</p>
+        <p corresp="#rs.1656b.fro:(n=14)">Per il motivo dell’incertezza del ritorno del crociato, si
+          veda anche Guiot de Dijon RS 21, vv. 5-8: Ne vueill morir n'afoler / Quant de la terre
+          sauvage, / Ne voi nului retorner / Ou cil est qui m'assoage / Le cuer quant j'en oi
+          parler.</p>
+        <p corresp="#rs.1656b.fro:(n=16)">La scrittura è malamente leggibile.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

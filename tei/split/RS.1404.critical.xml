@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-03-06</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Luciano Formisano, 1980.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Luciano Formisano, 1980.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: (1). T 115v-116r (<hi rend="italic">Gontiers</hi>; empty
+            stave).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: (1) T 115v-116r (<hi rend="italic">Gontiers</hi>;
+            tetragramma vuoto).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>6 a a a a B<hi rend="subscript">3</hi> 6 b b b b C<hi rend="subscript">5</hi> C<hi rend="subscript">7</hi>; rhyme a = <hi rend="italic">-ir</hi>; rhyme b = <hi rend="italic">-er</hi>; rhyme c = <hi rend="italic">-our</hi>; six <hi rend="italic">coblas unissonans</hi>. Equivocal rhymes: <hi rend="italic">penser</hi> 8 (intransitive) / 31 (transitive), <hi rend="italic">endurer</hi> 19 and 42 (used absolutely); derivative rhymes 30 / 31, 62 / 63.</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>6 a a a a B<hi rend="subscript">3
+        </hi>6 b b b b C<hi rend="subscript">5 </hi>C<hi rend="subscript">7</hi>; rima a = <hi rend="italic">-ir</hi>; rima b = <hi rend="italic">-er</hi>; rima c = <hi rend="italic">-our</hi>; sei <hi rend="italic">coblas unissonans</hi>. Rime equivoche: <hi rend="italic">penser</hi> 8 (intransitivo) / 31 (transitivo), <hi rend="italic">endurer</hi> 19 / 42 (impiego assoluto); rime derivative 30 / 31, 62 / 63.</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The single ms. T, adopted as base by Formisano
+        for his whole edition of Gontier de Soignies’ songs (see p. lxiii), contains a number of
+        errors, particularly in stanza II where Scheler and Formisano consider vv. 16-17 to have
+        been interpolated by a different author.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Il manoscritto unico T, usato come base da
+        Formisano per l’edizione di tutti i testi di Gontier de Soignies (si veda p. lxiii),
+        contiene numerosi errori, soprattutto nella strofa II dove Scheler e Formisano considerano i
+        vv. 16-17 interpolati da un altro autore.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-03-13T10:18:46Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Gontier de Soignies</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="text" xml:id="rs.1404.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Lan quant voi esclarcir</l>
+            <l n="2">Le tans et raverdir,</l>
+            <l n="3">Ne me puis esbaudir,</l>
+            <l n="4">Car d’un grant duel m’aïr.</l>
+            <l n="5">Hé, amer!</l>
+            <l n="6">Assai fas de chanter</l>
+            <l n="7">Pour moi reconforter,</l>
+            <l n="8">Car la m’estuet penser</l>
+            <l n="9">Ou ne puis recovrer.</l>
+            <l n="10">D’amors chascun jour</l>
+            <l n="11">Crois et doble ma dolor.</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="12">Celi doit on haïr</l>
+            <l n="13">Et de s’amor partir;</l>
+            <l n="14">Molt est griés a soffrir</l>
+            <l n="15">Grans amors sans joïr.</l>
+            <l n="16">[Las, por quoi m’en consir,</l>
+            <l n="17">Quant tot faić som plaisir?]</l>
+            <l n="18">Hé, amer!</l>
+            <l n="19">Ki porroit endurer</l>
+            <l n="20">Que tant convient pener?</l>
+            <l n="21">Bien puet l’ome afoler</l>
+            <l n="22">Longement consirrer.</l>
+            <l n="23">D’amors chascun jour</l>
+            <l n="24">Crois et doble ma dolor.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="25">Tant le voi[l] et desir</l>
+            <l n="26">K’aillors ne puis guencir,</l>
+            <l n="27">Mais ce me fait faillir</l>
+            <l n="28">Ke ne m’en sai covrir.</l>
+            <l n="29">Hé, amer!</l>
+            <l n="30">Bien me doi trespenser,</l>
+            <l n="31">Car hom ne set penser</l>
+            <l n="32">Si belle ne sa per,</l>
+            <l n="33">N’ainc ne li vić fauser.</l>
+            <l n="34">D’amors chascun jour</l>
+            <l n="35">Crois et doble ma dolor.</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="36">Mex aim ensi languir</l>
+            <l n="37">Entre vivre et morir,</l>
+            <l n="38">Kë une autre acoillir</l>
+            <l n="39">Ki m’aint sans repentir.</l>
+            <l n="40">Hé, amer!</l>
+            <l n="41">Por grant bien esperer</l>
+            <l n="42">Doit on molt endurer;</l>
+            <l n="43">Las! ne m’en puis torner</l>
+            <l n="44">Ne men duel oublïer.</l>
+            <l n="45">D’amors chascun jour</l>
+            <l n="46">Crois et doble ma dolor.</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="47">Onques ne seuć mentir</l>
+            <l n="48">Vers Amors ne traïr;</l>
+            <l n="49">Quoi qu’en doie avenir</l>
+            <l n="50">Ne puis sans li garir.</l>
+            <l n="51">Hé, amer!</l>
+            <l n="52">Ne puis par el passer</l>
+            <l n="53">Mais mon grant duel mener,</l>
+            <l n="54">Et ens merchi ester,</l>
+            <l n="55">Soffrir et sospirer.</l>
+            <l n="56">D’amors chascun jour</l>
+            <l n="57">Crois et doble ma dolor.</l>
+          </lg>
+          <lg n="6" type="stanza">
+            <l n="58">Gontiers au defenir,</l>
+            <l n="59">S’a plus [n’] em puet venir,</l>
+            <l n="60">De tos maus velt issir</l>
+            <l n="61">Et cest siecle guerpir.</l>
+            <l n="62">Hé, amer!</l>
+            <l n="63">Pour Dieu passerai mer</l>
+            <l n="64">Au Temple converser,</l>
+            <l n="65">Car la m’en voill aler</l>
+            <l n="66">Ou je n’oie parler.</l>
+            <l n="67">D’amors chascun jour</l>
+            <l n="68">Crois et doble ma dolor.</l>
+          </lg>
+        </div><div type="text" xml:lang="en ">
+          <p>Luciano Formisano, 1980</p>
+        </div><div type="text" xml:lang="it ">
+          <p>Luciano Formisano, 1980</p>
+        </div></body><back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>Little is known of Gontier de Soignies, a trouvère from the region near Mons, now in
+          Belgian Hainault, whose activity Formisano dates to approximately the first two decades of
+          the 13<hi rend="superscript">th</hi> c. (pp. lx-lxii). It is impossible to know whether he
+          took part in a crusade. RS 1404 contains his sole reference to the East (vv. 63-64). The
+          author does not mention crusading, but claims he wishes to become a Templar, and the
+          mention of a sea crossing relates this to a crusading context.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Poco si sa di Gontier de Soignies, un troviero della regione vicina a Mons, attualmente
+          nell’Hainault belga, la cui attività Formisano colloca approssimativamente nei primi due
+          decenni del XIII secolo (pp. lx-lxii). È impossibile sapere se egli prese parte a una
+          crociata. La canzone RS 1404 contiene il suo unico riferimento all’Oriente (vv. 63-64).
+          L’autore non parla direttamente della crociata, ma afferma di voler diventare un Templare,
+          e la menzione di una traversata marittima sembra riferibile al contesto delle
+          crociate.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p corresp="#rs.1404.fro[range(@n=60,@n=66)]">Gontier’s song was included in the crusades
+          corpus because of these lines, though as Formisano observes (pp. lx-lxi, n. 2), this
+          implied allusion to a crusade may be pure fantasy.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p corresp="#rs.1404.fro[range(@n=60,@n=66)]">Il testo di Gontier è stato incluso nel corpus
+          delle canzoni di crociata a causa di questi versi, anche se, come osserva Formisano (pp.
+          lx-lxi, n. 2), l’ipotesi di un’allusione implicita alla crociata potrebbe essere puramente
+          fantastica.</p>
+      </div>
+    </back></text></TEI>

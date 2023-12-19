@@ -1,0 +1,502 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-12-01</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Wackernagel 1846, 31; Lacour 1856, 33; San-Marte 1861-1862, <hi rend="smallcaps"
+              >i</hi> 123; Dinaux 1837-1863, <hi rend="smallcaps">iv</hi> 271; Scheler 1879, 12;
+            Brakelmann 1896, 26; Baudler 1902, 78; Orr 1915, 5; Noonan 1933, <hi rend="smallcaps"
+              >ii</hi> 205; Petersen Dyggve 1945, 30; Pauphilet 1952, 921; Picot 1975, <hi
+              rend="smallcaps">ii</hi> 34; Dufournet 1989, 88.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Wackernagel 1846, 31; Lacour 1856, 33; San-Marte 1861-1862, <hi rend="smallcaps"
+              >i</hi> 123; Dinaux 1837-1863, <hi rend="smallcaps">iv</hi> 271; Scheler 1879, 12;
+            Brakelmann 1896, 26; Baudler 1902, 78; Orr 1915, 5; Noonan 1933, <hi rend="smallcaps"
+              >ii</hi> 205; Petersen Dyggve 1945, 30; Pauphilet 1952, 921; Picot 1975, <hi
+              rend="smallcaps">ii</hi> 34; Dufournet 1989, 88.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(10+1).</hi> A 159a (<hi rend="italic">li Vidame</hi>), C 150v (<hi
+              rend="italic">Guios de Provins</hi>), K 221a (<hi rend="italic">Gontier de
+              Soigniers</hi>), M 7d (<hi rend="italic">li Vidames de Chartres</hi>), Me 109r?
+            (incipit only, <hi rend="italic">Gautier de Soignies</hi>), N 107a (<hi rend="italic"
+              >Gontier de Soignies</hi>), P 75c (<hi rend="italic">Gontier de Soignies</hi>), R<hi
+              rend="superscript">1</hi> 9r (<hi rend="italic">li Vidames de Chartres</hi>), T 106r
+              (<hi rend="italic">li Vidame de Chartres</hi>), U 57r (anonymous), a 21v (<hi
+              rend="italic">le Vidame de Cartres</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(10+1).</hi> A 159a (<hi rend="italic">li Vidame</hi>), C 150v (<hi
+              rend="italic">Guios de Provins</hi>), K 221a (<hi rend="italic">Gontier de
+              Soigniers</hi>), M 7d (<hi rend="italic">li Vidames de Chartres</hi>), Me 109r? (solo
+            incipit, <hi rend="italic">Gautier de Soignies</hi>), N 107a (<hi rend="italic">Gontier
+              de Soignies</hi>), P 75c (<hi rend="italic">Gontier de Soignies</hi>), R<hi
+              rend="superscript">1</hi> 9r (<hi rend="italic">li Vidames de Chartres</hi>), T 106r
+              (<hi rend="italic">li Vidame de Chartres</hi>), U 57r (anonima), a 21v (<hi
+              rend="italic">le Vidame de Cartres</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’"><p>8a7b’8a7b’8a7b’8a7b’ (MW 689,26 =
+        Frank 225); 5 <hi rend="italic">coblas ternas</hi> (3+2), the first three also <hi
+          rend="italic">capfinidas</hi> (<hi rend="italic">dolor</hi> vv. 8 and 9, <hi rend="italic"
+          >donee-dont</hi> vv. 16-17); rhyme a: <hi rend="italic">-é</hi>, <hi rend="italic"
+          >-ez</hi>; rhyme b: <hi rend="italic">-ee</hi>, <hi rend="italic">-iere</hi>; identical
+        rhyme vv. 7-17 (<hi rend="italic">santé</hi>) and 33-37 (<hi rend="italic">ocïez</hi>),
+        equivocal rhyme vv. 9 and 11 (<hi rend="italic">esté</hi>); grammatical rhyme vv. 1-14 (<hi
+          rend="italic">demoré-demoree</hi>), 4-25 (<hi rend="italic">maleüree-maleürez</hi>) and
+        16-27 (<hi rend="italic">donee-donez</hi>); paronymous rhyme vv. 16-18 (<hi rend="italic"
+          >donee-nee</hi>) and 31-35 (<hi rend="italic">lassez-assez</hi>); derivative rhyme vv.
+        28-32 (<hi rend="italic">ariere-deriere</hi>); melody in AKMNPR<hi rend="superscript"
+        >1</hi>TUa, with various variants; melodic structure ABAB’ CDEB’ (T 244).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’"><p>8a7b’8a7b’8a7b’8a7b’ (MW 689,26 =
+        Frank 225); 5 <hi rend="italic">coblas ternas</hi> (3+2), le prime tre anche <hi
+          rend="italic">capfinidas</hi> (<hi rend="italic">dolor</hi> vv. 8 e 9, <hi rend="italic"
+          >donee-dont</hi> vv. 16-17); rima a: <hi rend="italic">-é</hi>, <hi rend="italic"
+        >-ez</hi>; rima b: <hi rend="italic">-ee</hi>, <hi rend="italic">-iere</hi>; rima identica
+        ai vv. 7-17 (<hi rend="italic">santé</hi>) e 33-37 (<hi rend="italic">ocïez</hi>), equivoca
+        ai vv. 9 e 11 (<hi rend="italic">esté</hi>); rima grammaticale ai vv. 1-14 (<hi
+          rend="italic">demoré-demoree</hi>), 4-25 (<hi rend="italic">maleüree-maleürez</hi>) e
+        16-27 (<hi rend="italic">donee-donez</hi>); rima paronima ai vv. 16-18 (<hi rend="italic"
+          >donee-nee</hi>) e 31-35 (<hi rend="italic">lassez-assez</hi>); rima derivativa ai vv.
+        28-32 (<hi rend="italic">ariere-deriere</hi>); melodia in AKMNPR<hi rend="superscript"
+          >1</hi>TUa, con diverse varianti; schema melodico ABAB’ CDEB’ (T 244).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>A good number of common errors and lacunae show
+        the threefold division AMR<hi rend="superscript">1</hi>Ta, CU, KNP. Mss. CU generally agree
+        with KNP, and support the reading of AMR<hi rend="superscript">1</hi>Ta only when KNP are
+        erroneous. The song is attributed to three different authors by the three manuscript
+        families: AMR<hi rend="superscript">1</hi>Ta to the Vidame de Chartres, KMePN to Gontier de
+        Soignies and C to Guiot de Provins. C’s attributions are generally considered unreliable;
+        the numerous analogies with the song RS 502, the difference of style from Gontier de
+        Soignies’ usual one and the general reliability of the s<hi rend="superscript">I</hi> group
+        of witnesses induce a preference for the attribution to the Vidame de Chartres (see
+        Formisano 1980, p. xxxvi). In a situation where a choice has to be made between two
+        equivalent alternatives, CU seem to contain an excessively independent version and in AMR<hi
+          rend="superscript">1</hi>Ta a stanza is missing; it has therefore been decided in this
+        case to follow KNP, even though in other cases this group is known to be unreliable. The
+        choice is made easier by the fact that the variants are minimal and in general do not change
+        the sense of the text. I deviate from KNP only to supplete vv. 27-29 which are partly
+        missing in these mss. (CU being followed here), and the final syllable of v. 31, and to
+        correct the hypermetric vv. 24 (<hi rend="italic">celui</hi> for <hi rend="italic">cil</hi>)
+        and 34 (initial <hi rend="italic">ne ne</hi>); finally in vv. 38-39 KNP’s reading appears
+        erroneous (in particular the possessive <hi rend="italic">s’amor</hi>) and is isolated
+        against the unanimous testimony of the other mss. Graphy of P.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Una buona quantità di errori e lacune comuni
+        permette di dividere i testimoni in tre famiglie AMR<hi rend="superscript">1</hi>Ta, CU,
+        KNP. I mss. CU si accordano in generale con KNP, e confermano la lezione di AMR<hi
+          rend="superscript">1</hi>Ta solo in caso di errore di KNP. La canzone è attribuita a tre
+        autori diversi dalle tre famiglie di testimoni: AMR<hi rend="superscript">1</hi>Ta
+        l’attribuiscono al Vidame de Chartres, KMePN a Gontier de Soignies e C a Guiot de Provins.
+        Le attribuzioni di C sono ritenute generalmente inaffidabili; le numerose analogie con la
+        canzone RS 502, lo stile piuttosto lontano da quello abituale di Gontier de Soignies e la
+        generale affidabilità dei testimoni del gruppo s<hi rend="superscript">I</hi> fanno
+        preferire l’attribuzione al Vidame de Chartres (si veda Formisano 1980, p. xxxvi). In una
+        situazione in cui ci si trova spesso a scegliere tra due alternative equivalenti, i mss. CU
+        sembrano avere una lezione eccessivamente autonoma e in AMR<hi rend="superscript">1</hi>Ta
+        manca una strofa; perciò si sceglie in questo caso di seguire la lezione di KNP, ben sapendo
+        che in altri casi essa si dimostra poco affidabile. La scelta è facilitata dal fatto che le
+        varianti sono minime e in generale non modificano il senso del testo. Ci si distacca da KNP
+        solo per integrare i vv. 27-29 che mancano parzialmente a questi testimoni (si ricorre alla
+        lezione di CU) e la sillaba finale del v. 31, per sanare l’ipermetria dei vv. 24 (<hi
+          rend="italic">celui</hi> per <hi rend="italic">cil</hi>) e 34 (<hi rend="italic">ne
+          ne</hi> iniziale); infine ai vv. 38-39 la lezione di KNP sembra erronea (in particolare il
+        possessivo <hi rend="italic">s’amor</hi>) ed è isolata contro la testimonianza compatta
+        degli altri manoscritti. La grafia è quella di P.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-12-09T18:44:43Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Vidame de Chartres</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+
+        <div type="text" xml:id="rs.421.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Conbien que j’aie demoré</l>
+            <l n="2">fors de ma douce contree </l>
+            <l n="3">et maint grant ennui enduré</l>
+            <l n="4"> en terre maleüree,</l>
+            <l n="5">por ce n’ai je pas oublié</l>
+            <l n="6">le douz mal qui si m’agree,</l>
+            <l n="7">dont ja ne qier avoir santé</l>
+            <l n="8"> tant ai la dolor amee.</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="9">Touz tens ai en dolor esté</l>
+            <l n="10">et mainte lerme ploree;</l>
+            <l n="11">li plus beau jor ou an d’esté</l>
+            <l n="12">me senble pluie ou gelee,</l>
+            <l n="13">quant el païs que je plus hé</l>
+            <l n="14">m’estuet fere demoree:</l>
+            <l n="15">ja n’avrai joie en mon aé</l>
+            <l n="16">s’en France ne m’est donee.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="17">Si me dont Dex joie et santé,</l>
+            <l n="18">la plus bele qui soit nee</l>
+            <l n="19">me conforte de sa biauté</l>
+            <l n="20">qui si m’est el cuer entree;</l>
+            <l n="21">et se je muir en cest pensé(r),</l>
+            <l n="22">bien cuit m’ame avoir sauvee;</l>
+            <l n="23">car m’eüst or son lieu presté,</l>
+            <l n="24">Dex, cil qui l’a espousee!</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="25">He las, trop sui maleürez</l>
+            <l n="26">se cele n’ot ma proiere</l>
+            <l n="27">a qui je me sui si donez,</l>
+            <l n="28">que ne m’en puis traire ariere;</l>
+            <l n="29">trop longuement me sui celez</l>
+            <l n="30">por cele gent malparliere</l>
+            <l n="31">qui ja les cuers n’avront lassez</l>
+            <l n="32">de dire mal en deriere.</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="33">He, douce riens, ne m’ocïez,</l>
+            <l n="34">ne soiés crüex ne fiere</l>
+            <l n="35">vers moi qui plus vos aim qu’assez</l>
+            <l n="36">d’amor loial droituriere;</l>
+            <l n="37">et se vos por tant m’ocïez,</l>
+            <l n="38">las, trop acheterai chiere</l>
+            <l n="39">l’amor dont tant serai grevez;</l>
+            <l n="40">mes or m’est douce et legiere.</l>
+          </lg>
+        </div>
+        <div type="translation" xml:id="rs.421.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>However long I have stayed outside my sweet country and endured many great
+              tribulations in an unhappy (accursed?) land, I have not forgotten the sweet pain which
+              pleases me so well, from which I do not wish to be cured, so much have I loved the
+              pain. </p>
+          </div>
+          <div n="2" type="stanza">
+            <p>I have always been in pain and wept many a tear; the finest summer’s day or year
+              seemed to me to be rain or ice, since I was forced to stay in the land I hate the
+              most: I shall never have joy in my lifetime if it is not given to me in France. </p>
+          </div>
+          <div n="3" type="stanza">
+            <p>So God grant me joy and health, and may the fairest lady in the world comfort me with
+              her beauty which has so entered my heart; and if I die in this thought, I truly
+              believe my soul will be saved; God, if only the one who married her would lend me his
+              place!</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Alas, I am too unhappy if the one to whom I have dedicated myself, to the point where
+              I cannot extricate myself, does not heed my prayer; I have concealed myself too long
+              because of those slanderous people who will never have their hearts weary of speaking
+              ill behind one’s back.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Ah, sweet creature, do not kill me, and do not be cruel or haughty towards me who
+              love you more than ever with loyal and sincere love; and if you kill me nevertheless,
+              alas, I shall pay too high a price for the love which will oppress me so; but now it
+              is sweet and light to me.</p>
+          </div>
+        </div>
+        <div type="translation" xml:id="rs.421.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Per quanto abbia soggiornato fuori dal mio dolce paese e sopportato molte grandi
+              tribolazioni in una terra sventurata [maledetta?], per questo non ho dimenticato il
+              dolce male che tanto mi piace, dal quale non voglio guarire tanto (ne) ho amato il
+              dolore.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Sono sempre stato in pena e ho pianto molte lacrime; il più bel giorno d’estate mi
+              sembrava pioggia o gelo, dal momento che mi toccava soggiornare nel paese che odio di
+              più: non avrò mai gioia in vita mia se non mi viene data in Francia.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Perciò Dio mi dia gioia e sollievo, e la più bella creatura del mondo mi conforti con
+              la sua bellezza che mi è a tal punto entrata nel cuore; e se muoio con questo
+              pensiero, credo proprio che la mia anima sarà salva; Dio, se solo colui che l’ha
+              sposata volesse cedermi il suo posto!</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Ahimè, sono troppo infelice se colei alla quale mi sono votato, al punto che non
+              posso più tirarmi indietro, non ascolta la mia preghiera; mi sono nascosto troppo a
+              lungo a causa di quella gente maldicente che non avrà mai il cuore stanco di sparlare
+              alle spalle.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Ah, dolce creatura, non uccidetemi, e non siate crudele né altera verso di me che vi
+              amo più che mai d’amore leale e sincero; e se voi tuttavia mi uccidete, ahimè, pagherò
+              troppo caro l’amore che a tal punto mi opprimerà; ma ora mi è dolce e leggero.</p>
+          </div>
+        </div>
+        <div type="text" xml:lang="en ">
+          <p>Luca Barbieri 2015</p>
+        </div>
+        <div type="text" xml:lang="it ">
+          <p>Luca Barbieri 2015</p>
+        </div>
+      
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>The lyric poet Vidame de Chartres is certainly Guillaume de Ferrières, mentioned in some
+          documents dating between May 1202 and April 1204. According to Noonan 1933, I, p. 30 the
+          trouvère was born in c. 1160, and according to Petersen Dyggve 1944, p. 180 just before
+          1150; but the long gap between the attestations concerning his presumed mother and those
+          concerning Guillaume suggest that the scarcity of documents conceals a skipped generation,
+          in which case Guillaume can be presumed to have been born even later, perhaps in c. 1170.
+          The Vidame de Chartres probably took the cross together with Renaud de Montmirail, with
+          whom he is often associated in the documents, on 29 November 1199 (Villehardouin, § 4) and
+          left France in about June 1202, joining the other crusaders in Venice. After spending the
+          whole summer there, the crusaders set sail for Zara in October and besieged and conquered
+          it on 24 November. They spent the winter in the Dalmatian city until some French knights,
+          including the Vidame de Chartres and Renaud de Montmirail, tired of waiting and perhaps
+          disillusioned by the developments taking place in the expedition, requested and obtained
+          permission from Count Louis of Blois to be sent to the Holy Land to gather information
+          (Villehardouin § 102; this is the only passage in the chronicle in which the Vidame
+          Guillaume is directly mentioned). Villehardouin relates that the knights left Zara on 30
+          March 1203 but did not keep their promise to return there. In all probability they did not
+          even reach the Holy land, since some documents of 1203 attest the presence of Renaud de
+          Montmirail and the Vidame de Chartres in France, the latter in May. Later Renaud and
+          Guillaume set out again for the East, probably passing through the Holy Land and reaching
+          Constantinople (probably between November and December 1203), where they took part in the
+          second siege and final conquest of the city (12 April 1204; see Villehardouin § 315). The
+          latest notable document concerning the Vidame dates from April 1204 (see Métais 1902, p.
+          50); in this the author refers to himself as ill and <hi rend="italic">accedens
+            Constantinopolim</hi>, confirms a donation previously made to the Templars when he was
+          in Acre and adds a second donation. From this it can be inferred that Guillaume de
+          Ferrières was received by the Templars and did indeed pass through the Holy Land before
+          reaching Costantinople. The document concerning the first donation made in Acre is undated
+          (Métais 1902, p. 21). The tight time-scale seems to exclude the possibility that the
+          Vidame went on to the Holy Land after leaving Zara, and it is much more likely that he
+          travelled through it on his return to the East, as Petersen Dyggve 1944, p. 178 also
+          thought. After the conquest of Constantinople there are no more references to Guillaume de
+          Ferrières, either in the East or in France. Most probably Guillaume de Ferrières died as a
+          result of the illness mentioned in the document of April 1204, or at the battle of
+          Adrianople on 14 April 1205 (see Villehardouin, § 361), again sharing the fate of Renaud
+          de Montmirail and Louis de Blois. It cannot be ruled out that the Vidame de Chartres
+          returned to France after the crusade, but this seems rather unlikely.</p>
+        <p>The use of the present tense in vv. 12 and 14 suggests that the song was composed while
+          the author was still in the East, but the close affinities with song RS 502, definitely
+          written in France (see v. 15), which however uses the present tense in the historic sense
+          (vv. 3-6), suggest that this song too may have been composed after his return from his
+          first stay in the East, probably between May and the end of the summer of 1203, or else
+          after his possible (but unlikely) final return from the crusade.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Il Vidame de Chartres autore delle liriche è certamente Guillaume de Ferrières,
+          menzionato da alcuni documenti compresi tra il maggio 1202 e l’aprile 1204. Secondo Noonan
+          1933, I, p. 30 il troviero sarebbe nato verso il 1160, secondo Petersen Dyggve 1944, p.
+          180 addirittura prima del 1150; ma il lungo intervallo tra le attestazioni riguardanti la
+          presunta madre e quelle riguardanti Guillaume lascia pensare che la scarsità dei documenti
+          nasconda il salto di una generazione: in questo caso la nascita di Guillaume si potrebbe
+          spostare anche più avanti, forse verso il 1170. Il Vidame de Chartres prese probabilmente
+          la croce insieme a Renaud de Montmirail, al quale è spesso associato nei documenti, il 29
+          novembre 1199 (Villehardouin, § 4) e lasciò la Francia verso giugno del 1202 raggiungendo
+          a Venezia gli altri crociati. Dopo aver passato tutta l’estate nella città lagunare, i
+          crociati si imbarcarono a ottobre e raggiunsero Zara che fu assediata e conquistata il 24
+          novembre. I crociati passarono l’inverno nella città dalmata finché, stanchi dell’attesa e
+          forse delusi degli sviluppi presi dalla spedizione, alcuni cavalieri francesi, tra i quali
+          il Vidame de Chartres e Renaud de Montmirail, chiesero e ottennero dal conte Louis de
+          Blois di essere inviati in Terra Santa a raccogliere informazioni (Villehardouin § 102; si
+          tratta dell’unico passo della cronaca in cui il Vidame Guillaume viene menzionato
+          direttamente). Villehardouin racconta che i cavalieri lasciarono Zara il 30 marzo 1203 ma
+          non mantennero la promessa e non tornarono più in Dalmazia. Con tutta probabilità essi non
+          raggiunsero neppure la Terra Santa, perché alcuni documenti del 1203 attestano la presenza
+          di Renaud de Montmirail e del Vidame de Chartres in Francia, quest’ultimo addirittura già
+          nel mese di maggio. In seguito Renaud e Guillaume ripartirono per l’Oriente, probabilmente
+          passando per la Terra Santa, da dove raggiunsero Costantinopoli (probabilmente tra
+          novembre e dicembre del 1203) per contribuire al secondo assedio e alla conquista
+          definitiva della città (12 aprile 1204; si veda Villehardouin § 315). L’ultimo documento
+          noto che riguarda il Vidame risale proprio all’aprile del 1204 (si veda Métais 1902, p.
+          50); in esso l’autore si definisce <hi rend="italic">accedens Constantinopolim</hi> e
+          malato, conferma una donazione fatta in precedenza ai Templari quando si trovava ad Acri e
+          ne aggiunge una seconda. Da esso si evince che Guillaume de Ferrières fu accolto tra i
+          Templari e passò effettivamente in Terra Santa prima di raggiungere Costantinopoli. Il
+          documento della prima donazione fatto ad Acri ci è noto (Métais 1902, p. 21), ma è privo
+          di data. I tempi troppo stretti sembrano escludere che il Vidame sia passato dalla Terra
+          Santa dopo aver lasciato Zara, ed è molto più verosimile che egli vi sia transitato al suo
+          ritorno in Oriente, come ritiene anche Petersen Dyggve 1944, p. 178. Dopo la conquista di
+          Costantinopoli non si hanno più notizie di Guillaume de Ferrières, né in Oriente né in
+          Francia. La cosa più probabile è che Guillaume de Ferrières sia morto per le conseguenze
+          della malattia menzionata nel documento dell’aprile 1204, oppure nella battaglia di
+          Adrianopoli del 14 aprile 1205 (si veda Villehardouin, § 361), condividendo ancora una
+          volta il destino di Renaud de Montmirail e di Louis de Blois. Non si può escludere del
+          tutto che il Vidame de Chartres sia tornato in Francia dopo la crociata, ma questa
+          eventualità sembra alquanto improbabile.</p>
+        <p>L’uso del tempo presente ai vv. 12 e 14 lascerebbe supporre che la canzone sia stata
+          scritta mentre l’autore si trovava ancora in Oriente, ma le molte affinità con la canzone
+          RS 502, certamente scritta in Francia (si veda il v. 15), che pure si serve del presente
+          in senso storico (vv. 3-6), fanno pensare che anche questa canzone sia stata scritta dopo
+          il ritorno dell’autore dalla sua prima permanenza in Oriente, probabilmente tra il maggio
+          e la fine dell’estate del 1203, oppure dopo il suo eventuale (e improbabile) ritorno
+          definitivo alla fine della crociata.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>The Vidame de Chartres’ two songs RS 421 and RS 502, together with RS 1204 attributed to
+          Raoul de Soissons, RS 1575 by Gautier de Dargies and the anonymous RS 227b, form a group
+          of texts on the theme of distance from the beloved lady, on which see the introductory
+          note to RS 1204. The motifs treated are expressed with often very similar formulae,
+          presenting an impression of homogeneity and reciprocal imitation, and some are also found
+          in stanzas III and IV of the song RS 1154 of Raoul de Soissons. As has been stated
+          already, within this group it is only Raoul de Soissons’ texts which explicitly mention
+          the crusades (but for RS 227b see the reading <hi rend="italic">Romenie</hi> reconstructed
+          in v. 5); in the other cases the references to distance remain generic and one cannot call
+          them true crusade songs. It is known in any case that the Vidame de Chartres took part in
+          the Fourth Crusade, whereas there is no historic evidence, if one disregards vague
+          allusions found in his songs, of Gautier de Dargies’ participation in Philip Augustus’
+          Third Crusade. The Vidame’s songs, like those attributed to Raoul de Soissons, situate the
+          crusading experience in the past, but whereas in the latter the sufferings and hardships
+          of the stay overseas serve as a comparison with the amorous sufferings of the present, for
+          the Vidame distance from the lady merely exacerbates the essential, central nature of the
+          bond of love. The texts show no feeling for the crusading experience, perhaps because of
+          the expedition’s deviation from its original objective in the direction of Dalmatia and
+          then Constantinople, with which the Vidame and his <hi rend="italic">entourage</hi>
+          probably had no sympathy.</p>
+        <p corresp="#rs.421.fro:(n=1)">For the opening lines see st. I of Raoul de Soissons RS 1204,
+          1-9 and especially Gautier de Dargies RS 1575, 1-9. Compare in Raoul de Soissons’s text
+          the recourse to the verb endurer, the use of the initial concessive expression, the
+          reference to physical illness and love-sickness. A slight difference can be seen in the
+          description of the latter: if Raoul limits himself to saying that sickness from love is
+          stronger than the physical kind, the Vidame goes so far as to assert that he does not wish
+          to be cured and that he loves love’s pains. Concerning Gautier de Dargies note again the
+          use of the initial hypothetical phrase and of the noun ennui, but the link extends to the
+          second stanza of RS 421, as vv. 6-7 of RS 1575 seem to echo vv. 9-10 of the Vidame, while
+          Gautier’s vv. 8-9 are taken up the Vidame’s vv. 15-16.</p>
+        <p corresp="#rs.421.fro:(n=2)">For the use of contree in crusade songs see the note to RS
+          502, 1.</p>
+        <p>[n.6-7]The image of the sweet love-sickness from which he does not wish to be cured has
+          many echoes in trouvère lyric and is also typical of romances, being amply developed by
+          Chrétien de Troyes, for example in the long dialogue between Fenice and Tessala in <hi
+            rend="italic">Cligès</hi> 3017-3075.</p>
+        <p corresp="#rs.421.fro[range(@n=11,@n=14)]">The verbs in the present tense should probably
+          be interpreted as having the force of preterites; for m’estuet in particular see the
+          analogy with the use of covient in Thibaut de Champagne RS 273, 37 and RS 1469, 25-26. See
+          also the note to RS 502, 3-6.</p>
+        <p corresp="#rs.421.fro[range(@n=13,@n=14)]">This harsh and negative expression can hardly
+          be applied to the Holy Land. Starting from this observation, Petersen Dyggve 1944, pp.
+          181-184 dates songs RS 421 and RS 502 to the period of war between Christians before the
+          Third Crusade, imagining a supposed forced stay by the Vidame in the south or west of
+          France on some military campaign (1188?); but there is no evidence of such a stay, which
+          in any case would not fit the new chronology proposed for the Vidame. It is however
+          perfectly plausible that the poet should be referring to the periods in Venice or on the
+          Dalmatian coast where the crusaders found the long months of idle waiting difficult to put
+          up with and many of them disapproved of the expedition’s change of route. The allusion to
+          summer in v. 11, if taken literally rather than metaphorically, as seems most likely, may
+          point to the Venetian period. </p>
+        <p corresp="#rs.421.fro[range(@n=21,@n=22)]">The reference to possible death and the
+          salvation of the soul might be thought to suggest that the author was still in the East,
+          but in fact the expression is fairly common. See for example Thibaut de Champagne RS 1268,
+          31-33: s’ele me fet languir / et vois jusqu’au morir, / m’ame en sera sauvee.</p>
+        <p corresp="#rs.421.fro:(n=34)">For the form cruex see the comment on RS 502, 17.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Le due canzoni del Vidame de Chartres RS 421 e RS 502 formano insieme alla RS 1204
+          attribuita a Raoul de Soissons, alla RS 1575 di Gautier de Dargies e all’anonima RS 227b
+          un gruppo di testi sul tema della lontananza dalla dama amata, per cui si veda la nota
+          introduttiva a RS 1204. I motivi trattati sono espressi con formule spesso molto simili
+          nei testi, offrendo un’impressione di omogeneità e di imitazione reciproca, e alcuni di
+          essi si trovano anche nella terza e quarta strofa della canzone RS 1154 di Raoul de
+          Soissons. Si è già detto che all’interno di questo gruppo solo i testi di Raoul de
+          Soissons contengono riferimenti espliciti alle crociate (ma per la RS 227b si veda la
+          lezione <hi rend="italic">Romenie</hi> ricostruita al v. 5); negli altri casi i
+          riferimenti alla lontananza restano generici e non si può parlare di vere e proprie
+          canzoni di crociata. Si sa in ogni caso che il Vidame de Chartres ha partecipato alla
+          quarta crociata, mentre non esistono prove storiche, se si prescinde dai vaghi accenni che
+          si trovano nelle sue canzoni, della partecipazione di Gautier de Dargies alla terza
+          crociata di Filippo Augusto. Le canzoni del Vidame de Chartres condividono con quelle
+          attribuite a Raoul de Soissons la collocazione al passato dell’esperienza della crociata,
+          ma se in queste ultime le sofferenze e le fatiche del soggiorno oltremare servono da
+          paragone alle sofferenze amorose del presente, per il Vidame de Chartres la lontananza
+          dalla dama non fa che esacerbare l’essenzialità e la centralità del legame amoroso. Nei
+          testi non emerge alcuna simpatia nei confronti dell’esperienza della crociata, forse anche
+          a causa dalla rinuncia all’obiettivo originale della spedizione che venne diretta dapprima
+          in Dalmazia e poi verso Costantinopoli, una deviazione probabilmente non condivisa dal
+          Vidame e dal suo <hi rend="italic">entourage</hi>.</p>
+        <p corresp="#rs.421.fro:(n=1)">Per i versi iniziali si veda la prima strofa di Raoul de
+          Soissons RS 1204, 1-9 e soprattutto quella di Gautier de Dargies RS 1575, 1-9. Rispetto al
+          testo di Raoul de Soissons si veda il ricorso al verbo endurer, l’uso della concessiva
+          iniziale, il riferimento alla malattia fisica e a quella d’amore. Una leggera differenza
+          si nota nella descrizione della malattia d’amore: se Raoul si limita a dire che essa è più
+          forte di quella fisica, il Vidame de Chartres si spinge fino ad affermare di non voler
+          guarire e di amare il dolore d’amore. Rispetto a Gautier de Dargies si veda ancora una
+          volta l’uso dell’ipotetica iniziale e il ricorso al sostantivo ennui, ma il legame si
+          estende alla seconda strofa di RS 421, perché i vv. 6-7 di RS 1575 sembrano risuonare nei
+          vv. 9-10 del Vidame, mentre i vv. 8-9 di Gautier sono ripresi ai vv. 15-16 del Vidame.</p>
+        <p corresp="#rs.421.fro:(n=2)">Per l’uso di contree nelle canzoni di crociata si veda la
+          nota a RS 502, 1.</p>
+        <p corresp="#rs.421.fro[range(@n=6,@n=7)]">L’immagine della dolce malattia d’amore dalla
+          quale non si vuole guarire ha molti riscontri nella lirica dei trovieri ed è tipica anche
+          dei romanzi essendo stata ampiamente sviluppata da Chrétien de Troyes, per esempio nel
+          lungo dialogo tra Fenice e Tessala in Cligès 3017-3075.</p>
+        <p corresp="#rs.421.fro[range(@n=11,@n=14)]">I verbi al presente andranno probabilmente
+          interpretati con valore di preterito; in particolare per m’estuet si veda l’analogia con
+          l’uso di covient segnalato in Thibaut de Champagne RS 273, 37 e RS 1469, 25-26. Si veda
+          anche la nota a RS 502, 3-6.</p>
+        <p corresp="#rs.421.fro[range(@n=13,@n=14)]">Questa espressione così dura e negativa
+          difficilmente può applicarsi alla Terra Santa. Partendo da questa osservazione, Petersen
+          Dyggve 1944, pp. 181-184 data le canzoni RS 421 e RS 502 all’epoca delle guerre tra
+          cristiani prima della terza crociata, immaginando un supposto soggiorno forzato del Vidame
+          nel Sud o nell’Ovest della Francia per qualche campagna militare (1188?); ma non vi è
+          alcuna prova di un tale soggiorno, che tra l’altro non si adatterebbe alla nuova
+          cronologia proposta per il Vidame de Chartres. È invece perfettamente plausibile che il
+          poeta si riferisca con questi termini a Venezia o alle coste della Dalmazia, dove i
+          crociati mal sopportavano i lunghi mesi di attesa inattiva e molti di loro non vedevano di
+          buon occhio il cambiamento di rotta della spedizione. Il riferimento all’estate del v. 11,
+          se preso in senso proprio e non metaforico come pare più probabile, potrebbe costituire un
+          elemento in favore del periodo veneziano.</p>
+        <p corresp="#rs.421.fro[range(@n=21,@n=22)]">Il riferimento alla morte possibile e alla
+          salvezza dell’anima potrebbe far pensare che l’autore si trovi ancora in Oriente, ma in
+          realtà si tratta di un’espressione abbastanza comune. Si veda per esempio Thibaut de
+          Champagne RS 1268, 31-33: s’ele me fet languir / et vois jusqu’au morir, / m’ame en sera
+          sauvee.</p>
+        <p corresp="#rs.421.fro:(n=34)">Per la forma cruex si veda il commento a RS 502, 17</p>
+      </div>
+    </back>
+  </text>
+</TEI>

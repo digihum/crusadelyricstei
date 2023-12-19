@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-09-14</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Camus 1891, 240; Bertoni 1917, 324; Jeanroy-Långfors 1921, 10; Petersen Dyggve 1938,
+            136.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Camus 1891, 240; Bertoni 1917, 324; Jeanroy-Långfors 1921, 10; Petersen Dyggve 1938,
+            136.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>. (1): H 219b (<hi rend="italic">Moniez d’Arraz</hi>); the
+            attribution is found at the beginning of the French section of the manuscript (f. 217a:
+              <hi rend="italic">Iste sunt canciones francigene et sunt .l. </hi>ǀ<hi rend="italic">
+              Moniez d’Arraz</hi>) and has been incorrectly applied to all the texts contained in
+            that section, whereas it probably refers only to the first.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>. (1): H 219b (<hi rend="italic">Moniez d’Arraz</hi>);
+            l’attribuzione si trova all’inizio della sezione francese del canzoniere (f. 217a: <hi rend="italic">Iste sunt canciones francigene et sunt .l. </hi>ǀ<hi rend="italic">
+              Moniez d’Arraz</hi>) ed è stata impropriamente estesa a tutti i testi in essa
+            contenuti, mentre è probabile che si debba riferire solo al primo testo.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>8abbaabab (MW 1303,3 = Frank
+        473); 5 <hi rend="italic">coblas unissonans</hi> with one 4-line <hi rend="italic">envoi</hi> (abab); rhyme a: <hi rend="italic">-ent</hi>, rhyme b: <hi rend="italic">-ir</hi>; the same scheme is found in three later texts, two <hi rend="italic">jeux-partis</hi> and a <hi rend="italic">chanson pieuse</hi>, two of which are attributed
+        to Adam de la Halle; many rich and some leonine rhymes; equivocal rhymes in vv. 5-36 (<hi rend="italic">defent</hi>) and 7-39 (<hi rend="italic">parent</hi>); paronymous and
+        derivative rhymes in vv. 6, 30 and 35 (<hi rend="italic">tenir-sostenir-retenir</hi>).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>8abbaabab (MW 1303,3 = Frank
+        473); 5 <hi rend="italic">coblas unissonans</hi> con un <hi rend="italic">envoi</hi> di 4
+        versi (abab); rima a: <hi rend="italic">-ent</hi>, rima b: <hi rend="italic">-ir</hi>; lo
+        stesso schema è ripreso da altri tre testi più tardi, due <hi rend="italic">jeux-partis</hi>
+        e una <hi rend="italic">chanson pieuse</hi>, due dei quali sono attribuiti a Adam de la
+        Halle; molte rime ricche e qualche rima leonina; si ha rima equivoca ai vv. 5-36 (<hi rend="italic">defent</hi>) e 7-39 (<hi rend="italic">parent</hi>); rima paronima e
+        derivativa ai vv. 6, 30 e 35 (<hi rend="italic">tenir-sostenir-retenir</hi>).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>Ms. H is the French section of the Provençal ms.
+        Estense, whose initial rubric indicates the date 1254. This date has been variously
+        attributed to the ms. itself, to the first section alone, or to its model (Zinelli 2010 is
+        the most recent scholar to incline to this hypothesis, listing and discussing the various
+        positions on pp. 83-86; on pp. 88-89 he cautiously suggests a later date, at least for the
+        French section, around the last quarter of the 13th c.). RS 640 is the eleventh text, coming
+        shortly before two other texts in our corpus, the fifteenth <hi rend="italic">Ja de chanter
+          en ma vie</hi> (RS 1229), and the sixteenth<hi rend="italic"> Un serventés, plait de
+          deduit, de joie</hi> (RS 1729). H’s text is fairly correct and shows no obvious linguistic
+        peculiarities, apart from a few northern or Picard graphies, especially in the spelling of
+          <hi rend="italic">g</hi> + vowel (v. 4 <hi rend="italic">Albigois</hi>, v. 8 <hi rend="italic">gerpir</hi>, v. 12 <hi rend="italic">longement</hi>; cf. Spetia 1997, p.
+        58), the retention of the tonic form with the graphy <hi rend="italic">boen</hi> (vv. 16 and
+        31), and the early closure of <hi rend="italic">o</hi> + nasal (<hi rend="italic">sunt</hi>
+        v. 7, <hi rend="italic">unt</hi> v. 26). As Petersen Dyggve, at the rhyme in vv. 20 and 21 I
+        have eliminated the final <hi rend="italic">z</hi> which modifies the rhyme and is
+        unnecessary from the morphological point of view. I have accepted Jeanroy’s suggested
+        emendations, following Petersen Dyggve, in order to correct the scansion in v. 28 (<hi rend="italic">en boivre et en maingier</hi>) and to regularise v. 37, although the latter
+        emendation is not entirely convincing.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Il canzoniere H è la sezione francese del
+        canzoniere provenzale estense, la cui rubrica iniziale riporta la data 1254, di volta in
+        volta attribuita al canzoniere stesso, alla sola prima sezione o al suo modello (per questa
+        ipotesi propende da ultimo Zinelli 2010, che alle pp. 83-86 elenca e discute le diverse
+        posizioni; lo stesso Zinelli, pp. 88-89 suggerisce prudentemente almeno per la sezione
+        francese una data più bassa, verso l’ultimo quarto del XIII secolo). La canzone RS 640 si
+        trova in undicesima posizione, e precede di poco altri due testi del nostro corpus, <hi rend="italic">Ja de chanter en ma vie</hi> (RS 1229) e <hi rend="italic">Un serventés,
+          plait de deduit, de joie</hi> (RS 1729), che si trovano al quindicesimo e sedicesimo
+        posto. Il testo di H è abbastanza corretto e non presenta particolarità linguistiche
+        evidenti, se si prescinde da qualche grafia di tipo settentrionale o piccardo, soprattutto
+        per quanto riguarda la resa di <hi rend="italic">g</hi> + vocale (v. 4 <hi rend="italic">Albigois</hi>, v. 8 <hi rend="italic">gerpir</hi>, v. 12 <hi rend="italic">longement</hi>; cfr. Spetia 1997, p. 58), la permanenza della forma tonica con grafia <hi rend="italic">boen</hi> (vv. 16 e 31), la precoce chiusura di <hi rend="italic">o</hi> +
+        nasale (<hi rend="italic">sunt</hi> v. 7, <hi rend="italic">unt</hi> v. 26). Come
+        nell’edizione di Petersen Dyggve sono state eliminate le <hi rend="italic">z</hi> finali
+        nelle lezioni in rima ai vv. 20 e 21, che modificano la rima e non sono necessarie a livello
+        morfologico. Si accettano le correzioni suggerite da Jeanroy e già accolte da Petersen
+        Dyggve per sanare l’ipermetria del v. 28 (<hi rend="italic">en boivre et en maingier</hi>) e
+        per regolarizzare il v. 37, benché quest’ultima non risulti particolarmente
+        convincente.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-09-15T14:53:02Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Anonymous</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.640.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>God clearly shows that we are not acting according to his wishes, when He allows us
+              to be so shamefully humiliated in the Albigeois, where there are such people who are
+              not defending themselves against anyone who can stand up to them on the battlefield.
+              Now our kinsmen have died there, and they make us leave the land.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>The clergy lives in great dissolution; all over the world I see God betrayed; not
+              long ago they made his great business perish overseas, for they turned our high
+              conquest into failure. Nevertheless I submit to the judgment of the good king who
+              cannot lie.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>There is no more humility in them; no-one can endure their arrogance. They want to
+              take over the whole world through their use of excommunication. They own so much
+              wealth and property, either by robbery or by extortion, that each wants carried out
+              whatever he decides on, whether it be right or wrong.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Ah God, how wickedly they spend what they receive from burying the dead on dining and
+              clothing their strumpets, in constantly eating and drinking! They ought to restrict
+              themselves to sustaining their wretched lives, and gladly distributing the surplus to
+              God’s poor.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Rome, the origin of our religion, makes us utterly and completely perplexed, for it
+              wants to reserve for its own use everything it forbids us as sinful; it absolves and
+              excommunicates for money, and sells what God asks us to offer freely, and marries
+              close kin such as the law should not allow.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>God kill them all or reform them, so that He may protect us; if not, we shall soon
+              have to die faithless.</p>
+          </div>
+        </div><div type="translation" xml:id="rs.640.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Dio (ci) sta facendo chiaramente capire che non stiamo agendo secondo la sua volontà,
+              dal momento che ci lascia umiliare in modo così vergognoso in terra albigese, dove c’è
+              una tale gente che non trova nessun avversario che possa resistergli in battaglia. Ora
+              (ecco che) i nostri congiunti sono morti laggiù ed essi ci costringono a lasciare la
+              terra.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Il clero vive in modo troppo dissoluto; ovunque nel mondo vedo tradire Dio; non molto
+              tempo fa ha fatto fallire la sua grande impresa oltremare, poiché ha mandato in malora
+              la nostra importante conquista. Tuttavia mi rimetto al giudizio del buon re, che non
+              può mentire.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Non c’è più umiltà; nessuno può sopportare il loro orgoglio. Vogliono dominare tutto
+              il mondo con le loro scomuniche [condanne morali]. Hanno tanti beni e averi, in parte
+              rubati e in parte estorti, che ognuno vuole portare a compimento ciò che intraprende,
+              giusto o sbagliato che sia.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Ah Dio, come spendono malamente ciò che ricevono dal seppellire i morti per
+              rimpinzare e rivestire le loro prostitute, o nel bere e mangiare troppo spesso.
+              Dovrebbero limitarsi a sostentare la loro misera vita e distribuire di buon cuore il
+              sovrappiù ai poveri di Dio.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Roma, da cui dipende la nostra fede, ci turba profondamente e completamente, perché
+              vuole coltivare a suo piacimento ciò che vieta a noi in quanto peccato; assolve e
+              condanna dietro compenso, e vende ciò che Dio chiede di offrire, e unisce in
+              matrimonio parenti così stretti che la legge non può permetterlo.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Dio li faccia morire tutti o li faccia cambiare, in modo da poterci proteggere, o
+              altrimenti ben presto ci toccherà morire senza fede.</p>
+          </div>
+        </div></body></text></TEI>

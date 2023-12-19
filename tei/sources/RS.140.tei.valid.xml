@@ -1,0 +1,564 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author>
+          <name>Linda</name>
+          <surname>Paterson</surname>
+        </author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2015-09-02</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde 1780, <hi rend="smallcaps">ii</hi> 230; Auguis 1824, <hi
+              rend="smallcaps">ii</hi> 50; Dinaux 1837-1863, <hi rend="smallcaps">iii</hi> 238;
+            Paris 1856, 617; Metcke 1906, 33; Bédier-Aubry 1909, 135; Guida 1992, 79; Dijkstra
+            1995a, 201.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde 1780, <hi rend="smallcaps">ii</hi> 230; Auguis 1824, <hi
+              rend="smallcaps">ii</hi> 50; Dinaux 1837-1863, <hi rend="smallcaps">iii</hi> 238;
+            Paris 1856, 617; Metcke 1906, 33; Bédier-Aubry 1909, 135; Guida 1992, 79; Dijkstra
+            1995a, 201.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss. (5).</hi> K 249a (<hi rend="italic">mestre Gile li
+            Viniers</hi>), N 122a (<hi rend="italic">mestre Gile li Viniers</hi>), P 104b (<hi
+              rend="italic">mestre Gilles li Viniers</hi>), T 39v (<hi rend="italic">Hues li
+              chastelains d’Arras</hi>), X 168d (<hi rend="italic">maistre Gilles li
+            Viniers</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss. (5).</hi> K 249a (<hi rend="italic">mestre Gile li
+            Viniers</hi>), N 122a (<hi rend="italic">mestre Gile li Viniers</hi>), P 104b (<hi
+              rend="italic">mestre Gilles li Viniers</hi>), T 39v (<hi rend="italic">Hues li
+              chastelains d’Arras</hi>), X 168d (<hi rend="italic">maistre Gilles li
+            Viniers</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’"><p>10 a’ba’bba’bb (MW 923,1 = Frank
+        304a); 5 <hi rend="italic">coblas doblas</hi> with a 4-line <hi rend="italic">envoi</hi>
+        (ba’bb); rhyme a: <hi rend="italic">-aine</hi>, <hi rend="italic">-ïe</hi>, <hi
+          rend="italic">-ine</hi>; rhyme b: <hi rend="italic">-iés</hi>, <hi rend="italic"
+        >-eus</hi>, <hi rend="italic">-ans</hi>; <hi rend="italic">capfinidad</hi> link between
+        stanzas ii-iii (<hi rend="italic">perelliés-peril</hi>), iv-v (<hi rend="italic">cuer</hi>)
+        and less strikingly between stanzas i-ii (<hi rend="italic">dame</hi> ai vv. 7 and 9);
+        paronymic rhyme vv. 2, 5, 16 (<hi rend="italic">travelliés</hi>, <hi rend="italic"
+        >liés</hi>, <hi rend="italic">perelliés</hi>) and between v. 18 (<hi rend="italic">oex</hi>)
+        and all other rhymes in <hi rend="italic">-eus</hi> of stanzas iii and iv, if <hi
+          rend="italic">oex</hi> = <hi rend="italic">eus</hi>; identical rhyme vv. 21 and 29 (<hi
+          rend="italic">seus</hi>), even if the two occurrences may have slightly different nuances;
+        etymological wordplay in the rhymes in vv. 22-23 (<hi rend="italic">esjoïe-joiex</hi>);
+        frequent lyric caesuras in vv. 6, 9, 15, 25, 31, 37; feminine caesura with elision vv. 2 e
+        3; melody in all mss., with minimal variants in the case of KNPX and somewhat more
+        significant ones in T; melodic scheme ABAC DEFG (T 82).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’"><p>10 a’ba’bba’bb (MW 923,1 = Frank
+        304a); 5 <hi rend="italic">coblas doblas</hi> con un <hi rend="italic">envoi</hi> di 4 versi
+        (ba’bb); rima a: <hi rend="italic">-aine</hi>, <hi rend="italic">-ïe</hi>, <hi rend="italic"
+          >-ine</hi>; rima b: <hi rend="italic">-iés</hi>, <hi rend="italic">-eus</hi>, <hi
+          rend="italic">-ans</hi>; rapporto di <hi rend="italic">capfinidad</hi> tra le strofe
+        ii-iii (<hi rend="italic">perelliés-peril</hi>), iv-v (<hi rend="italic">cuer</hi>) e in
+        modo più blando tra le strofe i-ii (<hi rend="italic">dame</hi> ai vv. 7 e 9); rima paronima
+        ai vv. 2, 5, 16 (<hi rend="italic">travelliés</hi>, <hi rend="italic">liés</hi>, <hi
+          rend="italic">perelliés</hi>) e tra il v. 18 (<hi rend="italic">oex</hi>) e tutti gli
+        altri rimanti in <hi rend="italic">-eus</hi> delle strofe iii e iv, se si considera <hi
+          rend="italic">oex</hi> = <hi rend="italic">eus</hi>; rima identica ai vv. 21 e 29 (<hi
+          rend="italic">seus</hi>), anche se non è escluso che le due occorrenze abbiano sfumature
+        di senso leggermente diverse; figura etimologica fra i rimanti ai vv. 22-23 (<hi
+          rend="italic">esjoïe-joiex</hi>); frequenti cesure liriche ai vv. 6, 9, 15, 25, 31, 37;
+        cesura femminile con elisione ai vv. 2 e 3; melodia in tutti i testimoni, con varianti
+        minime nel caso di KNPX e un po’ più significative nel caso di T; schema melodico ABAC DEFG
+        (T 82).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The common errors of vv. 21 (incomprehensible),
+        29 and 32-34 (a series of simplifications which change the syntax and generate an error at
+        the rhyme in v. 34) group mss. KNPX together; common errors in NP produce irregular rhymes
+        in vv. 42 and 44 of the <hi rend="italic">envoi</hi> (absent from KX), but the opposition
+        between KNPX and T remains constant. The absence of the <hi rend="italic">envoi</hi>
+        probably constitutes a joint error of KX, though it is difficult to pinpoint the relations
+        between NP and KX (see only the small variant KNX in v. 11). T’s reading is highly correct
+        and generally better than that of KNPX. It also presents some interesting <hi rend="italic"
+          >lectiones difficiliores</hi> (the northern form <hi rend="italic">averai</hi> in vv. 3 an
+        6, <hi rend="italic">chateus</hi> in v. 28, the syntax of vv. 32 and 33), which makes it an
+        excellent base for the edition, and its northern features may moreover correspond to the
+        author’s <hi rend="italic">scripta</hi>. Apart from the verbal form <hi rend="italic"
+          >averai</hi> already noted (vv. 3 and 6), see for example depalatalisation in <hi
+          rend="italic">eslongiés</hi> (v. 4) and the subjunctive <hi rend="italic">prenge</hi> (v.
+        8); the treatment of <hi rend="italic">c</hi> before a palatal or medial vowel in <hi
+          rend="italic">saciés</hi> (v. 5), <hi rend="italic">aprociés</hi> (v. 13), <hi
+          rend="italic">cans</hi> (v. 14); and the forms <hi rend="italic">oex</hi> (v. 18) and <hi
+          rend="italic">travas</hi> (v. 36). T’s reading is only rejected in vv. 12 and 16
+        (inversion of the rhyme-words) and v. 25 (<hi rend="italic">heex</hi> instead of <hi
+          rend="italic">ha Dex</hi>).</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Gli errori congiuntivi dei vv. 21 (lezione
+        incomprensibile), 29 e 32-34 (serie di banalizzazioni che modificano la sintassi fino a
+        provocare un errore in rima al v. 34) accomunano i mss. KNPX; ad essi vanno aggiunti gli
+        errori comuni di NP che falsano le rime ai vv. 42 e 44 del congedo (in assenza di KX), ma
+        l’opposizione tra KNPX e T è costante. L’assenza dell’<hi rend="italic">envoi</hi>
+        costituisce un probabile errore congiuntivo di KX, mentre è difficile precisare i rapporti
+        di NP con KX (si veda solo la piccola variante KNX al v. 11). La lezione di T è molto
+        corretta e generalmente migliore di quella di KNPX, e presenta anche alcune interessanti <hi
+          rend="italic">lectiones difficiliores</hi> (la forma settentrionale <hi rend="italic"
+          >averai</hi> ai vv. 3 e 6, <hi rend="italic">chateus</hi> al v. 28, la sintassi dei vv. 32
+        e 33); per questo motivo esso costituisce un’ottima base per l’edizione, anche per i suoi
+        tratti settentrionali che potrebbero corrispondere alla <hi rend="italic">scripta</hi>
+        dell’autore. Oltre alla forma verbale <hi rend="italic">averai</hi> già segnalata (vv. 3 e
+        6), si veda per esempio la depalatalizzazione in <hi rend="italic">eslongiés</hi> al v. 4 e
+        nel congiuntivo <hi rend="italic">prenge</hi> al v. 8; il trattamento di <hi rend="italic"
+          >c</hi> davanti a vocale palatale o mediana in <hi rend="italic">saciés</hi> al v. 5, <hi
+          rend="italic">aprociés</hi> al v. 13, <hi rend="italic">cans</hi> al v. 14; le forme <hi
+          rend="italic">oex</hi> al v. 18 e <hi rend="italic">travas</hi> al v. 36. Si scarta la
+        lezione di T solo ai vv. 12 e 16 (inversione delle parole in rima) e al v. 25 (<hi
+          rend="italic">heex</hi> al posto di <hi rend="italic">ha Dex</hi>).</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <date>2015-09-02T15:36:33Z</date>
+          <name>Linda Paterson</name>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Châtelain d’Arras</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+        <div type="text" xml:id="rs.140.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Aler m’estuet la u je trairai paine,</l>
+            <l n="2">en cele terre u Diex fu travelliés;</l>
+            <l n="3">mainte pensee i averai grevaine,</l>
+            <l n="4"> quant me serai de ma dame eslongiés;</l>
+            <l n="5">et saciés bien jamais ne serai liés</l>
+            <l n="6">dusc’a l’eure que l’averai prochaine.</l>
+            <l n="7">Dame, merci! Quant serai repairiés,</l>
+            <l n="8"> pour Dieu vos proi qu’en vos prenge pitiés.</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="9">Douce dame, contesse et chastelaine</l>
+            <l n="10">de tout valoir, cui sevrance m’est griés,</l>
+            <l n="11">si est de vos com est de la seraine,</l>
+            <l n="12">qui par son chant a pluisors engigniés:</l>
+            <l n="13">n’en sevent mot, ses a si aprociés</l>
+            <l n="14">que ses dous cans lor navie mal maine;</l>
+            <l n="15">ne se gardent, ses a em mer plongiés;</l>
+            <l n="16">et, s’il vos plaist, ensi sui perelliés.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="17">En peril sui, se pitiés ne m’aïe,</l>
+            <l n="18">mais se ses cuers resamble ses dos oex,</l>
+            <l n="19">je sai de voir dont n’i perirai mie:</l>
+            <l n="20">esperance ai qu’ele l’ait mout piteus.</l>
+            <l n="21">Sovent recort, quant od li ere seus,</l>
+            <l n="22">qu’ele disoit: «Mout seroie esjoïe,</l>
+            <l n="23">se repariés; je vous ferai joiex:</l>
+            <l n="24">or soiés vrais come fins amourex».</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="25">Ha Dex, dame, cis mos me rent la vie;</l>
+            <l n="26">biaus sire Diex, com il est precïeus!</l>
+            <l n="27">Sans cuer m’en vois el regne de Surie:</l>
+            <l n="28">od vos remaint, c’est ses plus dous chateus.</l>
+            <l n="29">Dame vaillans, comment vivra cors seus?</l>
+            <l n="30">Se le vostre ai od moi en compaignie,</l>
+            <l n="31">adés iere plus joiaus et plus preus:</l>
+            <l n="32">del vostre cuer serai chevalereus.</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="33">Del gentil cuer Genievre la roïne</l>
+            <l n="34">fu Lanselos plus preus et plus vaillans;</l>
+            <l n="35">pour li emprist mainte dure aatine,</l>
+            <l n="36">si en souffri paines et travas grans;</l>
+            <l n="37">mais au double li fu gueredonans,</l>
+            <l n="38">aprés ses maus, loiaus amie fine;</l>
+            <l n="39">en tel espoir serf et ferai tous tans</l>
+            <l n="40">celi a cui mes cuers est atendans.</l>
+          </lg>
+          <lg n="6" type="stanza">
+            <l n="41">Li chastelains d’Arras dist en ses chans:</l>
+            <l n="42">ne doit avoir amour vraie enterine</l>
+            <l n="43">ki a la fois n’en est liés et dolans;</l>
+            <l n="44">por ce se met del tout en ses comans.</l>
+          </lg>
+        </div>
+        <div type="translation" xml:id="rs.140.it" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>I have to go to where I shall suffer pain, to that land where God was tortured; there
+              I shall have many heavy thoughts, when I shall be far away from my lady; and be well
+              aware that I shall nevermore be happy until the hour when I shall have her close.
+              Lady, have mercy! When I return, I beg you for God’s sake to take pity on me.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Sweet lady, countess and châtelaine of great worth, from whom parting is grievous to
+              me, with you it is the same as with the siren who has deceived many (sailors) through
+              her song: they are unaware of it, and she has come so close to them that her sweet
+              song leads them off course; they pay no heed, and now she has plunged them into the
+              sea; and in the same way, if it please you, I am in danger of shipwreck.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>My life is in danger, if pity does not help me; but if her heart resembles her sweet
+              eyes, I am sure I shall not perish there: I have the hope that it is most full of
+              pity. Often I recall that when I was alone with her she would say: «I shall be most
+              joyful if you return; I shall give you joy, (but) now be true like a true lover».</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Oh God, lady, these words bring me back to life; good Lord God, how precious they
+              are! I go off to the kingdom of Syria without a heart: it remains with you, it is its
+              sweetest gain. Worthy lady, how will my body survive alone? If I have yours (your
+              heart) for company, I shall be constantly more joyful and fight better: thanks to your
+              heart I shall be bold in battle.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Thanks to the noble heart of Guinevere the queen Lancelot was braver and more
+              valiant; for her sake he undertook many hard fights and suffered great pains and
+              tribulations; but the true courtly beloved, after his sufferings, doubly rewarded him;
+              in such hope I serve and will ever serve the one to whom my heart aspires.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>The Châtelain d’Arras says in his songs that one cannot experience true, perfect love
+              without feeling at the same time joy and pain; so he submits entirely to her will.</p>
+          </div>
+        </div>
+        <div type="translation" xml:id="rs.140.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Devo andare là dove dovrò patire e soffrire, in quella terra dove Dio fu torturato;
+              laggiù avrò molti pensieri opprimenti, perché sarò lontano dalla mia signora; e
+              sappiate bene che non sarò mai felice fin quando non l’avrò vicina. Signora, pietà!
+              Quando sarò tornato, vi prego per Dio di mostrarvi misericordiosa.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Dolce signora, contessa e castellana di grande pregio, da cui è duro separarmi, con
+              voi avviene come con la sirena, che col suo canto ha ingannato molti (marinai): non se
+              ne rendono conto, e lei si è così avvicinata che il suo dolce canto li conduce su una
+              cattiva rotta; non stanno all’erta, ed ecco che li ha inabissati in mare; e allo
+              stesso modo, se (così) vi piace, voi potete farmi naufragare [uccidermi].</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>La mia vita è in pericolo, se la compassione non mi soccorre; ma se il suo cuore
+              somiglia ai suoi dolci occhi, sono certo che non ne morirò: confido che sia molto
+              misericordioso. Spesso ricordo che, quand’ero solo con lei, diceva: «sarei molto
+              contenta se voi tornaste; vi renderò felice, (ma) ora siate leale come un vero
+              amante».</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Oh Dio, signora, queste parole mi rendono la vita; buon Signore Dio, come sono
+              preziose! Me ne vado senza cuore nel regno di Siria: rimane con voi, è il suo più
+              dolce premio. Signora di grande valore, come sopravvivrà il corpo da solo? Se ho la
+              compagnia del vostro (cuore), sarò senz’altro più felice e più valoroso: grazie al
+              vostro cuore sarò ardito.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Grazie al nobile cuore della regina Ginevra Lancillotto fu più audace e più valoroso;
+              per lei ingaggiò molte dure battaglie e ne ricevette grandi sofferenze e tribolazioni;
+              ma l’amata fedele e cortese, dopo i suoi patimenti, lo ricompensò doppiamente; con
+              questa speranza servo e sempre servirò colei alla quale il mio cuore aspira.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Il castellano d’Arras dice nelle sue canzoni che non può provare amore vero e
+              incondizionato chi non è al contempo lieto e dolente; per questo si sottomette
+              completamente al suo volere.</p>
+          </div>
+        </div>
+        <div type="text" xml:lang="en ">
+          <p>Luca Barbieri 2015</p>
+        </div>
+        <div type="text" xml:lang="it ">
+          <p>Luca Barbieri 2015</p>
+        </div>
+      
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>Aside from the rubric of the authoritative ms. T, numerous indications point to the
+          Châtelain d’Arras as the author of this piece. Although Metcke 1906, p. 13, considered the
+          reference in v. 41 as a quotation from another author, it must be an internal signature,
+          given that the Châtelain d’Arras was little known. In addition there is a second song (RS
+          308) attributed to a Châtelain d’Arras by ms. P (ms. C, notoriously unreliable, attributes
+          it to Thibaut de Champagne), also addressed to a countess (RS 140, 9: <hi rend="italic"
+            >Douce dame contesse et chastelaine</hi> and RS 308, 9: <hi rend="italic">Contesse a
+            droit la doit on apeler</hi>) and in both cases the address is accompanied by the
+          expression <hi rend="italic">de tout valoir</hi> in v. 10, a coincidence which seems to
+          confirm the <hi rend="italic">difficilior</hi> attribution of both these texts to the
+          Châtelain d’Arras.</p>
+        <p>T’s rubric also provides us with the Christian name of the Châtelain in question.
+          According to the study of Feuchère 1948, the only châtelain of Arras named Hugues is the
+          son and heir of Baudouin V; his date of birth is unknown, but his activity as a castellan
+          is documented from 1210 to 1226, the date of his death, as witnessed in the necrology of
+          the “Confrérie des jongleurs et bourgeois d’Arras” (Berger 1970). In a document of 1206
+          the sons Hugues and Robert confirm a donation by Baudouin, which suggests that the elder
+          son was born in 1190 at the latest. None of the documents concerning Hugues mentions him
+          participating in a crusade, which would have to be the Fifth; so at least three documents
+          go back to the period when the crusade was in full swing (22 January 1218, February 1219
+          and April 1219) and testify to his presence in Arras. True, he could have taken the cross
+          and shown his intention to leave before 1218 (probably between 1213, the year of Innocent
+          III’s bull <hi rend="italic">Quia maior</hi>, and the summer of 1217, when the first
+          crusaders left for Acre), and then have renounced his commitment for unknown reasons.
+          Alternatively he could have left for the East for a short time between the start of 1218
+          and the start of 1219, or else after April of the same year, even if this seems unlikely:
+          from the end of May 1218 the crusade was directed against Egypt and more specifically
+          Damietta, while the two mentions in the Châtelain’s song refer unquestionably to the Holy
+          Land (the land of Christ’s passion in vv. 1-2 and <hi rend="italic">Surie</hi> in v. 27).
+          In any case there is no trace of the Châtelain d’Arras in the East (his name is absent
+          from the list of participants in the Fifth Crusade drawn up by Röhricht 1891). It is also
+          recorded that the preaching of the crusade in France by the papal legate Robert de Courçon
+          met with scant success, and only a few French knights took part in it. Of the life of
+          Hugues d’Arras we know only that in 1216 he took part in the French king’s embassy to
+          England to meet the barons in revolt against John Lackland, and that he accompanied the
+          future Louis VIII in the ensuing English expedition. These chronological references seem
+          also to be confirmed by the dedication of song RS 308 to Thomas de Coucy (v. 33), the son
+          of Raoul I de Coucy, born before 1187 (Barthélemy 1984, pp. 406-407) and hence a
+          contemporary of Hugues d’Arras. Thomas was an opponent of Thibaut de Champagne from 1229
+          and died in 1253.</p>
+        <p>Given the information provided by the manuscript tradition and historical documentation,
+          it seems most likely that RS 140 was composed by the Châtelain d’Arras at the time when he
+          had shown his intention of leaving on the Fifth Crusade, at some time between 1213 and
+          1217.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Numerosi indizi convergono sull’attribuzione al Castellano d’Arras, a partire dalla
+          rubrica dell’autorevole ms. T. A ciò si aggiunge la firma interna del v. 41, che
+          difficilmente potrà essere considerata una semplice citazione autorevole come propone
+          Metcke 1906, p. 13, vista la scarsa notorietà del personaggio. Esiste inoltre una seconda
+          canzone (RS 308) attribuita a un Castellano d’Arras dal ms. P (il ms. C, notoriamente poco
+          affidabile, la attribuisce invece a Thibaut de Champagne). Entrambe le canzoni sono
+          indirizzate a una contessa (RS 140, 9: <hi rend="italic">Douce dame contesse et
+            chastelaine</hi> e RS 308, 9: <hi rend="italic">Contesse a droit la doit on apeler</hi>)
+          e in entrambi casi tale indirizzo è accompagnato dall’espressione <hi rend="italic">de
+            tout valoir</hi> al v. 10, coincidenza che sembra confermare l’attribuzione <hi
+            rend="italic">difficilior</hi> al Castellano d’Arras.</p>
+        <p>La rubrica del canzoniere T ci fornisce anche il nome di battesimo del Castellano in
+          questione. Secondo lo studio di Feuchère 1948, l’unico castellano d’Arras di nome Hugues è
+          il figlio e successore di Baudouin V; non si conosce la sua data di nascita, ma la sua
+          attività di castellano è testimoniata da documenti che vanno dal 1210 al 1226, data della
+          sua morte, come si evince dal necrologio della “Confrérie des jongleurs et bourgeois
+          d’Arras” (Berger 1970). In un documento del 1206 i figli Hugues e Robert confermano una
+          donazione di Baudouin, lasciando supporre che il primogenito debba essere nato al più
+          tardi nel 1190. Nessuno dei documenti che riguardano Hugues menziona la sua partecipazione
+          a una crociata, che sarebbe in ogni caso la quinta; anzi, almeno tre documenti risalgono
+          al periodo di pieno svolgimento della crociata (22 gennaio 1218, febbraio 1219 e aprile
+          1219) e attestano la sua presenza ad Arras. Certo egli potrebbe aver preso la croce e
+          manifestato l’intenzione di partire prima del 1218 (probabilmente tra il 1213, anno della
+          bolla <hi rend="italic">Quia maior</hi> di Innocenzo III, e l’estate del 1217, tempo della
+          partenza dei primi crociati per Acri), rinunciando poi all’impresa per motivi non noti, o
+          potrebbe effettivamente essere partito per l’Oriente per un breve tempo tra l’inizio del
+          1218 e l’inizio del 1219, oppure dopo l’aprile dello stesso anno, anche se questa ipotesi
+          sembra poco probabile: a partire dalla fine di maggio del 1218 la crociata è stata diretta
+          contro l’Egitto e in particolare contro Damietta, mentre le due menzioni del castellano
+          nella canzone si riferiscono indubbiamente alla Terra Santa (la terra della passione di
+          Cristo nei vv. 1-2 e la <hi rend="italic">Surie</hi> del v. 27) e in ogni caso l’eventuale
+          presenza in Oriente del Castellano d’Arras non ha lasciato tracce (il suo nome non si
+          trova nella lista dei partecipanti alla quinta crociata stilata da Röhricht 1891). Va
+          ricordato tra l’altro che la predicazione della crociata in Francia da parte del legato
+          papale Robert de Courçon ebbe scarsissimo successo, e solo pochi cavalieri francesi vi
+          parteciparono. Della vita di Hugues d’Arras sappiamo solo che nel 1216 fece parte
+          dell’ambasciata del re di Francia in Inghilterra per incontrare i baroni in rivolta contro
+          Giovanni Senza Terra e che accompagnò il futuro Luigi VIII nella successiva spedizione
+          inglese. Questi riferimenti cronologici sembrano confermati anche dalla dedica della
+          canzone RS 308 a Thomas de Coucy (v. 33): si tratta del figlio di Raoul I de Coucy, nato
+          prima del 1187 (Barthélemy 1984, pp. 406-407) e quindi coetaneo di Hugues d’Arras,
+          avversario di Thibaut de Champagne a partire dal 1229 e morto nel 1253.</p>
+        <p>Stando alle informazioni fornite dalla tradizione manoscritta e dalla documentazione
+          storica, l’ipotesi più probabile è che la canzone RS 140 sia stata composta dal castellano
+          d’Arras al tempo in cui egli aveva manifestato l’intenzione di partire per la quinta
+          crociata, in un momento compreso tra il 1213 e il 1217.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>The song belongs to the tradition of <hi rend="italic">chansons de départie</hi>, but
+          even if it begins conventionally by highlighting the ideas of crusading as a duty (the
+          classic formula <hi rend="italic">m’estuet</hi> is typical of the <hi rend="italic"
+            >chansons de départie</hi>: see the commentary on the Châtelain de Coucy RS 679, 3-4)
+          and of the suffering caused by the separation from the beloved lady, it represents an
+          accomplished attempt to reconcile love and crusade, through the idea that the lady’s
+          acceptance and affection make a man more worthy, and that courage and audacity in battle
+          will be rewarded on the level of love. In addition, the lady does not have the negative
+          courtly characteristics found for example in the Châtelain de Coucy’s songs, and despite
+          the siren image the song underlines her power over the lover’s life: her own words,
+          reported in the text in vv. 22-24, speak of perfect reciprocity of feeling, and open the
+          way to the theme of love which makes men valiant, which characterises the second part of
+          the song. In fact this idea is already hinted at in Conon de Béthune RS 1125, 14-16 and
+          the same motif is developed, though differently, in the second part of Thibaut de
+          Champagne’s RS 757.</p>
+        <p corresp="#rs.140.fro:(n=2)">The Holy Land is presented as the place of Christ’s passion
+          (Dijkstra 1995a, pp. 154-155), a designation typical of preaching and also common in songs
+          of crusading exhortation (see Maistre Renaut RS 886, 15-18 and Huon de Saint-Quentin RS
+          1576, 1-2, but also more succinctly in Thibaut de Champagne RS 6, 1-2 and Richart de
+          Fournival RS 1022, 25-27). However it seems new and interesting that the author
+          assimilates his own suffering, both physical and amorous, to that of Christ.</p>
+        <p corresp="#rs.140.fro[range(@n=11,@n=15)]">The comparison of the siren’s behaviour to the
+          lady’s also occurs in the bestiary of Pierre de Beauvais (ed. Mermier 1977, XI, 14-17),
+          the Châtelain’s contemporary, as well as in the later Bestiaire d’Amour of Richard de
+          Fournival. However, the present piece does not have the strongly misogynistic character of
+          Pierre de Beauvais’ text. The Châtelain is simply underlining his submission to the lady
+          and the power over life and death granted to her by love. For the use of the siren myth in
+          Old French lyrics compare Raoul de Soissons RS 1204, 26-27: mes [est</p>
+        <p corresp="#rs.140.fro[range(@n=21,@n=24)]">Here the lady is entirely free of the
+          haughtiness of the courtly domina found elsewhere, and is constantly well-disposed towards
+          the knight. The grief expressed in the song concerns separation alone, and the certainty
+          of reciprocal love never diminishes, which is how the knight can reconcile love and
+          crusade. Usually in the chansons de départie it is the knight who asks the lady for the
+          same fidelity he promises to her (see the Châtelain de Coucy RS 679, 45-48 and the note to
+          those lines); here the opposite occurs, recalling songs with a feminine first-person
+          speaker (RS 21 and RS 191).</p>
+        <p corresp="#rs.140.fro:(n=27)">On the separation of heart and body in crusade songs see
+          Conon de Béthune’s earlier RS 1125, 7-8: Se li cors va servir Nostre Signor, / Mes cuers
+          remaint del tot en sa baillie (but the contact with our v. 27 extends to v. 9 of RS 1125:
+          Por li m’en vois sospirant en Surie); see also the Châtelain de Coucy RS 679, 23-24 (and
+          note); RS 1636, 33-35; RS 1582, 5-6. In Chardon de Croisilles RS 499, 21-24 the situation
+          is the same, but the trouvère stresses the lady’s cruelty in not returning the gift of the
+          heart. For the use of regne de Surie to denote the Holy Land see the note to Thibaut de
+          Champagne RS 1152, 10.</p>
+        <p corresp="#rs.140.fro:(n=28)">T’s reading chateus &lt; capitale(m) is undoubtedly a lectio
+          difficilior and is therefore accepted into the text; for the sense see TL 2, 314, 14ff
+          “Besitz, Habe, Gewinn” and Godefroy 2, 89a “bien, patrimoine”. Compare RS 900, 64-66:
+          Diex! Diex! / li mieudres chatex / ki me soit remés.</p>
+        <p corresp="#rs.140.fro[range(@n=33,@n=34)]">The motif of love which makes men more valiant,
+          anticipated in vv. 30-32, is illustrated by the literary example of Lancelot and
+          Guinevere, probably drawn from Chrétien de Troyes’ Chevalier de la Charrette, where the
+          hero is emboldened by the thought and sight of Guinevere before being rewarded by a night
+          of love (see Payen 1974). An analogous idea, but without any literary allusion, is also
+          expressed by the Châtelain de Coucy in RS 679, 47-48: et je proi Dieu k’ausi me doinst
+          honor / com je vous ai esté amis verais and Raoul de Soissons in RS 1154, 10-13: Sire,
+          saichiés, et si n’en douteis mie, / ke cheveliers n’iert jai de grant renom / sens bone
+          amor ne sens sa signorie, / ne nuls sens li ne puet estre proudom.</p>
+        <p corresp="#rs.140.fro[range(@n=37,@n=38)]">The question of the double reward is in some
+          ways a response to the conflict between love service and religious/military service
+          mentioned by many trouvères and formulated particularly clearly by Hugues de Berzé in RS
+          1126, 17-24; such a conflict goes so far as to formulate a sense of disproportion between
+          the loyalty of the knight and the reward received, for example in Gautier de Dargies RS
+          795, 58-64 and Chardon de Croisilles RS 499, 29-30: ma loiauté me tout, jel sai de fi, /
+          la joie q’ai par reson deservie. In this text, however, as indicated, love is reciprocated
+          and the knight’s service is also rewarded on the level of valour in battle; compare Raoul
+          de Soissons RS 1204, 30-33, which contains another mythological and literary reference (to
+          Helen and Paris).</p>
+        <p corresp="#rs.140.fro[range(@n=42,@n=43)]">The concluding phrase is presented as a direct
+          quotation and is treated as such in the text, even though in the translation it has been
+          transposed into indirect speech. For the use of the oxymoron liés et dolans in crusade
+          songs see Thibaut de Champagne RS 757, 33-36: Bien doit mes cuers estre liez et dolanz: /
+          dolanz de ce que je part de ma dame / et liez de ce que je sui desirranz / de servir Deu,
+          qui est mes cuers et m’ame.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>La canzone s’inserisce nel filone delle <hi rend="italic">chansons de départie</hi>, ma
+          pur iniziando nel solco della tradizione con la sottolineatura della crociata come dovere
+          (la classica formula <hi rend="italic">m’estuet</hi> tipica delle <hi rend="italic"
+            >chansons de départie</hi>, per cui si veda almeno il commento a Castellano di Coucy RS
+          679, 3-4) e della sofferenza per la separazione dalla dama amata, essa costituisce un
+          tentativo compiuto di conciliare amore e crociata, attraverso l’idea che il consenso e
+          l’affetto della dama rendono più valorosi e a sua volta il coraggio e l’audacia in
+          battaglia saranno ricompensati sul piano amoroso. La dama inoltre non ha le
+          caratteristiche cortesi negative che si trovano per esempio nelle canzoni del Castellano
+          di Coucy, e nonostante l’esempio della sirena ne sottolinei il potere sulla vita
+          dell’amante, le sue stesse parole riportate nel testo parlano a favore della perfetta
+          reciprocità del sentimento e aprono la strada al tema dell’amore che rende valorosi che
+          caratterizza la seconda parte della canzone. In realtà un primo abbozzo di questa idea si
+          trova già in Conon de Béthune RS 1125, 14-16 e lo stesso motivo è sviluppato, sia pure in
+          modo diverso, nella seconda parte della canzone RS 757 di Thibaut de Champagne.</p>
+        <p corresp="#rs.140.fro:(n=2)">La Terra Santa è caratterizzata come il luogo della passione
+          di Cristo (Dijkstra 1995a, pp. 154-155), designazione tipica della predicazione e comune
+          anche nelle canzoni di esortazione alla crociata (si veda Maistre Renaut RS 886, 15-18 e
+          Huon de Saint-Quentin RS 1576, 1-2, ma anche più sinteticamente Thibaut de Champagne RS 6,
+          1-2 e Richart de Fournival RS 1022, 25-27). Sembra invece nuovo e interessante il fatto
+          che l’autore assimili le proprie sofferenze, tanto fisiche quanto amorose, a quelle di
+          Cristo.</p>
+        <p corresp="#rs.140.fro[range(@n=11,@n=15)]">L’assimilazione del comportamento della sirena
+          a quello della donna è già presente nel bestiario di Pierre de Beauvais (ed. Mermier 1977,
+          XI, 14-17), contemporaneo del nostro autore, e più tardi nel Bestiaire d’Amour di Richard
+          de Fournival, ma qui è trattata in modo diverso, senza il carattere fortemente misogino
+          del testo di Pierre de Beauvais. Attraverso questa immagine l’autore intende solo
+          sottolineare la sua sottomissione alla dama e il potere di vita e di morte che l’amore le
+          attribuisce. Sul ricorso al mito della sirena nella lirica francese si veda Raoul de
+          Soissons RS 1204, 26-27: mes [est</p>
+        <p corresp="#rs.140.fro[range(@n=21,@n=24)]">Qui la dama è del tutto priva dell’alterigia
+          della domina cortese che abbiamo trovato in altri testi, ed è anzi costantemente ben
+          disposta verso il cavaliere. Il dolore espresso nella canzone riguarda solo la
+          separazione, ma non viene mai meno la certezza dell’amore reciproco ed è così che il
+          cavaliere può conciliare amore e crociata. Solitamente nelle chansons de départie è il
+          cavaliere che chiede alla dama la stessa fedeltà che le promette (si veda Castellano di
+          Coucy RS 679, 45-48 e la nota a questi versi); qui invece avviene il contrario, in un modo
+          che ricorda le canzoni a soggetto femminile (RS 21 e RS 191).</p>
+        <p corresp="#rs.140.fro:(n=27)">Sulla separazione di cuore e corpo nelle canzoni di crociata
+          si veda già Conon de Béthune RS 1125, 7-8: Se li cors va servir Nostre Signor, / Mes cuers
+          remaint del tot en sa baillie (ma il contatto con il nostro v. 27 si estende al v. 9 di RS
+          1125: Por li m’en vois sospirant en Surie); si veda anche Castellano di Coucy RS 679,
+          23-24 (e nota); RS 1636, 33-35; RS 1582, 5-6. In Chardon de Croisilles RS 499, 21-24 la
+          situazione è la medesima, ma il troviero sottolinea la crudeltà della dama che non
+          ricambia il dono del cuore. Sull’espressione regne de Surie per caratterizzare la Terra
+          Santa si veda la nota a Thibaut de Champagne RS 1152, 10.</p>
+        <p corresp="#rs.140.fro:(n=28)">La lezione di T chateus &lt; capitale(m) è indubbiamente una
+          lectio difficilior e come tale andrà accolta a testo; il significato è quello indicato in
+          TL 2, 314, 14ss “Besitz, Habe, Gewinn” e Godefroy 2, 89a “bien, patrimoine”. Si veda RS
+          900, 64-66: Diex! Diex! / li mieudres chatex / ki me soit remés.</p>
+        <p corresp="#rs.140.fro[range(@n=33,@n=34)]">Il motivo dell’amore che rende più valorosi,
+          già anticipato ai vv. 30-32, è illustrato dall’esempio letterario di Lancillotto e Ginevra
+          tratto probabilmente dal Chevalier de la Charrette di Chrétien de Troyes, dove l’eroe è
+          reso ardito dal pensiero e dalla visione di Ginevra prima di essere ricompensato nella
+          notte d’amore (si veda Payen 1974). Un’idea analoga, ma senza riferimenti letterari, è
+          espressa anche dal Castellano di Coucy in RS 679, 47-48: et je proi Dieu k’ausi me doinst
+          honor / com je vous ai esté amis verais e da Raoul de Soissons in RS 1154, 10-13: Sire,
+          saichiés, et si n’en douteis mie, / ke cheveliers n’iert jai de grant renom / sens bone
+          amor ne sens sa signorie, / ne nuls sens li ne puet estre proudom.</p>
+        <p corresp="#rs.140.fro[range(@n=37,@n=38)]">La questione della doppia ricompensa è in
+          qualche modo una risposta al conflitto tra servizio amoroso e servizio religioso/militare
+          segnalato da molti trovieri e formulato in modo particolarmente chiaro in Hugues de Berzé
+          RS 1126, 17-24; tale conflitto giunge fino alla formulazione di un senso di sproporzione
+          tra la lealtà del cavaliere e la ricompensa ricevuta per esempio in Gautier de Dargies RS
+          795, 58-64 e Chardon de Croisilles RS 499, 29-30: ma loiauté me tout, jel sai de fi, / la
+          joie q’ai par reson deservie. In questo testo invece, come si è detto l’amore è
+          corrisposto e il servizio del cavaliere è ricompensato anche sul piano del valore in
+          battaglia; si vedano le analogie con Raoul de Soissons RS 1204, 30-33, in cui si trova
+          anche un altro riferimento mitologico e letterario (a Elena e Paride).</p>
+        <p corresp="#rs.140.fro[range(@n=42,@n=43)]">La frase conclusiva viene esposta come una
+          citazione diretta e va trattata come tale, anche se nella traduzione si preferisce
+          trasporla in un discorso indiretto. Sul ricorso all’ossimoro liés et dolans nelle canzoni
+          di crociata si veda Thibaut de Champagne RS 757, 33-36: Bien doit mes cuers estre liez et
+          dolanz: / dolanz de ce que je part de ma dame / et liez de ce que je sui desirranz / de
+          servir Deu, qui est mes cuers et m’ame.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

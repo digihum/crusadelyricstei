@@ -1,0 +1,664 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-12-02</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Bédier-Aubry 1909, p. 283.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Bédier-Aubry 1909, p. 283.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl>(1). U 161r-v (anon).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl>(1). U 161r-v (anon). </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10 abab c'c'dd (MW 1209:16); 5
+        8-line <hi rend="italic">coblas singulars</hi> + 2 4-line <hi rend="italic">envois</hi>.
+        Rhyme a = I <hi rend="italic">is,</hi> II <hi rend="italic">our</hi> (<hi rend="italic">or),</hi> III <hi rend="italic">ir,</hi> IV <hi rend="italic">os (ors),</hi> V <hi rend="italic">ant</hi>; rhyme b = I <hi rend="italic">ant,</hi> II <hi rend="italic">ir,</hi> III <hi rend="italic">er (eir),</hi> IV <hi rend="italic">i (it),</hi> V <hi rend="italic">er (eir)</hi>; rhyme c = I <hi rend="italic">oie (aie),</hi> II, III, IV <hi rend="italic">ance,</hi> V <hi rend="italic">ente,</hi> t1 <hi rend="italic">ante,</hi> t2
+          <hi rend="italic">ente</hi>; rhyme d = I <hi rend="italic">i</hi>, IV <hi rend="italic">ont</hi>; identical-equivocal rhyme: 13 <hi rend="italic">puissance</hi> : 29 <hi rend="italic">poussance</hi>; equivocal rhyme 37 <hi rend="italic">entente</hi> : 45 <hi rend="italic">antente</hi>; identical expression at the rhyme: 39 <hi rend="italic">leament ameir</hi> : 48 <hi rend="italic">leamant ameir</hi>. Medial caesura: 7, 8, 14,
+        32, 37; lyric caesura: 9, 13, 40. Diaeresis: 9, 16, 29, at the caesura: 7, 35; elision at
+        the caesura: 8, 14, 37. Enjambement: 19-20 (v. 20 without caesura). The verse form 1209
+        (=Frank 382) only actually corresponds to st. I and st. IV, which have the final couplet
+        rhyming <hi rend="italic">dd. </hi>In the middle part of the song the final couplet of
+        stanzas II and III repeats the rhyme <hi rend="italic">aa</hi> (= MW 1144 = Frank 360),
+        while the final stanza (V) and the two <hi rend="italic">envois</hi> end with <hi rend="italic">bb</hi> (MW 1163 = Frank 362). These metrical forms [OK?] reveal
+        particularly interesting points of contact. The versification of stanzas II and III (= MW
+        1144:3) is modelled on the love-song <hi rend="italic">Ne me sont pas achoison de
+          chanter</hi> (RS 787 = MW 1144:2, 5 <hi rend="italic">coblas unissonans</hi> of 8 vv. + 1
+        4-line <hi rend="italic">tornada</hi> di 4 vv., melody ABAB CDEB'), attributed to Gace Brulé
+        by mss. CKNPX, whereas ms. a assigns it to Guillaume le Vinier; mss. HLOUVza on the other
+        hand transmit it as anonymous and it is also so cited by Gerbert de Montreuil in his <hi rend="italic">Roman de la Violette</hi>. The versification of st. V and the two <hi rend="italic">envois</hi> of our RS 1582 (not registered in MW under 1163) is identical to
+        that of Andrieu Contredit d'Arras’s love-song<hi rend="italic">... ir / del gerredon ke
+          j'atenc a avoir</hi> (RS 1387b = 1163:3), 5 <hi rend="italic">coblas unissonans</hi> of 8
+        lines (v. 1 is missing) + 4-line <hi rend="italic">envoi</hi>, transmitted without
+        attribution (but with <hi rend="italic">autonominatio</hi> in v. 15) and provided with a
+        musical stave without notation in the Droz fragment (BnF, nouv.acq. fr. 15797, see Droz
+        1928, 540). Stanzas I and III of the song <hi rend="italic">Bele et blonde est cele pour qui
+          je chant</hi> (RS 308 = 1163:2) have this same versification, 4 <hi rend="italic">coblas
+          unissonans</hi> + 4-line <hi rend="italic">envoi</hi>, transmitted with two different
+        melodic versions in PU (ABAB CDEB' e ABCD EFGH). Of the three mss. preserving it, C 28
+        attributes it to Thibaut de Champagne (<hi rend="italic">li rois de Navaire</hi>) and P 109
+        to the Châtelain d'Arras (<hi rend="italic">Li chastelains d'Arraz</hi>), while U 67 gives
+        it as anonymous (<hi rend="italic">Li chastelain d'Arras</hi> only being added in the margin
+        by a later hand). Wallensköld 1915, p. 127, considers it the work of an anonymous author in
+        the first half of the 13th c., excluding it not only from Thibaut’s corpus but also from
+        that of the Châtelain d'Arras, and later (Wallensköld 1925, 224-227) inserts it in into his
+          <hi rend="italic">Appendice</hi> among Thibaut’s songs of doubtful attribution (see also
+        pp. LXVI and LXX-LXXI. For the possibility that RS 308 may be attributable to the Châtelain
+        d'Arras, author of the <hi rend="italic">chanson de départie</hi> RS 140, see Barbieri 2015,
+        Note). To the network of analogies described here we can add the third verse-form found in
+        stanzas I and IV of <hi rend="italic">Por joie avoir perfite en Paradis</hi>, with its final
+        decasyllabic couplet rhyming <hi rend="italic">dd </hi>(= MW 1209:16). This pattern also is
+        found in two songs from Arras datable to between the first and second quarter of the 13th c.
+        and which are associated with the same tune having the structure ABAB CDEF: the first is
+        attributed to Chardon de Croisilles in T 41 and C 209, <hi rend="italic">Rose ne lis ne me
+          done talent</hi> (RS 736 = MW 1209:15, 4 <hi rend="italic">coblas doblas</hi> of 8 vv. + 2
+        4-line <hi rend="italic">envois</hi>) and the second is <hi rend="italic">Par maintes fois
+          ai chanté liement</hi> by Robert de la Pierre (RS 696 = 1209:14, 5 <hi rend="italic">coblas unissonans</hi> of 8 vv. + 1 5-line <hi rend="italic">envoi</hi>, <hi rend="italic">unicum</hi> of ms. a). To these songs can be added two <hi rend="italic">jeux-partis</hi> by the <hi rend="italic">Prince del Puy </hi>of Arras Jehan Bretel: <hi rend="italic">Adan, mout fu Aristotes sachans</hi> (RS 277 = 1209:12) and <hi rend="italic">Jehan de Vergelai, vostre escient</hi> (RS 669 = MW 1209:13). Finally, the
+        versification and tune are also found in the gallicised version of Pistoleta’s <hi rend="italic">sirventes</hi> with a courtly tone, RS 641 <hi rend="italic">Quar eusse cent
+          mil mars d'argent</hi>, transmitted with two different melodic versions by U 82 and O 125
+        (original version: <hi rend="italic">Ar agues eu mil marcs de fin argen</hi>, BdT 372.3 =
+        Frank 382:25, 5 <hi rend="italic">coblas unissonans</hi> di 8 vv., melody ABAB CDEF). Also
+        linked to the Occitan tradition indicated under Frank 382 (= MW 1209) is another text
+        datable to between the first and second quarter of the 13th c.: the <hi rend="italic">tenso</hi> of Raimbaut de Vaqueiras and Conon de Bethune, <hi rend="italic">Seigner
+          Coine, jois e pretz et amors</hi> (BdT 392.29 = Frank 382:27, 4 <hi rend="italic">coblas
+          unissonans</hi> of 8 vv.), from the period of the Fourth Crusade (see Paterson 2012). In
+        summary, <hi rend="italic">Por joie avoir perfite en Paradis</hi> appears as a sort of
+        metrico-melodic collage of three verse-forms (MW 1144:3, 1209:16, 1163) whose models are to
+        be identified respectively with Gace Brulé’s song (the attribution in ms. a to the Arrageois
+        Guillaume le Vinier is significant, and is probably due to his admiration of Gace declared
+        in RS 1859), with the <hi rend="italic">tenso</hi> of Conon de Bethune and Raimbaut de
+        Vaqueiras, and with the song of Andrieu Contredit. These three configurations match those of
+        compositions by a sizeable group of poets gravitating around Arras and its poetic circle in
+        the first half of the 13th c. (the Châtelain d'Arras, Chardon de Croisilles, Andrieu
+        Contredit, Robert de la Pierre, Jehan Bretel). The presence of two different
+        metrical-melodic forms (MW 1144 and 1209) in the same song may conceivably be the result of
+        an attempt to update modes of performance, with adjustments being made to the basic
+        structure at the end (though the rhyme-words have the same tonic vowel), in a position
+        particularly susceptible to melodic variation. Note also that the texts following the
+        (triple) metrico-melodic model of RS 1582, apart from Gace Brulé RS 787 (f. 98v), are
+        preserved in U together with neumatic notation: Pistoleta’s <hi rend="italic">sirventes</hi>
+        BdT 372.3 (given as anonymous on f. 82r), Chardon de Croisilles’ song RS 736 (f. 58r) and
+        the <hi rend="italic">Chastelain</hi> d'Arras’s song RS 308 (f. 67r).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10 abab c'c'dd (MW 1209:16); 5
+          <hi rend="italic">coblas singulars</hi> di 8 vv. + 2 invii di 4 vv. Rima a = I <hi rend="italic">is,</hi> II <hi rend="italic">our</hi> (<hi rend="italic">or),</hi> III <hi rend="italic">ir,</hi> IV <hi rend="italic">os (ors),</hi> V <hi rend="italic">ant</hi>;
+        rima b = I <hi rend="italic">ant,</hi> II <hi rend="italic">ir,</hi> III <hi rend="italic">er (eir),</hi> IV <hi rend="italic">i (it),</hi> V <hi rend="italic">er (eir)</hi>; rima
+        c = I <hi rend="italic">oie (aie),</hi> II, III, IV <hi rend="italic">ance,</hi> V <hi rend="italic">ente,</hi> t1 <hi rend="italic">ante,</hi> t2 <hi rend="italic">ente</hi>;
+        rima d = I <hi rend="italic">i</hi>, IV <hi rend="italic">ont</hi>; rima identico-equivoca:
+        13 <hi rend="italic">puissance</hi> : 29 <hi rend="italic">poussance</hi>; rima equivoca 37
+          <hi rend="italic">entente</hi> : 45 <hi rend="italic">antente</hi>; identico sintagma in
+        rima: 39 <hi rend="italic">leament ameir</hi> : 48 <hi rend="italic">leamant ameir</hi>.
+        Cesura mediana: 7, 8, 14, 32, 37; lirica: 9, 13, 40. Dialefe: 9, 16, 29, in cesura: 7, 35;
+        elisione in cesura: 8, 14, 37. Enjambement: 19-20 (v. 20 senza cesura).In realtà lo schema
+        1209 (= Frank 382) corrisponde alle sole str. I e IV, che hanno il distico finale con rima
+          <hi rend="italic">dd. </hi>Nella parte centrale della canzone infatti, le str. II e III
+        presentano gli ultimi due versi con ripresa della rima <hi rend="italic">aa</hi> (MW 1144 =
+        Frank 360), mentre la str. V, l'ultima, e i due invii hanno la ripresa della rima <hi rend="italic">bb</hi> finale (MW 1163 = Frank 362). La distribuzione degli schemi metrici
+        permette di trovare dei punti di contatto particolarmente interessanti. La struttura delle
+        str. II e III (= MW 1144:3) ha il suo modello nella canzone <hi rend="italic">Ne me sont pas
+          achoison de chanter</hi> (RS 787 = MW 1144:2, 5 <hi rend="italic">coblas unissonans</hi>
+        di 8 vv. + 1 tornada di 4 vv., mel. ABAB CDEB'), attribuita a Gace Brulé dai mss. CKNPX,
+        contro a che la assegna a Guillaume le Vinier; i mss. HLOUVza invece la trasmettono anonima
+        ed è citata come tale anche da Gerbert de Montreuil nel suo <hi rend="italic">Roman de la
+          Violette</hi>. In secondo luogo, lo schema della str. V e dei due invii della nostra RS
+        1582 (non registrato in MW sotto l'articolo 1163) è identico a quello della canzone di
+        Andrieu Contredit d'Arras <hi rend="italic">... ir / del gerredon ke j'atenc a avoir</hi>
+        (RS 1387b = 1163:3), 5 <hi rend="italic">coblas unissonans</hi> di 8 vv (manca il v. 1) +
+        invio di 4 vv, trasmessa senza attribuzione (ma con <hi rend="italic">autonominatio</hi> al
+        v. 15) e provvista di rigo musicale senza notazione nel frammento Droz (BnF, nouv.acq. fr.
+        15797, cfr. Droz 1928, 540). Sempre con questa struttura, va ricordato il caso delle str. I
+        e III della canzone <hi rend="italic">Bele et blonde est cele pour qui je chant</hi> (RS 308
+        = 1163:2), 4 <hi rend="italic">coblas unissonans</hi> + invio di 4 vv., trasmessa con due
+        versioni melodiche diverse in PU (ABAB CDEB' e ABCD EFGH). Dei tre mss. che la tramandano, C
+        28 la attribuisce a Thibaut de Champagne (<hi rend="italic">li rois de Navaire</hi>), P 109
+        al Chastelain d'Arras (<hi rend="italic">Li chastelains d'Arraz</hi>), mentre U 67 la
+        trasmette anonima (solo una mano posteriore aggiunge a margine <hi rend="italic">Li
+          chastelain d'Arras</hi>). Wallensköld 1915, 127, la considera opera di un anonimo della
+        prima metà del XIII escludendola non solo dal corpus di Thibaut ma anche da quello del
+        Castellano d'Arras, e più tardi (Wallensköld 1925, 224-227), la inserisce in <hi rend="italic">Appendice</hi> tra le canzoni dubbie di Thibaut (cfr. anche pp. LXVI e
+        LXX-LXXI. Sulla possibilità che RS 308 sia attribuibile al Castellano d'Arras, autore della
+          <hi rend="italic">chanson de départie</hi> RS 140, cfr. Barbieri 2015, Note). Nella rete
+        di analogie che si va illustrando, va aggiunto il terzo schema coinvolto nelle strofi I e IV
+        di <hi rend="italic">Por joie avoir perfite en Paradis</hi>, con distico finale di
+        decasillabi con rima <hi rend="italic">dd </hi>(= MW 1209:16). Anch'esso accoglie due
+        canzoni di provenienza artesiana databili tra il primo e il secondo quarto del XIII secolo e
+        accomunate dalla medesima melodia secondo lo schema ABAB CDEF: la prima è attribuita a
+        Chardon de Croisilles in T 41 e C 209, <hi rend="italic">Rose ne lis ne me done talent</hi>
+        (RS 736 = MW 1209:15, 4 <hi rend="italic">coblas doblas</hi> di 8 vv. + 2 envois di 4 vv.) e
+        la seconda è <hi rend="italic">Par maintes fois ai chanté liement</hi> di Robert de la
+        Pierre (RS 696 = 1209:14, 5 <hi rend="italic">coblas unissonans</hi> di 8 vv. + 1 envoi di
+        5vv., unicum di a). A queste canzoni vanno aggiunti due <hi rend="italic">jeux</hi>-partis
+        del <hi rend="italic">Prince del Puy </hi>di Arras Jehan Bretel: <hi rend="italic">Adan,
+          mout fu Aristotes sachans</hi> (RS 277 = 1209:12) e <hi rend="italic">Jehan de Vergelai,
+          vostre escient</hi> (RS 669 = MW 1209:13). Infine, lo schema e la melodia si ritrovano
+        anche nella versione francesizzata del sirventese di tono cortese di Pistoleta, RS 641 <hi rend="italic">Quar eusse cent mil mars d'argent</hi>, trasmesso con due diverse versioni
+        melodiche in U 82 e O 125 (versione originale: <hi rend="italic">Ar agues eu mil marcs de
+          fin argen</hi>, BdT 372,3 = Frank 382:25, 5 <hi rend="italic">coblas unissonans</hi> di 8
+        vv., melodia ABAB CDEF). Rimanendo collegati alla tradizione occitana, sotto lo stesso
+        articolo Frank 382 (= MW 1209), è rintracciabile un altro testo localizzabile
+        cronologicamente entro il primo quarto del secolo XIII. Si tratta della tenzone di Raimbaut
+        de Vaqueiras e Conon de Bethune, <hi rend="italic">Seigner Coine, jois e pretz et amors</hi>
+        (BdT 392,29 = Frank 382:27, 4 <hi rend="italic">coblas unissonans</hi> di 8 vv.), risalente
+        al periodo della IV crociata (cfr. Paterson 2012). Riepilogando, <hi rend="italic">Por joie
+          avoir perfite en Paradis</hi> si presenta come una sorta di centone metrico-melodico
+        composto da tre schemi (MW 1144:3, 1209:16, 1163) i cui modelli sono identificabili
+        rispettivamente nella canzone di Gace Brulé (significativa l'attribuzione in a all'arrageois
+        Guillaume le Vinier, dovuta probabilmente alla sua ammirazione verso Gace dichiarata in RS
+        1859), nella tenzone di Conon de Bethune con Raimbaut de Vaqueiras, e nella canzone di
+        Andrieu Contredit. Queste tre configurazioni trovano riscontri in componimenti di un
+        consistente gruppo di poeti che gravitano attorno ad Arras e alla cerchia poetica arrageoise
+        nella prima metà del XIII secolo (Chastelain d'Arras, Chardon de Croisilles, Andrieu
+        Contredit, Robert de la Pierre, Jehan Bretel). Che la compresenza dei tre schemi nella
+        stessa canzone possa trattarsi di un caso di tentativo di aggiornamento dei modi esecutivi
+        consistente in un riassestamento della struttura proprio in <hi rend="italic">cauda </hi>(e
+        comunque le parole in rima presentano la medesima vocale tonica), cioè in una posizione
+        particolarmente sensibile alle variazioni melodiche, o piuttosto un semplice omaggio
+        formale, è difficile confermare. Segnalo inoltre che i testi che rappresentano il (triplice)
+        modello metrico-melodico di RS 1582, tranne Gace Brulé RS 787 (f. 98v), sono testimoniati in
+        U provvisti di notazione neumatica: il sirventese di Pistoleta BdT 372,3 (trasmesso anonimo
+        al f. 82r), la canzone di Chardon de Croisilles RS 736 (f. 58r) e la canzone del <hi rend="italic">Chastelain</hi> d'Arras RS 308 (f. 67r).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The first three lines of a blank four-line stave
+        are traced in red beneath the first line of the text, with space for musical notation in the
+        first stanza. The song was transcribed by the third hand at work in the ms. (ff. 110-168,
+        fasc. XXII) datable to the end of the 13<hi rend="superscript">th</hi> c. At the bottom of
+        f. 161v are two later additions (see Tyssens 1991, 387, and Tyssens 2007, 21-22). Bédier’s
+        emendations not accepted into the present edition are as follows: vv. 7 <hi rend="italic">je</hi> for <hi rend="italic">si</hi>; 11 eliminates <hi rend="italic">et</hi> and prints
+          <hi rend="italic">tante dousour</hi>; 17 <hi rend="italic">puet</hi> for <hi rend="italic">pui</hi>; 18 <hi rend="italic">ne ne l'en</hi> for <hi rend="italic">ne l’en neu</hi>; 19
+          <hi rend="italic">ke</hi> for <hi rend="italic">ki</hi>; 24 <hi rend="italic">l'avrai</hi>
+        for <hi rend="italic">l’aurei</hi>; 25 <hi rend="italic">ensi</hi> for <hi rend="italic">asi;</hi> 27 <hi rend="italic">siel</hi> for <hi rend="italic">sielz</hi>; 29 <hi rend="italic">poissance</hi> for <hi rend="italic">poussance</hi>; 41 <hi rend="italic">nest</hi> for <hi rend="italic">nast</hi>; 43 <hi rend="italic">revien</hi> for <hi rend="italic">revaig</hi>; 45 <hi rend="italic">entente</hi> for <hi rend="italic">antente</hi>; 48 <hi rend="italic">leament</hi> for <hi rend="italic">leamant</hi>.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Sono tracciati in rosso i primi tre righi del
+        tetragramma sotto il primo verso; lasciato spazio nella prima strofe per l'inserzione della
+        notazione. La canzone è stata trascritta dalla terza mano operante nel codice (ff. 110-168,
+        fasc. XXII) databile alla fine XIII secolo. In fondo al f. 161v si leggono due addizioni
+        posteriori (cfr. Tyssens 1991, 387, e Tyssens 2007, 21-22). Si segnalano di seguito gli
+        interventi al testo operati da Bédier e non accolti qui: vv. 7 <hi rend="italic">je</hi> per
+          <hi rend="italic">si</hi>; 11 elimina <hi rend="italic">et</hi> e pone a testo <hi rend="italic">tante dousour</hi>; 17 <hi rend="italic">puet</hi> per <hi rend="italic">pui</hi>; 18 <hi rend="italic">ne ne l'en</hi> per <hi rend="italic">ne l’en neu</hi>; 19
+          <hi rend="italic">ke</hi> per <hi rend="italic">ki</hi>; 24 <hi rend="italic">l'avrai</hi>
+        per <hi rend="italic">l’aurei</hi>; 25 <hi rend="italic">ensi</hi> per <hi rend="italic">asi;</hi> 27 <hi rend="italic">siel</hi> per <hi rend="italic">sielz</hi>; 29 <hi rend="italic">poissance</hi> per <hi rend="italic">poussance</hi>; 41 <hi rend="italic">nest</hi> per <hi rend="italic">nast</hi>; 43 <hi rend="italic">revien</hi> per <hi rend="italic">revaig</hi>; 45 <hi rend="italic">entente</hi> per <hi rend="italic">antente</hi>; 48 <hi rend="italic">leament</hi> per <hi rend="italic">leamant</hi>.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-12-10T17:35:41Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Anonymous</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="text" xml:id="rs.1582.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Por joie avoir perfite en Paradis </l>
+            <l n="2">m’estuet laisier le païs ke j’ain tant</l>
+            <l n="3">ou celle maint cui g'ey merci toz dis, </l>
+            <l n="4">a gent cors gay, a vis frès et plaisant.</l>
+            <l n="5">Et mes fins cuers dou tot a li s’otroie</l>
+            <l n="6">mais il covient ke li cors s’en retraie,</l>
+            <l n="7">si m’en irey lay ou Deus mort sofri</l>
+            <l n="8">por nos rëanbre a jor dou Vandredi.</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="9">Douce amie, g'ey acüet grant dolour</l>
+            <l n="10">kant me covient enfin de vos partir, </l>
+            <l n="11">ou g'ey troveit tant bien et tant dousour, </l>
+            <l n="12">joie et soulaz, dou tot a mon plaisir.</l>
+            <l n="13">Mais Fortune m’ait fait par sa puissance</l>
+            <l n="14">changier ma joie a duel et a pesance,</l>
+            <l n="15">c’avrey por vos mainte nuit et maint jor. </l>
+            <l n="16">Ensi irey servir mon Crïatour.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="17">Ne plus k’enfes, ne pui la fain sofrir</l>
+            <l n="18">ne l’en neu puet chastoier d’en plourer,</l>
+            <l n="19">ne croi ge pas ki me puisse tenir</l>
+            <l n="20">de vos, ke suel baisier et acolleir, </l>
+            <l n="21">ne ge n’ey pas en moy tant d’estenance!</l>
+            <l n="22">Cent fois la nuit remir vostre senblance:</l>
+            <l n="23">tant moy plaisoit vostre cors atenir!</l>
+            <l n="24">Kant ne l’avrei, si morray de desir.</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="25">Biaus sires Deus, asi con ge por vos</l>
+            <l n="26">lais le païs ou celle est cui j’ain si,</l>
+            <l n="27">vos nos doigniez en sielz joie a toz jors</l>
+            <l n="28">m’amie et moy per la vostre mercit!</l>
+            <l n="29">Et li doigniez de moy ameir poussance,</l>
+            <l n="30">ke ne m’oublit por longue demourance,</l>
+            <l n="31">ke je l’ain plus ke rien ki soit el mont,</l>
+            <l n="32">s’en ei pitié teil ke li cuers m’en font!</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="33">Belle Isabel, a cors Deu vos comant,</l>
+            <l n="34">ge ne puis plus avioc vos demorer:</l>
+            <l n="35">en paenime, a la gent mescreant,</l>
+            <l n="36">m’estuet ensi por l’amour Deu aleir. </l>
+            <l n="37">Por saveir m’airme i vois en bone entente, </l>
+            <l n="38">mais bien sachiez, amie belle et gente,</l>
+            <l n="39">se nus mourut por leament ameir,</l>
+            <l n="40">ne cuit vivre dresk’a havre de meir.</l>
+          </lg>
+          <lg n="6" type="stanza">
+            <l n="41">Car atresi con la flors nast de l’ante,</l>
+            <l n="42">nest li grans duelz de vos ki me tormante.</l>
+            <l n="43">Mais, s’en revaig, sour sains le puis jurer, </l>
+            <l n="44">ke c’iert por vos servir et honoreir.</l>
+            <l n="45">Ge chant d’amors leas ou j'ey m’antente,</l>
+            <l n="46">ne ge ne kier ke mes cuers s’en repente.</l>
+            <l n="47">Mais mon signor de Gisour veil mandeir</l>
+            <l n="48">ke c’est honours de leamant ameir.</l>
+          </lg>
+        </div><div type="text" xml:lang="en ">
+          <p>Anna Radaelli 2015</p>
+        </div><div type="text" xml:lang="it ">
+          <p>Anna Radaelli 2015</p>
+        </div></body><back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>Bédier 1909 declares on p. 283: ‘Nous ignorons l'auteur et la date de cette jolie
+          chanson’. Similarly Dijkstra 1995, p. 133, includes it (but without analysing it) among
+          her list of the nine <hi rend="italic">chansons de départie</hi> with male first-person
+          speaker, all assigned to the period 1189-1239, stressing (p. 149) the impossibility of
+          proposing a date of composition, and referring to the ‘auteur inconnu de la chanson
+          indatable’. However, on the basis of information provided by the metrical structure and
+          two onomastic indications: <hi rend="italic">Belle Isabel</hi> (v. 33) and <hi rend="italic">mon signor de Gisour</hi> (v. 47), it is possible at least to suggest a
+          hypothesis for the period within which the piece may have been composed.</p>
+        <p>Most telling is <hi rend="italic">mon signor de Gisour</hi> of v. 47. Gisors was one of
+          the major castellanies of the border region between the Norman and French Vexin. A
+          Plantagenet domain until the first decades of the 12<hi rend="superscript">th</hi> c., it
+          marked the frontier between the spheres of influence of the dukes of Normandy and the king
+          of France. After being under Capetian control during the middle of the century, the Norman
+          Vexin and Gisors became Angevin again after 1160 on the marriage of the Young King to
+          Margaret, sister of Philip Augustus. The situation remained unchanged until 1193, when,
+          during Richard’s imprisonment, Gilbert de Vascœuil, to whom the king had entrusted the
+          castellany of Gisors in 1191, handed the fortress over to the Capetian king without
+          striking a blow. The transfer was officially sanctioned in January 1196, by the treaty of
+          Gaillon. In reality the region around the Epte had been the centre of a power struggle
+          over many years, and from the beginning of his reign Philip Augustus had shown an
+          increasing determination to reassert royal authority over those regions, even if he had
+          renounced his hereditary claim to Gisors and the Norman Vexin in 1186 on the death of the
+          Young King. The situation was therefore in a state of continual tension which exploded
+          into open conflict in the first months of 1188: a clash symbolically resolved in August of
+          that year by Philip cutting down the famous elm, thus clearly demonstrating his desire to
+          conduct no further negotations with the Angevin (Baldwin 1989, pp. 25-26 and 77-78, Power
+          2004, pp. 388-412 and Diggelmann 2010). Despite this, from the late 12<hi rend="superscript">th</hi> c. a long tradition of meetings and negotiations between
+          Normans and French had been established in the Vexin’s mutual borders. In January 1188,
+          with the treaty of Gisors, Henry II, Philip Augustus and Philip I of Flanders had decided
+          to take the cross after hearing Joscius of Tyre’s impassioned account of the fall of
+          Jerusalem to Saladin. However, the textual and metrical references of RS 1582 lead us to
+          postulate a period following January 1188 or January 1196 for the identification of the
+          vaguely expressed <hi rend="italic">signor de Gisour</hi> in v. 47. In fact, under the
+          conditions of the treaty drawn up at Le Goulet in May 1200 between Philip Augustus and
+          John of England, it was envisaged that the castles of Gisors nd Neaufles (recently
+          returned to Angevin hands), would form part of the dowry which Blanche of Castile was
+          bringing to the future king Louis VIII. From the early 13th c., the <hi rend="italic">bailliage</hi> of Gisors thus included both the Norman and French castellanies in the
+          region of the Seine and Eure. From 1226, the year of the king’s death, Gisors remained
+          part of the queen’s dowry where, from the end of her regency in 1235, she stayed on many
+          occasions: 17th- and 18<hi rend="superscript">th</hi>-c. acts document an intervention of
+          hers in 1240 for the restoration of the church of Saint Gervais, illustrated at that time
+          in the stained-glass windows decorated with the arms of Castile. The same documents also
+          attest the Queen’s presence at Gisors in May 1249, on the occasion of the consecration of
+          the new shrine (Hamon 2008, pp. 145-147, n. 29-32). So if she were the <hi rend="italic">signor de Gisour</hi> in v. 47, our song could have been composed in the period
+          preceding the crusaders’ departure from Marseille in the ‘barons’ crusade’ of 1239.
+          Thibaut de Champagne, its leader, had been prevented from setting out for the Holy Land in
+          1230 (see for example Dijkstra 1995a, p. 119), but the preaching of the crusade began at
+          the end of 1234 and the trouvère took the cross in 1235. <hi rend="italic">Por joie avoir
+            perfite en Paradis</hi> would therefore be placed among the <hi rend="italic">chansons
+            de départie</hi> composed on the eve of departure, together with Thibaut de Champagne’s
+          RS 6, RS 757 and Chardon de Croisilles’ RS 1152 and RS 499 (it will be recalled that
+          stanzas I and IV of RS 1582 re-use the versification of RS 736 of the Arras trouvère).
+          Also among the members of Thibaut’s crusading <hi rend="italic">entourage </hi>was Andrieu
+          Contredit (who died in Arras in 1248, according to the <hi rend="italic">Registre de la
+            Confrérie des Jongleurs et des Bourgeois d'Arras</hi>), mentioned in royal documents of
+          1239 which attest his intention to go on crusade: <hi rend="italic">Andreas Contredit,
+            miles ministerellus, crucesignatus</hi> (see Vigneras 1934), but to whom no crusade song
+          is attributed. Among his compositions, however, we find a lyric <hi rend="italic">lai</hi>
+          on the death of <hi rend="italic">belle Isabelle</hi> (RS 81, <hi rend="italic">unicum</hi> of T 75v, <hi rend="italic">sine musica</hi>, rubric: <hi rend="italic">De
+            bel yzabel . Contredis</hi>), beginning <hi rend="italic">De belle Isabel ferai / un lai
+            ke je vos dirai</hi>. The striking correspondence with the apostrophe to <hi rend="italic">Belle Isabel</hi> in v. 33, together with the coincidence of the
+          versification of stanza V and the two <hi rend="italic">envois</hi> of RS 1582, together
+          with that of Andrieu’s song RS 1387b, indicated above, further support the hypothesis that
+            <hi rend="italic">Por joie avoir perfite en Paradis</hi> was composed between 1235 and
+          1239 in the milieu of the Arras poetic circle.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Per la questione della datazione e la provenienza dell'autore, Bédier 1909 dichiara a p.
+          283: «Nous ignorons l'auteur et la date de cette jolie chanson». Allo stesso modo Dijkstra
+          1995, p. 133, la inserisce (senza tuttavia analizzarla) tra le nove <hi rend="italic">chansons de départie</hi> a soggetto maschile da lei catalogate e ricondotte tutte al
+          periodo 1189-1239, sottolineando, a p. 149, l'impossibilità di proporre una datazione:
+          «L'auteur inconnu de la chanson indatable». Tuttavia, basandoci sulle informazioni fornite
+          dalla struttura metrica e anche su due indizi onomastici presenti nel testo: <hi rend="italic">Belle Isabel</hi> (v. 33) e <hi rend="italic">mon signor de Gisour</hi>
+          (v. 47), si potrebbe azzardare almeno l'ampiezza dell'arco cronologico della
+          composizione.</p>
+        <p>Tuttavia, basandoci sulle informazioni fornite dalla struttura metrica e anche su due
+          indizi onomastici presenti nel testo: <hi rend="italic">Belle Isabel</hi> (v. 33) e <hi rend="italic">mon signor de Gisour</hi> (v. 47), è possibile ricavare qualche dato utile
+          a circoscrivere l'arco cronologico della composizione tra il 1235 e il 1239. Innanzitutto
+          il riferimento a <hi rend="italic">mon signor de Gisour</hi> del v. 47. Gisors era una
+          delle castellanie maggiori nella regione di confine tra Vexin normanno e quello francese.
+          Dominio dei Plantageneti fin dalle prime decadi del XII secolo, segnava la frontiera tra
+          le aree di influenza dei duchi di Normandia e i re di Francia. Dopo essere stati capetingi
+          negli anni centrali del secolo, il Vexin normanno e Gisors erano tornati nuovamente
+          angioini dal 1160, col matrimonio del Re Giovane con Margherita, sorella di Filippo
+          Augusto. La situazione rimase tale fino al 1193, quando, durante la prigionia di Riccardo,
+          Gilbert de Vascœuil, a cui il re aveva affidato la castellania di Gisors nel 1191,
+          consegnò la fortezza al re capetingio senza colpo ferire. Il passaggio fu sancito
+          ufficialmente nel gennaio del 1196, col trattato di Gaillon. In realtà la regione intorno
+          all'Epte era stata al centro delle lotte di potere per molti anni, e Filippo Augusto fin
+          dall'inizio del suo regno aveva mostrato una crescente determinazione nel ristabilire
+          l'autorità regia su quelle regioni, pur avendo rinunciato a reclamare l'eredità su Gisors
+          e il Vexin normanno nel 1186, alla morte del Re Giovane. La situazione era dunque sotto
+          una tensione continua scoppiata in conflitto aperto nei primi mesi del 1188; scontro che
+          si risolse simbolicamente nell'agosto di quell'anno con il taglio dell'olmo da parte di
+          Filippo Augusto, che espresse manifestamente in questo modo la sua volontà di non condurre
+          ulteriori negoziati con l'angioino (cfr. Baldwin 1989, 25-26 e 77-78, Power 2004, 388-412
+          e Diggelmann 2010). Dal tardo XII secolo nei mutui confini del Vexin si era comunque
+          instaurata anche una lunga tradizione di incontri e negoziati tra i normanni e i francesi.
+          Proprio nel gennaio del 1188, col trattato di Gisors, Enrico II, Filippo Augusto e Filippo
+          I delle Fiandre avevano deciso di prendere la croce dopo aver sentito l'infervorato
+          resoconto di Joscius di Tiro sulla caduta di Gerusalemme in mano al Saladino. Tuttavia, i
+          riferimenti testuali e metrici di RS 1582 ci conducono a postulare un periodo successivo
+          al gennaio del 1188 o del 1196 per l'identificazione dell'imprecisato <hi rend="italic">signor de Gisour</hi> del v. 47. Infatti, nelle condizioni del trattato stipulato a Le
+          Goulet nel maggio del 1200 tra Filippo Augusto e Giovanni d'Inghilterra, si prevedeva che
+          i castelli di Gisors e Neaufles (tornati nuovamente in mano angoina), facessero parte
+          della dote che Bianca di Castiglia portava al futuro re Luigi VIII. Dai primi anni del
+          XIII secolo, il <hi rend="italic">bailliage</hi> di Gisors incluse così sia le castellanie
+          normanne che francesi nella regione della Senna e dell'Eure. Dal 1226, anno della morte
+          del re, Gisors resta nel <hi rend="italic">douaire</hi> della regina che, alla fine della
+          sua reggenza, dal 1235, vi avrebbe soggiornato a più riprese: atti del XVII e XVIII secolo
+          documentano un suo intervento nel 1240 per il restauro della chiesa di Saint-Gervais,
+          visibile allora nelle vetrate del coro decorate con le armi di Castiglia. Gli stessi
+          documenti attestano ancora la presenza della regina a Gisors nel maggio del 1249, in
+          occasione della consacrazione del nuovo santuario (Hamon 2008, 145-147, note 29-32). Se
+          dunque fosse lei il <hi rend="italic">signor de Gisour</hi> del v. 47, la nostra canzone
+          potrebbe essere stata composta nel periodo precedente la partenza dei crociati da
+          Marsiglia nella spedizione 'dei baroni' del 1239. Thibaut de Champagne, che ne era a capo,
+          si era impegnato una prima volta a partire per la Terra santa nel 1230 (si veda per
+          esempio Dijkstra 1995a, p. 119), ma la predicazione per la crociata ebbe inizio alla fine
+          del 1234 e il troviero prese la croce nel 1235. <hi rend="italic">Por joie avoir perfite
+            en Paradis</hi> troverebbe dunque posto tra le <hi rend="italic">chansons de
+            départie</hi> composte alla vigilia della partenza, insieme a RS 6, RS 757 e RS 1152 di
+          Thibaut de Champagne, e RS 499 di Chardon de Croisilles (ricordo che allo schema rimico di
+          RS 736 del trovatore artesiano si rifanno le str. I e IV di RS 1582). Tra i membri
+            dell'<hi rend="italic">entourage </hi>crociato di Thibaut andrebbe segnalato anche
+          Andrieu Contredit (morto ad Arras nel 1248 secondo il <hi rend="italic">Registre de la
+            Confrérie des Jongleurs et des Bourgeois d'Arras</hi>) di cui si possiedono
+          testimonianze provenienti da documenti regi del 1239 che attestano il suo impegno a
+          partire: <hi rend="italic">Andreas Contredit, miles ministerellus, crucesignatus</hi>
+          (cfr. Vigneras 1934), ma a cui non è attribuita alcuna canzone di crociata. Tra le sue
+          composizioni figura tuttavia un lai lirico in morte della <hi rend="italic">belle
+            Isabelle</hi> (RS 81, unicum di T 75v, <hi rend="italic">sine musica</hi>, rubrica: <hi rend="italic">De bel yzabel . Contredis</hi>), che inizia <hi rend="italic">De belle
+            Isabel ferai / un lai ke je vos dirai</hi>. La singolare corrispondenza con l'apostrofe
+          alla <hi rend="italic">Belle Isabel</hi> del v. 33, aggiunta alla coincidenza della
+          struttura rimica della strofa V e dei due invii di RS 1582 con quella della canzone di
+          Andrieu RS 1387b, indicata sopra, offre un ulteriore spunto per ipotizzare la composizione
+          di <hi rend="italic">Por joie avoir perfite en Paradis</hi> avvenuta nell'ambiente poetico
+          artesiano tra il 1235 e il 1239.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p corresp="#rs.1582.fro:(n=1)">Por joie avoir perfite en Paradis. The incipit seems to
+          respond to vv. 14-16 of Conon de Bethune RS 1125: Que la doit on faire chevalerie / u on
+          conquiert Paradis et honour / Et pris et los et l'amour de s'amie, and to vv. 1-4 of
+          Thibaut de Champagne RS 6: Seignor, sachiez, qui or ne s’an ira / en cele terre ou Diex fu
+          mors et vis / et qui la croiz d’outremer ne penra / a painnes mais ira en paradis. The
+          motif is also present in Thibaut de Champagne RS 1152, vv. 23-24 and the anonymous RS
+          1729, vv. 8-9: En guerredon paradis nos otroie / a toz jors mais por nostre salvement.</p>
+        <p corresp="#rs.1582.fro:(n=2)">m’estuet laisier le païs ke j’ain tant: compare v. 36
+          m’estuet ensi por l’amour Deu aleir. The expression m’estuet is typical of the openings to
+          chansons de départie, from the earliest RS 679 (v. 3) of the Châtelain de Coucy to RS
+          140,1 (v. 1) of the Châtelain d’Arras and, several times, RS 499 (vv. 3, 10, 22) of
+          Chardon de Croisilles.</p>
+        <p corresp="#rs.1582.fro[range(@n=5,@n=6)]">otroie : retraie: the rhyme -oie / -aie, here
+          within st. I, is also found in Gace Brulé’s song with coblas unissonans RS 787 Ne me sont
+          pas achoison de chanter (I-II -aie, III-IV -oie) which, as we have seen, is the metrical
+          model of stanzas II and III of RS 1582.</p>
+        <p>The motif of the separation of heart an body is found in other crusade songs of
+          separation, beginning with Conon de Béthune RS 1125 (vv. 7-8) but especially in the
+          Châtelain de Coucy’s RS 679 (vv. 23-24); it also occurs in Hugues de Berzé RS 1126 (vv.
+          49-50), Chardon de Croisilles RS 499 (vv. 5-8, 14-15, 21-24), the Châtelain d'Arras RS 140
+          (vv. 27-32), and the anonymous song <hi rend="italic">Novele amors s'est dedanz mon cuer
+            mise</hi> RS 1636 (vv. 33-35). Interestingly, the motif of the departure of the heart
+          and the lover’s departure (from the world) is also found in the lyric <hi rend="italic">lai</hi> on the death of <hi rend="italic">belle Isabelle</hi> (RS 81) by Andrieu
+          Contredit d'Arras in st. III, vv. 27-30: <hi rend="italic">Moult tost briefment / m'estuet
+            del mont partir. / Prochainement / me doit li cuers partir</hi>. </p>
+        <p>8. <hi rend="italic">a jor dou Vandredi</hi>: the allusion to Good Friday, the day of the
+          Redemption, is not widely attested, but among the few examples see the <hi rend="italic">chanson de Gormont et Isembart</hi>, vv. 641-644: <hi rend="italic">Aie! père Deu, dist
+            il, / qui enz en la seinte cruiz fus mis, / a vendresdi mort i soffri, / dunt tut tun
+            pople reinsis</hi> (Ghidoni 2013); and, as the day of the Passion, the <hi rend="italic">chanson pieuse Se chascuns cuers pensoit a la souffrance</hi> (RS 251bis, vv. 20-21):
+            <hi rend="italic">se beneoite chars, le vendredi, / a l’estake batue, tenre et
+            blanche</hi> (Järnström - Långfors 1927, II, 197). </p>
+        <p corresp="#rs.1582.fro:(n=9)">acüet: the presence of the auxiliary requires a form of past
+          participle (see AND s.v. agucer). Bédier prefers to print g'ey a cuer grant dolour
+          translating: ‘j'ai grand deuil au coeur’. </p>
+        <p corresp="#rs.1582.fro:(n=11)">tant dousour: tant correlative. Bédier emends, correcting
+          with the agreement tante dousour and eliminating the conjunction et. </p>
+        <p corresp="#rs.1582.fro:(n=12)">dou tot a mon plaisir: a motif typical of the chansons de
+          départie, in which the beloved lady is not inaccessible and distant like midons in courtly
+          love-songs but free and available to the crusader’s love.</p>
+        <p corresp="#rs.1582.fro:(n=13)">Mais Fortune m’ait fait par sa puissance / changier ma joie
+          a duel et a pesance. The motif of Fortune’s power to overturn the possession of worldly
+          goods goes back to the Consolatio Philosophiae of Boethius and in particular its diffusion
+          in Old French through the Roman de Philosophie (or La romaunce Dame Fortunee), an
+          Anglo-Norman free adaptation in heptasyllables, written between 1189 and 1200 by Simund de
+          Freine, a canon of Hereford; note here the similarity with certain lines of the long
+          complaint of the clerc (Ostez fort de fortune / Dunk verrez ke fort est une, 59-69, ed.
+          Matzke 1909): Matin dune e tout le seir, / Après joie fet doleir (105-106), continuing: De
+          Fortune est ensement: / Primes done e pus reprent. / Hom plus crere ne la puet / Ke fevrer
+          ki vente e pluet. / Primes dune granz honurs, / Pus après suspirs e plurs (121-126). It is
+          worth noting, however, that the first translation into French prose of the Consolatio
+          Philosophiae would be compatible with the dating we have proposed for RS 1585, namely the
+          anonymous Burgundian version Li confortement de Sapience (ms. Wien, Österreichische
+          Nationalbibliothek, 2642) completed in c. 1230, whereas the Walloon and Lorraine versions
+          of the Boesces de Consolation are later (first half of the 14th c.) (see Cropp 1997).</p>
+        <p corresp="#rs.1582.fro:(n=17)">pui : the asygmatic form of the 1st ps. sg. is also
+          attestated in Gace Brulé RS 414, v. 7: ‘et ce que ne li pui celer’ (see Petersen Dyggve
+          1951, p. 240). Bédier prefers to correct with the form of the 3rd ps. sg. puet.</p>
+        <p corresp="#rs.1582.fro:(n=19)">ne l'en neu: Bédier emends the conjunction correcting to ne
+          ne l'en. </p>
+        <p corresp="#rs.1582.fro:(n=20)">acolleir: note the series of correspondences in rhyme -er :
+          -eir (also 36 aleir, 39 ameir, 40 meir, 44 honoreir, 47 mandeir, 48 ameir) which underline
+          the north-eastern linguistic overtones of the text (the diphthongisation in ei is typical
+          of the north-east regions, especially in the second half of the XIIth c., and of the north
+          west in the late XIIIth c., see Pope 1956, § iv and § 232, p. 107).</p>
+        <p corresp="#rs.1582.fro:(n=21)">estenance: cfr. TL I, 611 s.v. astenance: ‘Enthaltung von
+          Feindseligkeiten’.</p>
+        <p corresp="#rs.1582.fro:(n=23)">vostre: the ms. reads vos at the end of the line, but the
+          trimmed page and the faded ink conceal a probable vostre, restored by Bédier.</p>
+        <p><hi rend="italic">atenir:</hi> Bédier prints <hi rend="italic">vostre cors a tenir</hi>,
+          translating: ‘tenir votre corps dans mes bras!’. </p>
+        <p corresp="#rs.1582.fro:(n=30)">ke ne m’oublit por longue demourance. The fear that the
+          lady is forgetting the lover because of the long absence is also found in Thibaut de
+          Champagne RS 1596 (v. 49) and Chardon de Croisilles RS 499 (vv. 34 and note, and 43).
+           </p>
+        <p corresp="#rs.1582.fro:(n=33)">Belle Isabel: apart from this example and that of the lyric
+          lai on the death of belle Isabelle by Andrieu Contredit d'Arras (RS 81), mentioned above,
+          there are few cases in which a belle Isabelle is named. These are all from minor genres
+          with a strong musical component and containing the sobriquet in the incipit: two chansons
+          de malmariée, the anonymous An halte tour se siet belle Yzabel (RS 586, also an unicum in
+          U sine musica) and the chanson d'histoire of Audefroi le Bastard Bele Ysabiauz, pucele
+          bien aprise (RS 1616, for which mss. MT transmit the melody). Finally there is also the
+          refrain of the virelai Bele Izabelos m'at mort, belle Izabelos (Linker 265,663) which is
+          also tenor in a 14th-c. motet (see Tischler 1978, n. 256). </p>
+        <p><hi rend="italic">cors Deu</hi>: there are nine other OF attestations of the phrase <hi rend="italic">cors Deu</hi>, understood as <hi rend="italic">Corpus Christi</hi>, the
+          symbol of the Eucharest. The examples are found in certain <hi rend="italic">chansons
+            pieuses</hi>, such as Thibaut de Champagne’s song to the Virgin RS 1181 (Wallensköld
+          1925, p. 199), vv. 21-22: <hi rend="italic">c’est li cors Dieu, qui touz nos doit jugier,
+            / que la Dame dedenz son cors porta</hi>; or else in more ‘popularising’ genres such as
+          Colin Pansace de Canbrai’s pastorella, <hi rend="italic">L'autrier par une sentelle</hi>
+          (RS 617), v. 31: <hi rend="italic">a vrai cors Deu vos comant</hi> (see Bartsch 1870a, p.
+          314, n. 50).</p>
+        <p corresp="#rs.1582.fro:(n=39)">se nus mourut por leament ameir. For the motif of dying for
+          love in the chansons de départie, see the Châtelain de Coucy RS 679, v. 7: s’ainc nus
+          morut por avoir cuer dolent, and Hugues de Berzé RS 1126 (vv. 1-2). </p>
+        <p corresp="#rs.1582.fro:(n=40)">havre de meir: compare FEW XVI, 186b s.v. havene and TLFi
+          s.v. havre, ‘port de mer’, which gives the earliest attestation as c. 1165 in the Roman de
+          Troie of Benoît de Sainte-Maure, vv. 983-984: El havre de Simoënta / Sai bien que la nef
+          ariva. </p>
+        <p corresp="#rs.1582.fro[range(@n=43,@n=44)]">The final couplet, no doubt inauthentic, is
+          very similar to the lines transmitted solely by ms. U 19v as an envoi to RS 679 by the
+          Châtelain de Coucy, 49-52: De moie part di, chançons, si t’en croie,/ que sols m’en vois,
+          que n’ai altre seignor; / et bien sachiez, dame de grant valor, / se je revieng, que por
+          vos servir nais. The quatrain is taken up, with emphasis on the crusade, in a quotation of
+          the the late 13th-c. Roman du Châtelain de Coucy et de la Dame de Fayel, ed.
+          Gaullier-Bougassas 2009, vv. 7395-7398: Nus n’a pité. Va, cançons, si t’en croie / Que je
+          m’en vois siervir Nostre Seignour; / Si saciés bien, dame de grant valour, / Se je
+          revieng, que pour vous siervir vais. The presence in both versions of the formula Se je
+          revieng may have induced Bédier to correct U’s reading of v. 43 in RS 1582, s’en revaig,
+          to s’en revien.</p>
+        <p>44. Bédier reads <hi rend="italic">vos seul servir</hi>.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p corresp="#rs.1582.fro:(n=1)">Por joie avoir perfite en Paradis. L'incipit pare rispondere
+          ai vv. 14-16 di Conon de Bethune RS 1125: Que la doit on faire chevalerie / u on conquiert
+          Paradis et honour / Et pris et los et l'amour de s'amie, e ai vv. 1-4 di Thibaut de
+          Champagne RS 6: Seignor, sachiez, qui or ne s’an ira / en cele terre ou Diex fu mors et
+          vis / et qui la croiz d’outremer ne penra / a painnes mais ira en paradis. Il motivo è
+          presente ancora in Thibaut de Champagne RS 1152, ai vv. 23-24 e nell'anonima RS 1729, vv.
+          8-9: En guerredon paradis nos otroie / a toz jors mais por nostre salvement.</p>
+        <p corresp="#rs.1582.fro:(n=2)">m’estuet laisier le païs ke j’ain tant: si veda anche al v.
+          36 m’estuet ensi por l’amour Deu aleir. Il sintagma m’estuet è tipico degli esordi delle
+          chansons de départie, si trova infatti sin dalla più antica dello Châtelain de Coucy RS
+          679 (v. 3), nello Châtelain d’Arras RS 140,1 (v. 1), e a più riprese in Chardon de
+          Croisilles RS 499 (vv. 3, 10, 22).</p>
+        <p corresp="#rs.1582.fro[range(@n=5,@n=6)]">otroie : retraie: la corrispondenza in rima -oie
+          / -aie, che qui è all'interno della str. I, si incontra anche nella canzone a coblas
+          unissonans di Gace Brulé RS 787 Ne me sont pas achoison de chanter (I-II -aie, III-IV
+          -oie) che, come abbiamo visto, è modello metrico delle str. II e III di RS 1582.</p>
+        <p>Il motivo della separazione cuore-corpo, si ritrova in altre canzoni di allontanamento
+          del crociato, a cominciare da Conon de Béthune RS 1125 (vv. 7-8) ma specialmente nello <hi rend="italic">Châtelain</hi> de Coucy RS 679 (vv. 23-24); si trova inoltre in Hugues de
+          Berzé RS 1126 (vv. 49-50), in Chardon de Croisilles RS 499 (vv. 5-8, 14-15, 21-24), nello
+            <hi rend="italic">châtelain</hi> d'Arras RS 140 (vv. 27-32), e infine nell'anonima
+          canzone <hi rend="italic">Novele amors s'est dedanz mon cuer mise</hi> RS 1636 (vv.
+          33-35). Interessante notare che il motivo della separazione del cuore e l'allontanamento
+          (dal mondo) si trova anche nel lai lirico in morte della <hi rend="italic">belle
+            Isabelle</hi> (RS 81) di Andrieu Contredit d'Arras nella str. III, vv. 27-30: <hi rend="italic">Moult tost briefment / m'estuet del mont partir. / Prochainement / me doit
+            li cuers partir</hi>. </p>
+        <p corresp="#rs.1582.fro:(n=8)">a jor dou Vandredi: il riferimento al Venerdì santo, giorno
+          della Redenzione, non ha attestazioni diffuse, si veda tra i pochi esempi la chanson de
+          Gormund et Isembart, vv. 641-644:</p>
+        <p><hi rend="italic">Aïe! Pere Deu, dist il, / qui enz en ‹la› seinte cruiz fus mis, / a
+            vendresdi mort i soffri‹s›, / dunt tut tun pople reïnsis</hi> (cfr. Ghidoni 2013) e,
+          come giorno della Passione, nella <hi rend="italic">chanson pieuse Se chascuns cuers
+            pensoit a la souffrance</hi> (RS 251bis) ai vv. 20-21: <hi rend="italic">se beneoite
+            chars, le vendredi, / a l’estake batue, tenre et blanche</hi> (cfr. Järnström - Långfors
+          1927, II, 197).</p>
+        <p corresp="#rs.1582.fro:(n=9)">acüet: la presenza dell'ausiliare richiede una forma di
+          part. passato (cfr. AND s.v. agucer). Bédier preferisce mettere a testo g'ey a cuer grant
+          dolour traducendo: «j'ai grand deuil au coeur». </p>
+        <p corresp="#rs.1582.fro:(n=11)">tant dousour: tant correlativo. Bédier interviene
+          correggendo con la concordanza tante dousour e eliminando la congiunzione et. </p>
+        <p corresp="#rs.1582.fro:(n=12)">dou tot a mon plaisir: tipico motivo delle chansons de
+          départie, in cui la dama amata non è inaccessibile e lontana come midons nelle canzoni
+          cortesi ma libera e disponibile all'amore del crociato.</p>
+        <p corresp="#rs.1582.fro[range(@n=13,@n=14)]">Mais Fortune m’ait fait par sa puissance /
+          changier ma joie a duel et a pesance. Sul motivo del potere di Fortuna nel capovolgimento
+          dei beni temporali, il richiamo va alla Consolatio Philosophiae di Boezio e in particolar
+          modo alla sua diffusione in lingua d'oïl a partire dal Roman de Philosophie (o La romaunce
+          Dame Fortunee), libero adattamento anglonormanno in eptasillabi, scritto tra il 1189 e il
+          1200 da Simund de Freine, canonico di Hereford; si nota infatti qui l'analogia con alcuni
+          versi della lunga querela del clerc (Ostez fort de fortune / Dunk verrez ke fort est une,
+          59-69, ed. Matzke 1909): Matin dune e tout le seir, / Après joie fet doleir (105-106),
+          continuando: De Fortune est ensement: / Primes done e pus reprent. / Hom plus crere ne la
+          puet / Ke fevrer ki vente e pluet. / Primes dune granz honurs, / Pus après suspirs e plurs
+          (121-126). Segnalo tuttavia che anche la prima traduzione in prosa francese della
+          Consolatio Philosophiae, sarebbe compatibile con la datazione che abbiamo proposto per RS
+          1585; si tratta della versione anonima borgognona Li confortement de Sapience (ms. Wien,
+          Österreichische Nationalbibliothek, 2642) finita intorno al 1230, mentre sono successive
+          (prima metà del XIV secolo) sia la versione vallone che quella lorenese del Boesces de
+          Consolation (cfr. Cropp 1997).</p>
+        <p corresp="#rs.1582.fro:(n=17)">pui : la forma asigmatica della 1a ps. sg. è attestata
+          anche in Gace Brulé RS 414, v. 7: et ce que ne li pui celer (cfr. Petersen Dyggve 1951, p.
+          240). Bédier preferisce correggere con la forma della 3a ps. sg. puet.</p>
+        <p corresp="#rs.1582.fro:(n=18)">ne l'en neu: Bédier interviene sulla forma congiuntiva
+          correggendo in ne ne l'en.</p>
+        <p corresp="#rs.1582.fro:(n=20)">acolleir: si noti la serie di corrispondenze in rima -er :
+          -eir (anche 36 aleir, 39 ameir, 40 meir, 44 honoreir, 47 mandeir, 48 ameir) che
+          sottolineano la patina linguistica nordorientale del testo (il dittongamento in ei è
+          tipico delle regioni nord-orientali, soprattutto nella seconda metà del XII, e del
+          Nord-Ovest nel tardo XIII, cfr. Pope 1956, § iv e § 232, p. 107).</p>
+        <p corresp="#rs.1582.fro:(n=21)">estenance: cfr. TL 1,611 s.v. astenance: «Enthaltung von
+          Feindseligkeiten».</p>
+        <p>23. <hi rend="italic">vostre:</hi> nel ms. si legge <hi rend="italic">vos </hi>a fine
+          rigo, ma la pagina rifilata e l'inchiostro sbiadito nascondono un probabile <hi rend="italic">vostre</hi>, che è stato ripristinato da Bédier.</p>
+        <p><hi rend="italic">atenir:</hi> Bédier pone a testo <hi rend="italic">vostre cors a
+            tenir</hi>.</p>
+        <p corresp="#rs.1582.fro:(n=30)">ke ne m’oublit por longue demourance. La paura che la dama
+          si dimentichi dell'amante per la lunga assenza, si trova anche in Thibaut de Champagne RS
+          1596 (v. 49) e Chardon de Croisilles RS 499 (vv. 34 e nota, e 43).  33. Belle
+          Isabel: oltre a questo esempio e al lai lirico in morte della belle Isabelle di Andrieu
+          Contredit d'Arras (RS 81), di cui si è detto sopra, sono pochi i casi in cui è nominata
+          una belle Isabelle, e tutti riconducibili a generi minori a forte componente musicale che
+          presentano l'appellativo nell'incipit; sono due canzoni di malmaritata, l'anonima An halte
+          tour se siet belle Yzabel (RS 586, anch'essa unicum di U sine musica) e la chanson
+          d'histoire di Audefroi le Bastard Bele Ysabiauz, pucele bien aprise (RS 1616, di cui i
+          mss. MT trasmettono la melodia). Per ultimo, va ricordato il refrain del virelai Bele
+          Izabelos m'at mort, belle Izabelos (Linker 265,663) che è anche tenor di un mottetto del
+          XIV s. (cfr. Tischler 1978, n. 256). </p>
+        <p><hi rend="italic">cors Deu</hi>: oltre a questa abbiamo altre nove attestazioni oitaniche
+          del sintagma <hi rend="italic">cors Deu</hi>, inteso come <hi rend="italic">Corpus
+            Christi</hi>, simbolo dell'Eucarestia. Le testimonianze si raccolgono in alcune <hi rend="italic">chansons pieuses</hi>, come la canzone alla Vergine di Thibaut de
+          Champagne RS 1181 (cfr. Wallensköld 1925, 199), vv. 21-22: <hi rend="italic">c’est li cors
+            Dieu, qui touz nos doit jugier, / que la Dame dedenz son cors porta</hi>; oppure in
+          generi più 'popolareggianti' come la pastorella di Colin Pansace de Canbrai, <hi rend="italic">L'autrier par une sentelle</hi> (RS 617), v. 31: <hi rend="italic">a vrai
+            cors Deu vos comant</hi> (cfr. Bartsch 1870a, p. 314, n. 50).</p>
+        <p corresp="#rs.1582.fro:(n=39)">se nus mourut por leament ameir. Sul motivo della morte per
+          amore nelle chansons de départie, si vedano il Châtelain de Coucy RS 679, v. 7: s’ainc nus
+          morut por avoir cuer dolent, e Hugues de Berzé RS 1126 (vv. 1-2). </p>
+        <p corresp="#rs.1582.fro:(n=40)">havre de meir: cfr. FEW XVI, 186b s.v. havene e TLFi s.v.
+          havre, "port de mer", che fa risalire la prima attestazione a ca 1165 col Roman de Troie
+          di Benoît de Sainte-Maure, vv. 983-984: El havre de Simoënta / Sai bien que la nef ariva. </p>
+        <p corresp="#rs.1582.fro[range(@n=43,@n=44)]">Il distico finale è molto simile ai versi
+          trasmessi dal solo ms U 19v come invio di RS 679 del Châtelain de Coucy, 49-52, da
+          considerare non autentici: De moie part di, chançons, si t’en croie,/ que sols m’en vois,
+          que n’ai altre seignor; / et bien sachiez, dame de grant valor, / se je revieng, que por
+          vos servir nais. La quartina è ripresa, con insistenza sulla crociata, in una citazione
+          del Romanzo du Châtelain de Coucy et de la Dame de Fayel della fine del XIII s, ai vv.
+          7395-7398: Nus n’a pité. Va, cançons, si t’en croie / Que je m’en vois siervir Nostre
+          Seignour; / Si saciés bien, dame de grant valour, / Se je revieng, que pour vous siervir
+          vais. La presenza in entrambe le versioni, della formula Se je revieng, può forse aver
+          indotto Bédier a correggere in RS 1582 la lezione di U del v. 43 s’en revaig in s’en
+          revien.</p>
+        <p corresp="#rs.1582.fro:(n=44)">Bédier legge vos seul servir.</p>
+      </div>
+    </back></text></TEI>

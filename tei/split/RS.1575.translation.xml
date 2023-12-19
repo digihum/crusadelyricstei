@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-10-21</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Michel 1830, p. 124; Tarbé 1850, p. 135; Huet 1912, p. 46; Vaillant 1913,<hi rend="exldetailsdisplayval"> </hi>p. 84; Lerond 1964, p. 173; Raugei 1981, p.
+            175.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Zarifopol 1904, <hi rend="a-size-large">50;</hi> Bédier-Aubry 1909, 295; Lepage
+            1981, 119.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: <hi rend="bold">(10).</hi> C 223v-224r (<hi rend="italic">li chastelain de cousi</hi>), K pp. 61-62 (<hi rend="italic">Gaces brullez</hi>), L
+            50v (anon), M 95r <hi rend="italic">Me sire gautiers</hi>), N 19v-20r (<hi rend="italic">Gaces Brullez</hi>), P 5r-v (<hi rend="italic">Me sire Gace brulez</hi>), R 48r-49r
+              (<hi rend="italic">Le chastelain de cousy</hi>), T 146r (<hi rend="italic">Me sire
+              Gautiers et lautre deuant</hi>), V 30v-31r (anon), X 48r-v (<hi rend="italic">Gaces
+              brulez</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: a 121v-122r (<hi rend="italic">maistre
+            ricars</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10ab’ab’b’aab’b’ (MW 870,9 =
+        Frank 297); 5 <hi rend="italic">coblas unissonans</hi>, the last of which only contains the
+        first 5 lines; rhyme a = <hi rend="italic">-is</hi>, rhyme b = <hi rend="italic">-oie</hi>;
+        identical rhymes <hi rend="italic">ris</hi> (7 &amp; 33), <hi rend="italic">croie</hi> (5
+        &amp; 8), <hi rend="italic">soloie</hi> (22 &amp; 29); homonymous rhymes <hi rend="italic">vis</hi> &lt; lat. <hi rend="italic">vivus </hi>(16) : <hi rend="italic">vis </hi>&lt;
+        lat. <hi rend="italic">visum</hi> (28), in rich rhyme with <hi rend="italic">servis</hi>
+        (3): <hi rend="italic">devis</hi> (15); <hi rend="italic">mis</hi> past part. sg. (21): <hi rend="italic">mis</hi> past part. pl. (39), these in turn in rich rhyme with <hi rend="italic">amis</hi> (10) : <hi rend="italic">anemis</hi> (37); derivative rhymes <hi rend="italic">voie</hi> (4) : <hi rend="italic">desvoie</hi> (35), <hi rend="italic">entrepris </hi>(12) :<hi rend="italic"> pris</hi> (30) in turn in rich rhyme with <hi rend="italic">ris</hi> (7 &amp; 33) : <hi rend="italic">peris</hi> (19); leonine rhymes
+          <hi rend="italic">païz</hi> (1) : <hi rend="italic">esbahiz</hi> (6), <hi rend="italic">soloie</hi> (22 &amp; 29) : <hi rend="italic">foloie</hi> (41); etymological figure <hi rend="italic">devroie</hi> (18) : <hi rend="italic">devoie</hi> (36). The melody is
+        preserved in all mss. bar C where, as usual, the stave is left blank. The melodic structure
+        was transcribed by Spanke on the basis of M is ABAB CDD’A’E, but the melody varies in
+        different mss. (T 910).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10ab’ab’b’aab’b’ (MW 870,9 =
+        Frank 297); 5 <hi rend="italic">coblas unissonans</hi>, l’ultima delle quali conserva solo i
+        primi cinque versi; rima a = <hi rend="italic">-is</hi>, rima b = <hi rend="italic">-oie</hi>; rime identiche <hi rend="italic">ris</hi> (7 e 33), <hi rend="italic">croie</hi> (5 e 8), <hi rend="italic">soloie</hi> (22 e 29); rime equivoche <hi rend="italic">vis</hi> &lt; lat. <hi rend="italic">vivus </hi>(16) : <hi rend="italic">vis
+        </hi>&lt; lat. <hi rend="italic">visum</hi> (28), in rima ricca con <hi rend="italic">servis</hi> (3): <hi rend="italic">devis</hi> (15); <hi rend="italic">mis</hi> participio
+        passato singolare (21): <hi rend="italic">mis</hi> participio passato plurale (39),
+        anch’essa in rima ricca con <hi rend="italic">amis</hi> (10) : <hi rend="italic">anemis</hi>
+        (37); rime derivative <hi rend="italic">voie</hi> (4) : <hi rend="italic">desvoie</hi> (35),
+          <hi rend="italic">entrepris </hi>(12) :<hi rend="italic"> pris</hi> (30) anch’esse in rima
+        ricca con <hi rend="italic">ris</hi> (7 e 33) : <hi rend="italic">peris</hi> (19); rime
+        leonine <hi rend="italic">païz</hi> (1) : <hi rend="italic">esbahiz</hi> (6), <hi rend="italic">soloie</hi> (22 e 29) : <hi rend="italic">foloie</hi> (41); figura
+        etimologica <hi rend="italic">devroie</hi> (18) : <hi rend="italic">devoie</hi> (36). La
+        melodia è conservata da tutti i manoscritti tranne C dove, come di consueto, il tetragramma
+        è vuoto. La struttura melodica, trascritta da Spanke sulla base di M, è ABAB CDD’A’E, ma la
+        melodia varia nei diversi manoscritti (T 910).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>See Raugei’s analysis and proposed stemma on pp.
+        348-350. Her edition appears eclectic.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Si veda l’analisi di Raugei e lo stemma proposto
+        alle pp. 348-350. L’edizione presenta un carattere ibrido.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-21T15:22:22Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Gautier de Dargies</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1575.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>If I have been away for a long time from the land where I left the creature I loved
+              the most, I have been presented with many troubles and escaped from a perillous path;
+              but I do want to say something that people may believe: I have been sad and fearful
+              and constantly without pleasure or laughter; and, God have mercy, where might joy come
+              to me when I cannot see my sweet love in it?</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>I have always been a faithful lover to her and will be evermore so wherever I may be,
+              and shall do what I have undertaken concerning this love which so strongly masters me;
+              I should be mad if I abandoned it/her now; always I have been at her disposal and
+              shall ever be so as long as I am alive, and rightfully, if I now failed her, I ought
+              to lose [the benefit of] whatever I have done.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>No service will ever be wasted for a true lover who directs it to a sweet place, but
+              mine is in the lap of fortune, for I am so afraid of the one I have been used to
+              loving: tall, graceful, lovely, blond, her breasts high and firm, her throat whiter
+              than snow or lily; she never fails to be affable and discreet, but she has a
+              treacherous heart which fills me with trepidation.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>I much lament when I think of the noble face, the fair expression I used to find in
+              her, for she behaved towards me in such a way as to capture me entirely; [but] through
+              triple and manifold treachery she did something of which I would not dare to speak:
+              when she looked on me, she smiled, and then I seemed to be in heaven. The more I serve
+              her, truly, the more I veer away from the reward I ought to have.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>I know in truth that I have enemies, false and treacherous – I greatly fear she
+              believes them –, who by lying have so pressed themselves forward that they distance me
+              from what I should like to have: either I am telling the truth or the faithful lady is
+              committing folly.</p>
+          </div>
+        </div><div type="translation" xml:id="rs.1575.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Se sono stato a lungo lontano dal paese dove ho lasciato la creatura che amavo di
+              più, sono stato ripagato con molti patimenti e sono scampato a un viaggio pericoloso;
+              ma voglio dire una cosa che la gente possa credere: sono stato triste e turbato e
+              costantemente senza piacere o allegria; ma, Dio abbia pietà, come poteva la gioia
+              venire a me dal momento che non potevo vedere il mio dolce amore?</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Sono sempre stato un amante fedele e sempre lo sarò, ovunque io sia, e farò quello
+              per cui mi sono impegnato riguardo a questo amore che così fortemente mi domina; sarei
+              pazzo se l’abbandonassi adesso; sono sempre stato a sua disposizione e lo sarò sempre
+              finché vivo, e giustamente, se rinunciassi ora, perderei [il beneficio di] tutto ciò
+              che ho fatto.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Nessun servizio sarà mai sprecato per un vero amante che lo offre a una dolce
+              creatura, ma il mio rischia di esserlo, perché ho molta paura di colei che ero solito
+              amare: alta, aggraziata, bella, bionda, i seni alti e sodi, il collo più bianco della
+              neve o di un giglio; senza dubbio lei è affabile e gentile, ma ha un cuore infido, che
+              mi spaventa molto.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Soffro molto se penso al nobile volto, al bell’aspetto che ero solito trovare in lei,
+              perché si è comportata con me in modo tale da conquistarmi completamente; [ma] con
+              vari e ripetuti inganni mi ha fatto qualcosa di cui non oserei parlare: quando mi
+              guardava, mi sorrideva, e mi sembrava di essere in paradiso. Quanto più la servo,
+              tanto più in verità mi allontano dalla ricompensa che avrei dovuto ottenere.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>So in verità di avere nemici, falsi e traditori – e temo molto che lei si fidi di
+              loro -, che con le loro menzogne si sono spinti a un punto tale che mi allontanano da
+              ciò che vorrei avere: o ciò che dico è vero oppure la (mia) donna fedele è
+              impazzita.</p>
+          </div>
+        </div></body></text></TEI>

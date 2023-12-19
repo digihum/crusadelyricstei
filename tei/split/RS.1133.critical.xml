@@ -1,0 +1,302 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Tomaz Erjavec</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2014-03-17</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <listBibl type="manuscripts">
+                    <head>Mss. (5).</head>
+                <bibl>Baltimore, Walters Art Museum, W.142 (B), 310d-311a;</bibl>
+                <bibl>Paris, BnF, fr. 9083 (P1), 316cd; </bibl>
+                <bibl>Paris, BnF, fr. 22495 (P2), 283v;</bibl>
+                <bibl>Paris, BnF, fr. 24209 (P3), 320cd; </bibl>
+                <bibl>Torino, Biblioteca nazionale universitaria, L.I.5 (T),
+                    491cd.</bibl>
+                </listBibl>
+                <listBibl type="previous_editions">
+
+                    <bibl><hi rend="italic">Histoire littéraire de la France</hi>, XXIII, 675;
+                    </bibl>  
+
+                <bibl><hi rend="italic">Continuation Rothelin</hi>, 548;</bibl>
+                <bibl>Bédier-Aubry 1909, 217; </bibl>
+                    <bibl>Dufournet 1989, 188; </bibl>
+                        <bibl>Guida 1992, 115; </bibl>
+                            <bibl>Dijkstra 1995a, 209.</bibl>
+                                <bibl>Versification and music. </bibl>
+    
+                </listBibl>
+            <listBibl type="essential_bibliography">
+                    <bibl><hi rend="underline">Bédier 1928</hi>: Joseph Bédier, «Les chansons du
+                        comte de Bretagne», in <hi rend="italic">Mélanges de linguistique et de
+                            littérature offerts à Alfred Jeanroy par ses élèves et ses amis</hi>,
+                        Paris, Champion, 1928, pp. 477-495.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Cazel 1989</hi>: Fred A. Cazel, Jr.,
+                    «Financing the Crusades», in <hi rend="italic">A History of the Crusades</hi>,
+                    general editor Kenneth M. Setton, vol. VI, Madison, The University of Wisconsin
+                    Press, 1989, pp. 116-149</bibl>
+                <bibl rend="Bibliography"><hi rend="underline"><pb type="soft"/>Edbury 2007</hi>: Peter
+                    Edbury, «The French Translation of William of Tyre’s <hi rend="italic">Historia</hi>: the Manuscript Tradition», <hi rend="italic">Crusades</hi>,
+                    6, 2007, pp. 69-105.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Grossel 2000</hi>: Marie-Geneviève
+                    Grossel, «Les Champenois et l’appel de l’outremer au XIII<hi rend="superscript">e</hi> siècle», in <hi rend="italic">Mémoire de Champagne</hi>, <hi rend="italic">Actes du troisième mois médiéval, Centre d’études médiévales
+                        de la région Champagne-Ardenne</hi>, II, Langres, Guéniot, 2000, pp.
+                    105-131.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Guida 2006</hi>: Saverio Guida,
+                    «L’autore e il latore di <hi rend="italic">Vai, Hugonet, ses bistensa</hi> (BdT
+                    461,247)», <hi rend="italic">Cultura neolatina</hi>, 66, 2006, pp. 45-82.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Jackson 1987</hi>: Peter Jackson, «The
+                    crusades of 1239-41 and their aftermath», <hi rend="italic">Bulletin of the
+                        School of Oriental and african Studies</hi>, 50, 1987, pp. 32-60.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Köhler 2000</hi>: Erich Köhler,
+                    L’avventura cavalleresca, ideale e realtà nei romanzi della Tavola Rotonda,
+                    Bologna, Il Mulino, 2000</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Lower 2005</hi>: Michael Lower, <hi rend="italic">The Baron’s Crusade: a call to arms and its consequences</hi>,
+                    Philadelphia, University of Pennsylvania Press, 2005.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Marshall 1980</hi>: John H. Marshall,
+                    «Pour l’étude des <hi rend="italic">contrafacta</hi> dans la poésie des
+                    troubadours», <hi rend="italic">Romania</hi>, 101, 1980, pp. 289-335.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Morgan 1982</hi>: Margaret R. Morgan,
+                    «The Rothelin Continuation of William of Tyre», in <hi rend="italic">Outremer.
+                        Studies in the history of the Crusading Kingdom of Jerusalem presented to
+                        Joshua Prawer</hi>, edited by Benjamin Z. Kedar, Hans E. Mayer, Raymond C.
+                    Smail, Jerusalem, Yad Izhak Ben-Zvi Institute, 1982, pp. 244-257.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Painter 1989</hi>: Sidney Painter, «The
+                    Crusade of Theobald of Champagne and Richard of Cornwall, 1239-1241», in <hi rend="italic">A History of the Crusades</hi> (Editor in Chief, Kenneth Meyer
+                    Setton), II, <hi rend="italic">The Later Crusades, 1189-1311</hi>, Edited by R.
+                    L. Wolff and Harry W. Hazard, Madison, University of Wisconsin Press, 1989, pp.
+                    463-487.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Petersen Dyggve 1938</hi>: Holger
+                    Petersen Dyggve, <hi rend="italic">Moniot d’Arras et Moniot de Paris, trouvères
+                        du XIIIe siècle, édition des chansons et étude historique</hi>, Helsinki,
+                    Imprimérie de la Société de littérature finnoise, 1938.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Röhricht 1886</hi>: Reinhold Röhrich,
+                    «Die Kreuzzüge des Grafen Theobald von Navarra und Richard von Cornwallis, nach
+                    dem heiligen Lande», <hi rend="italic">Forschungen zur deutschen
+                    Geschichte</hi>, 26, 1886, pp. 67-102.</bibl>
+            </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+                <editorialDecl xml:lang="en">
+                    <p>See the corresponding paragraph in the introduction to RS 164.</p></editorialDecl>
+            <editorialDecl xml:lang="it"><p><hi rend="bold">Si veda il paragrafo corrispondente nell’introduzione della canzone RS 164.</hi></p></editorialDecl>
+                <metDecl pattern="7a&#x2019;bba&#x2019;a&#x2019;ba&#x2019;a&#x2019;ba&#x2019;" xml:lang="en">
+                    <p>7a’bba’a’ba’a’ba’ (MW 1302,1 = Frank 472); 5 <hi rend="italic">coblas
+                        unissonans</hi>; rhyme a = <hi rend="italic">-ie</hi>; rhyme b = <hi rend="italic">-ou(r)s</hi>. The same metrical shape appears in seven other
+                    texts, all in 7-syllable lines and with the same alternation of m. and f.
+                    rhymes; among these is RS 1141 (the Count of Brittany), with 5 <hi rend="italic">coblas unissonans</hi> and identical rhymes, while the first 3 stanzas of
+                    RS 1135 (Moniot d’Arras) also has the same rhymes <hi rend="italic">-ie</hi>/
+                        <hi rend="italic">-ous</hi>. The same scheme but with different rhymes is
+                    used in the anonymous crusade song RS 1738a, datable to 1244-1245. Among
+                    troubadour texts the metrical shape is used by Raimon de Miraval in the <hi rend="italic">canso</hi> BdT 406.7 (m. rhymes only) and the anonymous <hi rend="italic">sirventes</hi> BdT 461.247 which has the same alternance of m.
+                    and f. rhymes (e rhyme <hi rend="italic">-ia</hi> / <hi rend="italic">-os</hi>
+                    in st. III and IV). Two lines are missing at the end of st. I, and the sentence
+                    may be incomplete, hence the indication of a lacuna.</p>
+                </metDecl>
+            <metDecl pattern="7a&#x2019;bba&#x2019;a&#x2019;ba&#x2019;a&#x2019;ba&#x2019;" xml:lang="it">
+                <p>(MW 1302,1 = Frank 472); 5 <hi rend="italic">coblas unissonans</hi>; rima a = <hi rend="italic">-ie</hi>; rima b = <hi rend="italic">-ou(r)s</hi>; lo stesso schema metrico è adottato da altri sei
+                    testi, tutti in settenari e con la stessa alternanza di rime maschili e
+                    femminili; tra questi vi è la canzone RS 1141 del Conte di Bretagna che ha la
+                    stessa struttura a cinque <hi rend="italic">coblas unissonans</hi> e le stesse
+                    rime, mentre le prime tre strofi della canzone RS 1135 di Moniot d’Arras hanno
+                    anch’esse le stesse rime <hi rend="italic">-ie</hi>/ <hi rend="italic">-ous</hi>; va aggiunto inoltre che lo stesso schema, con rime diverse, è
+                    usato dalla canzone di crociata anonima RS 1738a, databile al 1244-1245; tra i
+                    testi trobadorici lo schema è usato da Raimon de Miraval nella canzone BdT 406.7
+                    (solo rime maschili) e nel sirventese anonimo BdT 461.247 che ha la stessa
+                    alternanza di rime maschili e femminili (e rime <hi rend="italic">-ia</hi> / <hi rend="italic">-os</hi> nelle strofi iii e iv); mancano due versi alla fine
+                    della prima strofe, e la frase precedente potrebbe essere incompleta; per questo
+                    motivo la lacuna viene segnalata graficamente.</p>
+            </metDecl>
+            <appInfo>
+                <application ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2014-03-17T15:13:02Z</date><name>Tomaz Erjavec</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader><text><front>
+        <p rend="Title">RS 1133 Anonimo</p>
+        <p><hi rend="italic bold">Ne chant pas, que que nuls die</hi></p>
+    </front><body/><back>
+                <div type="historical" xml:lang="en">
+                <p>See the corresponding paragraph in the introduction to RS 164. The references
+                    allow us to situate the present text, as RS 164, after the Gaza ambush and
+                    before the liberation of the Christian prisoners, so between 13 November 1239
+                    and 23 April 1241, and it seems likely that in this case too the song was
+                    composed before the departure of Thibaut de Champagne and the greater part of
+                    the French contingent, around the middle of September 1240.</p>
+            </div>
+                <div type="historical" xml:lang="it">
+                <p>Si veda il paragrafo corrispondente nell’introduzione della canzone RS 164. Anche
+                    i riferimenti contenuti in questo testo permettono di situarne la composizione
+                    dopo l’imboscata di Gaza e prima della liberazione dei prigionieri cristiani,
+                    quindi tra il 13 novembre 1239 e il 23 aprile 1241, e anche in questo caso
+                    sembra probabile che la stesura del testo preceda la partenza di Thibaut de
+                    Champagne e della maggior parte del contingente francese, verso la metà di
+                    settembre del 1240.</p>
+            </div>
+            <div type="notes" xml:lang="en">
+                <p>Unlike RS 164 this text does not criticise the crusade leaders’ caution after the
+                    Gaza episode, and does not appear to agree with the barons’ position. Instead it
+                    adopts the point of view of the lesser, poor knights (<hi rend="italic">bachelers</hi> and <hi rend="italic">vavasours</hi>, vv. 31-32), who
+                    denounce the barons’ rivalries and their imprudent personal initiatives which
+                    produced disastrous consequences (vv. 7, 11-14, 43-46), while at the same time
+                    complaining about the prolonged period of inactivity (vv. 5-6, 21-24, 31-40).
+                    Despite expressing disapproval over the Gaza sortie, the song ends with a prayer
+                    for the liberation of the prisoners. Particularly notable is the realism
+                    expressed in these lines which form a sort of caption to the events narrated in
+                    the chronicle in which they are set, giving us access to the state of mind and
+                    opinions of the participants in the later crusades. Idealistic motives do not
+                    seem as clear as they once were, and in any case they are not highlighted;
+                    instead, more worldly preoccupations predominate: ambition for personal glory on
+                    the part of individual barons, the problems of the high cost of the expeditions
+                    and the economic difficulties of the minor knights. </p>
+                <p>The anonymous author cannot have been an entirely uncultured man, given that his
+                    versification forms part of a network of literary references that cannot be put
+                    down to chance. He must have at least known the song RS 1135 of Moniot d’Arras,
+                    from which he takes the rhymes of the first three stanzas (and also the
+                    expression <hi rend="italic">que q’en die</hi> of the incipit). Some influence
+                    of the Occitan <hi rend="italic">sirventes</hi> BdT 461.247 is also possible,
+                    given the application of the metrical schema to a crusade song which expresses
+                    polemical positions. Still to be resolved is the identification of the count of
+                    Brittany, author of a few lyrics which are often sprinkled with formal
+                    irregularities. One of these songs imitates the metrical shape and rhymes of RS
+                    1133. Some scholars suggest the count may be Pierre Mauclerc, who took part in
+                    the barons’ crusade, while Bédier prefers to identify him with Pierre’s son Jean
+                    (married <pb type="soft"/>to Bianca, daughter of Thibaut de Champagne), though
+                    his arguments do not appear definitive (Bédier 1928, pp. 477-482; note for
+                    example that the <hi rend="italic">Continuation Rothelin</hi> continues to call
+                    Pierre Mauclerc count of Brittany, even though his son succeeded him in 1237).
+                    If the count of Brittany the lyric author were identifiable with the crusader
+                    Pierre Mauclerc, he might conceivably be the actual author of RS 164, in which
+                    we find similar metrical irregularities to those found in the small corpus
+                    attributed to the count of Brittany, and which in any case expresses positions
+                    that chime well with the character concerned, with the advantage that, unlike
+                    Philippe de Nanteuil, he was not taken prisoner at Gaza.</p>
+                <p corresp="#RS.1133.fro[range(@n=7,@n=8)]">These lines appear to confirm the death of Count Henry II of Bar-le-Duc at
+                    Gaza, which the same chronicle has called into doubt on the preceding pages (<hi rend="italic">Cont. Roth.</hi> p. 546), but which the other sources certify.
+                    See the note to v. 20 of RS 164.</p>
+                <p corresp="#RS.1133.fro[range(@n=13,@n=15)]">The problem of the rivalries and internal divisions in the crusading army,
+                    which was already emerging clearly during the first crusade, seems to have
+                    diminished somewhat during the 12th-c. crusades or to have applied only at the
+                    level of the rulers; but it explodes again in the 13th c. and becomes
+                    particularly glaring during the barons’ crusade, as is shown by all the sources,
+                    especially the <hi rend="italic">Continuation Rothelin</hi> (see the excellent
+                    syntheses of Balard 1989 and Lower 2005, pp. 167-175).</p>
+                <p corresp="#RS.1133.fro[range(@n=21,@n=24)]">Rather than blaming the incompetence of the expedition’s leaders – a
+                    criticism from which many historians have not spared Thibaut de Champagne – the
+                    author seems to attribute the cause of inactivity mainly to the divisions and
+                    rivalries in the Christian army and to the barons’ personal initiatives.</p>
+                <p corresp="#RS.1133.fro:(n=28)">This text, as RS164, shows the emergence of emphasis on French nationalism
+                    (see also v. 41) which charcterises the later crusades.</p>
+                <p corresp="#RS.1133.fro[range(@n=31,@n=40)]">The ‘bachelors’ are young knights or those aspiring to be such, generally
+                    having no fief and destined to perform military service under a lord. The
+                    vavassors constitute one of the lowest grades in the feudal hierarchy holding a
+                    small fief over which they are unable to exercise direct rights, since some of
+                    the latter remain the apanage of higher-ranking lords, so they are obliged to
+                    lend military service to the real lord. The hereditary system of fiefs often
+                    brought about the impoverishment of these two classes, and the equation of
+                    vavassors and poverty is often present in courtly literature, which in some
+                    cases tends to exalt the dignity and nobility of soul of those belonging to
+                    these classes (Köhler 2000). See for example the romances of Chrétien de Troyes
+                    and Bertran de Born’s song BdT 80.37, 12-22. Furthermore those belonging to the
+                    lower nobility were often constrained to pawn and mortgage their lands to
+                    procure the funds necessary to finance the expedition (Cazel 1989), a phenomenon
+                    alluded to in vv. 33-34. This stanza seems to express its solidarity with the
+                    lower levels of feudal society, to which the author may well belong.</p>
+                <p corresp="#RS.1133.fro[range(@n=41,@n=47)]">These lines synthesise well on the one hand the mood of disillusionment in
+                    the face of the ever more negative results produced by expeditions to the Holy
+                    Land, and on the other, the residual hope in divine intervention which alone can
+                    guarantee their success.</p>
+            </div>
+            <div type="notes" xml:lang="it"> <p>Contrariamente alla canzone RS 164, questo testo non
+                    critica la prudenza dei capi della spedizione dopo l’episodio di Gaza e non
+                    sembra accordarsi con la posizione dei baroni. Si tratta piuttosto del punto di
+                    vista dei piccoli cavalieri poveri (<hi rend="italic">bachelers</hi> e <hi rend="italic">vavasours</hi>, vv. 31-32), che stigmatizzano le invidie tra i
+                    baroni e le improvvide iniziative personali dall’esito disastroso (vv. 7, 11-14,
+                    43-46), ma al contempo non apprezzano l’inerzia e l’inattività prolungata (vv.
+                    5-6, 21-24, 31-40). Malgrado la disapprovazione espressa per la sortita di Gaza,
+                    la canzone si chiude con una preghiera per la liberazione dei prigionieri. Va
+                    rilevato in particolare il realismo espresso nei versi, quasi una didascalia
+                    degli eventi narrati dalla cronaca che li contiene, che permette di conoscere lo
+                    stato d’animo e le opinioni dei partecipanti alle ultime crociate. Le
+                    motivazioni ideali non sembrano più così chiare, e in ogni caso non vengono
+                    messe in primo piano; prevalgono invece preoccupazioni più mondane e pratiche:
+                    le ambizioni di gloria personale dei singoli baroni, i problemi dei costi
+                    elevati delle spedizioni e le difficoltà economiche dei piccoli cavalieri.</p>
+                <p>L’anonimo autore dei versi non doveva essere del tutto sprovvisto di cultura, se
+                    si tiene conto che grazie al suo schema metrico questo testo s’inserisce in una
+                    rete di riferimenti letterari che non possono essere casuali. Egli doveva
+                    conoscere almeno la canzone RS 1135 di Moniot d’Arras, della quale riprende le
+                    rime delle prime tre strofi (e anche l’espressione <hi rend="italic">que q’en
+                        die</hi> dell’incipit), ma non è da escludere, vista l’applicazione dello
+                    schema metrico a una canzone di crociata che esprime posizioni polemiche,
+                    un’influenza del sirventese occitanico BdT 461.247. Resterebbe da sciogliere il
+                        <pb type="soft"/>nodo dell’identificazione del conte di Bretagna autore di
+                    alcune canzoni liriche, spesso condite di varie irregolarità formali, una delle
+                    quali imita lo schema metrico e le rime della RS 1133; alcuni studiosi
+                    propendono per Pierre Mauclerc, protagonista della crociata dei baroni, mentre
+                    Bédier sostiene la candidatura del figlio Jean (sposo di Bianca, figlia di
+                    Thibaut de Champagne), con argomenti che tuttavia non appaiono definitivi
+                    (Bédier 1928, pp. 477-482; si noti per esempio che la <hi rend="italic">Continuation Rothelin</hi> continua a chiamare Pierre Mauclerc conte di
+                    Bretagna, benché il figlio gli fosse succeduto nel 1237). Se il conte di
+                    Bretagna autore delle liriche fosse identificabile con il crociato Pierre
+                    Mauclerc, non sarebbe inverosimile ipotizzare che possa trattarsi del vero
+                    autore della canzone RS 164, nella quale si trovano le stesse irregolarità
+                    metriche e rimiche che caratterizzano il piccolo corpus attribuito al conte di
+                    Bretagna, e che esprime in ogni caso posizioni che ben si accordano con il
+                    personaggio, con il vantaggio che, al contrario di Philippe de Nanteuil, egli
+                    non fu fatto prigioniero a Gaza.</p>
+                <p corresp="#RS.1133.fro[range(@n=7,@n=8)]">Questi versi sembrano confermare la morte del conte Enrico II di Bar-le-Duc
+                    a Gaza, che la stessa cronaca mette in dubbio nelle pagine precedenti (<hi rend="italic">Cont. Roth.</hi> p. 546), ma che le altre fonti certificano.
+                    Si veda la nota al v. 20 della canzone RS 164.</p>
+                <p corresp="#RS.1133.fro[range(@n=13,@n=15)]">Il problema delle invidie e delle divisioni interne al fronte dei
+                    crociati, già emerso in modo evidente durante la prima crociata, sembra
+                    attenuato o comunque applicabile al solo livello dei sovrani nelle crociate del
+                    XII secolo, ma riesplode nel secolo successivo diventando particolarmente
+                    evidente durante la crociata dei baroni, come testimoniano tutte le fonti e
+                    soprattutto la <hi rend="italic">Continuation Rothelin</hi> (si veda l’ottima
+                    sintesi di Balard 1989 e Lower 2005, pp. 167-175).</p>
+                <p corresp="#RS.1133.fro[range(@n=21,@n=24)]">Più che all’inettitudine dei capi della spedizione – critica che molti
+                    storici non hanno risparmiato a Thibaut de Champagne – l’autore della canzone
+                    sembra attribuire la causa dell’inattività principalmente alle divisioni e alle
+                    invidie interne al fronte cristiano e alle iniziative personali dei baroni.</p>
+                <p corresp="#RS.1133.fro:(n=28)">Emerge anche in questo testo, come in RS 164, la sottolineatura dell’elemento
+                    nazionale francese (si veda anche il v. 41), che caratterizza l’esperienza delle
+                    ultime crociate.</p>
+                <p corresp="#RS.1133.fro[range(@n=31,@n=40)]">I baccellieri sono giovani cavalieri o aspiranti tali, generalmente privi
+                    di feudo e destinati all’attività militare al servizio di un signore; i
+                    valvassori costituiscono uno dei gradi più bassi della gerarchia feudale,
+                    titolari di un piccolo feudo sul quale non possono esercitare pieni diritti,
+                    poiché alcuni di essi restano appannaggio dei signori di grado superiore, e
+                    tenuti comunque a prestare un servizio militare al proprio signore. Il
+                    particolare sistema ereditario dei feudi comportava frequentemente
+                    l’impoverimento di queste due classi, e l’equazione tra valvassori e povertà è
+                    spesso presente nella letteratura cortese, che in alcuni casi tende ad esaltare
+                    la dignità e la nobiltà d’animo degli appartenenti a queste classi (Köhler
+                    2000). Si vedano per esempio i romanzi di Chrétien de Troyes e la canzone di
+                    Bertran de Born BdT 80.37, 12-22. Gli appartenenti alla piccola nobiltà erano
+                    inoltre spesso costretti a impegnare e ipotecare le loro terre per procurarsi il
+                    denaro necessario al finanziamento della spedizione (Cazel 1989), fenomeno al
+                    quale fanno riferimento i vv. 33-34. Questa strofe sembra solidarizzare proprio
+                    con le classi inferiori della società feudale, alle quali appartiene
+                    verosimilmente lo stesso autore.</p>
+                <p corresp="#RS.1133.fro[range(@n=41,@n=47)]">Questi versi sintetizzano bene da un lato l’atmosfera di disillusione per
+                    l’esito sempre più negativo che vanno assumendo le spedizioni in Terra Santa, e
+                    dall’altro la residua speranza in un intervento divino, che solo può garantire
+                    il successo delle operazioni.</p>
+            </div>
+        </back></text></TEI>

@@ -1,0 +1,695 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-09-15</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Meyer 1877, 369; Bartsch 1920<hi rend="superscript">12</hi>, 243; Bédier-Aubry 1909,
+            19; Rosenberg-Tischler 1981, 105; Guida 1992, 73; Dijkstra 1995a, 94.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Meyer 1877, 369; Bartsch 1920<hi rend="superscript">12</hi>, 243; Bédier-Aubry 1909,
+            19; Rosenberg-Tischler 1981, 105; Guida 1992, 73; Dijkstra 1995a, 94.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss</hi>. <hi rend="bold">(2)</hi>. C 245v-246r (<hi rend="italic"
+              >Denostre/daime</hi>), U 127r-v (anonymous).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss</hi>. <hi rend="bold">(2)</hi>. C 245v-246r (<hi rend="italic"
+              >Denostre/daime</hi>), U 127r-v (anonima).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’"><p>8ababbaabab (MW 865,3); 5 <hi
+          rend="italic">coblas singulars</hi>; rhymes a = -<hi rend="italic">or</hi>, -<hi
+          rend="italic">iez</hi>, -<hi rend="italic">is </hi>(-<hi rend="italic">ins</hi>), -<hi
+          rend="italic">ier</hi>, -<hi rend="italic">ain </hi>(-<hi rend="italic">ains</hi>); b =
+          -<hi rend="italic">ais</hi>, -<hi rend="italic">ait</hi>, -<hi rend="italic">ant</hi>,
+          -<hi rend="italic">ant</hi> (-<hi rend="italic">ent</hi>), -<hi rend="italic">oir</hi>.
+        The song shares its metrical shape with two other songs, the anonymous <hi rend="italic"
+          >Grant piece a que ne chantai mais</hi> (RS 194 = MW 865:1) and the song in <hi
+          rend="italic">coblas doblas</hi> di Raoul de Ferrières <hi rend="italic">Quant je voi les
+          vergiers florir</hi> (RS 1412 = MW 865:2). Spanke 1936, 153, relates this versification to
+        the monodic <hi rend="italic">conductus Quid ultra tibi facere</hi> attributed to Philippus
+          <hi rend="italic">parisiensis</hi>, chancellor of the chapter of Notre-Dame from 1217. The
+        paraliturgical text, composed of six 10-syllable lines on two rhymes which change position
+        in the central part of the stanzas (whose complete melody is transmitted only in ms.
+        Florence, Biblioteca Laurenziana, Pluteus 29.1), is a lamentation of Christ who contrasts
+        His sufferings with the thirst for power and the slothfulness of the Church and the clergy
+          (<hi rend="italic">Planctus Christi de malis praesulibus</hi>). Equivocal rhymes: 2 <hi
+          rend="italic">pais</hi> : 5 <hi rend="italic">paix</hi>, 12 : 14 <hi rend="italic"
+          >lait</hi>, 26 : 27 <hi rend="italic">pis</hi>, 42 : 45 <hi rend="italic">savoir</hi>;
+        identical rhymes: 1 : 7 <hi rend="italic">amor</hi>, 3 : 9 <hi rend="italic">jor</hi>; link
+        in <hi rend="italic">cobla capfinida</hi> between stanzas IV and V; both mss. are
+        hypermetric by one syllable in v. 2 (<hi rend="italic">ne dormeis uos pais</hi>); the text
+        is transmitted without music (blank staves in C, the interlinear space is left blank in the
+        first stanza in U).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’"><p>8ababbaabab (MW 865,3); 5 <hi
+          rend="italic">coblas singulars</hi>; rima a: -<hi rend="italic">or</hi>, -<hi
+          rend="italic">iez</hi>, -<hi rend="italic">is </hi>(-<hi rend="italic">ins</hi>), -<hi
+          rend="italic">ier</hi>, -<hi rend="italic">ain </hi>(-<hi rend="italic">ains</hi>); rima
+        b: -<hi rend="italic">ais</hi>, -<hi rend="italic">ait</hi>, -<hi rend="italic">ant</hi>,
+          -<hi rend="italic">ant</hi> (-<hi rend="italic">ent</hi>), -<hi rend="italic">oir</hi>; lo
+        schema sillabico e rimico della canzone è condiviso con altri due testi: l’anonima canzone
+        in tre <hi rend="italic">coblas unissonans Grant piece a que ne chantai mais</hi> (RS 194 =
+        MW 865:1) e la canzone a <hi rend="italic">coblas doblas</hi> di Raoul de Ferrières <hi
+          rend="italic">Quant je voi les vergiers florir</hi> (RS 1412 = MW 865:2). Spanke 1936,
+        153, mette in relazione questo schema con quello del <hi rend="italic">conductus
+        </hi>monodico <hi rend="italic">Quid ultra tibi facere</hi> attribuito a Philippus <hi
+          rend="italic">parisiensis</hi>, cancelliere del capitolo di Notre-Dame dal 1217. Il testo
+        paraliturgico, composto da 6 strofe di 10 ottonari su due rime che si invertono in sede
+        centrale di strofe (la cui melodia completa è trasmessa unicamente dal ms. Firenze,
+        Biblioteca Laurenziana, Pluteus 29.1), è una lamentazione di Cristo che oppone le sue
+        sofferenze alla sete di potere e all’accidia della Chiesa e del clero (<hi rend="italic"
+          >Planctus Christi de malis praesulibus</hi>). Rime equivoche: 2 <hi rend="italic"
+          >pais</hi> : 5 <hi rend="italic">paix</hi>, 12 : 14 <hi rend="italic">lait</hi>, 26 : 27
+          <hi rend="italic">pis</hi>, 42 : 45 <hi rend="italic">savoir</hi>; rime identiche: 1 : 7
+          <hi rend="italic">amor</hi>, 3 : 9 <hi rend="italic">jor</hi>; legame in <hi rend="italic"
+          >cobla capfinida</hi> tra la IV e la V <hi rend="italic">cobla</hi>; ambedue i mss. sono
+        ipermetri di una sillaba al v. 2 (<hi rend="italic">ne dormeis uos pais</hi>); il testo è
+        stato trasmesso senza melodia (rigatura musicale vuota in C, spazio bianco nell’interlineo
+        della prima strofe in U).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>Of the two Lorraine witnesses the version of ms.
+        U has been chosen, both for its graphy and for its text, complete in contrast to C which
+        lacks v. 25.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Tra i due testimoni lorenesi è stata scelta la
+        versione del ms. U sia per la grafia che per il testo, completo rispetto a C, che è mancante
+        del v. 25.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-09-15T14:54:22Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Anonymous</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+        <div type="text" xml:id="rs.1967.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Vous ki ameis de vraie amor, </l>
+            <l n="2">anveilliez vos, ne dormeis pais! </l>
+            <l n="3">L’aluëte nos trait lou jor</l>
+            <l n="4">et si nos dist an ces refrais </l>
+            <l n="5">ke venus est li jors de paix</l>
+            <l n="6">ke Deus, per sa tres grant dousor, </l>
+            <l n="7">promet a ceaz ki por s’amor</l>
+            <l n="8">panront la creus et por lour fais</l>
+            <l n="9">sofferront poinne neut et jor.</l>
+            <l n="10">Dont vairait Il ces amans vrais! </l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="11">Cil doit bien estre forjugiez</l>
+            <l n="12">ki a besoing son Signor lait. </l>
+            <l n="13">Se serait il, bien lou sachiez! </l>
+            <l n="14">Aseiz avrait et poinne et lait</l>
+            <l n="15">a jor de nostre dairien plait, </l>
+            <l n="16">ke Deus costeis, pames et piez</l>
+            <l n="17">mousterait sanglans et plaiez, </l>
+            <l n="18">car cil ki plus avrait bien fait</l>
+            <l n="19">serait si tres fort emaëz</l>
+            <l n="20">k’il tranblerat, keil greit k’il ait.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="21">Cil ki por nos fut an creus mis,</l>
+            <l n="22">ne nos amait pais faintemant, </l>
+            <l n="23">ains nos amat com fins amins, </l>
+            <l n="24">et por nos, honorablemant,</l>
+            <l n="25">la Sainte Crox mult doucemant</l>
+            <l n="26">antre ces bras, an mi son pis, </l>
+            <l n="27">com agnials dous, simples et pis, </l>
+            <l n="28">et l'astraing angoisousemant.</l>
+            <l n="29">Puis i fut a trois clos clofis</l>
+            <l n="30">per piez, per mains, estroitemant.</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="31">J’ai oït dire an reprovier:</l>
+            <l n="32">«Boens merchiez trait de borce argent»</l>
+            <l n="33">et «Cil ait mult lou cuer ligier</l>
+            <l n="34">ki lou bien voit et lou mal prant». </l>
+            <l n="35">Saivez ke Deus n'ait an covant</l>
+            <l n="36">a ceaz ke se vorront creusier?</l>
+            <l n="37">Se m’eïst Il, mult bial luier: </l>
+            <l n="38">Paradis par afaitemant! </l>
+            <l n="39">Car ki son prout puet porchasier, </l>
+            <l n="40">fols est se a demain s’atant.</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="41">Nos ne n'avons point de demain,</l>
+            <l n="42">a certes lou peons savoir.</l>
+            <l n="43">Teis cuide avoir lou cuer mult sain</l>
+            <l n="44">c’ains lou quairt jor tot son avoir</l>
+            <l n="45">ne priset pais, ne son savoir. </l>
+            <l n="46">Car, cant la mort lou tient a frain</l>
+            <l n="47">et il ne puet ne piez ne mains</l>
+            <l n="48">a lui sachier ne removoir,</l>
+            <l n="49">la keute lait si prant l’estrain. </l>
+            <l n="50">Mais trop est tairt a persovoir!</l>
+          </lg>
+        </div>
+        <div type="translation" xml:id="rs.1967.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>You who love with true love, wake up, sleep no more! The lark brings us the dawn and
+              tells us with its warbling that the day of peace has come which God, in his great
+              sweetness, promises to those who for love of Him will take the cross, and for their
+              sins will suffer pain both night and day. Then He will see who truly loves Him! </p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Anyone who abandons his lord in his hour of need deserves to be sent into exile. And
+              he will be, you can be sure of that! He will suffer pain and disgrace at the Last
+              Judgment, when God will show His bleeding and wounded sides, hands and feet: even one
+              who has behaved most righteously [in this life] will be so appalled that he will
+              tremble, whether he wishes or no.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>The one who was set upon the cross for us did not love us dissemblingly but did so as
+              a perfect lover, and for our sakes, with dignity, [He took] the holy cross most
+              sweetly in his arms, holding it tightly in anguish across his chest, like a gentle,
+              innocent and pious lamb. Then he was nailed fast with three nails through feet and
+              hands. </p>
+          </div>
+          <div n="4" type="stanza">
+            <p>I have heard say in a proverb: ‘A good price draws money from the purse’ and ‘It is a
+              complete fool who sees what’s good and takes what’s bad’. Do you know what God
+              guarantees to those wishing to take the cross? God help me, splendid wages: Paradise
+              assured! Anyone who can pursue profit [today] is mad to wait until tomorrow.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>We have no [certainty of] tomorrow, we know this well. Someone may think he is in
+              perfect health yet within a quarter of a day may no longer put any value on the whole
+              sum of his wealth or knowledge, for once death holds him in his bridle and he can no
+              longer move his hands and feet in one direction or another, he gives up his soft bed
+              and takes a straw mattress. But realisation comes too late!</p>
+          </div>
+        </div>
+        <div type="translation" xml:id="rs.1967.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>O voi che amate di vero amore, svegliatevi, non dormite oltre! L’allodoletta ci
+              annuncia il giorno e ci dice coi suoi gorgheggi che è giunto il giorno della
+              pacificazione che Dio, nella sua grande dolcezza, promette a coloro che, per amor suo,
+              prenderanno la croce e per il peso dei loro peccati soffriranno pena notte e giorno.
+              Allora Egli vedrà quelli che lo amano davvero!</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Chi abbandona il suo Signore nel bisogno merita di essere messo al bando. E lo sarà,
+              sappiatelo! Costui patirà pene e oltraggi nel giorno del nostro giudizio finale quando
+              Dio mostrerà il costato, le mani e i piedi sanguinanti e feriti: anche chi si sarà
+              comportato al meglio sarà così spaventato che, gli piaccia o no, tremerà.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Colui che per noi fu messo in croce non ci ha amato per finta, ma da amico perfetto e
+              per noi, con dignità, (egli prese) molto docilmente la Santa Croce tra le sue braccia,
+              chino sul suo petto, come agnello mansueto, innocente e pio, e la trascinò
+              angosciosamente. Poi fu inchiodato con tre chiodi che trapassarono le mani e i piedi,
+              conficcati nel profondo.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Ho sentito dire in un proverbio: «Il buon prezzo fa tirar fuori il denaro dalla
+              borsa» e «È un vero sciocco chi vede il bene ma sceglie il male». Sapete quello che
+              Dio garantisce a coloro che vorranno prendere la croce? Un bel compenso davvero, che
+              Dio mi assista! il Paradiso assicurato! Chi può ricavare un buon guadagno (oggi) è
+              folle se aspetta domani.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Noi non abbiamo (certezza del) domani, lo sappiamo bene. Uno può sentirsi pieno di
+              salute ma entro il quarto giorno potrebbe non apprezzare più né tutto il suo avere né
+              tutto il suo sapere. Allora, quando la morte lo tiene imbrigliato e non può tirare a
+              sé né allentare né le mani né i piedi, lascia le morbide coltri e prende il
+              pagliericcio. Ma è troppo tardi per il ravvedimento!</p>
+          </div>
+        </div>
+        <div type="text" xml:lang="en ">
+          <p>Anna Radaelli 2016</p>
+        </div>
+        <div type="text" xml:lang="it ">
+          <p>Anna Radaelli 2016</p>
+        </div>
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>The opening is that of a <hi rend="italic">cantio vigilum</hi>, which associates the song
+          with the liturgical tradition of the <hi rend="italic">vigiliae</hi> and morning hymns.
+          The text takes the form of an announcement of good news, as if it were the expression of
+          the biblical <hi rend="lemma">κήρυγμα</hi> (<hi rend="lang-grc-latn"><seg rend="italic"
+              >kérugma)</seg></hi> in which the herald, God’s official spokesman, publicly proclaims
+          that the time is fulfilled and the faithful are invited to repent and amend their lives.
+          The lark, messenger of the day, is the mystical reflection of the annunciation of Christ’s
+          coming and the opportunity to emerge from the darkness of sin and renew the pact of
+          fidelity with God by taking the <hi rend="italic">votum crucis</hi>. The use of
+          traditional preaching motifs (the <hi rend="italic">dies irae</hi>, the account of the
+          Passion, the <hi rend="italic">memento mori</hi>) together with the use of proverbs having
+          a mercantile flavour, clothes the song in the garb of a public sermon, and reveals the
+          type of lay, bourgeois audience to whom the song is addressed. (Oeding 1910, 37, thinks
+          that the author is a cleric).</p>
+        <p>Bédier sees in the text a certain stylistic energy reminiscent of <hi rend="italic"
+            >Chevalier mult estes guariz</hi>, but does not go as far as to date it to 1147.
+          Nonetheless, on the basis of its formal aspects (stanzas «d’un type assez compliqué» and
+            <hi rend="italic">singulars</hi>, p. 20), he still considers it to have been composing
+          during the 12<hi rend="superscript">th</hi> c. (as Jeanroy 1889, p. 69), citing Paris
+          1892, p. 165, who links it to the crusade of 1189. Schöber (1976, p. 238), however,
+          observes that there is no reference either to the fall of Jerusalem or to the loss of the
+          Holy Cross, or to the liberation of the holy places from the enemy. Noting lexical echoes
+          of the <hi rend="italic">Vers de la mort </hi>of Hélinant of Froidmont (to which Bédier
+          had also referred in a note on p. 24), composed between 1194 and 1197, and also the fact
+          that that the versification appears late, he situates the song at the time of the Fourth
+          Crusade. Finally Dijkstra (1995a, p. 97) is more inclined to date it to the Third Crusade,
+          ‘compte tenu du ton optimiste du poète … mais j’avoue que l’argumentation en est
+          faible’.</p>
+        <p>Schöber is unquestionably right to draw attention to the absence of references to the
+          holy places. The absence of any military element traditionally present in appeals composed
+          at the imminent prospect of a crusade, and the presence of a wealth of motifs belonging to
+          texts of a homiletic, religious and liturgical nature, provide no support of a contingent
+          historical kind, and situate the composition of the text a long way from any prospective
+          departure. But the fact that the song is a metrico-melodic <hi rend="italic"
+            >contrafactum</hi> of a monodic <hi rend="italic">conductus</hi> of Philip the
+          Chancellor may provide useful chronological indications. Philip became chancellor of the
+          Notre-Dame chapter in 1217 and was the author of profane and liturgical poems in both
+          Latin and French (cfr. Dronke 1987 and Rillon-Marne 2012), together with a vast number of
+          homilies for which he is cited by the most famous and prestigious preachers of the time.
+          His ‘crusade’ repertory includes four sermons urging participation in Louis VIII’s
+          expedition to the Midi in 1226 (cfr. Bériou 1997), to which has recently been added the
+            <hi rend="italic">conductus Crucifigat omnes</hi> (cfr. Payne 1986, p. 238, n. 12, and
+          Payne 2001, 19, p. 596). The latter is essentially a vigorous call to a war of liberation
+          of the Holy Land after the fall of Jerusalem and the capture of the true cross in 1187,
+          and can therefore be added to <hi rend="italic">Venit Ihesus </hi>as a second exhortation
+          by Philip the Chancellor to take part in the Third Crusade. In contrast, although the
+          monodic <hi rend="italic">conductus Quid ultra tibi facere</hi>, of which RS 1967 is a <hi
+            rend="italic">contrafactum</hi>, belongs to a similar climate, it is not hortatory and
+          its tone clearly differs from the harshness and bellicosity of the two preceding <hi
+            rend="italic">conductus</hi>. Instead it is edifying and moral in character, and is
+          evidently not subject to the pressure of events. It therefore seems likely to belong to a
+          period which falls between the urgent calls to take part in the Third Crusade and the
+          preaching efforts in favour of royal intervention in Occitania, such as that initiated by
+          Innocent III in his bull <hi rend="italic">Quia maior nunc</hi> of April 1213 which gave
+          rise to a new campaign of <hi rend="italic">Crucis praedicationes</hi>. The song seems
+          likely to have arisen in this climate and to date from a time immediately following that
+          year. It is also important to take note of the rubric <hi rend="italic">De Nostre
+            Daime</hi> written in the margin of ms C next to the incipit: its presence may be not
+          only further confirmation that it is modelled on <hi rend="italic">Vous ki ameis</hi> but
+          also that it was composed in the musical modes of the School of Notre-Dame.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>L’esordio è quello di una una <hi rend="italic">cantio vigilum</hi>, che accomuna la
+          canzone alla tradizione liturgica delle <hi rend="italic">vigiliae</hi> e degli inni
+          mattutini. Il testo assume la forma di un annuncio della buona notizia, come fosse un
+          enunciazione del <hi rend="lemma">κήρυγμα</hi> (<hi rend="lang-grc-latn"><seg
+              rend="italic">kérugma)</seg></hi> biblico in cui l’araldo, portavoce ufficiale di Dio,
+          proclama pubblicamente che il tempo si è compiuto e si invitano i fedeli al pentimento e
+          alla conversione. L’allodoletta messaggera del giorno è riflesso mistico dell’annuncio
+          dell’arrivo di Cristo e della occasione di uscire dalle tenebre del peccato e rinnovare il
+          patto di fedeltà con Dio prendendo il <hi rend="italic">votum crucis</hi>. Il ricorso ai
+          motivi tradizionali della predicazione (il <hi rend="italic">dies irae</hi>, il racconto
+          della Passione, il <hi rend="italic">memento mori</hi>) unito all’impiego dei proverbi di
+          sapore mercantile, dà alla canzone la veste di un sermone proclamato, e individua il tipo
+          di uditorio laico e borghese al quale il testo è rivolto (Oeding 1910, 37, pensa che
+          l’autore sia un chierico).</p>
+        <p>Per quanto riguarda la datazione, Bédier, pur riconoscendo una certa energia stilistica
+          che gli rammenta <hi rend="italic">Chevalier mult estes guariz</hi>, non si sbilancia a
+          datare il testo al 1147 ma, basandosi sugli aspetti formali (strofi «d’un type assez
+          compliqué» e <hi rend="italic">singulars</hi>, p. 20), data comunque il componimento entro
+          il XII secolo (come Jeanroy 1889, p. 69) citando Paris 1892, p. 165, che lo associa alla
+          crociata del 1189. Schöber (1976, p. 238), invece, tenendo conto che non vi è nessun
+          accenno né alla caduta di Gerusalemme o alla perdita della Santa Croce, né alla
+          liberazione dei luoghi santi dal nemico, e osservando dei richiami lessicali ai <hi
+            rend="italic">Vers de la mort </hi>d’Hélinant de Froidmont (cui già Bédier aveva fatto
+          cenno in nota, a p. 24), composti tra il 1194 e il 1197, aggiungendo l'apparizione tardiva
+          dello schema metrico impiegato, colloca la canzone al tempo della IV crociata. Dijkstra
+          1995a, p. 97, infine, sarebbe più propensa a datarla alla III crociata «compte tenu du ton
+          optimiste du poète … mais j’avoue que l’argumentation en est faible».</p>
+        <p>La considerazione di Schöber 1976 è senz’altro condivisibile. La mancanza di ogni aspetto
+          guerresco e militare tradizionalmente presente negli appelli composti nell’imminenza di
+          una spedizione e, al contrario, la ricchezza di motivi propri dei testi omiletici e di
+          carattere religioso e liturgico, non concede alcun appiglio di tipo storico contingente e
+          situa la composizione del testo lontano dall’imminenza di una partenza. Tuttavia, il fatto
+          che la canzone sia un <hi rend="italic">contrafactum</hi> metrico-melodico di un <hi
+            rend="italic">conductus</hi> monodico di Filippo il Cancelliere potrebbe fornire indizi
+          utili. Filippo, divenuto cancelliere del capitolo di Notre-Dame nel 1217, fu infatti
+          autore di poemi profani e liturgici sia in latino che in francese (cfr. Dronke 1987 e
+          Rillon-Marne 2012) e di una vasta produzione omiletica per cui è citato tra i predicatori
+          più celebri e apprezzati del suo tempo. Il suo repertorio ‘crociato’ annovera quattro
+          sermoni di incitamento alla spedizione di Luigi VIII nel Midi del 1226 (cfr. Bériou 1997)
+          e recentemente è stato ampliato con l’aggiunta del <hi rend="italic">conductus Crucifigat
+            omnes </hi>(cfr. Payne 1986, p. 238, n. 12, e Payne 2001, 19, p. 596), che è
+          sostanzialemente un vigoroso appello alla guerra di liberazione della Terra Santa dopo la
+          caduta di Gerusalemme e la cattura della vera Croce dopo la sconfitta di Hattin nel 1187;
+            <hi rend="italic">Crucifigat omnes</hi> va così ad aggiungersi a <hi rend="italic">Venit
+            Ihesus in propria</hi>, altra esortazione del Cancelliere alla III crociata. Al
+          contrario, il <hi rend="italic">conductus</hi> monodico <hi rend="italic">Quid ultra tibi
+            facere</hi>, di cui RS 1967 è <hi rend="italic">contrafactum</hi>, pur aderendo allo
+          stesso clima, non ha carattere esortativo e si si allontana nettamente dai toni aspri e
+          bellicosi dei due <hi rend="italic">conductus</hi> precedenti; ha piuttosto una impronta
+          edificante e morale, evidentemente non sottomessa alla pressione degli eventi. Potrebbe
+          quindi essere collocato in un periodo intermedio tra gli incisivi appelli alla Terza
+          crociata e le predicazioni in favore dell’intervento regio in Occitania, come quello che
+          ebbe inizio con la bolla <hi rend="Emphasis">Quia maior nunc<seg rend="italic"> di</seg>
+            <seg rend="italic">Innocenzo III nell’aprile 1213, che lanciava una nuova campagna delle
+            </seg>Crucis praedicationes<seg rend="italic">.</seg></hi> La canzone avrebbe dunque
+          origine in questo clima e andrebbe datata in uno spazio temporale immediatamente
+          successivo a quell’anno. Infine mi pare importante segnalare la rubrica <hi rend="italic"
+            >De Nostre Daime</hi> scritta sul margine del ms C in corrispondenza dell’incipit; la
+          sua presenza potrebbe essere non solo l’ulteriore conferma del modello di <hi
+            rend="italic">Vous ki ameis</hi> ma anche della sua realizzazione nei modi musicali
+          della Scuola di Notre-Dame.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p corresp="#rs.1967.fro:(n=2)">anveillez vos, ne dormeis pais! Bédier-Aubry 1909, p. 23,
+          following Paris 1892, pp. 164-165, see in this line an adaptation of a profane song of
+          awakening. The call to spiritual awakening is typical of religious hymn-writing in hymns
+          such as the Aeterne rerum conditor (st. 5, 17-20 Surgamus ergo strenue! / Gallus iacentes
+          excitat, / et somnolentos increpat, / Gallus negantes arguit) of Ambrose (AH 51,11), or
+          Ales diei nuntius (st. 1 and 2, 1-8: Ales diei nuntius / lucem propinquam praecinit; / nos
+          excitator mentium / iam Christus ad vitam vocat. // Auferte, clamat, lectulos / aegros,
+          soporos, desides: / castique recti ac sobrii / vigilate, iam sum proximus) of Prudentius
+          (AH 50,23). The exhortation to wake up is also found in the exordium to the hymn of Clunic
+          origin v. 3: Spiculator pigris clamat: “Surgite”! (on the long history of interpretations
+          of the bilingual alba of Fleury, see most recently Lazzerini 2014) and in the Occitan alba
+          Reis glorios, verais lums e clartatz by Giraut de Borneil (BdT 242,64), 6-10: Bel
+          companho, si dormetz o velhatz? Cal que fazatz, en estans vos levatz, qu’en orient vey
+          l’estela creguda qu’amena·l jorn, qu’ieu l’ai ben conoguda, et ades sera l’alba!, and
+          11-13: Bel companho, en chantan vos apel / non dormatz plus, qu’ieu aug chantar l’auzel /
+          que vai queren lo iorn per lo boscatge (cfr. Di Girolamo 2009, who suggests that the gaita
+          is the guardian angel who announces to mankind the arrival of the light that will bring
+          light into the darkness of the sin in which mankind is immersed). The Occitan repertory of
+          religious albas contains two examples particularly close to RS 1967: the end of st. I of
+          BdT 155,26, attributed to Folquet de Marselha and dated to the period after he became a
+          monk, after 1200, vv. 1-10: Vers Dieus, el vostre nom e de sancta Maria / m’esvelharai
+          hueimais, pus l’estela del dia / ven daus Ierusalem, que m’essenha qu’ieu dia: / estatz
+          sus e levatz, / senhors que Dieu amatz! / que·l jorns es aprosmatz / e la nuech ten sa
+          via; / e sia·n Dieus lauzatz / per nos, e adoratz, / e·l preguem que·ns don patz / a tota
+          nostra via (ed. Squillacioti 1999, XXVI), and the gallicised text of Peire Espanhol’s
+          religious alba (BdT 342,1), 1-4: Or levetz sus, francha corteza gans! / levetz, levetz,
+          trop avetz demoret, / qu’aprochatz s’es lo jors clers e luzans / que lo nos a la doss’alba
+          menet (ed. Chaguinian 2008, p. 296). Nonetheless RS 1967 is quite unusual in its
+          association of religious and military elements with the exhortation to the votum Crucis,
+          and in this respect it is comparable to the 11th-c. Scolte Modenesi Ritmo (hymn) linked to
+          the tradition of the liturgical nocturni and the vigilae murorum (cfr. Roncaglia 1948),
+          1-2: O tu qui servas armis ista moenia, / noli dormire, moneo, sed vigila, and the final
+          lines 29-30: Resultet haecco comes: “eia, vigila!” / Per muros: “eia”, dicat haecco,
+          “vigila!”.</p>
+        <p><hi rend="italic">pais</hi>: the reading at the rhyme is present in both mss. (<hi
+            rend="italic">pas</hi> U, <hi rend="italic">pais</hi> C). According to Jeanroy 1889, p.
+          69, n. 1, the rhymes 2 <hi rend="italic">pais </hi>(&lt; <hi rend="italic">passum</hi>) :
+          4 <hi rend="italic">refrais</hi> : 5 <hi rend="italic">paix </hi>(&lt; <hi rend="italic"
+            >pacem</hi>) prove that the text is of Lorraine or Burgundian origin. Paris however
+          (1892, 585, n. 1, also followed by Bédier-Aubry 1909, p. 23), proposes the correction <hi
+            rend="italic">mais</hi>: «il faut lire ainsi au lieu de <hi rend="italic">pais,
+          </hi>forme du copiste lorrain».</p>
+        <p corresp="#rs.1967.fro:(n=3)">aluëte: the lark as messenger of the morning is, in mystical
+          symbolism, the messenger of God (cfr. Lazzerini 1998). For Schöber 1976, p. 242 the lark’s
+          presence is evidence of originality, while Dijkstra (1995a, p. 97, n. 128) suggested that
+          the poet chose this out of caution because the nightingale, «associé trop souvent à
+          l’amour charnel, ne puisse pas figurer dans une aube qui chante l’amour de Dieu».</p>
+        <p corresp="#rs.1967.fro:(n=4)">refrais: the modulations of the lark’s singing. Compare
+          Jaufre Rudel (BdT 262,5) 4-5: e·l rossihletz el ram / volf e refranh ez aplana. C’s
+          reading, retrais, is interesting for its assimilation of the lark’s song to the summoning
+          of true lovers of Christ; see, though with reference to the call to retreat found
+          particularly in epic songs, TL VIII, 1174 s.v.: ‘Rückzug’ or ‘(Horn)signal zum Rückzug’.
+          Bédier, who elsewhere shows himself to be following C, also includes refrais in his
+          text.</p>
+        <p corresp="#rs.1967.fro:(n=5)">paix: this has been understood in the Christian sense of
+          ‘reconciliation’ with God (which comes about through repentance and amendment of life: a
+          ceaz ki por s’amor / panront la creus et por lour fais / sofferront poine neut et jor, vv.
+          7-9). Paris 1892, p. 165, n. 2, perhaps thinking of a spring opening, considers the line
+          erroneous: «L’original portait sans doute: Que venus est cel jor li mais, ou quelque chose
+          d’analogue».</p>
+        <p corresp="#rs.1967.fro:(n=10)">Dont vairait il ces amans vrais! The motif is found in the
+          conductus Quid ultra of Philip the Chancellor, 61-62: Prope est dies domini / mei qui me
+          diligitis (AH, 21, 141 and Dronke 1987, n. 38). But it is also found in Huon de
+          Saint-Quentin, Jerusalem se plaint et li païs (RS 1576), 3-4: que deça mer a poi de ses
+          amis / ki de secors li facent mais nïent, and Maistre Renas, Pour lou pueple resconforteir
+          (RS 886), 26: Il veult esproveir ces amis (see the note to that line). </p>
+        <p corresp="#rs.1967.fro:(n=11)">forjugiez. For the condemnation to exile of those who
+          abandon their own lord in his hour of need, compare Du Cange, II, 560 and Guida 1992, p.
+          321, note. For the context, see again the conductus Quid ultra, 1-5: Quid ultra tibi
+          facere, / Vínea mea, potui? / Quid potes mihi reddere, / Qui pro te caedi, conspui / Et
+          crucifigi volui?</p>
+        <p corresp="#rs.1967.fro:(n=12)">Jeanroy 1909, p. 444 chooses to translate faintemant as
+          “paresseusement, mollement” rather than “hypocritement”, keeping the interpretation most
+          in keeping with the following lines. However, the sense of ne nos amait pais faintemant in
+          v. 22 seems rather to relate to Vous ki ameis de vraie amor in v. 1, in harmony with the
+          whole of stanza III where the preacher attenuates the apocalyptic tone of the two
+          preceding stanzas by describing Christ’s calvary in courtly terms: fins amans (v. 23),
+          honorablemant (v. 24), moult doucemant (v. 25).</p>
+        <p corresp="#rs.1967.fro[range(@n=31,@n=40)]">The whole of stanza IV is clearly aimed at a
+          bourgeois public. The pact between God and crusaders is no longer a feudal, vassalic one,
+          and is even stipulated according to mercantile agreements, using expressions drawn from
+          the world of commercial exchange: v. 35 avoir an covent ‘stipulate in a contract’ (see TL
+          II, 987 ‘etw. jem. zugesichert, gelobt haben’), v. 37 luier ‘use of goods given in
+          compensation’, v. 38 par afaitemant ‘by agreement, through a transaction’, v. 39 son prout
+          porchasier ‘earn, seek profit’. Here too a comparison with the conductus model of this
+          song, also rich in mercantile metaphors, is particularly interesting, Christ’s sacrifice
+          makes Man indebted to Him and the terms recall a comercial relationship: Quid potes michi
+          reddere (str. 1, 3), vice mutui (str. 1, 7), facitque mutatoria de meo patrimonio (str. 3,
+          7-8), creditum (str. 5, 2), pensantique lane pretium. et non curant de ovibus (str. 5, 6)
+          (compare also Rillon-Marne 2012). </p>
+        <p corresp="#rs.1967.fro:(n=32)">For the proverb Boens merchiez trait de borce argent
+          (recorded in Morawski 1925, n. 291) Dijkstra (1995a, p. 100, n. 139) cites the motif of
+          the mercator prudens in St Bernard’s collection of homilies: Si prudens mercator es, si
+          conquisitor hujus saeculi, magnas quasdam tibi nundinas indico; vide ne pereant (PL 182,
+          567). For the motif see also the note to RS 1576, 40-44.</p>
+        <p><hi rend="italic">argent</hi>: this is the only case of the -<hi rend="italic">ent</hi>
+          outcome at the rhyme with -<hi rend="italic">ant</hi> in the rest of the stanza (<hi
+            rend="italic">prant</hi>, <hi rend="italic">covant</hi>, <hi rend="italic"
+            >afaitemant</hi>, <hi rend="italic">atant</hi>). </p>
+        <p>n=[33-34]The two lines represent a saying made up of different traditional materials.
+          Bédier-Aubry 1909, 24, refers to Leroux de Lincy 1859<hi rend="superscript">2</hi>, II,
+          pp. 138, 394 and 476. Dijkstra 1995a, p. 99, n. 138, refers to the proverbs <hi
+            rend="italic">Ki bien set et le mal prent / fous est tres nayv[e]ment </hi>(Morawski
+          1925, n. 1848); <hi rend="italic">Qui bien voit et le mal prent / si se foloie a escient
+          </hi>(Morawski 1925, n. 1852); <hi rend="italic">Qui bien voit et mal prant / a boen droit
+            se repant </hi>(Morawski 1925, n. 1853). The same motto appears in the crusade song <hi
+            rend="Emphasis">Ar nos sia capdels e garentia</hi> of Pons de Capdoill (BdT 375,2), 32:
+            <hi rend="italic">dunc ben es folz qui ben ve e mal pren</hi>. </p>
+        <p corresp="#rs.1967.fro:(n=37)">Se m’eïst Il, mult bial luier: Paradis par afaitemant!. The
+          same motif occurs in Huon de Saint-Quentin, Jerusalem se plaint et li païs (RS 1576), 43:
+          car paradis en ara de loier; and Maistres Renas, Pour lou pueple resconforteir (RS 886),
+          47-48: Lai iert li boens luwiers doneis / a ceauls ki l’avront deservit, and the note to
+          those lines.</p>
+        <p corresp="#rs.1967.fro:(n=43)">Teis cuide avoir lou cuer mult sain. Schöber 1976, p. 238
+          refers to the proverb Telz cuide estre touz sains qui est a la mort (Morawski 1925, n.
+          2344) and the Vers de la mort of Hélinant de Froidmont, st. XV, 11-12: Teus me cueve desoz
+          ses dras / qui cuide estre haitiez et sains (ed. Wulff – Walberg 1905). An expression
+          similar to Helinand’s is also recorded in the Somme le Roi (according to the text of ms.
+          BnF fr. 943, f. 74r), which indicates, much more fully than the present piece, a time
+          within which death will take the sinner away: de rechief, li pechierres est ausi com cil
+          qui cuide estre forz et sains, et il a ja la mort dessouz ses dras, car il ha les humeurs
+          mauveses et corrompues ou cors, dont il morra dedanz un mois, qui cuide encore .xl. anz;
+          si com dit Elinanz es vers de la mort: ‘Ostez vos chiffles et vos gas, / Car tieus me
+          couve souz ses dras / Qui cuide estre et fors et sains’. See Meyer 1872, who in turn
+          quotes a passage cited in LR II, 419b: Si com dis Elinans, .i. trobayres, els verses de la
+          Mort: ‘Levatz de vos chuflas e gabs; / Car tals me coa sotz sos draps / Que cuja esser
+          fortz e sas’.</p>
+        <p corresp="#rs.1967.fro:(n=46)">cant la mort lou tient a frain. Bédier 1909, p. 24 links
+          the expression to st. XV, 5 of Hélinant’s Vers de la mort : Ainçois que je vos praigne as
+          frains. See also Guida 1992, note to the line, p. 322.</p>
+        <p corresp="#rs.1967.fro[range(@n=47,@n=48)]">ne puet ne piez ne mains / a lui sachier. A
+          similar image is found in the XIVth-c. Dit de Flourence de Romme attributed to Jehan de
+          Saint-Quentin: Qu'à paine pooit-ele ne pié ne main sachier, ed. Munk Olsen 1978, p. 100. </p>
+        <p corresp="#rs.1967.fro:(n=49)">keute. The two mss. have keuce C and keuse U, which give no
+          sense. I follow Bédier who accepts the conjecture of J. Cornu (Mélange. IV, in Romania, X
+          (1881), p. 218) who interprets keute as couette, translating ‘lit de plume’; as a result
+          he considers estrain as ‘lit de paille’; see also Godefroy II, 333 s.v. coulte e IX, 232
+          s.v. 2.coute. Another possibility concerns keute meaning ‘beer’ (see FEW XVI, 349a, s.v.
+          koyte) and this again could indicate worldly pleasures abandoned during amendment of life
+          (estrain could mean ‘the sackcloth of repentance’).</p>
+        <p><hi rend="italic">estrain</hi>: see TL III, 1436, s.v. <hi rend="italic">estraim</hi>
+          (REW 8287 <hi rend="italic">stramen</hi>) ‘Stroh, Streu’, interpreted here as ‘straw
+          mattress’. For the whole expression see the <hi rend="italic">Congés</hi> of Jean Bodel,
+          161-162: <hi rend="italic">Salue par Jehan Bodel / Cui Diex met de keute en estrain</hi>
+          (ed. Barbazan 1808, I, p. 148).</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p corresp="#rs.1967.fro:(n=2)">anveillez vos, ne dormeis pais! Bédier-Aubry 1909, p. 23,
+          seguendo Paris 1892, pp. 164-165, vede in questo verso un adattamento di un canto profano
+          d'éveil. L’appello al risveglio spirituale è tipico della tradizione dell’innografia
+          religiosa fin dagli inni Aeterne rerum conditor (str. 5, 17-20 Surgamus ergo strenue! /
+          Gallus iacentes excitat, / et somnolentos increpat, / Gallus negantes arguit) di Ambrogio
+          (AH 51,11), o Ales diei nuntius (str. 1 e 2, 1-8: Ales diei nuntius / lucem propinquam
+          praecinit; / nos excitator mentium / iam Christus ad vitam vocat. // Auferte, clamat,
+          lectulos / aegros, soporos, desides: / castique recti ac sobrii / vigilate, iam sum
+          proximus) di Prudenzio (AH 50,23). L’esortazione ad alzarsi si ritrova anche nell’esordio
+          dell’inno di origine cluniacense al v. 3: Spiculator pigris clamat: “Surgite”! (sul lungo
+          percorso interpretativo dell’alba bilingue di Fleury, si veda da ultimo Lazzerini 2014) e
+          nell’alba occitana Reis glorios, verais lums e clartatz di Giraut de Borneil (BdT 242,64),
+          6-10: Bel companho, si dormetz o velhatz? Cal que fazatz, en estans vos levatz, qu’en
+          orient vey l’estela creguda qu’amena·l jorn, qu’ieu l’ai ben conoguda, et ades sera
+          l’alba!, e 11-13: Bel companho, en chantan vos apel / non dormatz plus, qu’ieu aug chantar
+          l’auzel / que vai queren lo iorn per lo boscatge (cfr. Di Girolamo 2009, che avanza
+          l’ipotesi che la gaita sia l’angelo custode che annuncia all’uomo l’arrivo della luce che
+          rischiarerà il buio del peccato in cui è immerso). Ma nel repertorio occitano delle albas
+          religiose, quella attribuita a Folquet de Marselha (BdT 155,26), e fatta risalire al
+          periodo della sua monacazione, dopo il 1200, è particolarmente accostabile a RS 1967 fin
+          dalla prima cobla, 1-10: Vers Dieus, el vostre nom e de sancta Maria / m’esvelharai
+          hueimais, pus l’estela del dia / ven daus Ierusalem, que m’essenha qu’ieu dia: / estatz
+          sus e levatz, / senhors que Dieu amatz! / que·l jorns es aprosmatz / e la nuech ten sa
+          via; / e sia·n Dieus lauzatz / per nos, e adoratz, / e·l preguem que·ns don patz / a tota
+          nostra via (ed. Squillacioti 1999, XXVI); e così pure il testo francesizzato dell’alba
+          religiosa di Peire Espanhol (BdT 342,1), 1-4: Or levetz sus, francha corteza gans! /
+          levetz, levetz, trop avetz demoret, / qu’aprochatz s’es lo jors clers e luzans / que lo
+          nos a la doss’alba menet (ed. Chaguinian 2008, p. 296). Tuttavia RS 1967 è del tutto
+          singolare nel suo associare l’aspetto religioso a quello guerresco con la esortazione al
+          votum Crucis, e in questo può essere accostabile al Ritmo delle Scolte Modenesi (IX
+          secolo), legato alla tradizione dei nocturni liturgici e delle vigilae murorum (cfr.
+          Roncaglia 1948), 1-2: O tu qui servas armis ista moenia, / noli dormire, moneo, sed
+          vigila!, e nei versi finali 29-30: Resultet haecco comes: “eia, vigila!” / Per muros:
+          “eia”, dicat haecco, “vigila!”.</p>
+        <p><hi rend="italic">pais</hi>. la lezione in rima è presente in entrambe i testimoni (<hi
+            rend="italic">pas</hi> U, <hi rend="italic">pais</hi> C). Secondo Jeanroy 1889, p. 69,
+          n. 1, le rime 2 <hi rend="italic">pais </hi>(&lt; <hi rend="italic">passum</hi>) : 4 <hi
+            rend="italic">refrais</hi> : 5 <hi rend="italic">paix </hi>(&lt; <hi rend="italic"
+            >pacem</hi>) sono la prova che il testo sia di origine lorenese o borgognona. Mentre
+          Paris 1892, 585, n. 1, propone di correggere la rima al v. 2 in <hi rend="italic"
+            >mais</hi>: «il faut lire ainsi au lieu de <hi rend="italic">pais, </hi>forme du copiste
+          lorrain», seguito da Bédier-Aubry 1909, p. 23.</p>
+        <p corresp="#rs.1967.fro:(n=3)">aluëte: l’allodola messaggera del mattino è, nella
+          simbologia mistica, messaggera di Dio (cfr. Lazzerini 1998). Per Schöber 1976, p. 242 la
+          presenza dell’allodola sarebbe invece segno di originalità, mentre secondo Dijkstra 1995a,
+          p. 97, n. 128, la sua scelta da parte del poeta sarebbe stata dettata da prudenza perché
+          l’usignolo «associé trop souvent à l’amour charnel, ne puisse pas figurer dans une aube
+          qui chante l’amour de Dieu».</p>
+        <p corresp="#rs.1967.fro:(n=4)">refrais: in riferimento alle modulazioni del canto
+          dell’allodola. Cfr. Jaufre Rudel (BdT 262,5) 4-5: e·l rossihletz el ram / volf e refranh
+          ez aplana. Interessante la lezione di C, retrais, che assimilerebbe il canto dell’allodola
+          al segnale dell’adunata dei veri amanti di Cristo; si veda, ma con riferimento al richiamo
+          per la ritirata soprattutto nei canti epici, TL VIII ,1174 s.v.: ‘Rückzug’ o ‘(Horn)signal
+          zum Rückzug’. Anche Bédier, che altrove mostra di seguire la lezione di C, riporta a testo
+          refrais. </p>
+        <p corresp="#rs.1967.fro:(n=5)">paix: è stato inteso nel senso cristiano di
+          ‘riconciliazione’ con Dio (che avviene con il pentimento e la conversione: a ceaz ki por
+          s’amor / panront la creus et por lour fais / sofferront poine neut et jor, vv. 7-9). Paris
+          1892, p. 165, n. 2, pensando forse a un esordio primaverile, considera errato il verso:
+          «L’original portait sans doute: Que venus est cel jor li mais, ou quelque chose
+          d’analogue».</p>
+        <p corresp="#rs.1967.fro:(n=10)">Dont vairait il ces amans vrais! Il motivo si ritrova nel
+          conductus Quid ultra di Filippo il Cancelliere, 61-62: Prope est dies domini / mei qui me
+          diligitis (AH, 21, 141 e Dronke 1987, n. 38). Ma è presente anche in Huon de
+          Saint-Quentin, Jerusalem se plaint et li païs (RS 1576), 3-4: que deça mer a poi de ses
+          amis / ki de secors li facent mais nïent e in Pour lou pueple resconforteir di Maistre
+          Renas (RS 886), 26: Il veult esproveir ces amis, per cui si veda anche la nota al
+          verso.</p>
+        <p corresp="#rs.1967.fro:(n=11)">forjugiez. Per la condanna al bando di coloro che
+          abbandonano il proprio signore nel momento del bisogno, cfr. Du Cange, II, 560 e Guida
+          1992, p. 321 nota al verso. Per il contesto, il rimando va ancora al conductus Quid ultra,
+          1-5: Quid ultra tibi facere, / Vínea mea, potui? / Quid potes mihi reddere, / Qui pro te
+          caedi, conspui / Et crucifigi volui?</p>
+        <p corresp="#rs.1967.fro:(n=22)">Jeanroy 1909, p. 444 propone di tradurre faintemant con
+          “paresseusement, mollement” e non come “hypocritement”, ritenendo l’interpretazione più
+          adeguata ai versi successivi. Tuttavia, il senso di ne nos amait pais faintemant del v. 22
+          mi pare sia da accostare a Vous ki ameis de vraie amor del v. 1, in armonia con tutta la
+          terza strofe in cui il predicatore attenua i toni apocalittici delle due strofi precedenti
+          impiegando termini cortesi nella descrizione del calvario di Cristo: fins amins (v. 23),
+          honorablemant (v. 24), moult doucemant (v. 25). </p>
+        <p corresp="#rs.1967.fro[range(@n= 31,@n=40)]">Tutta la quarta strofe è evidentemente
+          rivolta a un pubblico borghese. Il patto tra Dio e i crociati non è più di tipo
+          vassallatico, feudale, bensì è stipulato secondo accordi mercantili e rappresentato con
+          espressioni del mondo degli scambi commerciali: v. 35 avoir an covent ‘stipulare in un
+          contratto’ (cfr. TL II, 987 ‘etw. jem. zugesichert, gelobt haben’), v. 37 luier ‘fruizione
+          di un bene data in compenso’, v. 38 par afaitemant ‘come da accordo, per transazione’, v.
+          39 son prout porchasier ‘guadagnare, fare affari proficui’. Anche in questo caso risulta
+          particolarmente interessante l’accostamento al conductus modello di questa canzone,
+          anch’esso ricco di metafore mercantili. Il sacrificio di Cristo rende l’uomo debitore
+          verso di lui e i termini richiamano una relazione commerciale: Quid potes michi reddere
+          (str. 1, 3), vice mutui (str. 1, 7), facitque mutatoria de meo patrimonio (str. 3, 7-8),
+          creditum (str. 5, 2), pensantique lane pretium. et non curant de ovibus (str. 5, 6) (cfr.
+          anche Rillon-Marne 2012). </p>
+        <p corresp="#rs.1967.fro:(n=32)">Per il proverbio Boens merchiez trait de borce argent
+          (repertoriato in Morawski 1925, n. 291) Dijkstra 1995a, p. 100, n. 139, cita il motivo del
+          mercator prudens del repertorio omiletico di san Bernardo: Si prudens mercator es, si
+          conquisitor hujus saeculi, magnas quasdam tibi nundinas indico; vide ne pereant (PL 182,
+          567). Per il motivo si veda anche la nota a RS 1576, 40-44.</p>
+        <p><hi rend="italic">argent</hi>: segnalo l’unico caso di uscita -<hi rend="italic">ent</hi>
+          in rima con le uscite -<hi rend="italic">ant</hi> del resto della strofe (<hi
+            rend="italic">prant</hi>, <hi rend="italic">covant</hi>, <hi rend="italic"
+            >afaitemant</hi>, <hi rend="italic">atant</hi>). </p>
+        <p corresp="#rs.1967.fro[range(@n=33,@n=34)]">I due versi compongono un detto che raccoglie
+          materiali tradizionali diversi. Bédier-Aubry 1909, 24, rimanda a Leroux de Lincy 18592,
+          II, pp. 138, 394 e 476. Dijkstra 1995a, p. 99, n. 138, rimanda ai proverbi: Ki bien set et
+          le mal prent / fous est tres nayv[e</p>
+        <p corresp="#rs.1967.fro:(n=37)">Se m’eïst Il, mult bial luier: Paradis par afaitemant!. Il
+          medesimo motivo si trova in Huon de Saint-Quentin, Jerusalem se plaint et li païs (RS
+          1576), 43: car paradis en ara de loier; e in Maistres Renas, Pour lou pueple resconforteir
+          (RS 886), 47-48: Lai iert li boens luwiers doneis / a ceauls ki l’avront deservit, e la
+          nota ai versi.</p>
+        <p corresp="#rs.1967.fro:(n=43)">Teis cuide avoir lou cuer mult sain. Schöber 1976, p. 238
+          rimanda al proverbio Telz cuide estre touz sains qui est a la mort (Morawski 1925, n.
+          2344) e ai Vers de la mort di Hélinant de Froidmont, str. XV, 11-12: Teus me cueve desoz
+          ses dras / qui cuide estre haitiez et sains (ed. Wulff et Walberg 1905). Ma un’espressione
+          simile di Elinando è ricordata anche nella Somme le Roi (secondo la lezione del ms. BnF
+          fr. 943, f. 74r), che fornisce anche un’indicazione cronologica entro cui la morte
+          coglierà il peccatore, ben più ampia che nei nostri versi: de rechief, li pechierres est
+          ausi com cil qui cuide estre forz et sains, et il a ja la mort dessouz ses dras, car il ha
+          les humeurs mauveses et corrompues ou cors, dont il morra dedanz un mois, qui cuide encore
+          .xl. anz; si com dit Elinanz es vers de la mort: “Ostez vos chiffles et vos gas, / Car
+          tieus me couve souz ses dras / Qui cuide estre et fors et sains”», cfr. Meyer 1872, che a
+          sua volta cita un passo registrato in LR II, 419b: «Si com dis Elinans, .i. trobayres, els
+          verses de la Mort: “Levatz de vos chuflas e gabs; / Car tals me coa sotz sos draps / Que
+          cuja esser fortz e sas”». 46. cant la mort lou tient a frain. Bédier 1909, p. 24 collega
+          la locuzione alla str. XV, 5 dei Vers de la mort di Hélinant: Ainçois que je vos praigne
+          as frains. Si veda anche Guida 1992, nota al verso, p. 322.</p>
+        <p corresp="#rs.1967.fro[range(@n=47,@n=48)]">ne puet ne piez ne mains / a lui sachier. Una
+          simile immagine si trova nel trecentesco Dit de Flourence de Romme attribuito a Jehan de
+          Saint-Quentin: Qu'à paine pooit-ele ne pié ne main sachier, ed. Munk Olsen 1978, p. 100. </p>
+        <p corresp="#rs.1967.fro:(n=49)">keute. I due testimoni hanno keuce C e keuse U, che non
+          danno senso. Si segue la lezione pubblicata da Bédier, che accoglie la congettura di J.
+          Cornu (Mélange. IV, in Romania, X (1881), p. 218) che interpreta keute come couette,
+          traducendo ‘lit de plume’; di conseguenza considera estrain ‘lit de paille’; si veda anche
+          Godefroy II, 333 s.v. coulte e IX, 232 s.v. 2.coute. Una seconda possibilità riguarda
+          keute indicante propriamente ‘birra’ (cfr. FEW XVI, 349a, s.v. koyte) e anche in questo
+          caso potrebbe indicare i piaceri mondani che si abbandonano nella conversione (estrain
+          potrebbe allora indicare ‘il saio del pentimento’).</p>
+        <p><hi rend="italic">estrain</hi>: cfr. TL III, 1436, s.v. <hi rend="italic">estraim</hi>
+          (REW 8287 <hi rend="italic">stramen</hi>) ‘Stroh, Streu’, interpretato qui come
+          ‘pagliericcio’. Per tutta l’espressione si veda i <hi rend="italic">Congés</hi> di Jean
+          Bodel, 161-162: <hi rend="italic">Salue par Jehan Bodel / Cui Diex met de keute en
+            estrain</hi> (ed. Barbazan 1808, I, p. 148).</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-12-01</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Wackernagel 1846, 31; Lacour 1856, 33; San-Marte 1861-1862, <hi rend="smallcaps">i</hi> 123; Dinaux 1837-1863, <hi rend="smallcaps">iv</hi> 271; Scheler 1879, 12;
+            Brakelmann 1896, 26; Baudler 1902, 78; Orr 1915, 5; Noonan 1933, <hi rend="smallcaps">ii</hi> 205; Petersen Dyggve 1945, 30; Pauphilet 1952, 921; Picot 1975, <hi rend="smallcaps">ii</hi> 34; Dufournet 1989, 88.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Wackernagel 1846, 31; Lacour 1856, 33; San-Marte 1861-1862, <hi rend="smallcaps">i</hi> 123; Dinaux 1837-1863, <hi rend="smallcaps">iv</hi> 271; Scheler 1879, 12;
+            Brakelmann 1896, 26; Baudler 1902, 78; Orr 1915, 5; Noonan 1933, <hi rend="smallcaps">ii</hi> 205; Petersen Dyggve 1945, 30; Pauphilet 1952, 921; Picot 1975, <hi rend="smallcaps">ii</hi> 34; Dufournet 1989, 88.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(10+1).</hi> A 159a (<hi rend="italic">li Vidame</hi>), C 150v (<hi rend="italic">Guios de Provins</hi>), K 221a (<hi rend="italic">Gontier de
+              Soigniers</hi>), M 7d (<hi rend="italic">li Vidames de Chartres</hi>), Me 109r?
+            (incipit only, <hi rend="italic">Gautier de Soignies</hi>), N 107a (<hi rend="italic">Gontier de Soignies</hi>), P 75c (<hi rend="italic">Gontier de Soignies</hi>), R<hi rend="superscript">1</hi> 9r (<hi rend="italic">li Vidames de Chartres</hi>), T 106r
+              (<hi rend="italic">li Vidame de Chartres</hi>), U 57r (anonymous), a 21v (<hi rend="italic">le Vidame de Cartres</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(10+1).</hi> A 159a (<hi rend="italic">li Vidame</hi>), C 150v (<hi rend="italic">Guios de Provins</hi>), K 221a (<hi rend="italic">Gontier de
+              Soigniers</hi>), M 7d (<hi rend="italic">li Vidames de Chartres</hi>), Me 109r? (solo
+            incipit, <hi rend="italic">Gautier de Soignies</hi>), N 107a (<hi rend="italic">Gontier
+              de Soignies</hi>), P 75c (<hi rend="italic">Gontier de Soignies</hi>), R<hi rend="superscript">1</hi> 9r (<hi rend="italic">li Vidames de Chartres</hi>), T 106r
+              (<hi rend="italic">li Vidame de Chartres</hi>), U 57r (anonima), a 21v (<hi rend="italic">le Vidame de Cartres</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>8a7b’8a7b’8a7b’8a7b’ (MW 689,26 =
+        Frank 225); 5 <hi rend="italic">coblas ternas</hi> (3+2), the first three also <hi rend="italic">capfinidas</hi> (<hi rend="italic">dolor</hi> vv. 8 and 9, <hi rend="italic">donee-dont</hi> vv. 16-17); rhyme a: <hi rend="italic">-é</hi>, <hi rend="italic">-ez</hi>; rhyme b: <hi rend="italic">-ee</hi>, <hi rend="italic">-iere</hi>; identical
+        rhyme vv. 7-17 (<hi rend="italic">santé</hi>) and 33-37 (<hi rend="italic">ocïez</hi>),
+        equivocal rhyme vv. 9 and 11 (<hi rend="italic">esté</hi>); grammatical rhyme vv. 1-14 (<hi rend="italic">demoré-demoree</hi>), 4-25 (<hi rend="italic">maleüree-maleürez</hi>) and
+        16-27 (<hi rend="italic">donee-donez</hi>); paronymous rhyme vv. 16-18 (<hi rend="italic">donee-nee</hi>) and 31-35 (<hi rend="italic">lassez-assez</hi>); derivative rhyme vv.
+        28-32 (<hi rend="italic">ariere-deriere</hi>); melody in AKMNPR<hi rend="superscript">1</hi>TUa, with various variants; melodic structure ABAB’ CDEB’ (T 244).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>8a7b’8a7b’8a7b’8a7b’ (MW 689,26 =
+        Frank 225); 5 <hi rend="italic">coblas ternas</hi> (3+2), le prime tre anche <hi rend="italic">capfinidas</hi> (<hi rend="italic">dolor</hi> vv. 8 e 9, <hi rend="italic">donee-dont</hi> vv. 16-17); rima a: <hi rend="italic">-é</hi>, <hi rend="italic">-ez</hi>; rima b: <hi rend="italic">-ee</hi>, <hi rend="italic">-iere</hi>; rima identica
+        ai vv. 7-17 (<hi rend="italic">santé</hi>) e 33-37 (<hi rend="italic">ocïez</hi>), equivoca
+        ai vv. 9 e 11 (<hi rend="italic">esté</hi>); rima grammaticale ai vv. 1-14 (<hi rend="italic">demoré-demoree</hi>), 4-25 (<hi rend="italic">maleüree-maleürez</hi>) e
+        16-27 (<hi rend="italic">donee-donez</hi>); rima paronima ai vv. 16-18 (<hi rend="italic">donee-nee</hi>) e 31-35 (<hi rend="italic">lassez-assez</hi>); rima derivativa ai vv.
+        28-32 (<hi rend="italic">ariere-deriere</hi>); melodia in AKMNPR<hi rend="superscript">1</hi>TUa, con diverse varianti; schema melodico ABAB’ CDEB’ (T 244).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>A good number of common errors and lacunae show
+        the threefold division AMR<hi rend="superscript">1</hi>Ta, CU, KNP. Mss. CU generally agree
+        with KNP, and support the reading of AMR<hi rend="superscript">1</hi>Ta only when KNP are
+        erroneous. The song is attributed to three different authors by the three manuscript
+        families: AMR<hi rend="superscript">1</hi>Ta to the Vidame de Chartres, KMePN to Gontier de
+        Soignies and C to Guiot de Provins. C’s attributions are generally considered unreliable;
+        the numerous analogies with the song RS 502, the difference of style from Gontier de
+        Soignies’ usual one and the general reliability of the s<hi rend="superscript">I</hi> group
+        of witnesses induce a preference for the attribution to the Vidame de Chartres (see
+        Formisano 1980, p. xxxvi). In a situation where a choice has to be made between two
+        equivalent alternatives, CU seem to contain an excessively independent version and in AMR<hi rend="superscript">1</hi>Ta a stanza is missing; it has therefore been decided in this
+        case to follow KNP, even though in other cases this group is known to be unreliable. The
+        choice is made easier by the fact that the variants are minimal and in general do not change
+        the sense of the text. I deviate from KNP only to supplete vv. 27-29 which are partly
+        missing in these mss. (CU being followed here), and the final syllable of v. 31, and to
+        correct the hypermetric vv. 24 (<hi rend="italic">celui</hi> for <hi rend="italic">cil</hi>)
+        and 34 (initial <hi rend="italic">ne ne</hi>); finally in vv. 38-39 KNP’s reading appears
+        erroneous (in particular the possessive <hi rend="italic">s’amor</hi>) and is isolated
+        against the unanimous testimony of the other mss. Graphy of P.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Una buona quantità di errori e lacune comuni
+        permette di dividere i testimoni in tre famiglie AMR<hi rend="superscript">1</hi>Ta, CU,
+        KNP. I mss. CU si accordano in generale con KNP, e confermano la lezione di AMR<hi rend="superscript">1</hi>Ta solo in caso di errore di KNP. La canzone è attribuita a tre
+        autori diversi dalle tre famiglie di testimoni: AMR<hi rend="superscript">1</hi>Ta
+        l’attribuiscono al Vidame de Chartres, KMePN a Gontier de Soignies e C a Guiot de Provins.
+        Le attribuzioni di C sono ritenute generalmente inaffidabili; le numerose analogie con la
+        canzone RS 502, lo stile piuttosto lontano da quello abituale di Gontier de Soignies e la
+        generale affidabilità dei testimoni del gruppo s<hi rend="superscript">I</hi> fanno
+        preferire l’attribuzione al Vidame de Chartres (si veda Formisano 1980, p. xxxvi). In una
+        situazione in cui ci si trova spesso a scegliere tra due alternative equivalenti, i mss. CU
+        sembrano avere una lezione eccessivamente autonoma e in AMR<hi rend="superscript">1</hi>Ta
+        manca una strofa; perciò si sceglie in questo caso di seguire la lezione di KNP, ben sapendo
+        che in altri casi essa si dimostra poco affidabile. La scelta è facilitata dal fatto che le
+        varianti sono minime e in generale non modificano il senso del testo. Ci si distacca da KNP
+        solo per integrare i vv. 27-29 che mancano parzialmente a questi testimoni (si ricorre alla
+        lezione di CU) e la sillaba finale del v. 31, per sanare l’ipermetria dei vv. 24 (<hi rend="italic">celui</hi> per <hi rend="italic">cil</hi>) e 34 (<hi rend="italic">ne
+          ne</hi> iniziale); infine ai vv. 38-39 la lezione di KNP sembra erronea (in particolare il
+        possessivo <hi rend="italic">s’amor</hi>) ed è isolata contro la testimonianza compatta
+        degli altri manoscritti. La grafia è quella di P.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-12-09T18:44:43Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Vidame de Chartres</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.421.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>However long I have stayed outside my sweet country and endured many great
+              tribulations in an unhappy (accursed?) land, I have not forgotten the sweet pain which
+              pleases me so well, from which I do not wish to be cured, so much have I loved the
+              pain. </p>
+          </div>
+          <div n="2" type="stanza">
+            <p>I have always been in pain and wept many a tear; the finest summer’s day or year
+              seemed to me to be rain or ice, since I was forced to stay in the land I hate the
+              most: I shall never have joy in my lifetime if it is not given to me in France. </p>
+          </div>
+          <div n="3" type="stanza">
+            <p>So God grant me joy and health, and may the fairest lady in the world comfort me with
+              her beauty which has so entered my heart; and if I die in this thought, I truly
+              believe my soul will be saved; God, if only the one who married her would lend me his
+              place!</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Alas, I am too unhappy if the one to whom I have dedicated myself, to the point where
+              I cannot extricate myself, does not heed my prayer; I have concealed myself too long
+              because of those slanderous people who will never have their hearts weary of speaking
+              ill behind one’s back.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Ah, sweet creature, do not kill me, and do not be cruel or haughty towards me who
+              love you more than ever with loyal and sincere love; and if you kill me nevertheless,
+              alas, I shall pay too high a price for the love which will oppress me so; but now it
+              is sweet and light to me.</p>
+          </div>
+        </div><div type="translation" xml:id="rs.421.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Per quanto abbia soggiornato fuori dal mio dolce paese e sopportato molte grandi
+              tribolazioni in una terra sventurata [maledetta?], per questo non ho dimenticato il
+              dolce male che tanto mi piace, dal quale non voglio guarire tanto (ne) ho amato il
+              dolore.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Sono sempre stato in pena e ho pianto molte lacrime; il più bel giorno d’estate mi
+              sembrava pioggia o gelo, dal momento che mi toccava soggiornare nel paese che odio di
+              più: non avrò mai gioia in vita mia se non mi viene data in Francia.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Perciò Dio mi dia gioia e sollievo, e la più bella creatura del mondo mi conforti con
+              la sua bellezza che mi è a tal punto entrata nel cuore; e se muoio con questo
+              pensiero, credo proprio che la mia anima sarà salva; Dio, se solo colui che l’ha
+              sposata volesse cedermi il suo posto!</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Ahimè, sono troppo infelice se colei alla quale mi sono votato, al punto che non
+              posso più tirarmi indietro, non ascolta la mia preghiera; mi sono nascosto troppo a
+              lungo a causa di quella gente maldicente che non avrà mai il cuore stanco di sparlare
+              alle spalle.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Ah, dolce creatura, non uccidetemi, e non siate crudele né altera verso di me che vi
+              amo più che mai d’amore leale e sincero; e se voi tuttavia mi uccidete, ahimè, pagherò
+              troppo caro l’amore che a tal punto mi opprimerà; ma ora mi è dolce e leggero.</p>
+          </div>
+        </div></body></text></TEI>

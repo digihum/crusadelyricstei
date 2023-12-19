@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Tomaz Erjavec</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2014-03-17</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <listBibl type="manuscripts">
+                    <head>Mss. (5).</head>
+                <bibl>Baltimore, Walters Art Museum, W.142 (B), 310d-311a;</bibl>
+                <bibl>Paris, BnF, fr. 9083 (P1), 316cd; </bibl>
+                <bibl>Paris, BnF, fr. 22495 (P2), 283v;</bibl>
+                <bibl>Paris, BnF, fr. 24209 (P3), 320cd; </bibl>
+                <bibl>Torino, Biblioteca nazionale universitaria, L.I.5 (T),
+                    491cd.</bibl>
+                </listBibl>
+                <listBibl type="previous_editions">
+
+                    <bibl><hi rend="italic">Histoire littéraire de la France</hi>, XXIII, 675;
+                    </bibl>  
+
+                <bibl><hi rend="italic">Continuation Rothelin</hi>, 548;</bibl>
+                <bibl>Bédier-Aubry 1909, 217; </bibl>
+                    <bibl>Dufournet 1989, 188; </bibl>
+                        <bibl>Guida 1992, 115; </bibl>
+                            <bibl>Dijkstra 1995a, 209.</bibl>
+                                <bibl>Versification and music. </bibl>
+    
+                </listBibl>
+            <listBibl type="essential_bibliography">
+                    <bibl><hi rend="underline">Bédier 1928</hi>: Joseph Bédier, «Les chansons du
+                        comte de Bretagne», in <hi rend="italic">Mélanges de linguistique et de
+                            littérature offerts à Alfred Jeanroy par ses élèves et ses amis</hi>,
+                        Paris, Champion, 1928, pp. 477-495.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Cazel 1989</hi>: Fred A. Cazel, Jr.,
+                    «Financing the Crusades», in <hi rend="italic">A History of the Crusades</hi>,
+                    general editor Kenneth M. Setton, vol. VI, Madison, The University of Wisconsin
+                    Press, 1989, pp. 116-149</bibl>
+                <bibl rend="Bibliography"><hi rend="underline"><pb type="soft"/>Edbury 2007</hi>: Peter
+                    Edbury, «The French Translation of William of Tyre’s <hi rend="italic">Historia</hi>: the Manuscript Tradition», <hi rend="italic">Crusades</hi>,
+                    6, 2007, pp. 69-105.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Grossel 2000</hi>: Marie-Geneviève
+                    Grossel, «Les Champenois et l’appel de l’outremer au XIII<hi rend="superscript">e</hi> siècle», in <hi rend="italic">Mémoire de Champagne</hi>, <hi rend="italic">Actes du troisième mois médiéval, Centre d’études médiévales
+                        de la région Champagne-Ardenne</hi>, II, Langres, Guéniot, 2000, pp.
+                    105-131.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Guida 2006</hi>: Saverio Guida,
+                    «L’autore e il latore di <hi rend="italic">Vai, Hugonet, ses bistensa</hi> (BdT
+                    461,247)», <hi rend="italic">Cultura neolatina</hi>, 66, 2006, pp. 45-82.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Jackson 1987</hi>: Peter Jackson, «The
+                    crusades of 1239-41 and their aftermath», <hi rend="italic">Bulletin of the
+                        School of Oriental and african Studies</hi>, 50, 1987, pp. 32-60.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Köhler 2000</hi>: Erich Köhler,
+                    L’avventura cavalleresca, ideale e realtà nei romanzi della Tavola Rotonda,
+                    Bologna, Il Mulino, 2000</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Lower 2005</hi>: Michael Lower, <hi rend="italic">The Baron’s Crusade: a call to arms and its consequences</hi>,
+                    Philadelphia, University of Pennsylvania Press, 2005.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Marshall 1980</hi>: John H. Marshall,
+                    «Pour l’étude des <hi rend="italic">contrafacta</hi> dans la poésie des
+                    troubadours», <hi rend="italic">Romania</hi>, 101, 1980, pp. 289-335.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Morgan 1982</hi>: Margaret R. Morgan,
+                    «The Rothelin Continuation of William of Tyre», in <hi rend="italic">Outremer.
+                        Studies in the history of the Crusading Kingdom of Jerusalem presented to
+                        Joshua Prawer</hi>, edited by Benjamin Z. Kedar, Hans E. Mayer, Raymond C.
+                    Smail, Jerusalem, Yad Izhak Ben-Zvi Institute, 1982, pp. 244-257.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Painter 1989</hi>: Sidney Painter, «The
+                    Crusade of Theobald of Champagne and Richard of Cornwall, 1239-1241», in <hi rend="italic">A History of the Crusades</hi> (Editor in Chief, Kenneth Meyer
+                    Setton), II, <hi rend="italic">The Later Crusades, 1189-1311</hi>, Edited by R.
+                    L. Wolff and Harry W. Hazard, Madison, University of Wisconsin Press, 1989, pp.
+                    463-487.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Petersen Dyggve 1938</hi>: Holger
+                    Petersen Dyggve, <hi rend="italic">Moniot d’Arras et Moniot de Paris, trouvères
+                        du XIIIe siècle, édition des chansons et étude historique</hi>, Helsinki,
+                    Imprimérie de la Société de littérature finnoise, 1938.</bibl>
+                <bibl rend="Bibliography"><hi rend="underline">Röhricht 1886</hi>: Reinhold Röhrich,
+                    «Die Kreuzzüge des Grafen Theobald von Navarra und Richard von Cornwallis, nach
+                    dem heiligen Lande», <hi rend="italic">Forschungen zur deutschen
+                    Geschichte</hi>, 26, 1886, pp. 67-102.</bibl>
+            </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+                <editorialDecl xml:lang="en">
+                    <p>See the corresponding paragraph in the introduction to RS 164.</p></editorialDecl>
+            <editorialDecl xml:lang="it"><p><hi rend="bold">Si veda il paragrafo corrispondente nell’introduzione della canzone RS 164.</hi></p></editorialDecl>
+                <metDecl pattern="7a&#x2019;bba&#x2019;a&#x2019;ba&#x2019;a&#x2019;ba&#x2019;" xml:lang="en">
+                    <p>7a’bba’a’ba’a’ba’ (MW 1302,1 = Frank 472); 5 <hi rend="italic">coblas
+                        unissonans</hi>; rhyme a = <hi rend="italic">-ie</hi>; rhyme b = <hi rend="italic">-ou(r)s</hi>. The same metrical shape appears in seven other
+                    texts, all in 7-syllable lines and with the same alternation of m. and f.
+                    rhymes; among these is RS 1141 (the Count of Brittany), with 5 <hi rend="italic">coblas unissonans</hi> and identical rhymes, while the first 3 stanzas of
+                    RS 1135 (Moniot d’Arras) also has the same rhymes <hi rend="italic">-ie</hi>/
+                        <hi rend="italic">-ous</hi>. The same scheme but with different rhymes is
+                    used in the anonymous crusade song RS 1738a, datable to 1244-1245. Among
+                    troubadour texts the metrical shape is used by Raimon de Miraval in the <hi rend="italic">canso</hi> BdT 406.7 (m. rhymes only) and the anonymous <hi rend="italic">sirventes</hi> BdT 461.247 which has the same alternance of m.
+                    and f. rhymes (e rhyme <hi rend="italic">-ia</hi> / <hi rend="italic">-os</hi>
+                    in st. III and IV). Two lines are missing at the end of st. I, and the sentence
+                    may be incomplete, hence the indication of a lacuna.</p>
+                </metDecl>
+            <metDecl pattern="7a&#x2019;bba&#x2019;a&#x2019;ba&#x2019;a&#x2019;ba&#x2019;" xml:lang="it">
+                <p>(MW 1302,1 = Frank 472); 5 <hi rend="italic">coblas unissonans</hi>; rima a = <hi rend="italic">-ie</hi>; rima b = <hi rend="italic">-ou(r)s</hi>; lo stesso schema metrico è adottato da altri sei
+                    testi, tutti in settenari e con la stessa alternanza di rime maschili e
+                    femminili; tra questi vi è la canzone RS 1141 del Conte di Bretagna che ha la
+                    stessa struttura a cinque <hi rend="italic">coblas unissonans</hi> e le stesse
+                    rime, mentre le prime tre strofi della canzone RS 1135 di Moniot d’Arras hanno
+                    anch’esse le stesse rime <hi rend="italic">-ie</hi>/ <hi rend="italic">-ous</hi>; va aggiunto inoltre che lo stesso schema, con rime diverse, è
+                    usato dalla canzone di crociata anonima RS 1738a, databile al 1244-1245; tra i
+                    testi trobadorici lo schema è usato da Raimon de Miraval nella canzone BdT 406.7
+                    (solo rime maschili) e nel sirventese anonimo BdT 461.247 che ha la stessa
+                    alternanza di rime maschili e femminili (e rime <hi rend="italic">-ia</hi> / <hi rend="italic">-os</hi> nelle strofi iii e iv); mancano due versi alla fine
+                    della prima strofe, e la frase precedente potrebbe essere incompleta; per questo
+                    motivo la lacuna viene segnalata graficamente.</p>
+            </metDecl>
+            <appInfo>
+                <application ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2014-03-17T15:13:02Z</date><name>Tomaz Erjavec</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader><text><front>
+        <p rend="Title">RS 1133 Anonimo</p>
+        <p><hi rend="italic bold">Ne chant pas, que que nuls die</hi></p>
+    </front><body><div type="translation" xml:id="RS.1133.eng" corresp="RS.1133.fro" xml:lang="en">
+                    <div type="stanza" n="1"><p>Whatever people may say, I do not sing with a happy or joyful heart while our
+                    barons are idle in the land of Syria; they have not yet attacked any city or
+                    castles or towns; because of a foolish sortie the count of Bar has lost his
+                    life... </p>
+                    </div>
+                    <div type="stanza" n="2"><p>If the barons act out of rivalry everything will go downhill: there are too many
+                        arrogant men vying with each other. If God does not punish this pride, they will
+                        have wasted their labours and put their efforts to poor use; if this crusade is
+                        a failure the return will be dishonourable and Holy Church humiliated.</p></div>
+                    <div type="stanza" n="3"><p>They have not yet carried out any exploit producing profit or honour, or
+                        demonstrated their valour of which news is heard; if God does not punish this
+                        pride, they are heading for total downfall. Such a high company of barons, when
+                        it left France, was said to be the finest flower of the world. </p></div>
+                    <div type="stanza" n="4"><p>It is not the fault of the young knights or poor vavassors: the idle wait weighs
+                    heavily on those who have mortgaged their land and have no compassion or aid or
+                    comfort from the great lords, when their money has run out. They do not deserve
+                    to die there: if they hurry back home, it would be folly to blame them.</p></div>
+                    <div type="stanza" n="5"><p>The people of France pray, lord prisoners, for you; you were too proud in
+                    showing off your valour – a foolish reckless ardour carried you away from help.
+                    The Turks hold you in their power; now may the son of Mary give thought to this,
+                    for it will be most painful if God does not liberate you from them.</p></div>
+                </div><div type="translation" xml:id="RS.1133.it" corresp="RS.1133.fro" xml:lang="it">
+                        <div type="stanza" n="1"><p>Checché se ne dica, non canto col cuore lieto e gioioso, mentre i nostri baroni
+                    stanno inoperosi in terra di Siria; non hanno ancora attaccato una (sola) città,
+                    né castelli né borghi; a causa di una sortita sconsiderata il conte di Bar ha
+                    perso la vita...</p></div>
+                        <div type="stanza" n="2"><p>Se i baroni agiscono per rivalità andrà tutto storto: ci sono troppi orgogliosi
+                    che si portano reciproca invidia; se Dio non punisce l’orgoglio, le loro fatiche
+                    saranno sprecate, e la loro <pb type="soft"/>sofferenza sarà inutile; se questa
+                    crociata è un fallimento, il ritorno sarà disonorevole e la santa Chiesa sarà
+                    umiliata.</p></div>
+                        <div type="stanza" n="3"><p>Non hanno ancora compiuto nessuna azione da cui venga profitto e onore, né
+                    mostrato il loro valore, in modo che se ne oda la notizia; se Dio non punisce
+                    l’orgoglio, sono destinati al completo fallimento; una così alta compagnia di
+                    baroni, quando è partita dalla Francia, si diceva che era il fiore e il meglio
+                    del mondo.</p></div>
+                        <div type="stanza" n="4"><p>I giovani cavalieri non hanno colpa, né i poveri valvassori: è pesante l’inerzia
+                    per costoro, che hanno impegnato la loro terra, e non hanno comprensione né
+                    aiuto né conforto dai grandi signori, quando il loro denaro è finito. Essi non
+                    hanno meritato la morte laggiù: se tornano indietro in fretta, sarebbe una
+                    follia biasimarli.</p></div>
+                        <div type="stanza" n="5"><p>Il popolo di Francia prega, signori prigionieri, per voi; siete stati troppo
+                    smaniosi di mettere in mostra il vostro valore, un ardore folle e temerario vi
+                    ha allontanato dai soccorsi; i turchi vi tengono in loro potere: ora ci pensi il
+                    figlio di Maria, perché sarà un grande dolore se Dio non vi libera da loro.</p></div>
+                </div></body></text></TEI>

@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-03-06</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Luciano Formisano, 1980.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Luciano Formisano, 1980.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: (1). T 115v-116r (<hi rend="italic">Gontiers</hi>; empty
+            stave).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: (1) T 115v-116r (<hi rend="italic">Gontiers</hi>;
+            tetragramma vuoto).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>6 a a a a B<hi rend="subscript">3</hi> 6 b b b b C<hi rend="subscript">5</hi> C<hi rend="subscript">7</hi>; rhyme a = <hi rend="italic">-ir</hi>; rhyme b = <hi rend="italic">-er</hi>; rhyme c = <hi rend="italic">-our</hi>; six <hi rend="italic">coblas unissonans</hi>. Equivocal rhymes: <hi rend="italic">penser</hi> 8 (intransitive) / 31 (transitive), <hi rend="italic">endurer</hi> 19 and 42 (used absolutely); derivative rhymes 30 / 31, 62 / 63.</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>6 a a a a B<hi rend="subscript">3
+        </hi>6 b b b b C<hi rend="subscript">5 </hi>C<hi rend="subscript">7</hi>; rima a = <hi rend="italic">-ir</hi>; rima b = <hi rend="italic">-er</hi>; rima c = <hi rend="italic">-our</hi>; sei <hi rend="italic">coblas unissonans</hi>. Rime equivoche: <hi rend="italic">penser</hi> 8 (intransitivo) / 31 (transitivo), <hi rend="italic">endurer</hi> 19 / 42 (impiego assoluto); rime derivative 30 / 31, 62 / 63.</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The single ms. T, adopted as base by Formisano
+        for his whole edition of Gontier de Soignies’ songs (see p. lxiii), contains a number of
+        errors, particularly in stanza II where Scheler and Formisano consider vv. 16-17 to have
+        been interpolated by a different author.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Il manoscritto unico T, usato come base da
+        Formisano per l’edizione di tutti i testi di Gontier de Soignies (si veda p. lxiii),
+        contiene numerosi errori, soprattutto nella strofa II dove Scheler e Formisano considerano i
+        vv. 16-17 interpolati da un altro autore.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-03-13T10:18:46Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Gontier de Soignies</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1404.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Now that I see the season turning light and green, I cannot be merry, for I am
+              tormented by a great sorrow. <hi rend="italic">Alas, the bitterness!</hi> I make an
+              attempt to sing to comfort myself, for I am forced to think of a place where I cannot
+              recover. <hi rend="italic">Each day my pain grows and doubles.</hi></p>
+          </div>
+          <div n="2" type="stanza">
+            <p>That lady should be abhorred and love of her abandoned; it is most grievous to suffer
+              great love without satisfaction. [Alas, why am I deprived of it, when I entirely do
+              its bidding?] <hi rend="italic">Alas, the bitterness!</hi> Who could endure having to
+              suffer so much? Such long abstinence may well drive a man mad. <hi rend="italic">Each
+                day my pain grows and doubles.</hi></p>
+          </div>
+          <div n="3" type="stanza">
+            <p>I desire and yearn for it so much that I cannot turn elsewhere, but I am ruined by
+              the thing against which I have no protection (?). <hi rend="italic">Alas, the
+                bitterness!</hi> I cannot but be tormented, for it is impossible to think of another
+              as beautiful as her, nor did I ever see her commit any fault. <hi rend="italic">Each
+                day my pain grows and doubles.</hi></p>
+          </div>
+          <div n="4" type="stanza">
+            <p>I prefer to languish thus between life and death than to welcome another who loves me
+              steadfastly. <hi rend="italic">Alas, the bitterness!</hi> To hope for a great reward
+              one must endure much; alas! I cannot abandon her or forget my pain. <hi rend="italic">Each day pain grows and doubles.</hi></p>
+          </div>
+          <div n="5" type="stanza">
+            <p>I was never able to lie to Love or betray it; whatever may befall I cannot be cured
+              without it. <hi rend="italic">Alas, the bitterness!</hi> I cannot escape elsewhere but
+              [must] endure my great torment and remain at its (Love’s) mercy, suffer and sigh. <hi rend="italic">Each day my pain grows and doubles.</hi></p>
+          </div>
+          <div n="6" type="stanza">
+            <p>In the end, Gontier, if he cannot attain more, wishes to leave all torments behind
+              and abandon this world. <hi rend="italic">Alas, the bitterness!</hi> I shall voyage
+              across the sea for the sake of God and become a Templar, for I wish to go away to
+              where I hear no [idle] talk. <hi rend="italic">Each day my pain grows and
+                doubles.</hi></p>
+          </div>
+        </div><div type="translation" xml:id="rs.1404.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Quando vedo la stagione farsi luminosa e verde, io non posso rallegrarmi, perché sono
+              crucciato a causa di un grande dolore. <hi rend="italic">Ahimè, l’amarezza!</hi> Provo
+              a cantare per confortarmi, perché sono costretto a pensare a colei che non posso
+              avere. <hi rend="italic">Ogni giorno il mio dolore cresce e raddoppia</hi>.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Costei dev’essere disprezzata e non amata; è molto difficile sopportare un grande
+              amore senza soddisfazione. [Ahimè, perché ne sono privo, dal momento che faccio tutto
+              ciò che vuole?] <hi rend="italic">Ahimè, l’amarezza!</hi> Chi potrebbe sopportare di
+              dover soffrire così tanto? Una lunga privazione può far impazzire un uomo. <hi rend="italic">Ogni giorno il mio dolore cresce e raddoppia</hi>.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Io la desidero e bramo così tanto che non posso pensare ad altro, ma il fatto di non
+              poterne fare a meno è la mia rovina. <hi rend="italic">Ahimè, l’amarezza!</hi> È
+              normale che soffra, perché è impossibile immaginarne un’altra bella come lei, e non
+              l’ho mai vista fare nulla di sbagliato. <hi rend="italic">Ogni giorno il mio dolore
+                cresce e raddoppia</hi>.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Preferisco languire così tra la vita e la morte che avere un’altra che mi ami in modo
+              incondizionato. <hi rend="italic">Ahimè, l’amarezza!</hi> Per sperare in un grande
+              premio si deve sopportare molto; ahimè! non posso lasciarla né dimenticare il mio
+              dolore. <hi rend="italic">Ogni giorno il mio dolore cresce e raddoppia</hi>.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Non sono mai stato capace di mentire ad Amore o di tradirlo; qualunque cosa accada,
+              non posso guarire senza di lui. <hi rend="italic">Ahimè, l’amarezza!</hi> Non posso
+              fare altro che sopportare il mio grande dolore e rimanere alla sua mercé, soffrire e
+              sospirare. <hi rend="italic">Ogni giorno il mio dolore cresce e raddoppia</hi>.</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Alla fine, Gontier, se non può ottenere di più, vuole lasciarsi tutti i tormenti alle
+              spalle e abbandonare questo mondo. <hi rend="italic">Ahimè, l’amarezza!</hi>
+              Attraverserò il mare per amore di Dio e mi farò templare, perché voglio andare dove
+              non si sentano (vani) discorsi. <hi rend="italic">Ogni giorno il mio dolore cresce e
+                raddoppia</hi>.</p>
+          </div>
+        </div></body></text></TEI>

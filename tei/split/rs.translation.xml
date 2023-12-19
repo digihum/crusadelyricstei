@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2014-05-06</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Raynaud 1887; Paris – Mas Latrie 1906; Kohler 1913; Melani 1994, 126.</bibl>
+        </listBibl>
+        <listBibl type="essential_bibliography">
+          <bibl>Bromiley 1977: Geoffrey N. Bromiley, «Philip of Novara’s account of the war between
+            Frederick II of Hohenstaufen and the Ibelins», Journal of Medieval History, 3, 1977, pp.
+            325-337.</bibl>
+          <bibl>Edbury 1991: Peter W. Edbury, The Kingdom of Cyprus and the Crusades (1191-1374),
+            Cambridge University Press,1991.</bibl>
+          <bibl>Edbury 1997: Peter W. Edbury, John of Ibelin and the Kingdom of Jerusalem,
+            Woodbridge, The Boydell Press, 2007.</bibl>
+          <bibl>Hill 1948: George Hill, A History of Cyprus, II, The Frankish Period (1192-1432),
+            Cambridge University Press, 1948.</bibl>
+          <bibl>Jacoby 1984: David Jacoby, «La littérature française dans les états latins de la
+            Méditerranée orientale à l’époque des croisades: diffusion et création», in Essor et
+            fortune de la Chanson de geste dans l’Europe et l’Orient latin, actes du IXe congrès
+            international de la Société Rencesvals pour l’étude des épopées romanes, Padoue-Venise,
+            29 août - 4 septembre 1982, II, Modena, Mucchi, 1984, pp. 617-646.</bibl>
+          <bibl>Kohler 1913: Philippe de Novare, Mémoires, édités par Charles Kohler, Paris,
+            Champion, 1913.</bibl>
+          <bibl>La Monte – Hubert 1936: John L. La Monte, Merton J. Hubert, The Wars of Frederick II
+            against the Ibelins in Syria and Cyprus, New York, Columbia University Press,
+            1936.</bibl>
+          <bibl>La Monte 1937: John L. La Monte, «John d’Ibelin, the Old Lord of Beirut, 1177-1236»,
+            Byzantion, 12, 1937, pp. 417-448.</bibl>
+          <bibl>Lefèvre 1998: Sylvie Lefèvre, «Philippe de Novare, Mémoires. Notice», in Le Roman de
+            Renart, édition publiée sous la direction d’Armand Strubel, Paris, Gallimard, 1998, pp.
+            1386-1393.</bibl>
+          <bibl>Mas Latrie 1852-1861: Louis de Mas Latrie, Histoire de l’île de Chypre sous le règne
+            des princes de la maison de Lusignan, 3 voll., Paris, Imprimerie impériale,
+            1852-1861.</bibl>
+          <bibl>Melani 1994: Guerra di Federico II in Oriente (1223-1242), introduzione, testo
+            critico, traduzione e note a cura di Silvio Melani, Napoli, Liguori, 1994.</bibl>
+          <bibl>Paris 1890: Gaston Paris, «Philippe de Novare», Romania, 19, 1890, pp.
+            99-102.</bibl>
+          <bibl>Paris 1902: Gaston Paris, «Les Mémoires de Philippe de Novare», Revue de l’Orient
+            latin, 9, 1902, pp. 164-205, poi in Gaston Paris, Mélanges de littérature française du
+            Moyen Âge, publiés par Mario Roques, Paris, Champion, 1912, pp. 427-470.</bibl>
+          <bibl>Paris – Mas Latrie 1906: Les Gestes des Chiprois, éd. Gaston Paris et Louis de Mas
+            Latrie, in Recueil des Historiens des Croisades, Documents Armeniens, II, Paris,
+            Imprimerie nationale, 1906, pp. 653-872.</bibl>
+          <bibl>Raynaud 1887: Les Gestes des Chiprois, recueil de chroniques françaises écrites en
+            Orient aux XIIIe et XIVe siècles (Philippe de Navarre et Gérard de Monréal), publié pour
+            la première fois pour la Société de l’Orient latin par Gaston Raynaud, Genève, Fick,
+            1887.</bibl>
+          <bibl>Tanniou 2013: Florence Tanniou, «L’Histoire entre chronique et travestissement dans
+            les Mémpores de Philippe de Novare: le sens des métamorphoses», comunicazione orale al
+            colloquio Parodie courtoises / Parodies de la courtoisie, XIVth Congress of the
+            International Courtly Litterature Society, Lisbon, 22-27 July 2013.</bibl>
+          <bibl>Cronache.</bibl>
+          <bibl>Amadi: Chroniques d’Amadi et de Strambaldi, publiées par M. René de Mas Latrie, I,
+            Chronique d’Amadi, Paris, Imprimerie nationale, 1891.</bibl>
+          <bibl>Bustrone: Chronique de l’île de Chypre par Florio Bustron, publiée par M. René de
+            Mas Latrie, Paris, Imprimerie nationale, 1884.</bibl>
+          <bibl>Continuation Rothelin: Continuation de Guillaume de Tyr, de 1229 à 1261, dite du
+            manuscrit de Rothelin, in Recueil des historiens des croisades, publié par les soins de
+            l’Académie des Inscriptions et des Belles-Lettres, Historiens occidentaux, II, Paris,
+            Imprimerie impériale, 1859, pp. 485-639 (traduz. inglese: Crusader Syria in the
+            Thirteenth Century. The Rothelin Continuation of the History of William of Tyre with
+            part of the Eracles or Acre text. Edited by Janet Shirley, Aldershot, Ashgate,
+            1999).</bibl>
+          <bibl>Eracles: L’estoire de Eracles empereur et la conqueste de la terre d’Outremer, in
+            Recueil des historiens des croisades, publié par les soins de l’Académie des
+            Inscriptions et des Belles-Lettres, Historiens occidentaux, II, Paris, Imprimerie
+            impériale, 1859, pp. 1-481 (traduz. inglese: Crusader Syria in the Thirteenth Century.
+            The Rothelin Continuation of the History of William of Tyre with part of the Eracles or
+            Acre text. Edited by Janet Shirley, Aldershot, Ashgate, 1999).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl>Turin, Biblioteca Reale, Varia 433, f. 39r (47r); Paris, BnF, n.a. fr. 6680 (modern
+            copy of the Turin ms. made by Carlo Perrin and checked by Gaston Raynaud against the
+            original), f. 47r. As usual it has been possible to follow the graphy and readings of
+            the Turin ms., only correcting the hypometric vv. 1 and 9 and the hypermetric v. 2; the
+            translation is that of Melani 1994 with a few modifications.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl>Torino, Biblioteca Reale, Varia 433, f. 39r (47r); Paris, BnF, n.a. fr. 6680 (copia
+            moderna del ms. di Torino eseguita da Carlo Perrin e ricontrollata da Gaston Raynaud
+            sull’originale), f. 47r. Come di consueto si rispetta il più possibile la grafia e la
+            lezione del manoscritto di Torino, correggendo solo le ipometrie (vv. 1 e 9) e
+            ipermetrie (v. 2); la traduzione è quella di Melani 1994 con qualche modifica.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;" xml:lang="en"><p>10a’b’b’a’ccd’d’ (MW 1431,6 =
+        Frank 577); 2 <hi rend="italic">coblas unissonans</hi>; rhyme a = <hi rend="italic">-aire</hi>; rhyme b = <hi rend="italic">-ie</hi>; rhyme c = <hi rend="italic">-o(u)r</hi>; rhyme d = <hi rend="italic">-endre</hi>; identical versification and rhymes in
+        the “sirventes” RS 184a; one approximate rhyme in v. 12 (<hi rend="italic">terre</hi> rhymes
+        in <hi rend="italic">-aire</hi>).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10a’b’b’a’ccd’d’ (MW 1431,6 =
+        Frank 577); 2 <hi rend="italic">coblas unissonans</hi>; rima a = <hi rend="italic">-aire</hi>; rima b = <hi rend="italic">-ie</hi>; rima c = <hi rend="italic">-o(u)r</hi>;
+        rima d = <hi rend="italic">-endre</hi>; stesso schema e rime del “sirventese” RS 184a; una
+        rima imperfetta per l’orecchio al v. 12 (<hi rend="italic">terre</hi> in rima con <hi rend="italic">-aire</hi>).</p></metDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2014-05-06T16:17:16Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Philippe de Novare</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.190a.en" xml:lang="en">
+          <head> Translation </head>
+          <div type="stanza">
+            <p><hi rend="italic">This is the rhyme which Sir Philippe de Novare composed when he was
+                wounded outside the castle of Dieudamour, during the siege:</hi></p>
+          </div>
+          <div n="1" type="stanza">
+            <p>I am wounded, but still I cannot be silent concerning Sir Renart and the rest of his
+              company, which because of him is starving and dishonoured inside Maupertuis, where he
+              is taking refuge. But if Renart is in fear for his life, what harm have the other
+              vavassors and the sergeants done? Why are they allowing themselves to be sold? Someone
+              is keeping them waiting [for reinforcements] like fools.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Renart knows more about treachery than Ganelon, who betrayed France. He has stuffed
+              his den full of food: he has instated himself there to rule the land and dupes them
+              every day concerning peace. Anyone who serves such a traitor is much dishonoured: so
+              he can be served he has him hanged here outside, but he makes the ones inside take
+              flight.</p>
+          </div>
+        </div><div type="translation" xml:id="rs.190a.it" xml:lang="it">
+          <head> Translation </head>
+          <div type="stanza">
+            <p><hi rend="italic">Questo è il componimento che messer Filippo da Novara fece, quando
+                fu ferito davanti al castello di Diodamore, nel corso dell’assedio:</hi></p>
+          </div>
+          <div n="1" type="stanza">
+            <p>Ferito son, ma ancora non posso stare zitto<lb/>su don Rainardo e il resto della sua
+              compagnia,<lb/>che per sua colpa ha fame ed è disonorata<lb/>là dentro a Malpertugio,
+              dove egli si rifugia.<lb/>Ma se Rainardo teme per la sua propria vita<lb/>che male
+              hanno mai fatto quegli altri valvassori<lb/>e i sergenti? Perché si lascian cosi
+              vendere?<lb/>Come stolti li fa attendere i rinforzi.<lb/></p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Rainardo meglio sa tradire assai di quanto<lb/>non seppe fare Gano, che la Francia
+              tradi.<lb/>Per sé Rainardo ha empito la sua tana di cibo:<lb/>là dentro egli è
+              insediato per governar la terra<lb/>e riguardo alla pace li beffa egli ogni
+              giorno.<lb/>Certo è disonorato chi serve il traditore:<lb/>per farsi ben servire lo fa
+              impiccar qua fuori,<lb/>e dentro li fa invece fuggir senza ritegno.<lb/></p>
+          </div>
+        </div></body></text></TEI>

@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author>
+          <name>Linda</name>
+          <surname>Paterson</surname>
+        </author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2015-12-02</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Paris 1833, 5; Leroux de Lincy, I, 94; Bartsch 1870, 57; Brakelmann 1913, 107;
+            Cullmann 1914, 99; Saba 1955, 92; Zink 1978, 107.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Paris 1833, 5; Leroux de Lincy, I, 94; Bartsch 1870, 57; Brakelmann 1913, 107;
+            Cullmann 1914, 99; Saba 1955, 92; Zink 1978, 107.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(3). </hi>M 148r-v (<hi rend="italic">Audefrois</hi>), T 57r-v (<hi rend="italic">Audefrois li Bastars</hi>), C 33r-v (<hi rend="italic">Adefrois li
+              Baistairs</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(3). </hi>M 148r-v (<hi rend="italic">Audefrois</hi>), T 57r-v (<hi rend="italic">Audefrois li Bastars</hi>), C 33r-v (<hi rend="italic">Adefrois li
+              Baistairs</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p><hi rend="Tabella_semplice_5">10'aaa 8bb 6C (MW 237,1); 13 <seg rend="italic">coblas</seg>
+          <seg rend="italic">unissonans</seg> + 1 <seg rend="italic">refrain</seg>; rhyme a: -<seg rend="italic">ise</seg>; rhyme b: -<seg rend="italic">our</seg>; rhyme c: -<seg rend="italic">ars</seg>; melodic structure </hi>AA’BCD/E <hi rend="Tabella_semplice_5">(T 930).</hi>
+        <hi rend="italic">Décasyllabes a maiore</hi>: vv. 21, 38, 57, 62. Lyric caesura: vv. 14, 45,
+        51, 56, 68; Italian caesura: v. 73; elision at the caesura: v. 74. The song is a <hi rend="italic">unicum</hi> among Old French versification; its essentially musical nature
+        is demonstrated by the juxtaposition of the fixed form of the <hi rend="italic">rondeau
+          C'est la jus, la jus desouz la coudroie</hi> (B 165 = MW 237,2) with a different syllabic
+        formula. For the possibility of seeing in the <hi rend="italic">refrain</hi> of <hi rend="italic">bele Ysabeaus</hi> the equivalent of a <hi rend="italic">vers orphelin</hi>,
+        a short last six-syllable line with an isolated rhyme concluding the laisses of many epic
+        poems, see Radaelli 2015 (or 2016).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p><hi rend="Tabella_semplice_51">10'aaa 8bb 6C (MW 237,1); 13 <seg rend="italic">coblas</seg>
+          <seg rend="italic">unissonans</seg> + 1 <seg rend="italic">refrain</seg>; rima a: -<seg rend="italic">ise</seg>; rima b: -<seg rend="italic">our</seg>; rima c: -<seg rend="italic">ars</seg>; schema melodico </hi>AA’BCD/E <hi rend="Tabella_semplice_51">(T
+          930).</hi>
+        <hi rend="italic">Décasyllabes a maiore</hi>: vv. 21, 38, 57, 62. Cesura lirica: vv. 14, 45,
+        51, 56, 68; cesura italiana: v. 73; elisione in cesura: v. 74. La canzone è un <hi rend="italic">unicum</hi> nel panorama metrico oitanico; la sua natura essenzialmente
+        musicale è evidenziata dall'accostamento alla forma fissa del <hi rend="italic">rondeau
+          C'est la jus, la jus desouz la coudroie</hi> (B 165 = MW 237,2), con diversa formula
+        sillabica. Sulla possibilità di riconoscere nel <hi rend="italic">refrain</hi> della <hi rend="italic">bele Ysabeaus</hi> il corrispondente di un <hi rend="italic">vers
+          orphelin</hi>, quel piccolo verso finale di sei sillabe, indipendente per rima, che
+        termina le lasse di molti poemi epici, cfr. Radaelli 2015 (o 2016).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The two manuscripts MT have essentially the same
+        text, with minimal variants at most (vv. 45, 56, 58, 69, 71, 73, 74). MC’s reading is
+        followed in v. 2 (<hi rend="italic">et il li</hi>) as opposed to T (<hi rend="italic">per
+          amors</hi>), and in v. 41, where T has an extra syllable. C does not transmit the whole of
+        st. VI (vv. 31-36), and in v. 45 reads <hi rend="italic">lors sen retorne</hi> as opposed to
+        M <hi rend="italic">lors se croisa </hi>and T <hi rend="italic">lors se croise</hi>. In both
+        cases it is necessary both to preserve the stanza, which maintains the symmetry of the text
+        in the central part, from st. III to st. VIII (III <hi rend="italic">Quant sot Gerars</hi>;
+        IV <hi rend="italic">Amis Gerart</hi>; V <hi rend="italic">Amis Gerart</hi>; VI <hi rend="italic">Dame</hi>; VII <hi rend="italic">Dame</hi>; VIII <hi rend="italic">Quant
+          voit Gerars</hi>), and the reference to the taking of the cross which forms the necessary
+        anticipation of v. 62. C’s reading is adopted solely in the final refrain, in stanza XIII,
+        since it amounts to a variation of the <hi rend="bold">t</hi>repeated final formula that
+        functions as a turning-point in the dramatic narrative (MT repeat the refrain <hi rend="italic">Et ioie atent Gerars</hi>). The edition essentially follows the readings and
+        graphy of T, which as usual presents a greater number of northern features than M.</p> </editorialDecl>
+      <editorialDecl xml:lang="it"><p>I due testimoni MT hanno la stessa lezione, per
+        lo più con varianti minime (vv. 45, 56, 58, 69, 71, 73, 74). Si segue la lezione di MC al v.
+        2 (<hi rend="italic">et il li</hi>) vs T (<hi rend="italic">per amors</hi>), e al v. 41,
+        essendo T ipometro di una sillaba. Segnalo che C non trasmette l'intera str. VI (vv. 31-36),
+        e al v. 45 riporta la lezione <hi rend="italic">lors sen retorne</hi> vs M <hi rend="italic">lors se croisa </hi>e T <hi rend="italic">lors se croise</hi>. In entrambi i casi si
+        impongono sia la conservazione della strofe, che mantiene la simmetria circolare del testo
+        nella parte centrale, dalla str. III alla str. VIII (III <hi rend="italic">Quant sot
+          Gerars</hi>; IV <hi rend="italic">Amis Gerart</hi>; V <hi rend="italic">Amis Gerart</hi>;
+        VI <hi rend="italic">Dame</hi>; VII <hi rend="italic">Dame</hi>; VIII <hi rend="italic">Quant voit Gerars</hi>), sia il riferimento alla presa della croce che costituisce
+        l'aggancio necessario col v. 62. Si mette a testo la lezione di C solo nell'ultimo <hi rend="italic">refrain</hi> della str. XIII, perché si configura come una variazione della
+        formula ripetitiva finale funzionale allo svolgimento drammatico-narrativo della <hi rend="italic">chanson d'histoire</hi> (MT ripetono il refrain <hi rend="italic">Et ioie
+          atent Gerars</hi>). Si segue sostanzialmente la lezione e la grafia di T, che di solito
+        presenta un maggior numero di tratti settentrionali rispetto a M.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <date>2015-12-09T14:21:09Z</date>
+          <name>Linda Paterson</name>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Audefroi le Bastard</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1616.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Fair Isabel, a well-brought-up maid, loved Gerard, and he loved her in such a way
+              that he never requested any impropriety, but rather loved her with such pure love that
+              he protected her honour more than himself. <hi rend="italic">Meanwhile Gerard seeks
+                joy.</hi></p>
+          </div>
+          <div n="2" type="stanza">
+            <p>When pure love had been faithfully confirmed again and again, in that love her
+              parents took the young lady and gave her in marriage to a lord, a vavassor, against
+              her will. <hi rend="italic">Meanwhile Gerard seeks joy.</hi></p>
+          </div>
+          <div n="3" type="stanza">
+            <p>When Gerard, who was ruled by <hi rend="italic">fin'amors</hi>, came to know that the
+              fair one had been handed over to a lord, he became so angry and upset by his tyranical
+              treatment that in a secluded place he complained and protested to his lady. <hi rend="italic">Meanwhile Gerard seeks joy.</hi></p>
+          </div>
+          <div n="4" type="stanza">
+            <p>«Dear Gerard, do not now be so greedy as to want what was never requested of me!
+              Since I have a husband who loves and honours me, I must behave so virtuously as to
+              avoid thoughts of folly». <hi rend="italic">Meanwhile Gerard seeks joy.</hi></p>
+          </div>
+          <div n="5" type="stanza">
+            <p>« Dear Gerard, do as I bid: go away; this will be a most noble act on your part. You
+              would be the death of me if I were caught with you! Go back quickly to where you came
+              from, I commend you to the Creator!». <hi rend="italic">Meanwhile Gerard seeks
+                joy.</hi>
+            </p>
+          </div>
+          <div n="6" type="stanza">
+            <p>«Lady, the love you have settled elsewhere should be mine, I have won it through
+              loyalty! I find you much harder than a dark rock and feel such pain in my heart that
+              beneath a cheerful appearance I sigh and weep». <hi rend="italic">Meanwhile Gerard
+                seeks joy.</hi></p>
+          </div>
+          <div n="7" type="stanza">
+            <p>«Lady, in God’s name!», says Gerard in all honesty, «be generous and have pity on me!
+              My love for you tortures and inflames me, and because of you I am in such confusion
+              that no man could be in a worse!». <hi rend="italic">Meanwhile Gerard seeks
+              joy.</hi></p>
+          </div>
+          <div n="8" type="stanza">
+            <p>When Gerard, who is ruled by <hi rend="italic">fin'amors</hi>, sees that nothing
+              soothes his pain, he takes the cross, driven by sorrow and anger. And he sets about
+              procuring his equipment so that he can set out in a few days. <hi rend="italic">Meanwhile Gerard seeks joy.</hi></p>
+          </div>
+          <div n="9" type="stanza">
+            <p>Gerard makes haste, he wants to set out quickly on his way. But first he sends his
+              squire Dennis to talk candidly to his lady. The lady was out in the open, picking
+              flowers in an orchard. <hi rend="italic">Meanwhile Gerard seeks joy. </hi></p>
+          </div>
+          <div n="10" type="stanza">
+            <p>The lady was elegantly dressed, very beautiful, slim and shapely and smooth, her
+              cheeks were cherry-red. «Lady», he said, «The One whom I love and worship give you a
+              very good day!». <hi rend="italic">Meanwhile Gerard seeks joy.</hi></p>
+          </div>
+          <div n="11" type="stanza">
+            <p>«Lady, in God’s name!», Gerard says sincerely, «because of you I have set out for
+              Outremer!». The lady heard him: she would rather have been killed! Then they kiss each
+              other so sweetly that both fall slipping onto the grass. <hi rend="italic">Meanwhile
+                Gerard seeks joy. </hi></p>
+          </div>
+          <div n="12" type="stanza">
+            <p>Her husband sees the folly happening. In fact he believes the lady is lying dead next
+              to her lover. He so hates and despises himself that he loses his strength and vigour
+              and dies of grief in this illusion. <hi rend="italic">Meanwhile Gerard seeks
+              joy.</hi></p>
+          </div>
+          <div n="13" type="stanza">
+            <p>They arise from their fainting fit, in such a manner that they have all due funeral
+              honours performed for the dead man. Mourning is over. Gerard, in the name of the holy
+              Church, has made his lady his wife. This the ancients testify. <hi rend="italic">Now
+                Gerard has joy.</hi></p>
+          </div>
+        </div><div type="translation" xml:id="rs.1616.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Bella Isabella, fanciulla ben educata, amava Gerardo, e lui amava lei in modo tale
+              che mai fu richiesta di una follia da parte sua, che anzi l'amava di un amore così
+              puro che meglio di lei ne custodiva l'innocenza. <hi rend="italic">Intanto Gerardo
+                attende la gioia.</hi></p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Quando amore puro si era radicato nei loro cuori, giurato e rigiurato per lealtà,
+              proprio in quell'amore, i genitori della damigella la presero e la diedero in sposa,
+              contro la sua volontà, a un valvassore. <hi rend="italic">Intanto Gerardo attende la
+                gioia.</hi>
+            </p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Quando Gerardo, che <hi rend="italic">fin'amors</hi> governa, venne a sapere che la
+              bella era stata data a un signore, fu così dispiaciuto e offeso per il sopruso subìto
+              che, in disparte, si lamenta e protesta con la sua dama. <hi rend="italic">Intanto
+                Gerardo attende la gioia.</hi></p>
+          </div>
+          <div n="4" type="stanza">
+            <p>«Caro Gerardo, non abbiate ora smania di volere ciò che mai prima mi avete richiesto!
+              Dal momento che ho uno sposo che mi ama e mi onora, devo tenere un contegno virtuoso
+              che non consente di pensare a follia». <hi rend="italic">Intanto Gerardo attende la
+                gioia.</hi></p>
+          </div>
+          <div n="5" type="stanza">
+            <p>«Caro Gerardo, mi raccomando: tornate sui vostri passi, farete un atto di grande
+              franchezza. Mi avreste morta se fossi sorpresa accanto a voi! Allontanatevi al più
+              presto, vi affido al Creatore!». <hi rend="italic">Intanto Gerardo attende la
+                gioia.</hi>
+            </p>
+          </div>
+          <div n="6" type="stanza">
+            <p>«Dama, quell'amore che avete assicurato altrove, dovrebbe essere mio, l'ho
+              conquistato per lealtà! Ma vi trovo più dura di un macigno e sento nel cuore un tale
+              dolore, che piango senza farmi vedere». <hi rend="italic">Intanto Gerardo attende la
+                gioia.</hi></p>
+          </div>
+          <div n="7" type="stanza">
+            <p>«Dama, in nome di Dio!», dice Gerardo senza falsità, «Abbiate voi pietà di me, in
+              nome della vostra lealtà! L'amore per voi mi tortura e mi infiamma, e a causa vostra
+              sono in un tale imbroglio che più grande non si può!». <hi rend="italic">Intanto
+                Gerardo attende la gioia.</hi></p>
+          </div>
+          <div n="8" type="stanza">
+            <p>Quando Gerardo, che <hi rend="italic">fin'amors</hi> governa, si avvede che il suo
+              dolore non diminuisce per nulla, allora prende la croce, in preda allo sconforto e
+              alla delusione. E affretta i preparativi per potersi muovere da lì a pochi giorni. <hi rend="italic">Intanto Gerardo attende la gioia.</hi></p>
+          </div>
+          <div n="9" type="stanza">
+            <p>Si affretta Gerardo, subito vuole fare il viaggio. Ma prima manda avanti Denis, il
+              suo scudiero, a parlare in tutta franchezza alla sua dama. La dama era all'aperto, a
+              cogliere fiori in giardino. <hi rend="italic">Intanto Gerardo attende la gioia.</hi>
+            </p>
+          </div>
+          <div n="10" type="stanza">
+            <p>Con eleganza era vestita la dama, molto bella, sottile e morbida e liscia, il viso
+              aveva vermiglio come ciliegia. «Dama», disse lui, «Colui che amo e adoro vi doni una
+              bellissima giornata!». <hi rend="italic">Intanto Gerardo attende la gioia.</hi></p>
+          </div>
+          <div n="11" type="stanza">
+            <p>«Dama, in nome di Dio!», disse Gerardo senza mezze parole, «a causa vostra prendo la
+              via dell'Oltremare!». La dama lo udì: avrebbe preferito essere uccisa! Allora si
+              abbracciano con dolcezza e scivolano insieme sull'erba. <hi rend="italic">Intanto
+                Gerardo attende la gioia.</hi>
+            </p>
+          </div>
+          <div n="12" type="stanza">
+            <p>Suo marito vede la follia d'amore mentre si avvera. A dir la verità, lui crede che la
+              dama sia morta distesa accanto al suo amico. La grande rabbia e la vergogna che prova
+              gli fanno perdere ogni vigore e muore di languore in questa illusione. <hi rend="italic">Intanto Gerardo attende la gioia.</hi>
+            </p>
+          </div>
+          <div n="13" type="stanza">
+            <p>Si riprendono dal deliquio, così bene che rendono al morto ogni onore funebre. Il
+              lutto finisce. Gerardo, in nome della santa Chiesa, fa della sua dama la sua sposa.
+              Questo tramandano gli antichi. <hi rend="italic">Ora Gerardo ha la gioia.</hi></p>
+          </div>
+        </div></body></text></TEI>

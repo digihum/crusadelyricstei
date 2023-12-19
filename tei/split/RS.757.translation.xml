@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2014-07-10</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>La Ravallière 1742, <hi rend="smallcaps">ii</hi> 137; Auguis 1824, <hi rend="smallcaps">ii</hi> 8; Boutteville 1835, 11; du Méril 1844, 755; Tarbé 1850, 115;
+            Bédier-Aubry 1909, 189; Wallensköld 1925, 186; Brahney 1989, 230; Dijkstra 1995a, 206;
+            Sánchez Palomino 2005, 177.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(9).</hi> K 19b-20b (<hi rend="italic">li rois de Navarre</hi>),
+              M<hi rend="superscript">t</hi> 64bc (anon.), O 34bd (anon.), P 154d-155c (anon.), S
+            315bc (anon.), T 8r (<hi rend="italic">li rois de Navare</hi>), V 75ab (anon.), X
+            20c-21a (<hi rend="italic">li rois de Navarre</hi>), za 141rv (anon.).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(9).</hi> K 19b-20b (<hi rend="italic">li rois de Navarre</hi>),
+              M<hi rend="superscript">t</hi> 64bc (anonima), O 34bd (anon.), P 154d-155c (anon.), S
+            315bc (anon.), T 8r (<hi rend="italic">li rois de Navare</hi>), V 75ab (anon.), X
+            20c-21a (<hi rend="italic">li rois de Navarre</hi>), za 141rv (anon.).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl type="music" xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;">10ab’ab’aab’a (MW 627,3 = Frank
+        216); the crusade song RS 985 of the Châtelain de Couci uses a very similar metrical shape,
+        10a’ba’bbba’6b, virtually producing a mirror image of this one; 5 <hi rend="italic">coblas
+          doblas</hi> (2+2+1) with a 4-line <hi rend="italic">envoi</hi> (aab’a); rhymes a = <hi rend="italic">-er</hi>, <hi rend="italic">-iz</hi>, <hi rend="italic">-anz</hi>; b = <hi rend="italic">-ee</hi>, <hi rend="italic">-oie</hi>, <hi rend="italic">-ame</hi>;
+        identical rhyme <hi rend="italic">durer</hi> in vv. 9 and 14, <hi rend="italic">joie</hi> in
+        vv. 18 and 28, <hi rend="italic">poissanz</hi> in vv. 37 and 41 (the latter in the <hi rend="italic">envoi</hi>); equivocal rhyme <hi rend="italic">voie</hi> in vv. 20 and 23;
+        lyric caesura in v. 8; melody in KM<hi rend="superscript">t</hi>OPVX, with three different
+        melodic lines: the first is found in mss. KM<hi rend="superscript">t</hi>OX, while mss. P
+        and V have individual melodic lines (van der Werf 1979, II, p. 120; Tischler 1997, V n°
+        443).</metDecl>
+      <metDecl type="music" xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;">10ab’ab’aab’a (MW 627,3 = Frank
+        216); la canzone di crociata RS 985 del Castellano di Couci si serve di uno schema molto
+        simile e quasi speculare 10a’ba’bbba’6b; 5 <hi rend="italic">coblas doblas</hi> (2+2+1) con
+        un <hi rend="italic">envoi</hi> di 4 versi (aab’a); rima a = <hi rend="italic">-er</hi>, <hi rend="italic">-iz</hi>, <hi rend="italic">-anz</hi>; rima b = <hi rend="italic">-ee</hi>,
+          <hi rend="italic">-oie</hi>, <hi rend="italic">-ame</hi>; rima identica <hi rend="italic">durer</hi> ai vv. 9 e 14, <hi rend="italic">joie</hi> ai vv. 18 e 28, <hi rend="italic">poissanz</hi> ai vv. 37 e 41 (quest’ultimo nel congedo); rima equivoca <hi rend="italic">voie</hi> ai vv. 20 e 23; cesura lirica al v. 8; melodia in KM<hi rend="superscript">t</hi>OPVX, con tre linee melodiche diverse: la prima è testimoniata dai mss. KM<hi rend="superscript">t</hi>OX, mentre i mss. P e V hanno linee melodiche individuali e
+        autonome (van der Werf 1979, II, p. 120; Tischler 1997, V n° 443).</metDecl>
+      <editorialDecl type="analysis" xml:lang="en">Analysis of the readings shows a division between
+        the <hi rend="italic">Liederbuch</hi> mss. (M<hi rend="superscript">t</hi>TKOX+za) and the
+        chansonniers PV, whose text is essentially an editorial variant (lacking the last stanza and
+        the <hi rend="italic">envoi</hi>); ms. S oscillates between the two groups, but seems closer
+        to M<hi rend="superscript">t</hi>TKOX. No significant error permits the subdivision of the
+          <hi rend="italic">Liederbuch</hi> mss. into smaller groups, but its characteristic
+        variants confirm the traditional division M<hi rend="superscript">t</hi>T vs. KOX, with za
+        constantly following these last mss. The fluctuations of S and the relative independence of
+        PV make the the <hi rend="italic">Liederbuch</hi> version the compulsory base and is here
+        presented in the graphy of O.The attribution, direct or indirect, to Thibaut de Champagne,
+        is unanimous in mss. M<hi rend="superscript">t</hi>TKOX+za; however, alone among the <hi rend="italic">Liederbuch</hi> mss. V excludes this song from the corpus attributed to
+        Thibaut de Champagne and like P includes it in a group of songs of uncertain attribution
+        alongside other texts which the group KNOVX attributes to the Châtelain de Couci. It
+        therefore seems clear that the tradition headed by these mss. rejected the attribution of
+        the text to Thibaut de Champagne. The hypothesis may therefore be advanced, on the basis of
+        the manuscript tradition, that a four-stanza version of the text circulated in an anonymous
+        form or was attributed to the Châtelain de Couci, and was subsequently reworked by Thibaut
+        de Champagne and integrated into his <hi rend="italic">Liederbuch</hi>.</editorialDecl>
+      <editorialDecl type="analysis" xml:lang="it">L’analisi delle lezioni permette di separare da
+        un lato i testimoni del <hi rend="italic">Liederbuch</hi> (M<hi rend="superscript">t</hi>TKOX+za) e dall’altro i canzonieri PV, il cui testo assume quasi la forma di una
+        variante redazionale (priva dell’ultima strofa e del congedo); il ms. S oscilla tra i due
+        gruppi, ma sembra in questo caso essere più vicino a M<hi rend="superscript">t</hi>TKOX.
+        Nessun errore significativo permette di suddividere i testimoni del <hi rend="italic">Liederbuch</hi> in più gruppi, ma le varianti che li caratterizzano confermano la
+        tradizionale separazione M<hi rend="superscript">t</hi>T vs. KOX, con za che segue
+        costantemente questi ultimi. Le oscillazioni di S e la relativa indipendenza del testo di PV
+        obbligano in questo caso a fornire l’edizione della versione del <hi rend="italic">Liederbuch</hi>, presentata secondo la veste grafica del ms. O.L’attribuzione a Thibaut
+        de Champagne, diretta o indiretta, è unanime nei mss. M<hi rend="superscript">t</hi>TKOX+za;
+        il canzoniere V, unico tra i testimoni del <hi rend="italic">Liederbuch</hi>, esclude invece
+        questa canzone dal corpus attribuito a Thibaut de Champagne per inserirla come P in un
+        gruppo di canzoni di attribuzione incerta accanto ad altri testi che il gruppo KNOVX
+        attribuisce al Castellano di Couci; pare quindi evidente che la tradizione a cui fanno capo
+        questi testimoni rifiutasse l’attribuzione del testo a Thibaut de Champagne. Resta aperta
+        l’ipotesi, suggerita dalla tradizione manoscritta, che di questo testo circolasse, in forma
+        anonima o attribuita al Castellano di Couci, una redazione di quattro strofi, rielaborata
+        successivamente da Thibaut de Champagne e integrata nel suo <hi rend="italic">Liederbuch</hi>.</editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2014-10-04T12:36:28Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Thibaut de Champagne</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.757.en" xml:lang="en">
+        <head> Translation </head>
+        <div n="1" type="stanza">
+          <p>Lady, it is destined that I should leave and depart from the sweet land where I have so
+            much learned to endure sufferings: since I am leaving you, it is right I should hate
+            myself for it. God, why did the Holy Land ever exist? It will have separated so many
+            lovers whose love has never since been able to recover its strength , and who were never
+            able to revive their joy.</p>
+        </div>
+        <div n="2" type="stanza">
+          <p>I could never live without love, so very firmly [fixed] on it do I find my thoughts;
+            and my faithful heart does not let me turn away from it: instead I belong to it,
+            wherever it wishes or desires. I have learned to love in great privation, so I cannot
+            see how to [hope to] obtain joy of the one most desired, from whom no man ever dared
+            implore pity.</p>
+        </div>
+        <div n="3" type="stanza">
+          <p>Since I am separated from it/her, I cannot see how I can have any comfort, happiness or
+            joy, for I have never done anything so reluctantly as to leave you - and if only I may
+            be allowed to see you again one day! This makes me utterly griefstricken and
+            broken-hearted. I shall repent time and time again of ever wishing to undertake this
+            journey, and [when] I call to mind your gracious words.</p>
+        </div>
+        <div n="4" type="stanza">
+          <p>Dear Lord God, I have turned towards You; for You I leave all that I used to love so
+            much. The reward must be exquisite since for You I lose my heart and my joy. I am quite
+            ready and equipped to serve You; I give myself to You, dear father Jesus Christ. I could
+            not have a better lord: the one who serves you cannot be betrayed.</p>
+        </div>
+        <div n="5" type="stanza">
+          <p>My heart must surely be happy and sad: sad because I leave my lady, and happy because I
+            am full of the desire to serve God, to whom belong my heart and soul. This love [divine
+            love] is most pure and powerful; the wisest must perforce arrive at this; it is the
+            ruby, the emerald and the gemstone which cures all from vile and stinking sins</p>
+        </div>
+        <div n="6" type="stanza">
+          <p>Lady of the heavens, great and powerful Queen, be my support in my great hour of need!
+            May I feel the proper fervour to love you! When I lose a lady, may a lady be my aid.
+          </p>
+        </div>
+      </div><div type="translation" xml:id="rs.757.it" xml:lang="it">
+        <head> Translation </head>
+        <div n="1" type="stanza">
+          <p>Signora, è destino che debba partire e lasciare la dolce contrada dove ho tanto
+            imparato a sopportare le sofferenze: poiché vi lascio, è giusto che mi disprezzi. Dio!
+            perché esiste la terra d’oltremare, che avrà separato tanti amanti il cui amore non è
+            più stato riconfortato e che non hanno più potuto ricordare la loro gioia?</p>
+        </div>
+        <div n="2" type="stanza">
+          <p>Non potrei mai vivere senza amore, tanto saldamente vi trovo (ancorato) il mio
+            pensiero; e il mio cuore fedele non me ne lascia allontanare, anzi sono suo, qualsiasi
+            cosa egli voglia o desideri. Ho imparato ad amare nella privazione perciò non vedo come
+            potrei (sperare di) ottenere la gioia dalla più desiderata, della quale si sia mai osato
+            implorare la pietà.</p>
+        </div>
+        <div n="3" type="stanza">
+          <p>Poiché sono separato da lui/lei (amore <hi rend="italic">ndt</hi>), non vedo come
+            potrei avere conforto, allegria e gioia, dal momento che non ho mai fatto niente così a
+            malincuore come lasciarvi, e mi sia dato di rivedervi un giorno! Per questo sono
+            assolutamente addolorato e affranto. Dovrò pentirmi innumerevoli volte di aver voluto
+            intraprendere questo viaggio, e (quando?) mi vengono in mente le vostre benevole
+            parole.</p>
+        </div>
+        <div n="4" type="stanza">
+          <p>Buon signore Dio, mi sono volto verso di voi, per voi lascio tutto ciò che tanto amavo:
+            la ricompensa dev’essere ben ricca, dal momento che a causa vostra perdo il mio cuore e
+            la mia gioia. Sono ben pronto e equipaggiato per servirvi; mi consegno a voi, buon padre
+            Gesù Cristo, non potrei avere un signore migliore: colui che vi serve non può essere
+            tradito.</p>
+        </div>
+        <div n="5" type="stanza">
+          <p>A buon diritto il mio cuore dev’essere lieto e dolente: dolente perché mi separo dalla
+            mia signora, e lieto perché sono desideroso di servire Dio, a cui appartengono il mio
+            cuore e la mia anima. Questo amore [l’amore divino] è davvero puro e forte; i più saggi
+            (sensati) devono (per forza) giungervi: è il rubino, lo smeraldo e la gemma che salva
+            tutti dai peccati meschini e sordidi.</p>
+        </div>
+        <lg>Signora dei cieli, grande e potente regina, soccorretemi nella grande necessità! Che io
+          possa avere il giusto ardore per amarvi! Dal momento che perdo una donna, un’altra donna
+          venga in mio aiuto</lg>
+      </div></body></text></TEI>

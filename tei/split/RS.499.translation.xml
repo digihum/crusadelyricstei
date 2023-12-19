@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Linda Paterson</author>
+                <funder>AHRC</funder>
+                <principal>Linda Paterson</principal>
+                <editor>The person who did the editing</editor>
+                <respStmt>
+                    <name>Steve Ranford</name>
+                    <resp>conversion to TEI-conformant markup</resp>
+                </respStmt>
+                <respStmt>
+                    <name>joe bloggs</name>
+                    <resp>Translation to Italian of xyz</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Warwick? (The publisher is the person or institution by whose authority a given edition of the file is made public.)</publisher>
+                <date>2014</date>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+
+                <listBibl type="essential_bibliography">
+                    <bibl>Buchon 1840: Jean Alexandre C. Buchon, Recherches et matériaux pour servir
+                        à une histoire de la domination française aux XIIIe, XIVe et XVe siècles
+                        dans les provinces démembrées de l’Empire grec à la suite de la quatrième
+                        croisade, Paris, Desrez, 1840.</bibl>
+                    <bibl>De Bartholomaeis 1906: Vincenzo De Bartholomaeis, «Il troviero Chardon de
+                        Croisilles», Studj romanzi, 4, 1906, pp. 261-297.</bibl>
+                    <bibl>Guesnon 1909: Adolphe-Henri Guesnon, «Publications nouvelles sur les
+                        trouvères artésiens», Le Moyen Âge, 13, 1909, pp. 65-93, on pp.
+                        89-93.</bibl>
+                    <bibl>Paris (Louis) 1855: Louis Paris, «Champagne – XIV. – Cardons de Reims», Le
+                        Cabinet historique, 1, 1855, pp. 56-58.</bibl>
+                    <bibl>Paris (Paulin) 1856: Paulin Paris, Histoire littéraire de la France, 23,
+                        Paris, Académie des Inscriptions et Belles-Lettres, 1856, pp.
+                        536-537.</bibl>
+                    <bibl>Radaelli 2007: Anna Radaelli, «Una donna per due uomini o due uomini per
+                        una donna? La tenzo del Chardo e d’En Ugo (BdT 114.1 = 448.2)», Cultura
+                        neolatina, 67, 2007, pp. 235-251.</bibl>
+                    <bibl>Schultz-Gora 1884: Oskar Schultz-Gora, «Das Verhältnis der provenzalischen
+                        Pastourelle zur altfranzösischen», Zeitschrift für romanische Philologie, 8,
+                        1884, pp. 106-112.</bibl>
+                    <bibl>Suchier 1907: Hermann Suchier, «Der Minnesänger Chardon», Zeitschrift für
+                        romanische Philologie, 31, 1907, pp. 129-156.</bibl>
+                    <bibl>Tarbé 1850: Prosper Tarbé, Les chansonniers de Champagne aux XIIe et XIIIe
+                        siècles, Reims, Regnier, 1850.</bibl>
+                </listBibl>
+                <listBibl type="previous_editions">
+                    <bibl>Buchon 1840, 425;</bibl>
+                    <bibl>Tarbé 1850, 29;</bibl>
+                    <bibl>Paris 1855, 57;</bibl>
+                    <bibl>Suchier 1907, 144;</bibl>
+                    <bibl>Bédier-Aubry 1909, 209;</bibl>
+                    <bibl>Cremonesi 1955, 134;</bibl>
+                    <bibl>Toja 1974, 278;</bibl>
+                    <bibl>Dijkstra 1995a, 208.</bibl>
+                </listBibl>
+
+                <msDesc>
+                    <msIdentifier>
+                        <idno>K 253b</idno>
+                    </msIdentifier>
+                    <p>(<hi rend="italic">chardon</hi>)</p>
+                </msDesc>
+
+                <msDesc>
+                    <msIdentifier>
+                        <idno>N 124b</idno>
+                    </msIdentifier>
+                    <p>(<hi rend="italic">chardon de rains</hi>)</p>
+                </msDesc>
+
+                <msDesc>
+                    <msIdentifier>
+                        <idno>P 112b</idno>
+                    </msIdentifier>
+                    <p> (<hi rend="italic">Chardons</hi>)</p>
+                </msDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>T 42r</idno>
+                    </msIdentifier>
+                    <p>(<hi rend="italic">Robers de blois</hi>)</p>
+                </msDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>X 171ab</idno>
+                    </msIdentifier>
+                    <p>(<hi rend="italic">chardon</hi>)</p>
+                </msDesc>
+
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <metDecl pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;" xml:lang="en">
+                <p>10a’ba’bba’ba’ (MW 902,9 = Frank 302); 5 <hi rend="italic">coblas
+                        doblas/ternas</hi> (2+3) with a four-line <hi rend="italic">envoi
+                    </hi>(ba’ba’); rhyme a = <hi rend="italic">-ee</hi>, <hi rend="italic">-ie</hi>;
+                    rhyme b = <hi rend="italic">-or</hi>, <hi rend="italic">-i</hi>; a very common
+                    metrical shape adopted by Conon de Béthune in his famous crusade song RS 1125
+                    (whose first stanza uses the rhymes <hi rend="italic">-ie</hi> and <hi rend="italic">-or</hi> also found in Chardon’s text) and imitated in other
+                    texts linked to the crusade such as Richard de Fournival’s RS 1020a and Huon
+                    d’Oisi’s RS 1030 (but only with m. rhymes).</p>
+            </metDecl>
+            <metDecl pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;" xml:lang="it">
+                <p>10a’ba’bba’ba’ (MW 902,9 = Frank 302); 5 <hi rend="italic">coblas
+                        doblas/ternas</hi> (2+3) con un <hi rend="italic">envoi</hi>di 4 versi
+                    (ba’ba’); rima a = <hi rend="italic">-ee</hi>, <hi rend="italic">-ie</hi>; rima
+                    b = <hi rend="italic">-or</hi>, <hi rend="italic">-i</hi>; schema metrico
+                    diffusissimo adottato da Conon de Béthune nella famosa canzone di crociata RS
+                    1125 (che usa nelle prime due strofi le rime <hi rend="italic">-ie</hi> e <hi rend="italic">-or</hi> che si trovano anche nel testo di Chardon) e ripreso
+                    da altri testi legati alla crociata come Richard de Fournival RS 1020a e Huon
+                    d’Oisi RS 1030 (ma con sole rime maschili).</p>
+            </metDecl>
+            <appInfo>
+                <application ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2014-03-17T16:40:55Z</date><name>Linda Paterson</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader><text><front>
+
+            <p rend="Title">Chardon de Croisilles</p>
+            <p><hi rend="italic bold">Li departirs de la douce contree</hi> (RS 499)</p>
+        </front><body><div type="translation" xml:id="RS.499.eng" xml:lang="en">
+
+                <div type="stanza" n="1">
+                    <p>Departure from the sweet land where lives my beauteous one has put me into
+                        great sadness; I am constrained to leave the one I have loved the most in
+                        order to serve the Lord God my creator, and yet I belong completely to Love,
+                        since I leave it all my heart and my thoughts: if my body goes to serve Our
+                        Lord, I have not forgotten true love on this account.</p>
+                </div>
+                <div type="stanza" n="2">
+                    <p>Love, this is too hard a parting, when I am forced to leave the best lady who
+                        ever existed or who was ever born; in her is all beauty and worth, and none
+                        should marvel if I weep at this; when my body goes to fulfil its destiny,
+                        see how my noble heart has already begun its return journey, musing and
+                        longing after my lady.</p>
+                </div>
+                <div type="stanza" n="3">
+                    <p>Lady, in whom is my death and my life, I depart from you more grief-stricken
+                        than I say; henceforth you have my heart in your power: keep it, or you have
+                        betrayed me. God, where shall I go? Shall I utter loud laments or cries when
+                        I am constrained to divide myself from my noble heart and leave it with the
+                        one who has never left me part of hers?</p>
+                </div>
+                <div type="stanza" n="4">
+                    <p>Love justly thanks the false lover for the profit it receives from him, but I
+                        obtain no pity; it trusts the flatterer and the fraud, but I trust entirely
+                        to noble service; my loyalty, I know this well, deprives me of the joy which
+                        I have rightly deserved; it greatly grieves me that I ever set eyes on her,
+                        when on her account true love so defies me.</p>
+                </div>
+                <div type="stanza" n="5">
+                    <p>Sweet lady, whom my heart does not forget, for God’s sake please do not
+                        forget me! Never will I ever seek another love; for God’s sake, I beseech
+                        you, do not seek another lover! But if I learn that you are mocking me, I
+                        shall not die entirely, but only half; however you will not make an enemy of
+                        me if loyalty is not my enemy.</p>
+                </div>
+                <div type="stanza" n="6">
+                    <p>VI. At the moment of departure, sweet lady, I beg you, whatever a flatterer
+                        may say to you, do not forget me, and towards you I in turn will never
+                        behave basely.</p>
+                </div>
+
+
+            </div><div type="translation" xml:id="RS.499.it" xml:lang="it">
+
+                <div type="stanza" n="1">
+                    <p>La partenza dal dolce paese dov’è la bella mi ha messo in una grande
+                        tristezza; sono costretto a lasciare ciò che più ho amato per servire il
+                        Signore, mio creatore; tuttavia appartengo completamente ad Amore, poiché
+                        gli lascio tutto il mio cuore e il mio pensiero; se il mio corpo va a
+                        servire Nostro Signore, per questo non ho dimenticato il vero amore.</p>
+                </div>
+                <div type="stanza" n="2">
+                    <p>Amore, questa è una separazione troppo dura, dal momento che mi tocca partire
+                        dalla migliore che sia mai esistita e che sia mai nata; in lei vi è ogni
+                        bellezza e valore, nessuno si deve meravigliare se per questo <pb type="soft"/>piango; mentre il mio corpo va a compiere il suo destino,
+                        ecco che il mio cuore puro s’è già messo sulla via del ritorno, lui che
+                        senza infedeltà pensa e aspira alla mia signora.</p>
+                </div>
+                <div type="stanza" n="3">
+                    <p>Signora, in cui è la mia morte e la mia vita, mi separo da voi più dolente di
+                        quanto possa dire; da tempo avete il mio cuore in vostro potere: tenetelo
+                        (con voi) o mi avrete tradito. Dio, dove andrò? Mi dispererò o griderò, dal
+                        momento che devo separarmi dal mio cuore fedele e lasciarlo a colei che non
+                        mi ha mai concesso una parte del suo?</p>
+                </div>
+                <div type="stanza" n="4">
+                    <p>Il falso amante giustamente ringrazia Amore per i beni che riceve, mentre io
+                        non ottengo pietà; si affida all’adulazione e all’inganno, ma io mi affido
+                        completamente al buon servizio; la mia lealtà mi priva, lo so bene, della
+                        gioia che ho meritato a buon diritto. Mi pesa persino d’averla mai vista,
+                        dato che il vero amore mi tormenta così a causa sua.</p>
+                </div>
+                <div type="stanza" n="5">
+                    <p>Dolce signora, che il mio cuore non dimentica, per Dio, non vogliate
+                        dimenticarvi di me! Non cercherò mai in nessun caso un’altra amica; per Dio,
+                        non cercate un altro amico! Ma se saprò che vi prendete gioco di me, non
+                        morirò del tutto, ma a metà; tuttavia non farete mai di me un nemico, se la
+                        lealtà non mi è nemica.</p>
+                </div>
+                <div type="stanza" n="6">
+                    <p>Al momento di lasciarvi, dolce signora, vi prego, qualunque cosa un adulatore
+                        possa dirvi, di non dimenticarmi, e io allo stesso modo non mi comporterò
+                        mai in modo vile nei vostri confronti.</p>
+                </div>
+
+
+            </div></body></text></TEI>

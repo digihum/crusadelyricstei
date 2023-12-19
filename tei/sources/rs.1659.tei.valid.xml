@@ -124,7 +124,7 @@
     <front>
       <titlePage>
         <docTitle>
-          <titlePart type="main"/>
+          <titlePart type="main">Anonymous</titlePart>
           <titlePart type="sub"/>
         </docTitle>
         <docAuthor/>
@@ -134,7 +134,7 @@
     <body>
       <div type="text" xml:id="rs.1659.fro" xml:lang="fro">
         <lg n="1" type="stanza">
-          <l n="1">amisDouce dame, cui j’ain en bone foi </l>
+          <l n="1">[amis] Douce dame, cui j’ain en bone foi </l>
           <l n="2">de loiaul cuer, sens jamaix arier traire,</l>
           <l n="3">mercit, dame, a mains jointes vos proi,</l>
           <l n="4">se seux croixiés, ne vos doie desplaire!</l>
@@ -144,7 +144,7 @@
           <l n="8">ke Jhesu Crist firent tant de mal traire.</l>
         </lg>
         <lg n="2" type="stanza">
-          <l n="9">dameBiauls dous amis, certes se poise moi.</l>
+          <l n="9">[dame] Biauls dous amis, certes se poise moi.</l>
           <l n="10">Ains maix mes cuers ne fut si a mesaixe: </l>
           <l n="11">c'outre la meir vos en irois sens moi!</l>
           <l n="12">J’amaixe muels tous jors vestir la haire </l>
@@ -154,7 +154,7 @@
           <l n="16">ke vos ramoinst et vos laist grant bien faire!</l>
         </lg>
         <lg n="3" type="stanza">
-          <l n="17">amisMolt me mervoil se del sen ne mervoi,</l>
+          <l n="17">[amis] Molt me mervoil se del sen ne mervoi,</l>
           <l n="18">quant je dirai: ‘A Deu jusc’a repaire!’</l>
           <l n="19">a ma dame, ke tant ait fait por moi </l>
           <l n="20">ke lou dime n’en sauroie retraire.</l>

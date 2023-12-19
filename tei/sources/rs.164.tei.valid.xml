@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../poem-strict.xsl"?>
-<?xml-stylesheet type="text/css" href="../poem-author.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
@@ -213,12 +211,14 @@
 	</teiHeader>
 	<text>
 		<front>
+			<titlePage>
+				<docTitle>
+					<titlePart type="main">Philippe de Nanteuil (?)</titlePart>
+					<titlePart type="sub"/>
+				</docTitle>
+				<docAuthor/>
+			</titlePage>
 			<div type="preface">
-				<p>
-					<hi rend="bold">Philippe de Nanteuil (?)</hi>
-				</p>
-				<p>
-					<hi rend="italic bold">En chantant vueil mon duel faire</hi> (RS 164) </p>
 
 				<p xml:lang="fro">
 					<hi rend="italic">Des chançons que Phelippes de Nantueil fist en Babyloine.</hi>
@@ -234,20 +234,12 @@
 				<p xml:lang="fro"> Phelippes de Nantueil fu menez avec les autres prisons en
 					Babyloine. En la prison ou il fu mis, il fist pluseurs chançons; aucune il en
 					envoia en l’ost des crestiens, que nous dirons a ceuls qui oïr les voudront. </p>
-				<p xml:lang="en"> Philip of Nanteuil was taken with the other prisoners to Babylon.
-					In the prison where he was thrown he composed several songs; some he sent to the
-					Christian army, and we shall relate them to those who would like to hear them. </p>
-				<p xml:lang="it"> Filippo di Nanteuil fu condotto a Babilonia con gli altri
-					prigionieri. Nella prigione dove fu posto, scrisse diverse canzoni; ne inviò
-					alcune alle truppe cristiane, e noi le riporteremo per coloro che le vorranno
-					ascoltare. </p>
-
 			</div>
 
 		</front>
 		<body>
 
-			<div type="poem" xml:id="RS.164.fro" xml:lang="fro">
+			<div type="text" xml:id="RS.164.fro" xml:lang="fro">
 				<lg type="stanza" n="1">
 					<l n="1">En chantant vueil mon duel faire</l>
 					<l n="2">pour ma dolour conforter</l>
@@ -308,6 +300,10 @@
 				</lg>
 			</div>
 			<div type="translation" xml:id="RS.164.eng" corresp="RS.164.fro" xml:lang="en">
+				<div type="preface" xml:lang="en"> <p>Philip of Nanteuil was taken with the other prisoners to Babylon.
+					In the prison where he was thrown he composed several songs; some he sent to the
+					Christian army, and we shall relate them to those who would like to hear them.</p> </div>
+
 				<div type="stanza" n="1">
 					<p> In song, to alleviate my grief, I want to make my lament over the good and
 						valiant Count of Montfort, who used to receive praise and honour, and who
@@ -341,7 +337,12 @@
 						money. </p>
 				</div>
 			</div>
+
 			<div type="translation" xml:id="RS.164.it" xml:lang="it" corresp="RS.164.fro">
+				<div type="preface" xml:lang="it"> <p>Filippo di Nanteuil fu condotto a Babilonia con gli altri
+				prigionieri. Nella prigione dove fu posto, scrisse diverse canzoni; ne inviò
+				alcune alle truppe cristiane, e noi le riporteremo per coloro che le vorranno
+				ascoltare. </p></div>
 				<div type="stanza" n="1">
 					<p> Voglio fare cantando, per confortare il mio dolore, il mio lamento per il
 						buon conte valoroso – che era solito ricevere lode e onore – di Montfort,

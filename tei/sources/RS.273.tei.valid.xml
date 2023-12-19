@@ -1,0 +1,505 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-04-08</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>La Ravallière 1742, <hi rend="smallcaps">ii</hi> 158; Tarbé 1850, 119; Wallensköld
+            1925, 194; Järnström-Långfors 1927, 41; Toja 1966, 423; Brahney 1989, 238;
+            Rosenberg-Tischler 1995, 596.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>La Ravallière 1742, <hi rend="smallcaps">ii</hi> 158; Tarbé 1850, 119; Wallensköld
+            1925, 194; Järnström-Långfors 1927, 41; Toja 1966, 423; Brahney 1989, 238;
+            Rosenberg-Tischler 1995, 596.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold"> (9).</hi> B 3v-4r (anon.), K 34b-35b (<hi rend="italic">li rois de
+              Navarre</hi>), M<hi rend="superscript">t</hi> 67d-68b (anon.), O 37b-38a (anon.), S
+            317d-318a (anon.), T 16rv (<hi rend="italic">li rois de Navare</hi>), V 17d-18b (anon.),
+            X 29d-30c (<hi rend="italic">li rois de Navarre</hi>), za 142v; even in songbooks which
+            do not include attributions the text is always included in a series of compositions
+            attributable to Thibaut de Champagne. Base: S (B for the <hi rend="italic"
+            >envoi</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold"> (9).</hi> B 3v-4r (anonima), K 34b-35b (<hi rend="italic">li rois
+              de Navarre</hi>), M<hi rend="superscript">t</hi> 67d-68b (anon.), O 37b-38a (anon.), S
+            317d-318a (anon.), T 16rv (<hi rend="italic">li rois de Navare</hi>), V 17d-18b (anon.),
+            X 29d-30c (<hi rend="italic">li rois de Navarre</hi>), za 142v; anche nei canzonieri
+            privi di attribuzione il testo è sempre inserito in una serie di componimenti
+            attribuibili a Thibaut de Champagne. Base: S (B per l’<hi rend="italic"
+            >envoi</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’">
+        <p>10abbaccddaa (MW 1432,1 = Frank 579); 5 <hi rend="italic">coblas doblas</hi> (2+2+1) with
+          an <hi rend="italic">envoi</hi> of 4 lines (ddaa); rhymes a = <hi rend="italic"
+            >-anz/enz</hi>, <hi rend="italic">-oir</hi>, <hi rend="italic">-ais/es</hi>; b = <hi
+            rend="italic">-us</hi>, <hi rend="italic">-ons</hi>, <hi rend="italic">-ez</hi>; c = <hi
+            rend="italic">-eus</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-ent/ant</hi>; d
+          = <hi rend="italic">-ons</hi>, <hi rend="italic">-ir</hi>, <hi rend="italic">-er</hi>; the
+          b rhyme of stanzas iii and iv repeats the d rhyme of stanzas i and ii, the d rhyme of
+          stanza v repeats the c rhyme of stanzas iii and iv; feminine caesura with elision in v.
+          33; lyric caesura lirica in vv. 7, 10, 14, 17, 23, 24, 26, 32, 35, 40, 45, 48, 52; melody
+          in KM<hi rend="superscript">t</hi>OVX, with few variants (van der Werf 1979, II, p. 18;
+          Tischler 1997, III n° 164).</p>
+      </metDecl>
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’">
+        <p>10abbaccddaa (MW 1432,1 = Frank 579); 5 <hi rend="italic">coblas doblas</hi> (2+2+1) con
+          un <hi rend="italic">envoi</hi> di 4 versi (ddaa); rima a = <hi rend="italic"
+            >-anz/enz</hi>, <hi rend="italic">-oir</hi>, <hi rend="italic">-ais/es</hi>; rima b =
+            <hi rend="italic">-us</hi>, <hi rend="italic">-ons</hi>, <hi rend="italic">-ez</hi>;
+          rima c = <hi rend="italic">-eus</hi>, <hi rend="italic">-er</hi>, <hi rend="italic"
+            >-ent/ant</hi>; rima d = <hi rend="italic">-ons</hi>, <hi rend="italic">-ir</hi>, <hi
+            rend="italic">-er</hi>; la rima b delle strofe iii e iv riprende la rima d delle strofe
+          i e ii, la rima d della strofa v riprende la rima c delle strofe iii e iv; cesura
+          femminile con elisione al v. 33; cesura lirica ai vv. 7, 10, 14, 17, 23, 24, 26, 32, 35,
+          40, 45, 48, 52; melodia in KM<hi rend="superscript">t</hi>OVX, con pochissime varianti
+          (van der Werf 1979, II, p. 18; Tischler 1997, III n° 164).</p>
+      </metDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-04-11T14:04:53Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Thibaut de Champagne</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+    </front>
+    <body>
+      <div type="text" xml:id="rs.273.fro" xml:lang="fro">
+        <lg n="1" type="stanza">
+          <l n="1">Diex est ausis conme li pellicans</l>
+          <l n="2">qui fait son nif el plus haut arbre sus,</l>
+          <l n="3">et li mauvais oisiax, qui est dejus,</l>
+          <l n="4"> ses oiseillons ocist, tant est puans;</l>
+          <l n="5">li peres vient destroiz et angoisseus,</l>
+          <l n="6">dou bec s’ocist, de son sanc doulereus</l>
+          <l n="7">fait revivre tantost ses oiseillons.</l>
+          <l n="8"> Diex fist autel quant fu sa passïons:</l>
+          <l n="9">de son dous sanc racheta ses anfanz</l>
+          <l n="10">dou dëable, qui tant par est puissanz.</l>
+        </lg>
+        <lg n="2" type="stanza">
+          <l n="11">Li guerredons en est mauvais et lens,</l>
+          <l n="12">que bien ne droit ne pitié nen n’a nus,</l>
+          <l n="13">ainz est orguiex et baraz au desus,</l>
+          <l n="14">felonie, traïson et bobans.</l>
+          <l n="15">Moult par est ore vostre estaz perilleus,</l>
+          <l n="16">et se ne fust li exemples de ceus</l>
+          <l n="17">qui tant ainment et noises et tençons –</l>
+          <l n="18">ce est des clers qui ont laissié sermons</l>
+          <l n="19">por guerroier et por tuer les gens –</l>
+          <l n="20">jamais en Dieu ne fust nus hons creanz.</l>
+        </lg>
+        <lg n="3" type="stanza">
+          <l n="21">Nostre chiés fait touz noz membres doloir,</l>
+          <l n="22">por ce est bien droiz qu’a Dieu nos en plaignons;</l>
+          <l n="23">et grant corpe ra moult sor les barons,</l>
+          <l n="24">cui il poise quant aucuns veut valoir;</l>
+          <l n="25">et entre gent en font moult a blasmer</l>
+          <l n="26">qui tant sevent et mentir et guiller;</l>
+          <l n="27">le mal en font desus aus revertir</l>
+          <l n="28">et qui mal quiert maus ne li doit faillir:</l>
+          <l n="29">qui petit mal porchace a son pooir</l>
+          <l n="30">li grans ne puet en son cuer remanoir.</l>
+        </lg>
+        <lg n="4" type="stanza">
+          <l n="31">Bien devrïens en l’estoire veoir</l>
+          <l n="32">la bataille qui fu des .ij. dragons,</l>
+          <l n="33">si com l’an trueve el livre des Bretons,</l>
+          <l n="34">dont il covint le chastel jus chaoir:</l>
+          <l n="35">c’est li siecles cui il covient verser,</l>
+          <l n="36">se Diex ne vuet la bataille finer;</l>
+          <l n="37">le sens Mellin en covient hors issir</l>
+          <l n="38">por deviner qu’estoit a avenir.</l>
+          <l n="39">Mais Andecriz vient, ce poez savoir,</l>
+          <l n="40">as malices qu’ennemis fait movoir.</l>
+        </lg>
+        <lg n="5" type="stanza">
+          <l n="41">Savez qui sont li vil oisel punais</l>
+          <l n="42">qui tuent Dieu et ses anfançonnez?</l>
+          <l n="43">li papelart, dont li mons n’est pas nez;</l>
+          <l n="44">cil sont bien ort et puant et mauvais:</l>
+          <l n="45">il ocient toute la bone gent</l>
+          <l n="46">pour lor faus moz, qui sont li Dieu anfant.</l>
+          <l n="47">Papelart font le siecle chanceler;</l>
+          <l n="48">par saint Pierre, mal les fait ancontrer!</l>
+          <l n="49">Il ont tolu joie et soulaz et pais:</l>
+          <l n="50">s’en porteront en enfer le grant fais.</l>
+        </lg>
+        <lg n="6" type="stanza">
+          <l n="51">Or nous doint Diex lui servir et amer</l>
+          <l n="52">et la Dame, c’on ne doit oublier,</l>
+          <l n="53">et nous veille garder a touz jours mais</l>
+          <l n="54">des maus oisiaus qui ont venin es bes.</l>
+        </lg>
+      </div>
+      <div type="translation" xml:id="rs.273.en" xml:lang="en">
+        <head> Translation </head>
+        <div n="1" type="stanza">
+          <p>God is similar to the pelican which makes its nest up in the highest tree; and the evil
+            bird underneath kills its chicks, it is so foul. The father returns full of distress and
+            anguish, kills itself with its beak and from the painful flow of blood brings its chicks
+            immediately back to life. God did the same in the hour of His passion: with His sweet
+            blood He ransomed His children from the devil, who is so enormously powerful.</p>
+        </div>
+        <div n="2" type="stanza">
+          <p>Repayment is deficient and slow, for no-one harbours goodness or justice or pity; so
+            pride, fraud, disloyalty, treachery and arrogance prevail. Now your situation is
+            extremely dangerous, and were it not for the example of those who so love both uproar
+            and disputes – that is, the clergy who have abandoned sermons to wage war and kill
+            people – no-one would have faith in God any more.</p>
+        </div>
+        <div n="3" type="stanza">
+          <p>Our head brings pain to all our limbs, so it is right that we should complain of this
+            to God, but the heavy guilt lies largely with the barons, who grieve when anyone wants
+            to give proof of valour; and those who know so much about lying and cheating thoroughly
+            deserve publicly condemnation. They bring the evil back upon themselves, and anyone who
+            seeks after evil will find it without fail: for if a man tries his utmost to pursue a
+            small evil, a great one is able to settle in his heart.</p>
+        </div>
+        <div n="4" type="stanza">
+          <p>We ought to bear well in mind the story of the battle of the two dragons to be found in
+            the book of the Bretons, which caused the castle to collapse; this is the world, which
+            risks ruin if God is unwilling to put an end to the battle. Merlin’s science was needed
+            to divine what the future would bring; but Antichrist is coming: this you may know from
+            the vices that the devil is fomenting. </p>
+        </div>
+        <div n="5" type="stanza">
+          <p>Do you know who are the vile, stinking birds who kill God and his little progeny?
+            Religious hypocrites, who are unclean en masse; they are truly repulsive and stinking
+            and evil: they kill all the good people, who are God’s children, through their false
+            words. Religious hypocrites make the world falter; by St Peter, woe betide anyone who
+            meets them! They have taken away joy and comfort and peace and will bear the great
+            burden of this to hell.</p>
+        </div>
+        <div n="6" type="stanza">
+          <p>God grant that we may serve and love Him and Our Lady, whom we should keep in
+            remembrance, and protect us for evermore from the evil birds which have poison in their
+            beaks.</p>
+        </div>
+      </div>
+      <div type="translation" xml:id="rs.273.it" xml:lang="it">
+        <head> Translation </head>
+        <div n="1" type="stanza">
+          <p>Dio è paragonabile al pellicano, che fa il suo nido in cima all’albero più alto; e
+            l’uccello cattivo che sta sotto uccide i suoi piccoli, tanto è il suo fetore. Il padre
+            torna distrutto e angosciato, si uccide col becco e col sangue sgorgato dal suo dolore
+            fa subito rivivere i suoi piccoli. Dio ha fatto lo stesso nell’ora della sua passione:
+            con il suo dolce sangue ha riscattato i suoi figli dal diavolo che è davvero molto
+            potente.</p>
+        </div>
+        <div n="2" type="stanza">
+          <p>Il contraccambio è lento e scarso, perché bontà, giustizia, pietà non ne ha nessuno;
+            anzi, ciò che prevale è l’orgoglio, la baratteria, la slealtà, il tradimento, la
+            superbia. Ora la vostra condizione è davvero molto pericolosa, e se non fosse per
+            l’esempio di coloro che amano tanto le contese e le battaglie – cioè i chierici, che
+            hanno abbandonato i sermoni per combattere e uccidere la gente – nessuno avrebbe più
+            fede in Dio.</p>
+        </div>
+        <div n="3" type="stanza">
+          <p>Il nostro capo fa dolere tutte le membra, per cui è giusto che ce ne lamentiamo presso
+            Dio, ma una gran (parte della) colpa ricade anche sui baroni, ai quali dà fastidio
+            quando qualcuno vuole mostrare il suo valore; e meritano soprattutto di essere
+            pubblicamente biasimati coloro che sanno solo mentire e ingannare; non fanno che
+            attirare su di loro il male, e chi cerca il male finisce per trovarlo: se qualcuno si
+            dedica a perseguire un piccolo male, un male (più) grande può insediarsi nel suo
+            cuore.</p>
+        </div>
+        <div n="4" type="stanza">
+          <p>Dovremmo tenere ben presente il racconto della battaglia dei due draghi, che possiamo
+            trovare nel libro dei Bretoni, a causa dei quali il castello crollava; è il mondo che
+            rischia di precipitare, se Dio non vuole porre fine alla battaglia; fu necessaria la
+            scienza di Merlino per capire cosa stava accadendo. Ma l’Anticristo sta arrivando,
+            potete capirlo dai vizi che il diavolo fomenta.</p>
+        </div>
+        <div n="5" type="stanza">
+          <p>Sapete chi sono gli uccellacci mefitici che uccidono Dio e la sua prole? I religiosi
+            ipocriti, la cui congerie non è pulita; essi sono davvero ripugnanti, schifosi e vili, e
+            uccidono tutte le persone buone, che sono i figli di Dio, a causa dei loro discorsi
+            ipocriti. I religiosi ipocriti fanno vacillare il mondo; per san Pietro, guai a chi li
+            incontra! Hanno posto fine alla gioia, al conforto e alla pace: ne porteranno il grande
+            peso all’inferno.</p>
+        </div>
+        <div n="6" type="stanza">
+          <p>Dio ci conceda di servirlo e amarlo e la Signora, che non dobbiamo dimenticare, ci
+            protegga sempre dagli uccelli cattivi che hanno il veleno nel becco.</p>
+        </div>
+      </div>
+      <div type="text" xml:lang="en ">
+        <p>Luca Barbieri 2014</p>
+      </div>
+      <div type="text" xml:lang="it ">
+        <p>Luca Barbieri 2014</p>
+      </div>
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>Two dates are possible for this text. It may refer to the events of 1236-1239, the period
+          of constant conflict between Pope Gregory IX and the emperor Frederick II and of long and
+          difficult preparations for the expedition to the Holy Land which was in fact to be led by
+          Thibaut de Champagne (see the numerous points of contact with the song RS 1152, probably
+          written near the time of departure of the 1239 expedition). Alternatively, and more
+          probably, it may date from the time of the Albigensian crusade following the siege of
+          Avignon (1226-1229, but certainly before Frederick left for the Holy Land in the summer of
+          1228). Characteristic of compositions of these years are the condemnation of hypocrisy and
+          anti-clerical polemics. For a more detailed commentary see my edition, Barbieri 2014, in
+          press.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Due datazioni sono possibili per questo testo: la canzone potrebbe riferirsi agli eventi
+          degli anni 1236-1239, teatro dei continui contrasti tra il papa Gregorio IX e l’imperatore
+          Federico II e dei preparativi lunghi e tormentati della spedizione in Terra Santa che sarà
+          guidata proprio da Thibaut de Champagne (si vedano i numerosi punti di contatto con la
+          canzone RS 1152, scritta verosimilmente a ridosso della partenza per la spedizione del
+          1239) oppure, più probabilmente, al periodo della crociata albigese successivo all’assedio
+          di Avignone (1226-1229, ma certamente prima della partenza di Federico II per la Terra
+          Santa, avvenuta nell’estate del 1228). Sono caratteristiche dei componimenti di questi
+          anni la condanna dell’ipocrisia e la polemica contro il clero.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>This is not really a crusade song, but an invective against religious hypocrisy (see
+          especially vv. 16-20 and 41-50) containing historical references that can be interpreted
+          in relation to a crusade, particularly because of its strong resemblance to RS 1152.
+          Thibaut de Champagne’s piece belongs to the context of polemics against the <hi
+            rend="italic">falsa clercia</hi> well exemplified by certain Occitan <hi rend="italic"
+            >sirventes</hi> written at the time of the Albigensian crusade by the troubadours
+          Falquet de Romans and Peire Cardenal. The interest of the text lies in the expression of
+          pro-imperial and anticlerical positions unusual for someone of the count of Champagne’s
+          status, and also in its quantity of scriptural, proverbial and literary quotations which
+          reveal the author’s broad culture and intellectual curiosity. For a more detailed
+          commentary see Luca Barbieri, «Un sirventese religioso di Thibaut de Champagne: <hi
+            rend="italic">Diex est ausis conme li pellicans</hi> (RS 273)», <hi rend="italic"
+            >CN</hi>, 73 (2013), pp. 301-346.</p>
+        <p corresp="#rs.273.fro[range(@n=1,@n=7)]">The parable of the pelican which resuscitates its
+          dead chicks by sprinkling them with its own blood is widely diffused in medieval
+          encyclopaedias and bestiaries, especially because it can readily be interpreted in
+          Christological terms, but it probably derives from classical and pagan sources. The
+          earliest attestations are found in the Greek Physiologos, from where the image enters
+          Christian Latin literature through St Augustine. The version which identifies the
+          pelican’s enemy with another bird is extremely rare, and is found in a 12th-c. Occitan
+          sermon published by Chabaneau (1885, p. 20) and reprinted in Appel’s Occitan Chrestomathie
+          (Appel 1895, p. 176).</p>
+        <p corresp="#rs.273.fro:(n=1)">The first line is indubitably inspired by a verse of the
+          Psalms (Ps 101 [102</p>
+        <p corresp="#rs.273.fro:(n=11)">The allusion to the slowness of the guerredon recalls one of
+          the recurrent themes of crusade preaching, namely the pressing invitation to repay in some
+          way the sacrifice of Christ who accepted death on the cross for the sake of all humankind.
+          Such an exchange is usually identified with the service offered for the liberation of the
+          Holy Sepulchre and the Holy Land which has fallen into pagan hands, and in this respect
+          the similarity with Falquet de Romans BdT 156.11, 51-53 appears significant.</p>
+        <p corresp="#rs.273.fro[range(@n=13,@n=14)]">The list of the worst vices proliferating in
+          the world and announcement of the coming of the Antichrist is similar to one found in RS
+          1152, 1-4, where it provides one of the justifications for the need for the crusade. With
+          these lines Thibaut prepares the prophecy contained in vv. 39-40, and the link between the
+          two passages is strengthened if one accepts the reading malices (“vices”) in v. 40 in
+          place of the incomprehensible, though well attested in the MSS, maçues.</p>
+        <p corresp="#rs.273.fro[range(@n=16,@n=20)]">Nowadays most critics interpret this passage as
+          ironic, as this is the only way it can fit with the following vv. 41-50. Such a reading is
+          supported by the similar tone found in certain contemporary Occitan sirventes such as BdT
+          225.4 by Guillem de Montaignagol.</p>
+        <p corresp="#rs.273.fro[range(@n=21,@n=22)]">The allusion to the suffering of the head which
+          is transmitted to all the body’s limbs is scriptural (1Cor 12, 26-27) but has become
+          proverbial. Here it may be a criticism of the pope expressed cautiously at a moment when
+          Thibaut de Champagne’s personal and political position is very delicate; this
+          interpretation appears to be supported by the following lines.</p>
+        <p corresp="#rs.273.fro[range(@n=23,@n=24)]">The reference to the generic appearance of envy
+          aroused by the most valorous may point to the emperor Frederick II, as is suggested by the
+          similarity with RS 1152, 7-8.</p>
+        <p corresp="#rs.273.fro[range(@n=27,@n=30)]">It is not obvious how these clearly proverbial
+          lines should be interpreted. If v. 27 at first appears comprehensible and recalls numerous
+          biblical passages (e.g. Job 4, 8; Ps 7, 15-17; Eccl 8, 6), vv. 29-30 are more ambiguous
+          and would be clearer if we knew whether the reference to the two evils should be taken
+          generically or as referring to specific facts. I do not consider it necessary to force the
+          interpretation of the two evils too specifically, as do some scholars who see the smaller
+          evil as Muslim power in the Holy Land and the greater, hypocrisy. The meaning of these
+          lines must be simply that whoever continually pursues evil, however small it is, ends by
+          attracting a greater one to himself and receiving it into his heart. For the various forms
+          assumed by this proverb and its literary fortune see the collections of Schulze Busacker
+          1985 and Morawski 1925, n° 1979, 1982, 1983.</p>
+        <p corresp="#rs.273.fro[range(@n=31,@n=34)]">The episode of the fight between the dragons is
+          found in various medieval redactions of the life of Merlin, from Wace’s Roman de Brut
+          onwards, but Thibaut’s reference is particularly close to the version of the Merlin of the
+          pseudo-Robert de Boron (§§ 19-30) and the Lancelot-Graal (Merlin, §§ 50-76). Scholars have
+          tried to interpret the allegory by identifying the two dragons firstly with the Church and
+          the Cathar heresy (or else as the two most significant characters of the Albigensian
+          crusade: count Raymond of Toulouse and Simon de Montfort), and then, with greater
+          plausibility, as the pope and the emperor Frederick II, locked in a long and exhausting
+          conflict.</p>
+        <p corresp="#rs.273.fro[range(@n=35,@n=36)]">The theme of the decline of the world is the
+          logical follow-up to the proliferation of vices described in vv. 13-14 and will find its
+          fulfilment in the coming of the Antichrist announced in vv. 39-40; once again there is a
+          clear similarity with the crusade song RS 1152, 5-6.</p>
+        <p corresp="#rs.273.fro:(n=40)">For the very common designation of the devil as ennemis, see
+          also Thibaut de Champagne RS 6, 31: ensi les tient Anemis et pechiez.</p>
+        <p corresp="#rs.273.fro[range(@n=41,@n=44)]">The spelling out of the meaning of a symbolic
+          image (in this case that of the first stanza) is typical of moral and didactic literature
+          as well as sermons. The same procedure is adopted by the author of the crusade song RS
+          886, definitely a cleric (maistre Renaut), applied in vv. 71-78 to the parable of the ten
+          virgins (Mt 25, 1-12).</p>
+        <p corresp="#rs.273.fro:(n=43)">The noun mons here means “société”, “catégorie d’êtres
+          humains” (Godefroy X, 168c). Naturally the adjective nez must be understood here in both
+          its literal and moral senses.</p>
+        <p corresp="#rs.273.fro:(n=47)">This returns to the theme of the decline of the world (v.
+          35) which, in the choice of the verb chanceler, evokes the image of a tower collapsing.
+          Not only the struggle between pope and emperor but also the actions of the hypocritical
+          clergy contribute to the world’s ruin.</p>
+        <p corresp="#rs.273.fro[range(@n=49,@n=50)]">This obviously concerns the burden of eternal
+          consequences which the hypocrites must bear for having deprived the world of peace and
+          joy. Compare Ps 37, 5: Nam culpae meae supergressae sunt caput meum, sicut onus grave
+          gravant me nimis.</p>
+        <p corresp="#rs.273.fro[range(@n=51,@n=54)]">The prayer addressed to God and the Virgin is a
+          feature of Thibaut de Champagne’s envois, and we can find it in other religious
+          compositions of his; as far as crusade songs are concerned see RS 6, 26 and 36-38.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Non si tratta di una vera e propria canzone di crociata, ma di un’invettiva contro
+          l’ipocrisia religiosa (si vedano in particolare i vv. 16-20 e 41-50), che contiene alcuni
+          riferimenti storici che possono essere interpretati in relazione a una crociata,
+          soprattutto per le forti analogie con la canzone RS 1152. Il contributo di Thibaut de
+          Champagne s’inserisce nel contesto della polemica contro la <hi rend="italic">falsa
+            clercia</hi> ben illustrata per esempio da alcuni sirventesi occitanici scritti al tempo
+          della crociata albigese, opera dei trovatori Falquet de Romans e Peire Cardenal.
+          L’interesse del testo risiede nell’espressione di posizioni filoimperiali e anticlericali
+          inconsuete per un personaggio come il conte di Champagne, ma anche nella quantità di
+          citazioni scritturali, proverbiali e letterarie che lo caratterizzano, lasciando
+          trasparire l’ampia cultura e curiosità intellettuale dell’autore. Per un commento più
+          approfondito si veda Luca Barbieri, «Un sirventese religioso di Thibaut de Champagne: <hi
+            rend="italic">Diex est ausis conme li pellicans</hi> (RS 273)», <hi rend="italic"
+            >Cultura neolatina</hi>, 73 (2013), pp. 301-346.</p>
+        <p corresp="#rs.273.fro[range(@n=1,@n=7)]">L’apologo del pellicano che risuscita i suoi
+          piccoli morti aspergendoli col proprio sangue è diffusissimo nelle enciclopedie e nei
+          bestiari medievali, soprattutto per la facilità della lettura in chiave cristologica che
+          se ne è potuta trarre, ma la sua origine affonda probabilmente in ambito classico e
+          pagano. Le prime attestazioni si trovano nel Physiologos greco, da dove l’immagine investe
+          la letteratura latina cristiana a partire da sant’Agostino. La versione che identifica
+          l’avversario del pellicano con un altro uccello è estremamente rara, e si trova in un
+          sermone occitanico del XII secolo pubblicato da Chabaneau 1885, p. 20 e ripreso nella
+          crestomazia occitanica di Appel 1895, p. 176.</p>
+        <p corresp="#rs.273.fro:(n=1)">L’incipit della canzone è certamente ispirato da un versetto
+          dei salmi (Ps 101 [102</p>
+        <p corresp="#rs.273.fro:(n=11)">Il richiamo alla lentezza del guerredon ricorda uno dei temi
+          ricorrenti nella predicazione delle crociate, cioè l’invito pressante a ricambiare in
+          qualche modo il sacrificio salvifico di Cristo che ha accettato di morire in croce per
+          tutto il genere umano. Tale contraccambio solitamente è identificato proprio con il
+          servizio offerto per la liberazione del Santo Sepolcro e della Terra Santa caduta nelle
+          mani degli infedeli, e in questo senso mi pare significativo il riscontro con Falquet de
+          Romans BdT 156.11, 51-53.</p>
+        <p corresp="#rs.273.fro[range(@n=13,@n=14)]">Elenco dei peggiori vizi che proliferano nel
+          mondo e che annunciano la venuta dell’Anticristo analogo a quello contenuto in RS 1152,
+          1-4, dove costituisce una delle giustificazioni della necessità della crociata. Con questi
+          versi Thibaut prepara la profezia dei vv. 39-40 e il legame tra i due passi è reso ancora
+          più forte se si accetta al v. 40 la lezione malices (“vizi”) al posto dell’incomprensibile
+          ma ben attestato maçues.</p>
+        <p corresp="#rs.273.fro[range(@n=16,@n=20)]">Prevale oggi tra i critici un’interpretazione
+          in senso ironico di questo passo, l’unica che permette di accordare questi versi con i
+          successivi vv. 41-50. La lettura ironica trova una giustificazione anche nell’analoga
+          tonalità rinvenibile in alcuni sirventesi occitani contemporanei come per esempio BdT
+          225.4 di Guillem de Montaignagol.</p>
+        <p corresp="#rs.273.fro[range(@n=21,@n=22)]">Il riferimento ai dolori del capo che si
+          ripercuotono in tutte le membra è di ascendenza scritturale (1Cor 12, 26-27) ma è divenuto
+          proverbiale. Qui potrebbe trattarsi di una critica al pontefice espressa con cautela in un
+          momento nel quale la posizione personale e politica di Thibaut de Champagne è assai
+          delicata; questa interpretazione sarebbe confortata dal contenuto dei versi
+          successivi.</p>
+        <p corresp="#rs.273.fro[range(@n=23,@n=24)]">L’accenno all’apparenza generico alle invidie
+          suscitate dai più valorosi può essere forse riferito all’imperatore Federico II, come
+          sembra suggerire l’analogia con RS 1152, 7-8.</p>
+        <p corresp="#rs.273.fro[range(@n=27,@n=30)]">Questi versi dal chiaro sapore proverbiale non
+          sono d’interpretazione immediata. Se il v. 27 sembra a prima vista facilmente
+          comprensibile e rimanda a numerosi passi scritturali (si veda per esempio Iob 4, 8; Ps 7,
+          15-17; Eccl 8, 6), i vv. 29-30 risultano più ambigui e va chiarito se il riferimento ai
+          due mali deve essere inteso in senso generico o riferito a fatti specifici. Non ritengo
+          necessario forzare l’interpretazione dei due mali in senso troppo concreto, come fanno
+          alcuni che vedono nel piccolo male il potere musulmano in Terra Santa e nel grande male
+          l’ipocrisia. Il senso di questi versi sarà semplicemente che chi persegue continuamente il
+          male, per quanto piccolo, finisce per attirare su di sé e ospitare nel proprio cuore un
+          male più grande. Per le varie forme assunte da questo proverbio e per la sua fortuna
+          letteraria si vedano i repertori di Schulze Busacker 1985 e Morawski 1925, n° 1979, 1982,
+          1983.</p>
+        <p corresp="#rs.273.fro[range(@n=31,@n=34)]">L’episodio della lotta tra i draghi si trova
+          nelle varie redazioni medievali della vita di Merlino, a partire dal Roman de Brut di
+          Wace, ma l’accenno di Thibaut è particolarmente vicino alle versioni del Merlin dello
+          pseudo-Robert de Boron (§§ 19-30) e del Lancelot-Graal (Merlin, §§ 50-76). Gli studiosi
+          hanno cercato d’interpretare l’allegoria dei due draghi identificandoli dapprima con la
+          Chiesa e l’eresia catara (oppure con i due personaggi più significativi della crociata
+          albigese: il conte Raimondo di Tolosa e Simone di Montfort) e in seguito più
+          verosimilmente con il papa e l’imperatore Federico II, impegnati in un lungo ed estenuante
+          conflitto.</p>
+        <p corresp="#rs.273.fro[range(@n=35,@n=36)]">Il tema della decadenza del mondo è la logica
+          conseguenza del proliferare dei vizi descritto nei vv. 13-14 e troverà il suo compimento
+          nella venuta dell’Anticristo annunciata nei vv. 39-40; ancora una volta vi è un’analogia
+          evidente con la canzone di crociata RS 1152, 5-6.</p>
+        <p corresp="#rs.273.fro:(n=40)">Per l’appellativo antonomastico ennemis attribuito al
+          diavolo, molto diffuso, si veda anche Thibaut de Champagne RS 6, 31: ensi les tient Anemis
+          et pechiez.</p>
+        <p corresp="#rs.273.fro[range(@n=41,@n=44)]">La spiegazione esplicita di un’immagine
+          simbolica (in questo caso quella della prima strofe) è una caratteristica tipica della
+          letteratura morale e didattica nonché della predicazione. Lo stesso procedimento è
+          adottato dall’autore della canzone di crociata RS 886, certamente un chierico (maistre
+          Renaut), ai vv. 71-78 applicati alla parabola delle dieci vergini (Mt 25, 1-12).</p>
+        <p corresp="#rs.273.fro:(n=43)">Nel nostro caso il sostantivo mons avrà il senso di
+          “société”, “catégorie d’êtres humains” attribuitogli da Godefroy X, 168c. Naturalmente
+          l’aggettivo nez dovrà essere inteso qui in senso sia proprio sia morale.</p>
+        <p corresp="#rs.273.fro:(n=47)">Ripresa conclusiva del tema della decadenza del mondo (v.
+          35), che nella scelta del verbo chanceler ricorda l’immagine della torre che crolla. Non
+          solo dunque la lotta tra papa e imperatore, ma anche l’azione dei chierici ipocriti
+          contribuisce alla rovina del secolo.</p>
+        <p corresp="#rs.273.fro[range(@n=49,@n=50)]">Si tratta ovviamente del peso delle conseguenze
+          eterne che gli ipocriti dovranno sopportare per aver privato il mondo della pace e della
+          gioia. Si veda per esempio Ps 37, 5: Nam culpae meae supergressae sunt caput meum, sicut
+          onus grave gravant me nimis.</p>
+        <p corresp="#rs.273.fro[range(@n=51,@n=54)]">La preghiera indirizzata a Dio e alla Vergine è
+          una caratteristica dei congedi di Thibaut de Champagne, e la possiamo trovare in altri
+          suoi componimenti religiosi; per quanto riguarda le canzoni di crociata si veda RS 6, 26 e
+          36-38.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

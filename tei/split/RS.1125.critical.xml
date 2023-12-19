@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-12-02</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Sinner 1772, 367; de la Borde 1780, II, 302; Michel 1830, 85; Paris 1833, 93; Mone
+            1838, 411; Buchon 1840, 421; Leroux de Lincy 1841-1842,<hi rend="smallcaps"> I,</hi>
+            113; Dinaux 1837-1863, <hi rend="smallcaps">III</hi>, 397; Keller 1844, 254; Wackernagel
+            1846, 39; Mätzner 1853, 86; <hi rend="italic">ASSL</hi> 34 (1863), 376; Brakelmann 1870,
+            75; Scheler 1876, <hi rend="smallcaps">I</hi>, 2; Bartsch 1886, 184; De Lollis 1886, 62;
+            Wallensköld 1891, 224; Sudre 1898, 140; Bédier-Aubry 1909, 99; Oulmont 1913, 286;
+            Bertoni 1917, 392; Gennrich 1918, 10; Voretzsch 1921, 116; Wallensköld 1921, 6; Gennrich
+            1922, 236; Gennrich 1924-1925, 93; Gerold 1936, 289; Beck 1937, 71; Brittain 1937, 134;
+            Frank 1952-1956, I, 29; Pauphilet 1952, 865; Spaziani 1954, 27; Cremonesi 1955, 93;
+            Woledge 1961, 108; Lerond 1964, 187; Toja 1966, 204; Mary 1967, I, 214; Cluzel 1969, 52;
+            Schöber 1976, 106; van der Werf 1977-1979, 285; Bec 1977-1978, II, 964; Alvar 1982, 248;
+            Lea 1982, 128; Baumgartner 1983, 244; Picot 1975, II, 24; Rieger 1983, 52; Dufournet
+            1989, 124; Guida 1992, 54; Varvaro 1993, 145; Dijkstra 1995a, 189; Rosenberg-Tischler
+            1995, 368; Gresti 2011, 230.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Sinner 1772, 367; de la Borde 1780, II, 302; Michel 1830, 85; Paris 1833, 93; Mone
+            1838, 411; Buchon 1840, 421; Leroux de Lincy 1841-1842,<hi rend="smallcaps"> I,</hi>
+            113; Dinaux 1837-1863, <hi rend="smallcaps">III</hi>, 397; Keller 1844, 254; Wackernagel
+            1846, 39; Mätzner 1853, 86; <hi rend="italic">ASSL</hi> 34 (1863), 376; Brakelmann 1870,
+            75; Scheler 1876, <hi rend="smallcaps">I</hi>, 2; Bartsch 1886, 184; De Lollis 1886, 62;
+            Wallensköld 1891, 224; Sudre 1898, 140; Bédier-Aubry 1909, 99; Oulmont 1913, 286;
+            Bertoni 1917, 392; Gennrich 1918, 10; Voretzsch 1921, 116; Wallensköld 1921, 6; Gennrich
+            1922, 236; Gennrich 1924-1925, 93; Gerold 1936, 289; Beck 1937, 71; Brittain 1937, 134;
+            Frank 1952-1956, I, 29; Pauphilet 1952, 865; Spaziani 1954, 27; Cremonesi 1955, 93;
+            Woledge 1961, 108; Lerond 1964, 187; Toja 1966, 204; Mary 1967, I, 214; Cluzel 1969, 52;
+            Schöber 1976, 106; van der Werf 1977-1979, 285; Bec 1977-1978, II, 964; Alvar 1982, 248;
+            Lea 1982, 128; Baumgartner 1983, 244; Picot 1975, II, 24; Rieger 1983, 52; Dufournet
+            1989, 124; Guida 1992, 54; Varvaro 1993, 145; Dijkstra 1995a, 189; Rosenberg-Tischler
+            1995, 368; Gresti 2011, 230.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(14+1).</hi> C 1v (<hi rend="italic">Cunes de Betunez</hi>), H 227b
+              (<hi rend="italic">Moniez d’Arraz</hi>), K 93b (<hi rend="italic">le Chastelain de
+              Couci</hi>), M 46d (<hi rend="italic">Quenes</hi>), N 39b (<hi rend="italic">Chastelain de Couci</hi>), O 90c (anonymous; modern attribution <hi rend="italic">Chastelain de Coucy</hi>), O<hi rend="superscript">p</hi> p. 54b (anon.), P 29d (<hi rend="italic">li Chastelains de Couci</hi>), R<hi rend="superscript">2</hi> 40r (<hi rend="italic">mesire Quesne chevalier</hi>), T 100r (<hi rend="italic">me sire
+              Quenes</hi>), V 74b (anon.), X 67d (<hi rend="italic">le Chastelain de Couci</hi>), Za
+            140r (anon.), a 23d (<hi rend="italic">mesires Quenes de Bietune</hi>), Stuttgart (<hi rend="italic">Mes sires quenes de Betune</hi>; lost fragment; ed. Mone 1838).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(14+1).</hi> C 1v (<hi rend="italic">Cunes de Betunez</hi>), H 227b
+              (<hi rend="italic">Moniez d’Arraz</hi>), K 93b (<hi rend="italic">le Chastelain de
+              Couci</hi>), M 46d (<hi rend="italic">Quenes</hi>), N 39b (<hi rend="italic">Chastelain de Couci</hi>), O 90c (anonima; attribuz. moderna <hi rend="italic">Chastelain de Coucy</hi>), O<hi rend="superscript">p</hi> p. 54b (anon.), P 29d (<hi rend="italic">li Chastelains de Couci</hi>), R<hi rend="superscript">2</hi> 40r (<hi rend="italic">mesire Quesne chevalier</hi>), T 100r (<hi rend="italic">me sire
+              Quenes</hi>), V 74b (anon.), X 67d (<hi rend="italic">le Chastelain de Couci</hi>), Za
+            140r (anon.), a 23d (<hi rend="italic">mesires Quenes de Bietune</hi>), Stuttgart (<hi rend="italic">Mes sires quenes de Betune</hi>; frammento perduto; ed. Mone
+            1838).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10 a’ba’bba’ba’ (MW 902,13 =
+        Frank 302); 6 <hi rend="italic">coblas doblas</hi>, one four-line <hi rend="italic">envoi</hi> (b’ab’a) is attested by ms. C only and is very probably spurious; rhyme a: <hi rend="italic">-ie</hi>, <hi rend="italic">-aige</hi>, <hi rend="italic">-euse</hi>; rhyme
+        b: <hi rend="italic">-or</hi>, <hi rend="italic">-ont</hi>, <hi rend="italic">-eus</hi>. The
+        versification is imitated in three other crusade songs: RS 1030 by Huon d’Oisy (a direct
+        response to Conon’s text, but with masculine rhymes only), RS 1020a attributed to Richart de
+        Fournival and RS 499 by Chardon de Croisilles. There is <hi rend="italic">annominatio per
+          immutationem</hi> in vv. 4-5 (<hi rend="italic">douçour-dolor</hi>) and 23-29 (<hi rend="italic">sont-vont</hi>), a paronymous rhyme in vv. 6-16 (<hi rend="italic">mie-amie</hi>); in v. 20 <hi rend="italic">ont</hi> constitutes a paronymous rhyme with
+        all the other rhymes in <hi rend="italic">-ont</hi>; the rhymes of the last two stanzas are
+        ‘grammatically’ linked (<hi rend="italic">-euse/-eus</hi>), but there is only a real
+        grammatical rhyme in vv. 44 and 48 (<hi rend="italic">hontex-honteuse</hi>). The caesuras
+        are generally regular: a lyrical caesura occurs in v. 28, a feminine caesura with elision in
+        vv. 22 and 26. Melody in KMNOPR<hi rend="superscript">2</hi>TVXa, with five melodic variants
+        MTO, KNPX, R<hi rend="superscript">2</hi>, V and a; melodic scheme ABAB CDCD (T
+        647,1).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10 a’ba’bba’ba’ (MW 902,13 =
+        Frank 302); 6 <hi rend="italic">coblas doblas</hi>, un <hi rend="italic">envoi</hi> di 4
+        versi (b’ab’a) è attestato dal solo ms. C ed è molto probabilmente spurio; rima a: <hi rend="italic">-ie</hi>, <hi rend="italic">-aige</hi>, <hi rend="italic">-euse</hi>; rima
+        b: <hi rend="italic">-or</hi>, <hi rend="italic">-ont</hi>, <hi rend="italic">-eus</hi>; lo
+        schema è imitato da altre tre canzoni di crociata: la RS 1030 di Huon d’Oisy (che è una
+        risposta diretta al testo di Conon, ma ha solo rime maschili), la RS 1020a attribuita a
+        Richart de Fournival e la RS 499 di Chardon de Croisilles; si ha <hi rend="italic">annominatio per immutationem</hi> ai vv. 4-5 (<hi rend="italic">douçour-dolor</hi>) e
+        23-29 (<hi rend="italic">sont-vont</hi>), rima paronima ai vv. 6-16 (<hi rend="italic">mie-amie</hi>); al v. 20 <hi rend="italic">ont</hi> costituisce una rima paronima con
+        tutte le altre rime in <hi rend="italic">-ont</hi>; le rime delle ultime due strofe hanno un
+        legame “grammaticale” tra loro (<hi rend="italic">-euse/-eus</hi>), ma un vera rima
+        grammaticale si ha solo tra i vv. 44 e 48 (<hi rend="italic">hontex-honteuse</hi>); le
+        cesure sono in genere regolari: vi è cesura lirica al v. 28; cesura femminile con elisione
+        ai vv. 22 e 26; melodia in KMNOPR<hi rend="superscript">2</hi>TVXa, con cinque varianti
+        melodiche MTO, KNPX, R<hi rend="superscript">2</hi>, V e a; schema melodico ABAB CDCD (T
+        647,1).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>Wallensköld 1891 and Bédier 1909 independently
+        arrive at the same two-branch stemma, with the pair MT, R<hi rend="superscript">2</hi> and a
+        on one side, and on the other the group comprising CO and the lost Stuttgart fragment and
+        the more compact group KNPVX. Bédier does not take mss. H e O<hi rend="superscript">p</hi>
+        into consideration, while Wallensköld places them in the second group. Za, unknown to both,
+        has a reading very close to that of H. The text offered here is that of the MR<hi rend="superscript">2</hi>Ta group, certainly the most reliable as far as Conon de
+        Béthune’s corpus as a whole is concerned (see Barbieri 2013, pp. 287-288 and n. 58). The
+        graphy is that of T, whose form <hi rend="italic">tot</hi> for the nominative plural case
+        (vv. 27 and 32) is also retained, in conformity with the evolution of Picard (Zink, p. 126).
+        Some interventions have proved necessary to patch gaps or correct errors in MR<hi rend="superscript">2</hi>Ta; in v. 26 the erroneous <hi rend="italic">morront</hi> is
+        replaced with <hi rend="italic">manront</hi> from the other mss.; v. 29, omitted by MR<hi rend="superscript">2</hi>Ta, and perhaps corrupt in the archetype, is patched by KNPX’s
+        reading to avoid an identical rhyme with v. 21; in v. 46 COSt’s reading <hi rend="italic">angoisseuse</hi> is adopted to avoid an identical rhyme with v. 38 and is preferable for
+        the sense. MR<hi rend="superscript">2</hi>Ta’s attribution to Conon de Béthune is confirmed
+        by CSt and is guaranteed by the textual echoes contained in the song RS 1030 of Huon
+        d’Oisy.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Wallensköld 1891 e Bédier 1909 giungono per vie
+        indipendenti a disegnare il medesimo stemma a due rami: da una parte si trovano la coppia
+        MT, R<hi rend="superscript">2</hi> e a, dall’altra il gruppo costituito da CO e dal
+        frammento perduto di Stoccarda e quello più compatto dei mss. KNPVX. Bédier non prende in
+        considerazione i mss. H e O<hi rend="superscript">p</hi>, mentre Wallensköld li colloca nel
+        secondo gruppo. Per quanto riguarda Za, ignoto a entrambi, esso ha una lezione molto vicina
+        a quella di H. Il testo proposto è quello della redazione del gruppo MR<hi rend="superscript">2</hi>Ta, certamente la più affidabile per quanto riguarda l’intero
+        corpus di Conon de Béthune (si veda Barbieri 2013, pp. 287-288 e n. 58). La grafia è quella
+        di T, di cui si si conserva anche la forma <hi rend="italic">tot</hi> per il caso soggetto
+        plurale (vv. 27 e 32), conformemente all’evoluzione piccarda (Zink, p. 126). Si sono resi
+        necessari alcuni interventi sul testo per sanare lacune o errori di MR<hi rend="superscript">2</hi>Ta: al v. 26 si sostituisce l’erroneo <hi rend="italic">morront</hi> con la lezione
+          <hi rend="italic">manront</hi> degli altri testimoni; il v. 29, omesso da MR<hi rend="superscript">2</hi>Ta e forse corrotto già nell’archetipo, è integrato secondo la
+        lezione di KNPX per evitare una rima identica col v. 21; al v. 46 si accoglie la lezione <hi rend="italic">angoisseuse</hi> di COSt, che permette di evitare una rima identica con il
+        v. 38 ed è preferibile per il senso. L’attribuzione a Conon de Béthune del gruppo MR<hi rend="superscript">2</hi>Ta è confermata da CSt ed è garantita dai rimandi testuali
+        contenuti nella canzone RS 1030 di Huon d’Oisy.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-12-15T18:32:26Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Conon de Béthune</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="text" xml:id="rs.1125.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Ahï! Amors, com dure departie</l>
+            <l n="2">me convenra faire de la millor</l>
+            <l n="3">ki onques fust amee ne servie!</l>
+            <l n="4">Diex me ramaint a li par sa douçour,</l>
+            <l n="5">si voirement ke m’en part a dolor.</l>
+            <l n="6">Las! k’ai je dit? Ja ne m’en part je mie!</l>
+            <l n="7">Se li cors va servir Nostre Signor,</l>
+            <l n="8">li cuers remaint del tot en sa baillie.</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="9">Por li m’en vois sospirant en Surie,</l>
+            <l n="10">car je ne doi faillir mon Creator;</l>
+            <l n="11">ki li faura a cest besoig d’aïe,</l>
+            <l n="12">saiciés ke il li faura a grignor;</l>
+            <l n="13">et saicent bien li grant et li menor</l>
+            <l n="14">ke la doit on faire chevallerie</l>
+            <l n="15">ou on conquiert Paradis et honor</l>
+            <l n="16">et pris et los et l’amor de s’amie.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="17">Diex est assis en son saint iretaige:</l>
+            <l n="18">ore i parra se cil le secorront</l>
+            <l n="19">cui il jeta de la prison ombraje,</l>
+            <l n="20">quant il fu mors ens la crois ke Turc ont.</l>
+            <l n="21">Saichiés chil sont trop honi ki n’iront,</l>
+            <l n="22">s’il n’ont poverte ou viellece ou malaige;</l>
+            <l n="23">et cil ki sain et jone et riche sont</l>
+            <l n="24">ne poevent pas demorer sans hontaige.</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="25">Tous li clergiés et li home d’eaige</l>
+            <l n="26">qui ens ausmogne et ens biens fais manront</l>
+            <l n="27">partiront tot a cest pelerinaige,</l>
+            <l n="28">et les dames ki chastement vivront</l>
+            <l n="29">se loiauté font a ceus qui i vont;</l>
+            <l n="30">et s’eles font par mal consel folaige,</l>
+            <l n="31">as lasques gens et mauvais le feront,</l>
+            <l n="32">car tot li boin iront en cest voiaige.</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="33">Ki chi ne velt avoir vie anuieuse</l>
+            <l n="34">si voist por Dieu morir liés et joieus,</l>
+            <l n="35">ke cele mors est douce et savereuse</l>
+            <l n="36">dont on conquiert le resne presïeus;</l>
+            <l n="37">ne ja de mort nen i morra .i. sels,</l>
+            <l n="38">ains naisteront en vie glorïeuse;</l>
+            <l n="39">ki revenra moult sera eüreus,</l>
+            <l n="40">a tos jors mais en iert honors s’espeuse.</l>
+          </lg>
+          <lg n="6" type="stanza">
+            <l n="41">Diex! tant avons esté prex par huiseuse,</l>
+            <l n="42">or i parra ki a certes iert prex;</l>
+            <l n="43">s’irons vengier la honte dolereuse</l>
+            <l n="44">dont chascuns doit estre iriés et hontex;</l>
+            <l n="45">car a no tans est perdus li sains lieus</l>
+            <l n="46">ou Diex soffri por nos mort angoisseuse;</l>
+            <l n="47">s’or i laissons nos anemis mortex,</l>
+            <l n="48">a tos jors mais iert no vie honteuse.</l>
+          </lg>
+          <lg n="7" type="stanza">
+            <l n="49">Lais! je m’en voix plorant des eulz del front</l>
+            <l n="50">lai ou Deus veult amendeir mon coraige;</l>
+            <l n="51">et saichiés bien c’a la millor dou mont</l>
+            <l n="52">penserai plux ke ne fais a voiaige.</l>
+          </lg>
+        </div><div type="text" xml:lang="en ">
+          <p>Luca Barbieri, 2015.</p>
+        </div><div type="text" xml:lang="it ">
+          <p>Luca Barbieri, 2015.</p>
+        </div></body><back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>Conon de Béthune was the fifth son of Robert V and Adelaide (Alix) of Saint-Pol,
+          descending from the counts of Artois and related to the counts of Hainaut and Flanders
+          (Oisy), hence also to the Baldwin who was to become the first Latin emperor of
+          Constantinople. Wallensköld places his birth around the middle of the XIIth c., but it is
+          more likely that this should be moved forward by ten or fifteen years, seeing as the first
+          document that concerns him dates from 1180-1181 and mentions him together with his father
+          and brothers. Destined like all younger sons for an ecclesiastical or military career,
+          Conon was able to exploit his diplomatic skills as an adviser and to become an influential
+          figure, if not one of the main authorities in the Latin empire of Constantinople. There is
+          no proof that Conon took part in the Third Crusade, although the songs of exhortation RS
+          1125 and RS 1314 were certainly written for that occasion. According to Wallensköld 1891,
+          p. 101 n. 3, Conon was in the contingent led by Philip Augustus, who swiftly returned to
+          France at the end of July 1191. It was perhaps on account of this quick return, which
+          contrasts with the magniloquence of his songs of exhortation, that he was reproached in
+          song RS 1030 by Huon d’Oisy, whom Conon himself defines as his kinsman and master. But in
+          1191 Huon d’Oisy was already dead, and in any case Conon’s name does not appear in any
+          sources for the expedition. It is known that his father Robert V, who died during the
+          siege of Acre in January 1191, travelled with a Flemish contingent which left before the
+          king of France, and it is possible that his son Conon accompanied him, but it is more
+          likely that for some reason unknown to us he never left. On the problem of the attribution
+          and dating of Huon’s song RS 1030 and the fact that this may refer to a “false departure”
+          by Conon in 1189 see the corresponding paragraph in the edition of that text. After having
+          taken the cross once more in Bruges on 23 February 1200 he was immediately charged with
+          important negotiation tasks for the organisation of the Fourth Crusade. A keen supporter
+          of the deviation of the expedition and the interests of the young prince Alexios IV
+          Angelos, Conon took part in the second capture of Constantinople (12-13 April 1204) and
+          attended the coronation of the emperor Baldwin in the capacity of protovestiarios. Between
+          1204 and 1219 he was put in charge the regency of the empire on three occasions and
+          continued to be a highly influential figure until his death on 17 December 1219 or
+          1220.</p>
+        <p>His works, highly varied and personal both in form and, appears concentrated during the
+          period of his youth. He cultivated personal and literary relations with numerous trouvères
+          and with some troubadours, notably Bertran de Born, Raimbaut de Vaqueiras and Elias
+          Cairel, and his texts reflect the Occitan authors’ typical interest in social and
+          political matters and a predilection for the tone of their <hi rend="italic">sirventes</hi>. He distinguished himself to such an extent from the courtly and amorous
+          uniformity of many of his northern colleagues that Jodogne could define his work as one of
+          the earliest cases of personal poetry (Jodogne 1964, pp. 99-100). Even song RS 1125, one
+          of the earliest, the most important and the most influential crusade songs in the northern
+          French tradition, is essentially written in the hortatory and polemical style typical of
+          the troubadours, despite the opening stanza on the grief at separation from the beloved
+          lady. It was definitely composed after the fall of Jerusalem to Saladin in October 1187
+          (vv. 17-20). The fact that song RS 1030 by Huon d’Oisy presents clear references to
+          Conon’s song confirms that it must have been composed at the time of the Third Crusade,
+          since Huon probably died on 20 August 1189 or at the latest the following year (see Bédier
+          1909, pp. 28-29 and 53-61; Dijkstra 1995a, p. 84). The composition of RS 1125 must
+          therefore be dated at a time between the fall of Jerusalem (October 1187) and Philip
+          Augustus’s departure on crusade (summer 1190). The hortatory tone and the use of motifs
+          typical of contemporary preaching suggest it was written at the latest after Philip
+          Augustus and Richard the Lionheart took their vow at Gisors on 21 January 1188.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Conon de Béthune è il quinto figlio di Roberto V e Adelaide (Alix) de Saint-Pol,
+          discendente dei conti d’Artois e imparentato con i conti di Hainaut e di Fiandra (Oisy),
+          quindi anche con quel Baldovino che diventerà primo imperatore latino di Costantinopoli.
+          Wallensköld colloca la sua nascita verso la metà del XII secolo, ma è più probabile che
+          essa debba essere spostata in avanti di dieci o quindici anni, visto che il primo
+          documento che lo riguarda risale al 1180-1181 e lo menziona insieme al padre e ai
+          fratelli. Destinato come ogni cadetto alla carriera ecclesiastica o militare, Conon seppe
+          imporre le sue doti diplomatiche di consigliere e negoziatore fino a diventare un
+          personaggio influente e una delle principali autorità dell’impero latino di
+          Costantinopoli. Non vi sono prove della partecipazione di Conon alla terza crociata,
+          benché le canzoni di esortazione RS 1125 e RS 1314 siano certamente state scritte per
+          quell’occasione. Secondo Wallensköld 1891, p. 101 n. 3, Conon avrebbe fatto parte del
+          contingente guidato da Filippo Augusto, rientrato rapidamente in Francia alla fine di
+          luglio del 1191. Proprio questo veloce ritorno, che contrasta con la magniloquenza
+          mostrata nelle sue canzoni di esortazione, gli verrebbe rimproverato nella canzone RS 1030
+          da Huon d’Oisy, che Conon stesso definisce suo parente e maestro. Ma nel 1191 Huon d’Oisy
+          era già morto, e in ogni caso il nome di Conon non risulta in alcuna delle fonti della
+          spedizione. Si sa che il padre Roberto V, morto durante l’assedio di Acri nel gennaio del
+          1191, viaggiò con un contingente fiammingo partito prima del re di Francia, ed è
+          verosimile che il figlio Conon dovesse accompagnarlo, ma è più probabile che non sia mai
+          partito per cause a noi ignote. Sul problema dell’attribuzione e della datazione della
+          canzone RS 1030 di Huon d’Oisy e sul fatto che essa possa riferirsi a una “falsa partenza”
+          di Conon nel 1189 si veda il paragrafo corrispondente dell’edizione di quel testo. Dopo
+          aver preso nuovamente la croce a Bruges il 23 febbraio 1200 egli venne subito investito di
+          importanti incarichi di negoziazione per l’organizzazione della quarta crociata. Fervente
+          sostenitore della deviazione della spedizione e degli interessi del giovane principe
+          Alessio IV Angelo, Conon partecipò alla seconda presa di Costantinopoli (12-13 aprile
+          1204) e assistette all’incoronazione dell’imperatore Baldovino in qualità di
+          protovestiario. Tra il 1204 e il 1219 gli fu affidata in tre occasioni la reggenza
+          dell’impero e rimase sempre un personaggio molto influente e ascoltato fino alla morte
+          sopravvenuta il 17 dicembre 1219 o 1220.</p>
+        <p>La sua opera, molto varia e personale tanto nella forma quanto nel contenuto, sembra
+          concentrata negli anni della giovinezza. Egli coltivò rapporti personali e letterari con
+          numerosi trovieri e con alcuni trovatori, in particolare con Bertran de Born, Raimbaut de
+          Vaqueiras e Elias Cairel, e i suoi testi riflettono infatti l’interesse sociale e politico
+          e la predilezione per i toni del sirventese tipici degli autori occitani. Egli si distinse
+          a tal punto dall’uniformità cortese e amorosa di molti suoi colleghi settentrionali che
+          Jodogne poté definire la sua opera uno dei primi casi di poesia personale (Jodogne 1964,
+          pp. 99-100). Anche la canzone RS 1125, una delle più antiche, delle più importanti e delle
+          più influenti canzoni di crociata nella tradizione oitanica, è scritta sostanzialmente
+          nello stile esortativo e polemico tipico dei trovatori, malgrado la strofa di apertura sul
+          dolore della separazione dall’amata. Essa è stata composta certamente dopo la presa di
+          Gerusalemme da parte di Saladino nell’ottobre 1187 (vv. 17-20). Il fatto che la canzone RS
+          1030 di Huon d’Oisy presenti riferimenti evidenti alla canzone di Conon conferma che
+          questa dev’essere stata composta in occasione della terza crociata, poiché Huon è morto
+          probabilmente il 20 agosto 1189 o al più tardi l’anno successivo (si veda Bédier 1909, pp.
+          28-29 e 53-61; Dijkstra 1995a, p. 84). La composizione della canzone RS 1125 andrà quindi
+          situata in un momento compreso tra la presa di Gerusalemme (ottobre 1187) e la partenza di
+          Filippo Augusto per la crociata (estate 1190). Il tono esortativo e la ripresa di motivi
+          tipici della predicazione contemporanea fanno pensare che essa sia stata scritta al più
+          tardi poco dopo l’impegno preso da Filippo Augusto e Riccardo Cuor-di-Leone a Gisors il 21
+          gennaio 1188.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>[To follow.]</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>[A seguire.] </p>
+      </div>
+    </back></text></TEI>

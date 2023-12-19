@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author>
+          <name>Linda</name>
+          <surname>Paterson</surname>
+        </author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2014-06-25</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>De la Rue 1834, II 196-198, Michel 1836-1834, III 459, Leroux de Lincy 1841, 91-93,
+            Du Méril 1843, 414, Crépet 1861, 38-40, Bédier 1909, 67, Schöber 1976, Guida 2001,
+            59.</bibl>
+        </listBibl>
+        <listBibl type="essential_bibliography">
+          <bibl><seg rend="italic">Crépet 1861: E. Crépet, </seg>Les Poëtes français. Recueil des
+            chefs-d’oeuvre de la poésie française depuis les origines jusqu’à nos jours<seg rend="italic">, I, Paris 1861.</seg></bibl>
+          <bibl><seg rend="italic">de la Rue 1834: G. de la Rue, </seg>Essais historiques sur les
+            bardes, les jongleurs et les trouvères normands et anglo-normands<seg rend="italic">,
+              Caen 1834.</seg></bibl>
+          <bibl><seg rend="italic">du Méril 1843: É. du Méril, </seg>Poésies populaires latines
+            anterieures au Douzième siècle<seg rend="italic">, Paris 1843.</seg></bibl>
+          <bibl><seg rend="italic">Leroux de Lincy 1841: A. Leroux de Lincy, </seg>Recueil de chants
+            historiques français depuis le XIIe jusqu’au XVIIIe siècle<seg rend="italic">. Première
+              série, Paris 1841.</seg></bibl>
+          <bibl><seg rend="italic">Michel</seg><seg rend="italic"> 1836-1844: Fr. Michel,
+          </seg>“Chronique des ducs de Normandie” par Benoît, trouvère anglo-normand du XIIe
+            siècle, publiée pour la première fois d’après un manuscrit du Musée Britannique<seg rend="italic">, Paris 1836-1844.</seg></bibl>
+          <bibl><seg rend="italic">Schöber 1976: S. Schöber, </seg>Die altfranzösische
+            Kreuzzugslyrik des 12. Jahrhunderts. Temporlibus aeterna ... praeponenda<seg rend="italic">, Wien 1976</seg></bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl>o (BL, Harley 1717) 251v (anonymous)</bibl>
+          <bibl>The crusade song is transcribed on the hair side of the verso of parchment folio
+            251, whose recto has been left blank. It would appear to have belonged to an earlier
+            loose unnumbered folio folded in half and re-used as a double protective cover, no
+            longer attached but evidently coming from another codex where it had been attached and
+            had served the same purpose. The handwriting appears to point to scribal habits of the
+            late-twelfth-century documentary type; the same period seems to be indicated by the
+            northern-French/Norman way of writing the neumatic musical notation.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl>o (BL, Harley 1717) 251v (anonima)</bibl>
+          <bibl>La canzone di crociata si trova trascritta lato pelo sul verso del foglio
+            membranaceo 251, la cui parte esterna è stata lasciata bianca. Apparterrebbe a un
+            originario foglio sciolto piegato in due e non numerato, riutilizzato ora come doppia
+            guardia volante non più solidale ma evidentemente proveniente da un altro codice in cui,
+            coerente, aveva la stessa funzione. La grafia pare ricondurre ad abitudini scrittorie di
+            tipo documentario di tardo XII secolo; allo stesso periodo condurrebbe la grafia
+            musicale neumatica di tipo francese settentrionale-normanno.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10ababbaa (MW 852,2 = Frank 293);
+        the model is the song <hi rend="italic">Quant fine Amours me proie que je chant</hi>
+        attributed to Gace Brulé (RS 306); 6 <hi rend="italic">coblas unissonans</hi> with a 3-line
+          <hi rend="italic">envoi</hi> (baa); rima a <hi rend="italic">e</hi>, rhyme b <hi rend="italic">ir</hi>; epic caesura v. 41; hiatus: vv. 1, 17, 41, 43, 44, 45; hiatus at
+        the caesura v. 36; elision vv. 2, 18, 31, 36, 37, 41, 42; elision at the caesura v. 41; the
+        musical notation is diastematic on a four-line stave in red.</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>10ababbaa (MW 852,2 = Frank 293);
+        il modello è nella canzone <hi rend="italic">Quant fine Amours me proie que je chant</hi>
+        attribuita a Gace Brulé (RS 306); 6 <hi rend="italic">coblas unissonans</hi> con un <hi rend="italic">envoi</hi> di 3 versi (baa); rima a <hi rend="italic">e</hi>, rima b <hi rend="italic">ir</hi>; cesura epica v. 41; dialefi: vv. 1, 17, 41, 43, 44, 45; dialefe in
+        cesura v. 36; sinalefi vv. 2, 18, 31, 36, 37, 41, 42; sinalefe in cesura v. 41; la notazione
+        è diastematica disposta su tetragamma a rigo rosso.</p></metDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <date>2014-06-25T14:38:03Z</date>
+          <name>Linda Paterson</name>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Anonymous</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="text" xml:id="rs.401.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Parti de mal e a bien aturné </l>
+            <l n="2">voil ma chançun a la gent fere oïr,</l>
+            <l n="3">k’a sun besuing nus ad Deus apelé</l>
+            <l n="4">si ne li deit nul prosdome faillir,</l>
+            <l n="5">kar en la cruiz deignat pur nus murir. </l>
+            <l n="6">Mult li doit bien estre gueredoné </l>
+            <l n="7">kar par sa mort sumes tuz rachaté. </l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="8">Cunte, ne duc, ne li roi coruné</l>
+            <l n="9">ne se pöent de la mort destolir,</l>
+            <l n="10">kar quant il unt grant tresor amassé </l>
+            <l n="11">plus lur covient a grant dolur guerpir.</l>
+            <l n="12">Mielz lur venist en bon jus departir,</l>
+            <l n="13">kar quant il sunt en la terre buté</l>
+            <l n="14">ne lur valt puis ne chastel ne cité.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="15">Allas, chettif! Tant nus sumes pené </l>
+            <l n="16">pur les deliz de nos cors acumplir,</l>
+            <l n="17">ki mult sunt tost failli e trespassé</l>
+            <l n="18">kar adés voi le plus joefne enviellir! </l>
+            <l n="19">Pur ço fet bon paraïs deservir</l>
+            <l n="20">kar la sunt tuit li gueredon dublé. </l>
+            <l n="21">Mult en fet mal estre desherité!</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="22">Mult ad le quoer de bien enluminé</l>
+            <l n="23">ki la cruiz prent pur aler Deu servir,</l>
+            <l n="24">k’al jugement ki tant iert reduté</l>
+            <l n="25">– u Deus vendrat les bons des mals partir </l>
+            <l n="26">dunt tut le mund ‹deit› trembler e fremir – </l>
+            <l n="27">mult iert huni, kei serat rebuté</l>
+            <l n="28">k‹e›i ne verad Deu en sa maësté. </l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="29">Si m’aït Deus, trop avons demuré</l>
+            <l n="30">d’aler a Deu pur sa terre seisir </l>
+            <l n="31">dunt li Turc l’unt eisseillié e geté </l>
+            <l n="32">pur noz pechiez ke trop devons haïr.</l>
+            <l n="33">La doit chascun aveir tut sun desir,</l>
+            <l n="34">kar ki pur Lui lerad sa richeté</l>
+            <l n="35">pur voir avrad paraïs conquesté. </l>
+          </lg>
+          <lg n="6" type="stanza">
+            <l n="36">Mult iert celui en cest siecle honuré </l>
+            <l n="37">ki Deus donrat ke il puisse revenir.</l>
+            <l n="38">Ki bien avrad en sun païs amé</l>
+            <l n="39">par tut l’en deit menbrer e suvenir.</l>
+            <l n="40">E Deus me doinst de la meillur joïr, </l>
+            <l n="41">que jo la truisse en vie e en santé </l>
+            <l n="42">quant Deus avrad sun afaire achevé!</l>
+          </lg>
+          <lg n="7" type="stanza">
+            <l n="43">‹E› il otroit a sa merci venir</l>
+            <l n="44">mes bons seignurs, que jo tant ai amé</l>
+            <l n="45">k’a bien petit n’en oi Deu oblié!</l>
+          </lg>
+        </div></body><back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>The song’s composition goes back to before the death of Henry II, in a fully Angevin
+          context, in a rare moment of truce between the English and French kings and of peace in
+          the domestic struggles between sons and father (January-November 1188). The third stanza
+          seems to contain allusive notes to Henry the second’s young sons. See vv. 15-17, where the
+          mention of futile obsession with material pleasures and many premature deaths appear to
+          evoke Henry’s two elder sons, the Young King Henry and Count Geoffrey, who both died young
+          and not in battle. In lines 18 and 21 there may be an allusion to the last remaining heir,
+          namely John, “the youngest”, who at that moment, 1188, is still without land and has the
+          prospect of growing old without an inheritance.</p>
+        <p>The author is probably a <hi rend="italic">scriptor</hi> of the Plantangenet royal
+          Chancery. </p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>La composizione della canzone risale a prima della morte di Enrico II, in contesto
+          pienamente angioino, in un raro momento di tregua tra il re d’Inghilterra e quello di
+          Francia e di pace nelle lotte domestiche tra figli e padre (gennaio-novembre 1188). </p>
+        <p>La terza strofe pare contenere allusioni ai giovani figli di Enrico II. Si vedano i vv.
+          15-17, dove l’accenno al vano affannarsi intorno ai piaceri materiali e alle molte morti
+          premature potrebbe essere visto come riferimento ai due figli più grandi, Enrico, il re
+          Giovane, e il conte di Bretagna, Goffredo, entrambi morti giovani e non in battaglia.
+          Mentre ai versi 18 e 21 l'allusione sarebbe all'ultimo erede rimasto, Giovanni, “il più
+          giovane”, che in quel momento, 1188, è ancora senza terra e avrebbe davanti a sé la
+          prospettiva, sottolineata enfaticamente, di invecchiare diseredato</p>
+        <p>L'autore è probabilmente uno <hi rend="italic">scriptor</hi> della Cancelleria regia
+          plantageneta.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>For a more detailed commentary see the forthcoming edition of Radaelli 2013 in <hi rend="italic">Cultura neolatina</hi>.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Per un commento piú dettagliato si veda l’edizione Radaelli 2013, in corso di stampa su
+            <hi rend="italic">Cultura neolatina</hi>.</p>
+      </div>
+    </back></text></TEI>

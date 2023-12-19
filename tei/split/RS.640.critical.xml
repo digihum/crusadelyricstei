@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-09-14</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Camus 1891, 240; Bertoni 1917, 324; Jeanroy-Långfors 1921, 10; Petersen Dyggve 1938,
+            136.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Camus 1891, 240; Bertoni 1917, 324; Jeanroy-Långfors 1921, 10; Petersen Dyggve 1938,
+            136.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>. (1): H 219b (<hi rend="italic">Moniez d’Arraz</hi>); the
+            attribution is found at the beginning of the French section of the manuscript (f. 217a:
+              <hi rend="italic">Iste sunt canciones francigene et sunt .l. </hi>ǀ<hi rend="italic">
+              Moniez d’Arraz</hi>) and has been incorrectly applied to all the texts contained in
+            that section, whereas it probably refers only to the first.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>. (1): H 219b (<hi rend="italic">Moniez d’Arraz</hi>);
+            l’attribuzione si trova all’inizio della sezione francese del canzoniere (f. 217a: <hi rend="italic">Iste sunt canciones francigene et sunt .l. </hi>ǀ<hi rend="italic">
+              Moniez d’Arraz</hi>) ed è stata impropriamente estesa a tutti i testi in essa
+            contenuti, mentre è probabile che si debba riferire solo al primo testo.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>8abbaabab (MW 1303,3 = Frank
+        473); 5 <hi rend="italic">coblas unissonans</hi> with one 4-line <hi rend="italic">envoi</hi> (abab); rhyme a: <hi rend="italic">-ent</hi>, rhyme b: <hi rend="italic">-ir</hi>; the same scheme is found in three later texts, two <hi rend="italic">jeux-partis</hi> and a <hi rend="italic">chanson pieuse</hi>, two of which are attributed
+        to Adam de la Halle; many rich and some leonine rhymes; equivocal rhymes in vv. 5-36 (<hi rend="italic">defent</hi>) and 7-39 (<hi rend="italic">parent</hi>); paronymous and
+        derivative rhymes in vv. 6, 30 and 35 (<hi rend="italic">tenir-sostenir-retenir</hi>).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;"><p>8abbaabab (MW 1303,3 = Frank
+        473); 5 <hi rend="italic">coblas unissonans</hi> con un <hi rend="italic">envoi</hi> di 4
+        versi (abab); rima a: <hi rend="italic">-ent</hi>, rima b: <hi rend="italic">-ir</hi>; lo
+        stesso schema è ripreso da altri tre testi più tardi, due <hi rend="italic">jeux-partis</hi>
+        e una <hi rend="italic">chanson pieuse</hi>, due dei quali sono attribuiti a Adam de la
+        Halle; molte rime ricche e qualche rima leonina; si ha rima equivoca ai vv. 5-36 (<hi rend="italic">defent</hi>) e 7-39 (<hi rend="italic">parent</hi>); rima paronima e
+        derivativa ai vv. 6, 30 e 35 (<hi rend="italic">tenir-sostenir-retenir</hi>).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>Ms. H is the French section of the Provençal ms.
+        Estense, whose initial rubric indicates the date 1254. This date has been variously
+        attributed to the ms. itself, to the first section alone, or to its model (Zinelli 2010 is
+        the most recent scholar to incline to this hypothesis, listing and discussing the various
+        positions on pp. 83-86; on pp. 88-89 he cautiously suggests a later date, at least for the
+        French section, around the last quarter of the 13th c.). RS 640 is the eleventh text, coming
+        shortly before two other texts in our corpus, the fifteenth <hi rend="italic">Ja de chanter
+          en ma vie</hi> (RS 1229), and the sixteenth<hi rend="italic"> Un serventés, plait de
+          deduit, de joie</hi> (RS 1729). H’s text is fairly correct and shows no obvious linguistic
+        peculiarities, apart from a few northern or Picard graphies, especially in the spelling of
+          <hi rend="italic">g</hi> + vowel (v. 4 <hi rend="italic">Albigois</hi>, v. 8 <hi rend="italic">gerpir</hi>, v. 12 <hi rend="italic">longement</hi>; cf. Spetia 1997, p.
+        58), the retention of the tonic form with the graphy <hi rend="italic">boen</hi> (vv. 16 and
+        31), and the early closure of <hi rend="italic">o</hi> + nasal (<hi rend="italic">sunt</hi>
+        v. 7, <hi rend="italic">unt</hi> v. 26). As Petersen Dyggve, at the rhyme in vv. 20 and 21 I
+        have eliminated the final <hi rend="italic">z</hi> which modifies the rhyme and is
+        unnecessary from the morphological point of view. I have accepted Jeanroy’s suggested
+        emendations, following Petersen Dyggve, in order to correct the scansion in v. 28 (<hi rend="italic">en boivre et en maingier</hi>) and to regularise v. 37, although the latter
+        emendation is not entirely convincing.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Il canzoniere H è la sezione francese del
+        canzoniere provenzale estense, la cui rubrica iniziale riporta la data 1254, di volta in
+        volta attribuita al canzoniere stesso, alla sola prima sezione o al suo modello (per questa
+        ipotesi propende da ultimo Zinelli 2010, che alle pp. 83-86 elenca e discute le diverse
+        posizioni; lo stesso Zinelli, pp. 88-89 suggerisce prudentemente almeno per la sezione
+        francese una data più bassa, verso l’ultimo quarto del XIII secolo). La canzone RS 640 si
+        trova in undicesima posizione, e precede di poco altri due testi del nostro corpus, <hi rend="italic">Ja de chanter en ma vie</hi> (RS 1229) e <hi rend="italic">Un serventés,
+          plait de deduit, de joie</hi> (RS 1729), che si trovano al quindicesimo e sedicesimo
+        posto. Il testo di H è abbastanza corretto e non presenta particolarità linguistiche
+        evidenti, se si prescinde da qualche grafia di tipo settentrionale o piccardo, soprattutto
+        per quanto riguarda la resa di <hi rend="italic">g</hi> + vocale (v. 4 <hi rend="italic">Albigois</hi>, v. 8 <hi rend="italic">gerpir</hi>, v. 12 <hi rend="italic">longement</hi>; cfr. Spetia 1997, p. 58), la permanenza della forma tonica con grafia <hi rend="italic">boen</hi> (vv. 16 e 31), la precoce chiusura di <hi rend="italic">o</hi> +
+        nasale (<hi rend="italic">sunt</hi> v. 7, <hi rend="italic">unt</hi> v. 26). Come
+        nell’edizione di Petersen Dyggve sono state eliminate le <hi rend="italic">z</hi> finali
+        nelle lezioni in rima ai vv. 20 e 21, che modificano la rima e non sono necessarie a livello
+        morfologico. Si accettano le correzioni suggerite da Jeanroy e già accolte da Petersen
+        Dyggve per sanare l’ipermetria del v. 28 (<hi rend="italic">en boivre et en maingier</hi>) e
+        per regolarizzare il v. 37, benché quest’ultima non risulti particolarmente
+        convincente.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-09-15T14:53:02Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Anonymous</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="text" xml:id="rs.640.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Bien mostre Diex apertement</l>
+            <l n="2">que n’ovron mie a son plaisir,</l>
+            <l n="3">quant si vilment nos lait honir</l>
+            <l n="4"> en Albigois, ou a tel gent</l>
+            <l n="5">qui de nului ne se defent</l>
+            <l n="6">qui en chanp les puisse tenir.</l>
+            <l n="7">Or i sunt mort nostre parent,</l>
+            <l n="8"> et nos font la terre gerpir.</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="9">Trop vit clergiez desloiaument:</l>
+            <l n="10">par tot lo mont voi Deu traïr;</l>
+            <l n="11">sa grant besogne fist perir</l>
+            <l n="12">outremer, n’a pas longement,</l>
+            <l n="13">que nostre haut conquierement</l>
+            <l n="14">fist tot en perte revertir.</l>
+            <l n="15">Encor m’en met ou jugement</l>
+            <l n="16">au boen roi qui nen doit mentir.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="17">D’umilité n’i a noient,</l>
+            <l n="18">lor orguel ne puet nus sofrir;</l>
+            <l n="19">tot vuelent lo monde saisir</l>
+            <l n="20">par lor escomenïement.</l>
+            <l n="21">Tant ont avoir et tienement,</l>
+            <l n="22">qe par rober, que par tolir,</l>
+            <l n="23">que chascuns vuet ce qu’il enprent,</l>
+            <l n="24">soit torz, soit droiç, faire fornir.</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="25">E, Diex! tant metent malement</l>
+            <l n="26">ce c’unt des morz ensevelir</l>
+            <l n="27">en lor garces paistre et vestir,</l>
+            <l n="28">en boivre et maingier trop sovent;</l>
+            <l n="29">il deüssent tant seulement</l>
+            <l n="30">lor lase vie sostenir,</l>
+            <l n="31">et le sorplus par boen talant</l>
+            <l n="32">au besogneus Deu departir.</l>
+            <l n="33">Rome, don nostre loi descent,</l>
+            <l n="34">nos par fait del tot esbaïr,</l>
+            <l n="35">c’a son hués veaut tot retenir</l>
+            <l n="36">ce que por pechié nos deffent;</l>
+            <l n="37">por loier asot et sospent,</l>
+            <l n="38">et vant ce que Dex rove ofrir,</l>
+            <l n="39">et marie si pres parent</l>
+            <l n="40">que la loi no doit consentir.</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="41">Dex les tut toz ou les ament,</l>
+            <l n="42">si qu’il nos puisse garantir;</l>
+            <l n="43">ou se ce non, procheinement</l>
+            <l n="44">nos convendra sanz loi morir.</l>
+          </lg>
+        </div><div type="text" xml:lang="en ">
+          <p>Luca Barbieri 2016</p>
+        </div><div type="text" xml:lang="it ">
+          <p>Luca Barbieri 2016</p>
+        </div></body><back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>The song’s opening lines refer to a difficult moment for the French during the
+          Albigensian Crusade, most probably Amaury de Montfort’s defeats, particularly between 1219
+          and 1222 (Serper 1983, pp. 4-5; Cassignol 2006, pp. 146-151). The reference in vv. 1-8 is
+          general enough to fit the whole decade spanning the reconquest of Beaucaire in 1216 and
+          Raimon VII’s final successes in 1224; but if we take account of the fact that vv. 11-14
+          probably refer to the loss of Damietta on 8 September 1221, the date of the song’s
+          composition can be restricted to 1222-1224, most probably close to the surrender of
+          Damietta (1222-1223). This is the view of Serper 1983, pp. 4-5 and Vatteroni 1999, pp.
+          60-62, inter alia. A later date cannot be ruled out, as for Thibaut de Champagne’s song RS
+          273, and Guillaume le Clerc in his <hi rend="italic">Besant de Dieu</hi> shows that the
+          memory of the Egyptian victory still weighed heavily on people’s minds in 1226-1227. But
+          it seems difficult to go as far as 1226, the year in which Louis VIII takes the Cross and
+          reinvigorates the anti-Albigensian campaign, and in any case it is impossible to go later
+          than the treaties of Meaux-Paris in 1229 which sanction the major redrawing of the
+          boundaries of the county of Toulouse. Clearly the attribution to Moniot d’Arras is to be
+          rejected and the text should revert to anonymity.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>I versi iniziali della canzone si riferiscono a un momento di difficoltà dei francesi
+          durante la crociata albigese, identificabile con tutta probabilità con le sconfitte subite
+          da Amaury de Montfort, in particolare tra il 1219 e il 1222 (Serper 1983, pp. 4-5;
+          Cassignol 2006, pp. 146-151). In realtà, il riferimento dei vv. 1-8 è sufficientemente
+          generico da adattarsi a tutto il decennio che va dalla riconquista di Beaucaire nel 1216
+          fino agli ultimi successi ottenuti da Raimondo VII nel 1224; ma se si tiene conto che i
+          vv. 11-14 si riferiscono probabilmente alla perdita di Damietta dell’8 settembre 1221, la
+          composizione della canzone si potrà restringere tra il 1222 e il 1224. Una data di
+          composizione vicina alla resa di Damietta (1222-1223) sembra dunque la più probabile, ed è
+          sostenuta tra gli altri da Serper 1983, pp. 4-5 e Vatteroni 1999, pp. 60-62. Non si può
+          escludere del tutto una data più tarda, come per la canzone RS 273 di Thibaut de
+          Champagne, e Guillaume le Clerc nel suo <hi rend="italic">Besant de Dieu</hi> ci dà la
+          prova che il ricordo della disfatta egiziana pesava ancora nel 1226-1227. Ma se sembra
+          difficile scendere sotto il 1226, anno in cui Luigi VIII prende la croce e rinvigorisce la
+          campagna antialbigese, è in ogni caso impossibile andare oltre i trattati di Meaux-Parigi
+          del 1229 che sanciscono il forte ridimensionamento del conte di Tolosa. Ovviamente
+          l’attribuzione a Moniot d’Arras è da rigettare e il testo dev’essere restituito
+          all’anonimato.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>The text is essentially an anticlerical <hi rend="italic">sirventes</hi> close in tone
+          and content to the contemporary Occitan ones, but also to a few Old French texts such as
+          RS 273 by Thibaut de Champagne and RS 1576 by Huon de Saint-Quentin (for whom see the
+          introductory note to the commentary, as well as Vatteroni 1999, especially pp. 60-62). As
+          well as the commoner and more general accusations stigmatising the sins of lust, avarice
+          and simony committed by the clergy there are the more specific ones regarding
+          responsibility for the fate of the Holy Land. Criticisms of the clergy, in particular the
+          pontifical legate Pelagius, for the failure of the Fifth Crusade are typical of
+          contemporary French historiography, but also of the environment of the emperor Frederic
+          II. A telling example is found in the chronicle called the <hi rend="italic">Estoire
+            d’Eracles</hi>, II, p. 352: <hi rend="italic">Ensi fu perdue la noble cité de Damiate
+            par peché et par folie et par l’orgueil et la malice dou clergé et des religions, la
+            quel avoit esté conquise a grant cost et a grant travail</hi>. But the song RS 640 is
+          especially surprising for its opening lines which express a critical position with regard
+          to the Albigensian Crusade. Such a position, common in troubadour lyric (see Vatteroni
+          1999 and the texts in Zambon 1999), is much rarer among French authors. Apart from RS 273
+          by Thibaut de Champagne, if my interpretation is correct (see Barbieri 2013, pp. 311-317),
+          there are only a couple of relevant non-lyric texts such as Huon de Saint-Quentin’s <hi rend="italic">Complainte de Jérusalem contre Rome</hi> and Guillaume le Clerc de
+          Normandie’s <hi rend="italic">Besant de Dieu</hi> (composed in 1226-1227). The first text,
+          apart from its vague accusations against the clergy concerning the situation in the Holy
+          Land, contains an allusion to the Albigensian question in vv. 82-84 which is not easy to
+          interpret. The second is much more explicit: the author firstly inveighs against the
+          Toulousain campaign (vv. 2395-2408), then wonders whether the French crusaders are not
+          more sinful than those they are intending to fight (vv. 2484-2490), and ends with a
+          violent attack on the legate Pelagius (vv. 2547-2564). As far as the Occitan texts are
+          concerned, the presence of a double criticism of the clergy over the Albigensian question
+          and of the bad management of the Fifth Crusade is found in Guillem Figueira BdT 217.2, for
+          example (in a general context devoted to the Albigensian Crusade, vv. 45-48 mention the
+          loss of Damietta), and Tomier and Palaizi BdT 442.1 and 442.2 (here also the <hi rend="italic">sirventes</hi> is mainly devoted to the Albigensian Crusade, but vv. 43-49
+          mention the situation in the Holy Land)). As in RS 1576, there are no specific allusions
+          to Damietta, but again because of the reference to the Albigensian Crusade it is clear
+          that the text refers to the events of the Fifth Crusade.</p>
+        <p corresp="#rs.640.fro[range(@n=3,@n=8)]">For the chronological implications of these lines
+          on the difficulties of the French during the Albigensian Crusade see the section on
+          dating.</p>
+        <p corresp="#rs.640.fro[range(@n=9,@n=14)]">For a general condemnation of the clergy for
+          their lack of concern for the Holy Land see for example Peire Cardenal BdT 335.54, 25-32:
+          E d’aquo baston lur maizos / e belhs vergiers ont elhs estan, / mas ges li turc ni li
+          perssan / non creiran Dieu per lurs sermos / qu’elhs lur fasson, car paoros / son del
+          passar e del morir, / e volo mais de sai bastir / que lay conquerre los fellos; for a
+          direct attack on the cardinal Romano di Sant’Angelo in the context of the Fifth Crusade
+          see Tomier and Palaizi BdT 442.1, 57-64: Nostre cardenals / soiorna e barata / e prent
+          bels ostals / de qe Deus l’abata, / mas pauc sent los mals, / quant a Damiata. / Segur
+          estem, seignors, / e ferm de ric socors. The precise temporal allusion in v. 12 confirms
+          that the song must have been composed shortly after the fall of Damietta.</p>
+        <p corresp="#rs.640.fro:(n=16)">The boen roi has traditionally been identified with the king
+          of France Philip Augustus, who died 14 July 1223 (Serper 1983, p. 5), but is more likely
+          to refer to John of Brienne, king of Jerusalem, whose conflicts with the pontifical legate
+          Pelagius over the management of the Fifth Crusade are well known (see Huon de
+          Saint-Quentin, Complainte, vv. 85-87).</p>
+        <p corresp="#rs.640.fro[range(@n=17,@n=20)]">On the clergy’s desire to rule the world, with
+          allusions to their various sins and improper use of indulgences and excommunications, see
+          Peire Cardenal BdT 335.66, 22-28: A tantas mas vei clergues essaiar / que totz lo mons er
+          lor, cuy que mal sia, / car els l’auran ab tolre ho ab dar, / ho ab perdon ho ab
+          ypocrizia, / ho ab asout ho ab escuminiar, / ho ab prezicx ho ab peiras lansar, / ho els
+          ab Dieu ho els ab diablia and BdT 335.47, 17-18: Et auran lo mon, can que tir, / que res
+          non lur n’es amparat.</p>
+        <p corresp="#rs.640.fro:(n=20)">For the use of the term escomenïement see Thibaut de
+          Champagne RS 1152, 7-8: et voi esconmunnïer / ceus qui plus offrent raison e la Complainte
+          di Huon de Saint-Quentin, v. 103: Je vi ciax escumenïer / qui ne s’aloient remoier; as
+          this refers to the clergy in general, it should probably be interpreted in the broad sense
+          of “moral condemnation”. </p>
+        <p corresp="#rs.640.fro[range(@n=21,@n=24)]">For accusations of pride and theft on the part
+          of the clergy see for example Peire Cardenal BdT 335.1, 17-18: Esperitals non es la lur
+          paubreza: / gardan lo lor prendon so que mieus es; BdT 335.47, 9-16 and 25-29; BdT 335.54,
+          9-16 (texts also quoted by Vatteroni 1999, p. 21).</p>
+        <p corresp="#rs.640.fro[range(@n=25,@n=28)]">On the clergy’s love of luxury clothing, fine
+          food and fornication see Peire Cardenal’s whole sirventes BdT 335.1.</p>
+        <p corresp="#rs.640.fro:(n=26)">For references to dues collected by the clergy for burial of
+          the dead see Vatteroni 1999, pp. 19-20.</p>
+        <p corresp="#rs.640.fro:(n=33)">For the apostrophe to the city of Rome see Huon de
+          Saint-Quentin’s Complainte (composed according to Serper in 1221-1222, after the fall of
+          Damietta and immediately after RS 1576), vv. 1, 49 and 61, and especially Guillem Figueira
+          BdT 217.2, composed 1227-1229 according to Peron 2015. These texts also share their stress
+          on the Church’s (and particularly the legate Pelagius’s) grave responsibility for the
+          failure of the Fifth Crusade, and their criticism of the Albigensian Crusade.</p>
+        <p corresp="#rs.640.fro[range(@n=35,@n=36)]">This idea is also echoed in Peire Cardenal BdT
+          335.64, 18: e devedon als autres d’aco que fan lurs atz.</p>
+        <p corresp="#rs.640.fro[range(@n=37,@n=38)]">Among the numerous contemporary allusions to
+          the sale of indulgences see for example Huon de Saint-Quentin Complainte, vv. 181-183:
+          Segnor, qui les pardons portés, / poi vos costent et les vendés; / c’est pechiés et ovre
+          vilaine and Peire Cardenal BdT 335.54, 17-20: Per deniers trobaretz perdos / ab elhs,
+          s’avetz fag malestan, / e renoviers sebelliran / per aver, tant son cobeitos, which also
+          contains a reference to the burial money, for which see vv. 25-28.</p>
+        <p corresp="#rs.640.fro:(n=37)">In the absence of a satisfactory alternative, I follow the
+          conjectural reading sospent adopted by Jeanroy-Långfors 1921, while not being convinced of
+          its rightness from the paleographical point of view. Petersen Dyggve 1938’s glossary gives
+          for sospendre the meaning “accorder remission”, though I have found no attestation of
+          this. It is much likelier that sospent should not be interpreted as a synonym of asot, but
+          rather in the opposite sense of “excommunicate, condemn” already present in Latin (see
+          Niermeyer s.v. suspendere).</p>
+        <p corresp="#rs.640.fro:(n=40)">For the northern form no = ne le see the examples cited in
+          DEAF I 1, 67, 30ff.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Il testo è sostanzialmente un sirventese anticlericale vicino per tono e contenuti a
+          quelli occitanici contemporanei, ma anche ad alcuni testi francesi come la canzone RS 273
+          di Thibaut de Champagne e la RS 1576 di Huon de Saint-Quentin (di cui si veda la nota
+          introduttiva al commento, oltre che Vatteroni 1999, soprattutto le pp. 60-62). Accanto
+          alle accuse più comuni e generiche che stigmatizzano i peccati di lussuria, avarizia e
+          simonia commessi dal clero vi sono quelle più specifiche che riguardano le responsabilità
+          nelle sorti della Terra Santa. Le critiche al clero, e in particolare al legato pontificio
+          Pelagio, per il fallimento della quinta crociata sono tipiche della storiografia francese
+          contemporanea, ma anche degli ambienti vicini all’imperatore Federico II. Un esempio
+          efficace si trova nella cronaca chiamata <hi rend="italic">Estoire d’Eracles</hi>, II, p.
+          352: <hi rend="italic">Ensi fu perdue la noble cité de Damiate par peché et par folie et
+            par l’orgueil et la malice dou clergé et des religions, la quel avoit esté conquise a
+            grant cost et a grant travail</hi>. Ma la canzone RS 640 sorprende soprattutto per i
+          versi iniziali che esprimono una posizione critica verso la crociata albigese. Tale
+          posizione, comune nella lirica trobadorica (si veda Vatteroni 1999 e i testi di Zambon
+          1999), è molto più rara tra gli autori francesi. Oltre alla canzone RS 273 di Thibaut de
+          Champagne, se la nostra interpretazione è corretta (si veda Barbieri 2013, pp. 311-317),
+          si possono segnalare solo un paio di testi non lirici come la <hi rend="italic">Complainte
+            de Jérusalem contre Rome</hi> di Huon de Saint-Quentin e il <hi rend="italic">Besant de
+            Dieu</hi> di Guillaume le Clerc de Normandie (composto nel 1226-1227). Il primo testo,
+          oltre alle diffuse accuse al clero per la situazione in Terra Santa, contiene ai vv. 82-84
+          un accenno di non facile interpretazione alla questione albigese. Il secondo testo è
+          invece molto più esplicito: l’autore si scaglia dapprima contro la campagna tolosana (vv.
+          2395-2408), per poi chiedersi se i crociati francesi non siano più peccatori di coloro che
+          vanno a combattere (vv. 2484-2490) e finisce con un violento attacco al legato Pelagio
+          (vv. 2547-2564). Per quanto riguarda i testi occitanici, la presenza di una doppia critica
+          al clero per la questione albigese e per la cattiva gestione della quinta crociata si
+          trova per esempio in Guillem Figueira BdT 217.2 (in un contesto generale dedicato alla
+          crociata albigese, i vv. 45-48 parlano della perdita di Damietta) e Tomier e Palaizi BdT
+          442.1 e 442.2 (anche in questo caso il sirventese è dedicato principalmente alla crociata
+          albigese, ma i vv. 43-49 parlano della situazione della Terra Santa). Come nella canzone
+          RS 1576, non vi sono allusioni specifiche a Damietta, ma anche grazie alla menzione della
+          crociata albigese risulta evidente che il testo si riferisce agli eventi della quinta
+          crociata.</p>
+        <p corresp="#rs.640.fro[range(@n=3,@n=8)]">Circa le implicazioni cronologiche di questi
+          versi sulle difficoltà dei francesi durante la crociata albigese si veda la datazione.</p>
+        <p corresp="#rs.640.fro[range(@n=9,@n=14)]">Per un generico rimprovero al disinteresse del
+          clero per la Terra Santa si veda per esempio Peire Cardenal BdT 335.54, 25-32: E d’aquo
+          baston lur maizos / e belhs vergiers ont elhs estan, / mas ges li turc ni li perssan / non
+          creiran Dieu per lurs sermos / qu’elhs lur fasson, car paoros / son del passar e del
+          morir, / e volo mais de sai bastir / que lay conquerre los fellos; per un attacco diretto
+          al cardinale Romano di Sant’Angelo nel contesto della quinta crociata si veda Tomier e
+          Palaizi BdT 442.1, 57-64: Nostre cardenals / soiorna e barata / e prent bels ostals / de
+          qe Deus l’abata, / mas pauc sent los mals, / quant a Damiata. / Segur estem, seignors, / e
+          ferm de ric socors. La precisazione temporale del v. 12 conferma che la canzone dev’essere
+          stata composta non molto tempo dopo la caduta di Damietta.</p>
+        <p corresp="#rs.640.fro:(n=16)">Il boen roi è tradizionalmente stato identificato con il re
+          di Francia Filippo Augusto, morto il 14 luglio 1223 (Serper 1983, p. 5), ma potrebbe
+          trattarsi più probabilmente di Jean de Brienne re di Gerusalemme, di cui sono noti i
+          contrasti con il legato pontificio Pelagio circa la gestione della quinta crociata (si
+          veda Huon de Saint-Quentin, Complainte, vv. 85-87).</p>
+        <p corresp="#rs.640.fro[range(@n=17,@n=20)]">Sul desiderio del clero di dominare il mondo,
+          con accenni ai vari peccati e all’uso improprio delle indulgenze e delle scomuniche, si
+          veda Peire Cardenal BdT 335.66, 22-28: A tantas mas vei clergues essaiar / que totz lo
+          mons er lor, cuy que mal sia, / car els l’auran ab tolre ho ab dar, / ho ab perdon ho ab
+          ypocrizia, / ho ab asout ho ab escuminiar, / ho ab prezicx ho ab peiras lansar, / ho els
+          ab Dieu ho els ab diablia e BdT 335.47, 17-18: Et auran lo mon, can que tir, / que res non
+          lur n’es amparat.</p>
+        <p corresp="#rs.640.fro:(n=20)">Per l’uso del termine escomenïement si veda Thibaut de
+          Champagne RS 1152, 7-8: et voi esconmunnïer / ceus qui plus offrent raison e la Complainte
+          di Huon de Saint-Quentin, v. 103: Je vi ciax escumenïer / qui ne s’aloient remoier;
+          essendo riferito al clero in generale, è probabile che esso debba essere interpretato nel
+          senso lato di “condanna morale”.</p>
+        <p corresp="#rs.640.fro[range(@n=21,@n=24)]">Per le accuse rivolte all’orgoglio e ai furti
+          del clero si veda per esempio Peire Cardenal BdT 335.1, 17-18: Esperitals non es la lur
+          paubreza: / gardan lo lor prendon so que mieus es; BdT 335.47, 9-16 e 25-29; BdT 335.54,
+          9-16 (testi citati anche da Vatteroni 1999, p. 21).</p>
+        <p corresp="#rs.640.fro[range(@n=25,@n=28)]">Sull’amore del clero per il lusso nel vestire,
+          il buon cibo e la fornicazione si veda tutto il sirventese BdT 335.1 di Peire
+          Cardenal.</p>
+        <p corresp="#rs.640.fro:(n=26)">Per quanto riguarda il riferimento ai contributi riscossi
+          dal clero per il seppellimento dei morti si veda Vatteroni 1999, pp. 19-20.</p>
+        <p corresp="#rs.640.fro:(n=33)">Per l’apostrofe iniziale alla città di Roma si veda la
+          Complainte di Huon de Saint-Quentin (composta secondo Serper nel 1221-1222, dopo la caduta
+          di Damietta e subito dopo la canzone RS 1576), vv. 1, 49 e 61 e soprattutto Guillem
+          Figueira BdT 217.2, composto tra 1227 e 1229 secondo Peron 2015. Questi testi condividono
+          anche la sottolineatura della grave responsabilità della chiesa (e in particolare del
+          legato Pelagio) per quanto riguarda la disfatta della quinta crociata e una critica alla
+          crociata albigese.</p>
+        <p corresp="#rs.640.fro[range(@n=35,@n=36)]">Questa idea è ripresa anche da Peire Cardenal
+          BdT 335.64, 18: e devedon als autres d’aco que fan lurs atz.</p>
+        <p corresp="#rs.640.fro[range(@n=37,@n=38)]">Tra i numerosi riferimenti contemporanei al
+          fenomeno della vendita delle indulgenze si veda per esempio Huon de Saint-Quentin
+          Complainte, vv. 181-183: Segnor, qui les pardons portés, / poi vos costent et les vendés;
+          / c’est pechiés et ovre vilaine e Peire Cardenal BdT 335.54, 17-20: Per deniers trobaretz
+          perdos / ab elhs, s’avetz fag malestan, / e renoviers sebelliran / per aver, tant son
+          cobeitos, che contiene anche un riferimento al lucro sulle sepolture per cui si vedano i
+          vv. 25-28.</p>
+        <p corresp="#rs.640.fro:(n=37)">In assenza di alternative adeguate, accolgo a testo la
+          lezione congetturale sospent, già adottata da Jeanroy-Långfors 1921, pur non essendo
+          affatto convinto della sua bontà dal punto di vista paleografico. Il glossario di Petersen
+          Dyggve 1938 segnala per sospendre il significato “accorder remission”, di cui non ho però
+          trovato nessun’altra attestazione. Molto più probabilmente sospent non andrà interpretato
+          come un sinonimo di asot, ma al contrario con il senso di “scomunicare, condannare” già
+          presente in latino (si veda Niermeyer s.v. suspendere).</p>
+        <p corresp="#rs.640.fro:(n=40)">Per la forma settentrionale no = ne le si vedano gli esempi
+          citati in DEAF I 1, 67, 30ss.</p>
+      </div>
+    </back></text></TEI>

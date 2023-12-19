@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+		<fileDesc>
+
+			<titleStmt>
+				<title>rs273</title>
+				<author>Linda Paterson</author>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					<date>2013-12-04</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<p>unknown</p>
+			</publicationStmt>
+			<sourceDesc>
+				<listBibl type="essential_bibliography">
+					<bibl>
+						<hi rend="underline">Abulafia 1990</hi>: David Abulafia, <hi rend="italic">Federico II. Un imperatore medievale</hi>, Torino, Einaudi, 1990. </bibl>
+					<bibl>
+						<hi rend="underline">Barbieri 2006</hi>: Luca Barbieri, « <hi rend="italic">Deteriores non inanes</hi>: il canzoniere S della lirica in lingua
+						d’oïl», in <hi rend="italic">Convivio, estudios sobre la poesía de
+							cancionero</hi>, eds. Vicenç Beltrán, Juan Paredes, Granada, Editorial
+						Universitad de Granada, 2006, pp. 145-174. </bibl>
+					<bibl>
+						<hi rend="underline">Bender 1976</hi>: <hi rend="italic">Le torneiment
+							Anticrist by Huon de Meri</hi>: a Critical Edition by Margaret O.
+						Bender, University, Romance Monographs, 1976. </bibl>
+					<bibl>
+						<hi rend="underline">Brenon 1990</hi>: Anne Brenon, <hi rend="italic">I
+							Catari, storia e destino dei veri credenti</hi>, Convivio, Firenze,
+						1990. </bibl>
+					<bibl>
+						<hi rend="underline">Carozzi 1982</hi>: Claude Carozzi, Huguette
+						Taviani-Carozzi, <hi rend="italic">La Fin des Temps, Terreurs et prophéties
+							au moyen âge</hi>, Paris, Stock, 1982. </bibl>
+					<bibl>
+						<hi rend="underline">Duvernoy 1979</hi>: Jean Duvernoy, <hi rend="italic">L’histoire des cathares</hi>, Toulouse, Privat, 1979. </bibl>
+					<bibl>
+						<hi rend="underline">Gerhardt 1979</hi>: Christoph Gerhardt, <hi rend="italic"> Die Metamorphosen des Pelikans, Exempel und Auslegung in
+							mittelalterlicher Literatur, mit Beispielen aus der bildener Kunst und
+							einem Bildanhang</hi>, Frankfurt - Bern - Las Vegas, Lang, 1979. </bibl>
+					<bibl>
+						<hi rend="underline">Graham 1962</hi>: Victor E. Graham, «The Pelican as
+						image and symbol», <hi rend="italic">Revue de littérature comparée</hi>, 36
+						(1962), pp. 235-243. </bibl>
+					<bibl>
+						<hi rend="underline">Houben 2009</hi>: <ref target="http://it.wikipedia.org/wiki/Hubert_Houben">Hubert Houben</ref>, <hi rend="italic">Federico II. Imperatore, uomo, mito</hi>, Bologna, Il
+						Mulino, 2009. </bibl>
+					<bibl>
+						<hi rend="underline">Lops 1995</hi>: Reiner L. H. Lops, «Le pélican dans le
+						bestiaire de Philippe de Thaun», <hi rend="italic">Neophilologus</hi>, 79
+						(1995), pp. 377-387. </bibl>
+					<bibl>
+						<hi rend="underline">Malaxecheverria 1979</hi>: Ignacio Malaxecheverria,
+						«Notes sur le pélican au Moyen Âge», <hi rend="italic">Neophilologus</hi>,
+						63 (1979), pp. 491-497. </bibl>
+					<bibl>
+						<hi rend="underline">McGinn 1988</hi>: Bernard McGinn, «Portraying
+						Antichrist in the Middle Ages», in <hi rend="italic">The Use and Abuse of
+							Eschatology in the Middle Ages</hi>, edited by Werner Verbeke, Daniel
+						Verhelst and Andries Welkenhuysen, Leuven, Leuven University Press, 1988, pp.
+						1-48. </bibl>
+					<bibl>
+						<hi rend="underline">Melani 1999</hi>: Silvio Melani, «Aimeric de Belenoi,
+						Thibaut de Champagne e le crociate», <hi rend="italic">Rivista di studi
+							testuali</hi>, 1 (1999), p. 137-157. </bibl>
+					<bibl>
+						<hi rend="underline">Morawski 1925</hi>: <hi rend="italic">Proverbes
+							français antérieurs au XV</hi>
+						<hi rend="italic superscript">e</hi>
+						<hi rend="italic">siècle</hi>, édités par Joseph Morawski, Paris, Champion,
+						1925 </bibl>
+					<bibl>
+						<hi rend="underline">Nelli 1970</hi>: René Nelli, «“Exempla” et mythes
+						cathares», <hi rend="italic">Folklore. Revue d’ethnographie méridionale</hi>, 23 (1970), p. 2-13. </bibl>
+					<bibl>
+						<hi rend="underline">Rauh 1979</hi>: Horst Dieter Rauh, <hi rend="italic">
+							Das Bild des Antechrist im Mittelalter, von Tyconius zum deutschen
+							Symbolismus</hi>, zweite verbesserte unt erweiterte Auflage, Münster,
+						Aschendorff, 1979. </bibl>
+					<bibl>
+						<hi rend="underline">Schulze Busacker 1985</hi>: Elizabeth Schulze
+						Busacker, <hi rend="italic"> Proverbes et expressions proverbiales dans la
+							littérature narrative du moyen âge français : recueil et analyse</hi>,
+						Paris, Champion - Genève, Slatkine, 1985. </bibl>
+					<bibl>
+						<hi rend="underline">Vatteroni 1999</hi>: Sergio Vatteroni, “ <hi rend="italic">Falsa clercia”. La poesia anticlericale dei trovatori</hi>, Alessandria, Edizioni dell’Orso, 1999. </bibl>
+					<bibl>
+						<hi rend="underline">Wimmer-Orgeur 1994</hi>: Huon de Méry, <hi rend="italic">Le Tournoi de l’Antéchrist</hi>, texte établi par Georg
+						Wimmer, présenté, traduit et annoté par Stéphanie Orgeur, Orléans,
+						Paradigme, 1994. </bibl>
+				</listBibl>
+				<listBibl type="manuscripts" xml:lang="en">
+					<head>Mss. (9).</head>
+
+					<bibl> B 3v-4r (anon.), K 34b-35b ( <hi rend="italic">li rois de Navarre</hi> ),
+						M<hi rend="superscript">t</hi> 67d-68b (anon.), O 37b-38a (anon.), S
+						317d-318a (anon.), T 16rv ( <hi rend="italic">li rois de Navare</hi> ), V
+						17d-18b (anon.), X 29d-30c ( <hi rend="italic">li rois de Navarre</hi> ), za
+						142v; even in songbooks which do not include attributions the text is always
+						included in a series of compositions attributable to Thibaut de Champagne.
+					</bibl>
+				</listBibl>
+
+				<listBibl type="manuscripts" xml:lang="it">
+					<head>Mss. (9).</head>
+
+					<bibl> B 3v-4r (anon.), K 34b-35b ( <hi rend="italic">li rois de Navarre</hi> ),
+						M<hi rend="superscript">t</hi> 67d-68b (anon.), O 37b-38a (anon.), S
+						317d-318a (anon.), T 16rv ( <hi rend="italic">li rois de Navare</hi> ), V
+						17d-18b (anon.), X 29d-30c ( <hi rend="italic">li rois de Navarre</hi> ), za
+						142v; anche nei canzonieri privi di attribuzione il testo è sempre inserito
+						in una serie di componimenti attribuibili a Thibaut de Champagne. </bibl>
+				</listBibl>
+				<listBibl type="previous_editions">
+					<bibl> La Ravallière 1742, <hi rend="smallcaps">ii</hi> 158; Tarbé 1850, 119;
+						Wallensköld 1925, 194; Järnström-Långfors 1927, 41; Toja 1966, 423; Brahney
+						1989, 238; Rosenberg-Tischler 1995, 596. </bibl>
+				</listBibl>
+				<msDesc>
+					<msIdentifier>
+						<msName>RS232</msName>
+					</msIdentifier>
+					<p>
+						<hi rend="bold">Base ms.</hi> S (B for the <hi rend="italic">envoi</hi> )
+					</p>
+				</msDesc>
+			</sourceDesc>
+
+		</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+		<encodingDesc>
+			<metDecl pattern="10abbaccddaa" xml:lang="it">
+				<p>10abbaccddaa (MW 1432,1 = Frank 579); 5 <hi rend="italic">coblas doblas</hi>
+					(2+2+1) con un <hi rend="italic">envoi</hi> di 4 versi (ddaa); rima a = <hi rend="italic">-anz/enz</hi>, <hi rend="italic">-oir</hi>, <hi rend="italic">-ais/es</hi> ; rima b = <hi rend="italic">-us</hi>, <hi rend="italic">-ons</hi>, <hi rend="italic">-ez</hi> ; rima c = <hi rend="italic">-eus</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-ent/ant</hi> ; rima d = <hi rend="italic">-ons</hi>, <hi rend="italic">-ir</hi>, <hi rend="italic">-er</hi> ; la rima b delle strofe iii e iv
+					riprende la rima d delle strofe i e ii, la rima d della strofa v riprende la
+					rima c delle strofe iii e iv; cesura femminile con elisione al v. 33; cesura
+					lirica ai vv. 7, 10, 14, 17, 23, 24, 26, 32, 35, 40, 45, 48, 52; melodia in KM
+						<hi rend="superscript">t</hi> OVX, con pochissime varianti (van der Werf
+					1979, II, p. 18; Tischler 1997, III n° 164). </p>
+			</metDecl>
+			<metDecl pattern="10abbaccddaa" xml:lang="en">
+				<p> 10abbaccddaa (MW 1432,1 = Frank 579); 5 <hi rend="italic">coblas doblas</hi>
+					(2+2+1) with an <hi rend="italic">envoi</hi> of 4 lines (ddaa); rhymes a = <hi rend="italic">-anz/enz</hi>, <hi rend="italic">-oir</hi>, <hi rend="italic">-ais/es</hi> ; b = <hi rend="italic">-us</hi>, <hi rend="italic">-ons</hi>, <hi rend="italic">-ez</hi> ; c = <hi rend="italic">-eus</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-ent/ant</hi> ;
+					d = <hi rend="italic">-ons</hi>, <hi rend="italic">-ir</hi>, <hi rend="italic">-er</hi> ; the b rhyme of stanzas iii and iv repeats the d rhyme of stanzas
+					i and ii, the d rhyme of stanza v repeats the c rhyme of stanzas iii and iv;
+					feminine caesura with elision in v. 33; lyric caesura lirica in vv. 7, 10, 14,
+					17, 23, 24, 26, 32, 35, 40, 45, 48, 52; melody in KM<hi rend="superscript">t</hi> OVX, with few variants (van der Werf 1979, II, p. 18; Tischler 1997,
+					III n° 164). </p>
+			</metDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<change>
+				<date>$LastChangedDate: 2014-01-17T17:16:59Z$</date>
+				<name>Linda Paterson</name>
+			</change>
+		</revisionDesc>
+	</teiHeader><text><front>
+			<div type="preface">
+				<p>
+					<hi rend="bold">Thibaut de Champagne</hi>
+				</p>
+				<p>
+					<hi rend="italic bold">Diex est ausis conme li pellicans</hi> (RS 273) </p>
+			</div>
+		</front><body><div type="translation" xml:id="RS.273.eng" corresp="RS.273.fro" xml:lang="en">
+				<div type="stanza" n="1">
+					<p>God is similar to the pelican which makes its nest up in the highest tree;
+						and the evil bird underneath kills its chicks, it is so foul. The father
+						returns full of distress and anguish, kills itself with its beak and from
+						the painful flow of blood brings its chicks immediately back to life. God
+						did the same in the hour of His passion: with His sweet blood He ransomed
+						His children from the devil, who is so enormously powerful.</p>
+				</div>
+				<div type="stanza" n="2">
+					<p>Repayment is deficient and slow, for no-one harbours goodness or justice or
+						pity; so pride, fraud, disloyalty, treachery and arrogance prevail. Now your
+						situation is extremely dangerous, and were it not for the example of those
+						who so love both uproar and disputes – that is, the clergy who have
+						abandoned sermons to wage war and kill people – no-one would have faith in
+						God any more. </p>
+				</div>
+				<div type="stanza" n="3">
+					<p> Our head brings pain to all our limbs, so it is right that we should
+						complain of this to God, but the heavy guilt lies largely with the barons,
+						who grieve when anyone wants to give proof of valour; and those who know so
+						much about lying and cheating thoroughly deserve publicly condemnation. They
+						bring the evil back upon themselves, and anyone who seeks after evil will
+						find it without fail: for if a man tries his utmost to pursue a small evil,
+						a great one is able to settle in his heart. </p>
+				</div>
+				<div type="stanza" n="4">
+					<p> We ought to bear well in mind the story of the battle of the two dragons to
+						be found in the book of the Bretons, which caused the castle to collapse;
+						this is the world, which risks ruin if God is unwilling to put an end to the
+						battle. Merlin’s science was needed to divine what the future would bring;
+						but Antchrist is coming: this you may know from the vices that the devil is
+						fomenting. </p>
+				</div>
+				<div type="stanza" n="5">
+					<p> Do you know who are the vile, stinking birds who kill God and his little
+						progeny? Religious hypocrites, who are unclean en masse; they are truly
+						repulsive and stinking and evil: they kill all the good people, who are
+						God’s children, through their false words. Religious hypocrites make the
+						world falter; by St Peter, woe betide anyone who meets them! They have taken
+						away joy and comfort and peace and will bear the great burden of this to
+						hell. </p>
+				</div>
+				<div type="stanza" n="5">
+					<p> God grant that we may serve and love Him and Our Lady, whom we should keep
+						in remembrance, and protect us for evermore from the evil birds which have
+						poison in their beaks. </p>
+				</div>
+			</div><div type="translation" xml:id="RS.273.it" corresp="RS.273.fro" xml:lang="it">
+				<div type="stanza" n="1">
+					<p>Dio è paragonabile al pellicano, che fa il suo nido in cima all’albero più
+						alto; e l’uccello cattivo che sta sotto uccide i suoi piccoli, tanto è il
+						suo fetore. Il padre torna distrutto e angosciato, si uccide col becco e col
+						sangue sgorgato dal suo dolore fa subito rivivere i suoi piccoli. Dio ha
+						fatto lo stesso nell’ora della sua passione: con il suo dolce sangue ha
+						riscattato i suoi figli dal diavolo che è davvero molto potente.</p>
+				</div>
+				<div type="stanza" n="2">
+					<p>Il contraccambio è lento e scarso, perché bontà, giustizia, pietà non ne ha
+						nessuno; anzi, ciò che prevale è l’orgoglio, la baratteria, la slealtà, il
+						tradimento, la superbia. Ora la vostra condizione è davvero molto
+						pericolosa, e se non fosse per l’esempio di coloro che amano tanto le
+						contese e le battaglie – cioè i chierici, che hanno abbandonato i sermoni
+						per combattere e uccidere la gente – nessuno avrebbe più fede in Dio.</p>
+				</div>
+				<div type="stanza" n="3">
+					<p>Il nostro capo fa dolere tutte le membra, per cui è giusto che ce ne
+						lamentiamo presso Dio, ma una gran (parte della) colpa ricade anche sui
+						baroni, ai quali dà fastidio quando qualcuno vuole mostrare il suo valore; e
+						meritano soprattutto di essere pubblicamente biasimati coloro che sanno solo
+						mentire e ingannare; non fanno che attirare su di loro il male, e chi cerca
+						il male finisce per trovarlo: se qualcuno si dedica a perseguire un piccolo
+						male, un male (più) grande può insediarsi nel suo cuore. </p>
+				</div>
+				<div type="stanza" n="4">
+					<p>Dovremmo tenere ben presente il racconto della battaglia dei due draghi, che
+						possiamo trovare nel libro dei Bretoni, a causa dei quali il castello
+						crollava; è il mondo che rischia di precipitare, se Dio non vuole porre fine
+						alla battaglia; fu necessaria la scienza di Merlino per capire cosa stava
+						accadendo. Ma l’Anticristo sta arrivando, potete capirlo dai vizi che il
+						diavolo fomenta. </p>
+				</div>
+				<div type="stanza" n="5">
+					<p>Sapete chi sono gli uccellacci mefitici che uccidono Dio e la sua prole? I
+						religiosi ipocriti, la cui congerie non è pulita; essi sono davvero
+						ripugnanti, schifosi e vili, e uccidono tutte le persone buone, che sono i
+						figli di Dio, a causa dei loro discorsi ipocriti. I religiosi ipocriti fanno
+						vacillare il mondo; per san Pietro, guai a chi li incontra! Hanno posto fine
+						alla gioia, al conforto e alla pace: ne porteranno il grande peso
+						all’inferno.</p>
+				</div>
+				<div type="stanza" n="6">
+					<p>Dio ci conceda di servirlo e amarlo e la Signora, che non dobbiamo
+						dimenticare, ci protegga sempre dagli uccelli cattivi che hanno il veleno
+						nel becco.</p>
+				</div>
+			</div></body></text></TEI>

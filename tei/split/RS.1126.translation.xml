@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2014-04-14</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde1780, II, 304; Michel 1830, 89; Le Roux de Lincy 1841, I, 101; Keller
+            1844, 257; Tarbé 1851, 65; Mætzner 1853, 93-96; Fath 1883, 91; Engelcke 1886, 169;
+            Bédier-Aubry 1909, 119; Beck 1937, 94; Gennrich 1953, I, 4; Blume 1957, VI, 872; Lerond
+            1964, 178; Dufournet 1989, 104; Dijkstra 1995a, 199; Barbieri 2001, 237.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts">
+          <head> Mss. </head>
+          <bibl>A 135d [158d] (<hi rend="italic">mesire Uges de Bregi</hi>; vv. 1-12 only), C
+            221v-222r (<hi rend="italic">li rois de Naivairez</hi>), D 1rv [37rv] (<hi rend="italic">Hughes de Bregi chevaliers</hi>), H 226d-227a (anon.), K 106d-107b (<hi rend="italic">li chastelains de Couci</hi>), L<hi rend="superscript">n</hi> 14rv (anon.), M<hi rend="superscript">i</hi> Bc (<hi rend="italic">me sire Huges de Bregi</hi>, only the
+            incipit in the table), O 131ac (anon., modern attribution <hi rend="italic">Chastelains
+              de Coucy</hi>), O<hi rend="superscript">p</hi> 54b-55b (anon.), P 38c-39b (<hi rend="italic">li chastelains de Couci</hi>), Q<hi rend="superscript">p</hi> 112cd (<hi rend="italic">Çirardus </hi>[<hi rend="italic">Brunelus</hi>]), R<hi rend="superscript">3</hi> 123r-124r (anon.), T 103v (<hi rend="italic">me sire Hughes
+              de Bregi</hi>), U 99rv (anon.), V 79c-80a (anon.), X 75d-76c (<hi rend="italic">li
+              chastelains de Couci</hi>), a 26ac (<hi rend="italic">mesire Uges de
+            Bregi</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10 a&#x2019;bba&#x2019;cca&#x2019;a&#x2019;"><p>10 a’bba’cca’a’ (MW 1410,3 =
+        Frank 549); 6 <hi rend="italic">coblas doblas</hi> + 1 four-line <hi rend="italic">envoi</hi> (cca’a’); rhyme a: <hi rend="italic">-ie</hi>, <hi rend="italic">-endre</hi>,
+          <hi rend="italic">-ance</hi>; rhyme b: <hi rend="italic">-on</hi>, <hi rend="italic">-i</hi>, <hi rend="italic">-ier</hi>; rhyme c: <hi rend="italic">-is</hi>, <hi rend="italic">-or</hi>, <hi rend="italic">-er</hi>. The metrical shape is imited by
+        Thibaut de Champagne in RS 1469 (with a f. c rhyme); melody in ADKOL<hi rend="superscript">n</hi>PR<hi rend="superscript">3</hi>TVXa; the groups KOPX+D and ATa+V+L<hi rend="superscript">n</hi> have two similar melodies with few variants but diverging by a
+        fifth; however ms. R<hi rend="superscript">3</hi> presents an independent melody.</p></metDecl>
+      <metDecl xml:lang="it" pattern="10 a&#x2019;bba&#x2019;cca&#x2019;a&#x2019;"><p>10 a’bba’cca’a’ (MW 1410,3 =
+        Frank 549); 6 <hi rend="italic">coblas doblas</hi> con un <hi rend="italic">envoi</hi> di 4
+        versi (cca’a’); rima a: <hi rend="italic">-ie</hi>, <hi rend="italic">-endre</hi>, <hi rend="italic">-ance</hi>; rima b: <hi rend="italic">-on</hi>, <hi rend="italic">-i</hi>,
+          <hi rend="italic">-ier</hi>; rima c: <hi rend="italic">-is</hi>, <hi rend="italic">-or</hi>, <hi rend="italic">-er</hi>; questo schema è ripreso da Thibaut de Champagne
+        nella canzone RS 1469 (con la rima c femminile); melodia in ADKOL<hi rend="superscript">n</hi>PR<hi rend="superscript">3</hi>TVXa; i gruppi KOPX+D e ATa+V+L<hi rend="superscript">n</hi> hanno due linee melodiche simili con poche varianti ma
+        divergenti di una quinta; il ms. R<hi rend="superscript">3</hi> presenta invece una linea
+        melodica indipendente.</p></metDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-08-30T15:21:35Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Hugues de Berzé</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body/></text></TEI>

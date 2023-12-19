@@ -15,88 +15,96 @@
             <sourceDesc>
                 <listBibl type="manuscripts">
                     <head>Mss. (5).</head>
-                <bibl>Baltimore, Walters Art Museum, W.142 (B), 310d-311a;</bibl>
-                <bibl>Paris, BnF, fr. 9083 (P1), 316cd; </bibl>
-                <bibl>Paris, BnF, fr. 22495 (P2), 283v;</bibl>
-                <bibl>Paris, BnF, fr. 24209 (P3), 320cd; </bibl>
-                <bibl>Torino, Biblioteca nazionale universitaria, L.I.5 (T),
-                    491cd.</bibl>
+                    <bibl>Baltimore, Walters Art Museum, W.142 (B), 310d-311a;</bibl>
+                    <bibl>Paris, BnF, fr. 9083 (P1), 316cd; </bibl>
+                    <bibl>Paris, BnF, fr. 22495 (P2), 283v;</bibl>
+                    <bibl>Paris, BnF, fr. 24209 (P3), 320cd; </bibl>
+                    <bibl>Torino, Biblioteca nazionale universitaria, L.I.5 (T), 491cd.</bibl>
                 </listBibl>
                 <listBibl type="previous_editions">
 
-                    <bibl><hi rend="italic">Histoire littéraire de la France</hi>, XXIII, 675;
-                    </bibl>  
+                    <bibl><hi rend="italic">Histoire littéraire de la France</hi>, XXIII, 675; </bibl>
 
-                <bibl><hi rend="italic">Continuation Rothelin</hi>, 548;</bibl>
-                <bibl>Bédier-Aubry 1909, 217; </bibl>
+                    <bibl><hi rend="italic">Continuation Rothelin</hi>, 548;</bibl>
+                    <bibl>Bédier-Aubry 1909, 217; </bibl>
                     <bibl>Dufournet 1989, 188; </bibl>
-                        <bibl>Guida 1992, 115; </bibl>
-                            <bibl>Dijkstra 1995a, 209.</bibl>
-                                <bibl>Versification and music. </bibl>
-    
+                    <bibl>Guida 1992, 115; </bibl>
+                    <bibl>Dijkstra 1995a, 209.</bibl>
+                    <bibl>Versification and music. </bibl>
+
                 </listBibl>
-            <listBibl type="essential_bibliography">
+                <listBibl type="essential_bibliography">
                     <bibl><hi rend="underline">Bédier 1928</hi>: Joseph Bédier, «Les chansons du
                         comte de Bretagne», in <hi rend="italic">Mélanges de linguistique et de
                             littérature offerts à Alfred Jeanroy par ses élèves et ses amis</hi>,
                         Paris, Champion, 1928, pp. 477-495.</bibl>
-                <bibl rend="Bibliography"><hi rend="underline">Cazel 1989</hi>: Fred A. Cazel, Jr.,
-                    «Financing the Crusades», in <hi rend="italic">A History of the Crusades</hi>,
-                    general editor Kenneth M. Setton, vol. VI, Madison, The University of Wisconsin
-                    Press, 1989, pp. 116-149</bibl>
-                <bibl rend="Bibliography"><hi rend="underline"><pb type="soft"/>Edbury 2007</hi>: Peter
-                    Edbury, «The French Translation of William of Tyre’s <hi rend="italic"
-                        >Historia</hi>: the Manuscript Tradition», <hi rend="italic">Crusades</hi>,
-                    6, 2007, pp. 69-105.</bibl>
-                <bibl rend="Bibliography"><hi rend="underline">Grossel 2000</hi>: Marie-Geneviève
-                    Grossel, «Les Champenois et l’appel de l’outremer au XIII<hi rend="superscript"
-                        >e</hi> siècle», in <hi rend="italic">Mémoire de Champagne</hi>, <hi
-                        rend="italic">Actes du troisième mois médiéval, Centre d’études médiévales
-                        de la région Champagne-Ardenne</hi>, II, Langres, Guéniot, 2000, pp.
-                    105-131.</bibl>
-                <bibl rend="Bibliography"><hi rend="underline">Guida 2006</hi>: Saverio Guida,
-                    «L’autore e il latore di <hi rend="italic">Vai, Hugonet, ses bistensa</hi> (BdT
-                    461,247)», <hi rend="italic">Cultura neolatina</hi>, 66, 2006, pp. 45-82.</bibl>
-                <bibl rend="Bibliography"><hi rend="underline">Jackson 1987</hi>: Peter Jackson, «The
-                    crusades of 1239-41 and their aftermath», <hi rend="italic">Bulletin of the
-                        School of Oriental and african Studies</hi>, 50, 1987, pp. 32-60.</bibl>
-                <bibl rend="Bibliography"><hi rend="underline">Köhler 2000</hi>: Erich Köhler,
-                    L’avventura cavalleresca, ideale e realtà nei romanzi della Tavola Rotonda,
-                    Bologna, Il Mulino, 2000</bibl>
-                <bibl rend="Bibliography"><hi rend="underline">Lower 2005</hi>: Michael Lower, <hi
-                        rend="italic">The Baron’s Crusade: a call to arms and its consequences</hi>,
-                    Philadelphia, University of Pennsylvania Press, 2005.</bibl>
-                <bibl rend="Bibliography"><hi rend="underline">Marshall 1980</hi>: John H. Marshall,
-                    «Pour l’étude des <hi rend="italic">contrafacta</hi> dans la poésie des
-                    troubadours», <hi rend="italic">Romania</hi>, 101, 1980, pp. 289-335.</bibl>
-                <bibl rend="Bibliography"><hi rend="underline">Morgan 1982</hi>: Margaret R. Morgan,
-                    «The Rothelin Continuation of William of Tyre», in <hi rend="italic">Outremer.
-                        Studies in the history of the Crusading Kingdom of Jerusalem presented to
-                        Joshua Prawer</hi>, edited by Benjamin Z. Kedar, Hans E. Mayer, Raymond C.
-                    Smail, Jerusalem, Yad Izhak Ben-Zvi Institute, 1982, pp. 244-257.</bibl>
-                <bibl rend="Bibliography"><hi rend="underline">Painter 1989</hi>: Sidney Painter, «The
-                    Crusade of Theobald of Champagne and Richard of Cornwall, 1239-1241», in <hi
-                        rend="italic">A History of the Crusades</hi> (Editor in Chief, Kenneth Meyer
-                    Setton), II, <hi rend="italic">The Later Crusades, 1189-1311</hi>, Edited by R.
-                    L. Wolff and Harry W. Hazard, Madison, University of Wisconsin Press, 1989, pp.
-                    463-487.</bibl>
-                <bibl rend="Bibliography"><hi rend="underline">Petersen Dyggve 1938</hi>: Holger
-                    Petersen Dyggve, <hi rend="italic">Moniot d’Arras et Moniot de Paris, trouvères
-                        du XIIIe siècle, édition des chansons et étude historique</hi>, Helsinki,
-                    Imprimérie de la Société de littérature finnoise, 1938.</bibl>
-                <bibl rend="Bibliography"><hi rend="underline">Röhricht 1886</hi>: Reinhold Röhrich,
-                    «Die Kreuzzüge des Grafen Theobald von Navarra und Richard von Cornwallis, nach
-                    dem heiligen Lande», <hi rend="italic">Forschungen zur deutschen
-                    Geschichte</hi>, 26, 1886, pp. 67-102.</bibl>
-            </listBibl>
+                    <bibl rend="Bibliography"><hi rend="underline">Cazel 1989</hi>: Fred A. Cazel,
+                        Jr., «Financing the Crusades», in <hi rend="italic">A History of the
+                            Crusades</hi>, general editor Kenneth M. Setton, vol. VI, Madison, The
+                        University of Wisconsin Press, 1989, pp. 116-149</bibl>
+                    <bibl rend="Bibliography"><hi rend="underline"><pb type="soft"/>Edbury
+                        2007</hi>: Peter Edbury, «The French Translation of William of Tyre’s <hi
+                            rend="italic">Historia</hi>: the Manuscript Tradition», <hi
+                            rend="italic">Crusades</hi>, 6, 2007, pp. 69-105.</bibl>
+                    <bibl rend="Bibliography"><hi rend="underline">Grossel 2000</hi>:
+                        Marie-Geneviève Grossel, «Les Champenois et l’appel de l’outremer au XIII<hi
+                            rend="superscript">e</hi> siècle», in <hi rend="italic">Mémoire de
+                            Champagne</hi>, <hi rend="italic">Actes du troisième mois médiéval,
+                            Centre d’études médiévales de la région Champagne-Ardenne</hi>, II,
+                        Langres, Guéniot, 2000, pp. 105-131.</bibl>
+                    <bibl rend="Bibliography"><hi rend="underline">Guida 2006</hi>: Saverio Guida,
+                        «L’autore e il latore di <hi rend="italic">Vai, Hugonet, ses bistensa</hi>
+                        (BdT 461,247)», <hi rend="italic">Cultura neolatina</hi>, 66, 2006, pp.
+                        45-82.</bibl>
+                    <bibl rend="Bibliography"><hi rend="underline">Jackson 1987</hi>: Peter Jackson,
+                        «The crusades of 1239-41 and their aftermath», <hi rend="italic">Bulletin of
+                            the School of Oriental and african Studies</hi>, 50, 1987, pp.
+                        32-60.</bibl>
+                    <bibl rend="Bibliography"><hi rend="underline">Köhler 2000</hi>: Erich Köhler,
+                        L’avventura cavalleresca, ideale e realtà nei romanzi della Tavola Rotonda,
+                        Bologna, Il Mulino, 2000</bibl>
+                    <bibl rend="Bibliography"><hi rend="underline">Lower 2005</hi>: Michael Lower,
+                            <hi rend="italic">The Baron’s Crusade: a call to arms and its
+                            consequences</hi>, Philadelphia, University of Pennsylvania Press,
+                        2005.</bibl>
+                    <bibl rend="Bibliography"><hi rend="underline">Marshall 1980</hi>: John H.
+                        Marshall, «Pour l’étude des <hi rend="italic">contrafacta</hi> dans la
+                        poésie des troubadours», <hi rend="italic">Romania</hi>, 101, 1980, pp.
+                        289-335.</bibl>
+                    <bibl rend="Bibliography"><hi rend="underline">Morgan 1982</hi>: Margaret R.
+                        Morgan, «The Rothelin Continuation of William of Tyre», in <hi rend="italic"
+                            >Outremer. Studies in the history of the Crusading Kingdom of Jerusalem
+                            presented to Joshua Prawer</hi>, edited by Benjamin Z. Kedar, Hans E.
+                        Mayer, Raymond C. Smail, Jerusalem, Yad Izhak Ben-Zvi Institute, 1982, pp.
+                        244-257.</bibl>
+                    <bibl rend="Bibliography"><hi rend="underline">Painter 1989</hi>: Sidney
+                        Painter, «The Crusade of Theobald of Champagne and Richard of Cornwall,
+                        1239-1241», in <hi rend="italic">A History of the Crusades</hi> (Editor in
+                        Chief, Kenneth Meyer Setton), II, <hi rend="italic">The Later Crusades,
+                            1189-1311</hi>, Edited by R. L. Wolff and Harry W. Hazard, Madison,
+                        University of Wisconsin Press, 1989, pp. 463-487.</bibl>
+                    <bibl rend="Bibliography"><hi rend="underline">Petersen Dyggve 1938</hi>: Holger
+                        Petersen Dyggve, <hi rend="italic">Moniot d’Arras et Moniot de Paris,
+                            trouvères du XIIIe siècle, édition des chansons et étude
+                        historique</hi>, Helsinki, Imprimérie de la Société de littérature finnoise,
+                        1938.</bibl>
+                    <bibl rend="Bibliography"><hi rend="underline">Röhricht 1886</hi>: Reinhold
+                        Röhrich, «Die Kreuzzüge des Grafen Theobald von Navarra und Richard von
+                        Cornwallis, nach dem heiligen Lande», <hi rend="italic">Forschungen zur
+                            deutschen Geschichte</hi>, 26, 1886, pp. 67-102.</bibl>
+                </listBibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-                <editorialDecl xml:lang="en">
-                    <p>See the corresponding paragraph in the introduction to RS 164.</p></editorialDecl>
-            <editorialDecl xml:lang="it"><p><hi rend="bold">Si veda il paragrafo corrispondente nell’introduzione della canzone RS 164.</hi></p></editorialDecl>
-                <metDecl pattern="7a’bba’a’ba’a’ba’" xml:lang="en">
-                    <p>7a’bba’a’ba’a’ba’ (MW 1302,1 = Frank 472); 5 <hi rend="italic">coblas
+            <editorialDecl xml:lang="en">
+                <p>See the corresponding paragraph in the introduction to RS 164.</p>
+            </editorialDecl>
+            <editorialDecl xml:lang="it">
+                <p><hi rend="bold">Si veda il paragrafo corrispondente nell’introduzione della
+                        canzone RS 164.</hi></p>
+            </editorialDecl>
+            <metDecl pattern="7a’bba’a’ba’a’ba’" xml:lang="en">
+                <p>7a’bba’a’ba’a’ba’ (MW 1302,1 = Frank 472); 5 <hi rend="italic">coblas
                         unissonans</hi>; rhyme a = <hi rend="italic">-ie</hi>; rhyme b = <hi
                         rend="italic">-ou(r)s</hi>. The same metrical shape appears in seven other
                     texts, all in 7-syllable lines and with the same alternation of m. and f.
@@ -111,24 +119,23 @@
                     and f. rhymes (e rhyme <hi rend="italic">-ia</hi> / <hi rend="italic">-os</hi>
                     in st. III and IV). Two lines are missing at the end of st. I, and the sentence
                     may be incomplete, hence the indication of a lacuna.</p>
-                </metDecl>
+            </metDecl>
             <metDecl pattern="7a’bba’a’ba’a’ba’" xml:lang="it">
-                <p>(MW 1302,1 = Frank 472); 5 <hi rend="italic"
-                        >coblas unissonans</hi>; rima a = <hi rend="italic">-ie</hi>; rima b = <hi
-                        rend="italic">-ou(r)s</hi>; lo stesso schema metrico è adottato da altri sei
-                    testi, tutti in settenari e con la stessa alternanza di rime maschili e
-                    femminili; tra questi vi è la canzone RS 1141 del Conte di Bretagna che ha la
-                    stessa struttura a cinque <hi rend="italic">coblas unissonans</hi> e le stesse
-                    rime, mentre le prime tre strofi della canzone RS 1135 di Moniot d’Arras hanno
-                    anch’esse le stesse rime <hi rend="italic">-ie</hi>/ <hi rend="italic"
-                        >-ous</hi>; va aggiunto inoltre che lo stesso schema, con rime diverse, è
-                    usato dalla canzone di crociata anonima RS 1738a, databile al 1244-1245; tra i
-                    testi trobadorici lo schema è usato da Raimon de Miraval nella canzone BdT 406.7
-                    (solo rime maschili) e nel sirventese anonimo BdT 461.247 che ha la stessa
-                    alternanza di rime maschili e femminili (e rime <hi rend="italic">-ia</hi> / <hi
-                        rend="italic">-os</hi> nelle strofi iii e iv); mancano due versi alla fine
-                    della prima strofe, e la frase precedente potrebbe essere incompleta; per questo
-                    motivo la lacuna viene segnalata graficamente.</p>
+                <p>(MW 1302,1 = Frank 472); 5 <hi rend="italic">coblas unissonans</hi>; rima a = <hi
+                        rend="italic">-ie</hi>; rima b = <hi rend="italic">-ou(r)s</hi>; lo stesso
+                    schema metrico è adottato da altri sei testi, tutti in settenari e con la stessa
+                    alternanza di rime maschili e femminili; tra questi vi è la canzone RS 1141 del
+                    Conte di Bretagna che ha la stessa struttura a cinque <hi rend="italic">coblas
+                        unissonans</hi> e le stesse rime, mentre le prime tre strofi della canzone
+                    RS 1135 di Moniot d’Arras hanno anch’esse le stesse rime <hi rend="italic"
+                        >-ie</hi>/ <hi rend="italic">-ous</hi>; va aggiunto inoltre che lo stesso
+                    schema, con rime diverse, è usato dalla canzone di crociata anonima RS 1738a,
+                    databile al 1244-1245; tra i testi trobadorici lo schema è usato da Raimon de
+                    Miraval nella canzone BdT 406.7 (solo rime maschili) e nel sirventese anonimo
+                    BdT 461.247 che ha la stessa alternanza di rime maschili e femminili (e rime <hi
+                        rend="italic">-ia</hi> / <hi rend="italic">-os</hi> nelle strofi iii e iv);
+                    mancano due versi alla fine della prima strofe, e la frase precedente potrebbe
+                    essere incompleta; per questo motivo la lacuna viene segnalata graficamente.</p>
             </metDecl>
             <appInfo>
                 <application ident="TEI_fromDOCX" version="2.15.0">
@@ -142,15 +149,22 @@
             </listChange>
         </revisionDesc>
     </teiHeader>
-    <text><front>
-        <p rend="Title">RS 1133 Anonimo</p>
-        <p><hi rend="italic bold">Ne chant pas, que que nuls die</hi></p>
-    </front>
+    <text>
+        <front>
+            <titlePage>
+                <docTitle>
+                    <titlePart type="main">Anonymous</titlePart>
+                    <titlePart type="sub"/>
+                </docTitle>
+                <docAuthor/>
+            </titlePage>
+            <div type="abstract"/>
+        </front>
         <body>
-            <div type="poem" xml:id="RS.164.fro" xml:lang="fro">
+            <div type="text" xml:id="RS.164.fro" xml:lang="fro">
 
-                <lg>
-                <l n="1"> Ne chant pas, que que nuls die,</l>
+                <lg type="stanza" n="1">
+                    <l n="1"> Ne chant pas, que que nuls die,</l>
                     <l n="2"> de cuer lié ne de joious,</l>
                     <l n="3"> quant nos baron sont oisous</l>
                     <l n="4"> en la terre de Surie;</l>
@@ -159,13 +173,13 @@
                     <l n="7"> par une fole envaïe</l>
                     <l n="8"> perdi li cuens de Bar vie.</l>
                     <l n="9">
-                    <damage>. . . . . . . . . . . . . . . . . . . . .</damage>
-                </l>
+                        <damage>. . . . . . . . . . . . . . . . . . . . .</damage>
+                    </l>
                     <l n="10">
-                    <damage>. . . . . . . . . . . . . . . . . . . . .</damage>
-                </l>
+                        <damage>. . . . . . . . . . . . . . . . . . . . .</damage>
+                    </l>
                 </lg>
-                <lg>
+                <lg type="stanza" n="2">
                     <l n="11"> S’il euvrent par aatie</l>
                     <l n="12"> tout iert tourné a rebours:</l>
                     <l n="13"> trop y a des orgueillous</l>
@@ -176,8 +190,8 @@
                     <l n="18"> se ceste voie est perie,</l>
                     <l n="19"> vilains sera li retours</l>
                     <l n="20"> et sainte Eglyse abaissie.</l>
-            </lg>
-                <lg>
+                </lg>
+                <lg type="stanza" n="3">
                     <l n="21"> Encor n’ont chose esploitie</l>
                     <l n="22"> dont il soit preus ne hounours,</l>
                     <l n="23"> ne moustree leur valors</l>
@@ -188,7 +202,8 @@
                     <l n="28"> quant de France fu partie,</l>
                     <l n="29"> on disoit que c’ert la flours</l>
                     <l n="30"> du mont et la seignorie.</l>
-                </lg><lg>
+                </lg>
+                <lg type="stanza" n="4">
                     <l n="31"> Aus bachelers ne tient mie</l>
                     <l n="32"> ne aus povres vavasours:</l>
                     <l n="33"> a ceus grieve li sejourz</l>
@@ -200,7 +215,7 @@
                     <l n="39"> s’il s’en revienent le cours,</l>
                     <l n="40"> d’euls blasmer seroit folie.</l>
                 </lg>
-                <lg>
+                <lg type="stanza" n="5">
                     <l n="41"> Li pueples de France prie,</l>
                     <l n="42"> seigneur prisonnier, pour vous;</l>
                     <l n="43"> trop estiez orgueillous</l>
@@ -213,56 +228,81 @@
                     <l n="50"> se Diex ne vous en deslie.</l>
                 </lg>
             </div>
-                <div type="translation" xml:id="RS.1133.eng" corresp="RS.1133.fro" xml:lang="en">
-                    <div type="stanza" n="1"><p>Whatever people may say, I do not sing with a happy or joyful heart while our
-                    barons are idle in the land of Syria; they have not yet attacked any city or
-                    castles or towns; because of a foolish sortie the count of Bar has lost his
-                    life... </p>
-                    </div>
-                    <div type="stanza" n="2"><p>If the barons act out of rivalry everything will go downhill: there are too many
-                        arrogant men vying with each other. If God does not punish this pride, they will
-                        have wasted their labours and put their efforts to poor use; if this crusade is
-                        a failure the return will be dishonourable and Holy Church humiliated.</p></div>
-                    <div type="stanza" n="3"><p>They have not yet carried out any exploit producing profit or honour, or
-                        demonstrated their valour of which news is heard; if God does not punish this
-                        pride, they are heading for total downfall. Such a high company of barons, when
-                        it left France, was said to be the finest flower of the world. </p></div>
-                    <div type="stanza" n="4"><p>It is not the fault of the young knights or poor vavassors: the idle wait weighs
-                    heavily on those who have mortgaged their land and have no compassion or aid or
-                    comfort from the great lords, when their money has run out. They do not deserve
-                    to die there: if they hurry back home, it would be folly to blame them.</p></div>
-                    <div type="stanza" n="5"><p>The people of France pray, lord prisoners, for you; you were too proud in
-                    showing off your valour – a foolish reckless ardour carried you away from help.
-                    The Turks hold you in their power; now may the son of Mary give thought to this,
-                    for it will be most painful if God does not liberate you from them.</p></div>
-                </div><div type="translation" xml:id="RS.1133.it" corresp="RS.1133.fro" xml:lang="it">
-                        <div  type="stanza" n="1"><p>Checché se ne dica, non canto col cuore lieto e gioioso, mentre i nostri baroni
-                    stanno inoperosi in terra di Siria; non hanno ancora attaccato una (sola) città,
-                    né castelli né borghi; a causa di una sortita sconsiderata il conte di Bar ha
-                    perso la vita...</p></div>
-                        <div  type="stanza" n="2"><p>Se i baroni agiscono per rivalità andrà tutto storto: ci sono troppi orgogliosi
-                    che si portano reciproca invidia; se Dio non punisce l’orgoglio, le loro fatiche
-                    saranno sprecate, e la loro <pb type="soft"/>sofferenza sarà inutile; se questa
-                    crociata è un fallimento, il ritorno sarà disonorevole e la santa Chiesa sarà
-                    umiliata.</p></div>
-                        <div  type="stanza" n="3"><p>Non hanno ancora compiuto nessuna azione da cui venga profitto e onore, né
-                    mostrato il loro valore, in modo che se ne oda la notizia; se Dio non punisce
-                    l’orgoglio, sono destinati al completo fallimento; una così alta compagnia di
-                    baroni, quando è partita dalla Francia, si diceva che era il fiore e il meglio
-                    del mondo.</p></div>
-                        <div type="stanza" n="4"><p>I giovani cavalieri non hanno colpa, né i poveri valvassori: è pesante l’inerzia
-                    per costoro, che hanno impegnato la loro terra, e non hanno comprensione né
-                    aiuto né conforto dai grandi signori, quando il loro denaro è finito. Essi non
-                    hanno meritato la morte laggiù: se tornano indietro in fretta, sarebbe una
-                    follia biasimarli.</p></div>
-                        <div  type="stanza" n="5"><p>Il popolo di Francia prega, signori prigionieri, per voi; siete stati troppo
-                    smaniosi di mettere in mostra il vostro valore, un ardore folle e temerario vi
-                    ha allontanato dai soccorsi; i turchi vi tengono in loro potere: ora ci pensi il
-                    figlio di Maria, perché sarà un grande dolore se Dio non vi libera da loro.</p></div>
+            <div type="translation" xml:id="RS.1133.eng" corresp="RS.1133.fro" xml:lang="en">
+                <div type="stanza" n="1">
+                    <p>Whatever people may say, I do not sing with a happy or joyful heart while our
+                        barons are idle in the land of Syria; they have not yet attacked any city or
+                        castles or towns; because of a foolish sortie the count of Bar has lost his
+                        life... </p>
                 </div>
-            </body>
-            <back>
-                <div type="historical" xml:lang="en">
+                <div type="stanza" n="2">
+                    <p>If the barons act out of rivalry everything will go downhill: there are too
+                        many arrogant men vying with each other. If God does not punish this pride,
+                        they will have wasted their labours and put their efforts to poor use; if
+                        this crusade is a failure the return will be dishonourable and Holy Church
+                        humiliated.</p>
+                </div>
+                <div type="stanza" n="3">
+                    <p>They have not yet carried out any exploit producing profit or honour, or
+                        demonstrated their valour of which news is heard; if God does not punish
+                        this pride, they are heading for total downfall. Such a high company of
+                        barons, when it left France, was said to be the finest flower of the world.
+                    </p>
+                </div>
+                <div type="stanza" n="4">
+                    <p>It is not the fault of the young knights or poor vavassors: the idle wait
+                        weighs heavily on those who have mortgaged their land and have no compassion
+                        or aid or comfort from the great lords, when their money has run out. They
+                        do not deserve to die there: if they hurry back home, it would be folly to
+                        blame them.</p>
+                </div>
+                <div type="stanza" n="5">
+                    <p>The people of France pray, lord prisoners, for you; you were too proud in
+                        showing off your valour – a foolish reckless ardour carried you away from
+                        help. The Turks hold you in their power; now may the son of Mary give
+                        thought to this, for it will be most painful if God does not liberate you
+                        from them.</p>
+                </div>
+            </div>
+            <div type="translation" xml:id="RS.1133.it" corresp="RS.1133.fro" xml:lang="it">
+                <div type="stanza" n="1">
+                    <p>Checché se ne dica, non canto col cuore lieto e gioioso, mentre i nostri
+                        baroni stanno inoperosi in terra di Siria; non hanno ancora attaccato una
+                        (sola) città, né castelli né borghi; a causa di una sortita sconsiderata il
+                        conte di Bar ha perso la vita...</p>
+                </div>
+                <div type="stanza" n="2">
+                    <p>Se i baroni agiscono per rivalità andrà tutto storto: ci sono troppi
+                        orgogliosi che si portano reciproca invidia; se Dio non punisce l’orgoglio,
+                        le loro fatiche saranno sprecate, e la loro <pb type="soft"/>sofferenza sarà
+                        inutile; se questa crociata è un fallimento, il ritorno sarà disonorevole e
+                        la santa Chiesa sarà umiliata.</p>
+                </div>
+                <div type="stanza" n="3">
+                    <p>Non hanno ancora compiuto nessuna azione da cui venga profitto e onore, né
+                        mostrato il loro valore, in modo che se ne oda la notizia; se Dio non
+                        punisce l’orgoglio, sono destinati al completo fallimento; una così alta
+                        compagnia di baroni, quando è partita dalla Francia, si diceva che era il
+                        fiore e il meglio del mondo.</p>
+                </div>
+                <div type="stanza" n="4">
+                    <p>I giovani cavalieri non hanno colpa, né i poveri valvassori: è pesante
+                        l’inerzia per costoro, che hanno impegnato la loro terra, e non hanno
+                        comprensione né aiuto né conforto dai grandi signori, quando il loro denaro
+                        è finito. Essi non hanno meritato la morte laggiù: se tornano indietro in
+                        fretta, sarebbe una follia biasimarli.</p>
+                </div>
+                <div type="stanza" n="5">
+                    <p>Il popolo di Francia prega, signori prigionieri, per voi; siete stati troppo
+                        smaniosi di mettere in mostra il vostro valore, un ardore folle e temerario
+                        vi ha allontanato dai soccorsi; i turchi vi tengono in loro potere: ora ci
+                        pensi il figlio di Maria, perché sarà un grande dolore se Dio non vi libera
+                        da loro.</p>
+                </div>
+            </div>
+        </body>
+        <back>
+            <div type="historical" xml:lang="en">
                 <p>See the corresponding paragraph in the introduction to RS 164. The references
                     allow us to situate the present text, as RS 164, after the Gaza ambush and
                     before the liberation of the Christian prisoners, so between 13 November 1239
@@ -270,7 +310,7 @@
                     composed before the departure of Thibaut de Champagne and the greater part of
                     the French contingent, around the middle of September 1240.</p>
             </div>
-                <div type="historical" xml:lang="it">
+            <div type="historical" xml:lang="it">
                 <p>Si veda il paragrafo corrispondente nell’introduzione della canzone RS 164. Anche
                     i riferimenti contenuti in questo testo permettono di situarne la composizione
                     dopo l’imboscata di Gaza e prima della liberazione dei prigionieri cristiani,
@@ -318,59 +358,64 @@
                     attributed to the count of Brittany, and which in any case expresses positions
                     that chime well with the character concerned, with the advantage that, unlike
                     Philippe de Nanteuil, he was not taken prisoner at Gaza.</p>
-                <p corresp="#RS.1133.fro[range(@n=7,@n=8)]">These lines appear to confirm the death of Count Henry II of Bar-le-Duc at
-                    Gaza, which the same chronicle has called into doubt on the preceding pages (<hi
-                        rend="italic">Cont. Roth.</hi> p. 546), but which the other sources certify.
-                    See the note to v. 20 of RS 164.</p>
-                <p corresp="#RS.1133.fro[range(@n=13,@n=15)]">The problem of the rivalries and internal divisions in the crusading army,
-                    which was already emerging clearly during the first crusade, seems to have
-                    diminished somewhat during the 12th-c. crusades or to have applied only at the
-                    level of the rulers; but it explodes again in the 13th c. and becomes
-                    particularly glaring during the barons’ crusade, as is shown by all the sources,
-                    especially the <hi rend="italic">Continuation Rothelin</hi> (see the excellent
-                    syntheses of Balard 1989 and Lower 2005, pp. 167-175).</p>
-                <p corresp="#RS.1133.fro[range(@n=21,@n=24)]">Rather than blaming the incompetence of the expedition’s leaders – a
-                    criticism from which many historians have not spared Thibaut de Champagne – the
-                    author seems to attribute the cause of inactivity mainly to the divisions and
-                    rivalries in the Christian army and to the barons’ personal initiatives.</p>
-                <p corresp="#RS.1133.fro:(n=28)">This text, as RS164, shows the emergence of emphasis on French nationalism
-                    (see also v. 41) which charcterises the later crusades.</p>
-                <p  corresp="#RS.1133.fro[range(@n=31,@n=40)]">The ‘bachelors’ are young knights or those aspiring to be such, generally
-                    having no fief and destined to perform military service under a lord. The
-                    vavassors constitute one of the lowest grades in the feudal hierarchy holding a
-                    small fief over which they are unable to exercise direct rights, since some of
-                    the latter remain the apanage of higher-ranking lords, so they are obliged to
-                    lend military service to the real lord. The hereditary system of fiefs often
-                    brought about the impoverishment of these two classes, and the equation of
-                    vavassors and poverty is often present in courtly literature, which in some
-                    cases tends to exalt the dignity and nobility of soul of those belonging to
-                    these classes (Köhler 2000). See for example the romances of Chrétien de Troyes
-                    and Bertran de Born’s song BdT 80.37, 12-22. Furthermore those belonging to the
-                    lower nobility were often constrained to pawn and mortgage their lands to
-                    procure the funds necessary to finance the expedition (Cazel 1989), a phenomenon
-                    alluded to in vv. 33-34. This stanza seems to express its solidarity with the
-                    lower levels of feudal society, to which the author may well belong.</p>
-                <p corresp="#RS.1133.fro[range(@n=41,@n=47)]">These lines synthesise well on the one hand the mood of disillusionment in
-                    the face of the ever more negative results produced by expeditions to the Holy
-                    Land, and on the other, the residual hope in divine intervention which alone can
-                    guarantee their success.</p>
+                <p corresp="#RS.1133.fro[range(@n=7,@n=8)]">These lines appear to confirm the death
+                    of Count Henry II of Bar-le-Duc at Gaza, which the same chronicle has called
+                    into doubt on the preceding pages (<hi rend="italic">Cont. Roth.</hi> p. 546),
+                    but which the other sources certify. See the note to v. 20 of RS 164.</p>
+                <p corresp="#RS.1133.fro[range(@n=13,@n=15)]">The problem of the rivalries and
+                    internal divisions in the crusading army, which was already emerging clearly
+                    during the first crusade, seems to have diminished somewhat during the 12th-c.
+                    crusades or to have applied only at the level of the rulers; but it explodes
+                    again in the 13th c. and becomes particularly glaring during the barons’
+                    crusade, as is shown by all the sources, especially the <hi rend="italic"
+                        >Continuation Rothelin</hi> (see the excellent syntheses of Balard 1989 and
+                    Lower 2005, pp. 167-175).</p>
+                <p corresp="#RS.1133.fro[range(@n=21,@n=24)]">Rather than blaming the incompetence
+                    of the expedition’s leaders – a criticism from which many historians have not
+                    spared Thibaut de Champagne – the author seems to attribute the cause of
+                    inactivity mainly to the divisions and rivalries in the Christian army and to
+                    the barons’ personal initiatives.</p>
+                <p corresp="#RS.1133.fro:(n=28)">This text, as RS164, shows the emergence of
+                    emphasis on French nationalism (see also v. 41) which charcterises the later
+                    crusades.</p>
+                <p corresp="#RS.1133.fro[range(@n=31,@n=40)]">The ‘bachelors’ are young knights or
+                    those aspiring to be such, generally having no fief and destined to perform
+                    military service under a lord. The vavassors constitute one of the lowest grades
+                    in the feudal hierarchy holding a small fief over which they are unable to
+                    exercise direct rights, since some of the latter remain the apanage of
+                    higher-ranking lords, so they are obliged to lend military service to the real
+                    lord. The hereditary system of fiefs often brought about the impoverishment of
+                    these two classes, and the equation of vavassors and poverty is often present in
+                    courtly literature, which in some cases tends to exalt the dignity and nobility
+                    of soul of those belonging to these classes (Köhler 2000). See for example the
+                    romances of Chrétien de Troyes and Bertran de Born’s song BdT 80.37, 12-22.
+                    Furthermore those belonging to the lower nobility were often constrained to pawn
+                    and mortgage their lands to procure the funds necessary to finance the
+                    expedition (Cazel 1989), a phenomenon alluded to in vv. 33-34. This stanza seems
+                    to express its solidarity with the lower levels of feudal society, to which the
+                    author may well belong.</p>
+                <p corresp="#RS.1133.fro[range(@n=41,@n=47)]">These lines synthesise well on the one
+                    hand the mood of disillusionment in the face of the ever more negative results
+                    produced by expeditions to the Holy Land, and on the other, the residual hope in
+                    divine intervention which alone can guarantee their success.</p>
             </div>
-            <div type="notes" xml:lang="it"> <p>Contrariamente alla canzone RS 164, questo testo non
-                    critica la prudenza dei capi della spedizione dopo l’episodio di Gaza e non
-                    sembra accordarsi con la posizione dei baroni. Si tratta piuttosto del punto di
-                    vista dei piccoli cavalieri poveri (<hi rend="italic">bachelers</hi> e <hi
-                        rend="italic">vavasours</hi>, vv. 31-32), che stigmatizzano le invidie tra i
-                    baroni e le improvvide iniziative personali dall’esito disastroso (vv. 7, 11-14,
-                    43-46), ma al contempo non apprezzano l’inerzia e l’inattività prolungata (vv.
-                    5-6, 21-24, 31-40). Malgrado la disapprovazione espressa per la sortita di Gaza,
-                    la canzone si chiude con una preghiera per la liberazione dei prigionieri. Va
-                    rilevato in particolare il realismo espresso nei versi, quasi una didascalia
-                    degli eventi narrati dalla cronaca che li contiene, che permette di conoscere lo
-                    stato d’animo e le opinioni dei partecipanti alle ultime crociate. Le
-                    motivazioni ideali non sembrano più così chiare, e in ogni caso non vengono
-                    messe in primo piano; prevalgono invece preoccupazioni più mondane e pratiche:
-                    le ambizioni di gloria personale dei singoli baroni, i problemi dei costi
-                    elevati delle spedizioni e le difficoltà economiche dei piccoli cavalieri.</p>
+            <div type="notes" xml:lang="it">
+                <p>Contrariamente alla canzone RS 164, questo testo non critica la prudenza dei capi
+                    della spedizione dopo l’episodio di Gaza e non sembra accordarsi con la
+                    posizione dei baroni. Si tratta piuttosto del punto di vista dei piccoli
+                    cavalieri poveri (<hi rend="italic">bachelers</hi> e <hi rend="italic"
+                        >vavasours</hi>, vv. 31-32), che stigmatizzano le invidie tra i baroni e le
+                    improvvide iniziative personali dall’esito disastroso (vv. 7, 11-14, 43-46), ma
+                    al contempo non apprezzano l’inerzia e l’inattività prolungata (vv. 5-6, 21-24,
+                    31-40). Malgrado la disapprovazione espressa per la sortita di Gaza, la canzone
+                    si chiude con una preghiera per la liberazione dei prigionieri. Va rilevato in
+                    particolare il realismo espresso nei versi, quasi una didascalia degli eventi
+                    narrati dalla cronaca che li contiene, che permette di conoscere lo stato
+                    d’animo e le opinioni dei partecipanti alle ultime crociate. Le motivazioni
+                    ideali non sembrano più così chiare, e in ogni caso non vengono messe in primo
+                    piano; prevalgono invece preoccupazioni più mondane e pratiche: le ambizioni di
+                    gloria personale dei singoli baroni, i problemi dei costi elevati delle
+                    spedizioni e le difficoltà economiche dei piccoli cavalieri.</p>
                 <p>L’anonimo autore dei versi non doveva essere del tutto sprovvisto di cultura, se
                     si tiene conto che grazie al suo schema metrico questo testo s’inserisce in una
                     rete di riferimenti letterari che non possono essere casuali. Egli doveva
@@ -395,31 +440,34 @@
                     Bretagna, e che esprime in ogni caso posizioni che ben si accordano con il
                     personaggio, con il vantaggio che, al contrario di Philippe de Nanteuil, egli
                     non fu fatto prigioniero a Gaza.</p>
-                <p corresp="#RS.1133.fro[range(@n=7,@n=8)]">Questi versi sembrano confermare la morte del conte Enrico II di Bar-le-Duc
-                    a Gaza, che la stessa cronaca mette in dubbio nelle pagine precedenti (<hi
-                        rend="italic">Cont. Roth.</hi> p. 546), ma che le altre fonti certificano.
-                    Si veda la nota al v. 20 della canzone RS 164.</p>
-                <p corresp="#RS.1133.fro[range(@n=13,@n=15)]">Il problema delle invidie e delle divisioni interne al fronte dei
-                    crociati, già emerso in modo evidente durante la prima crociata, sembra
-                    attenuato o comunque applicabile al solo livello dei sovrani nelle crociate del
-                    XII secolo, ma riesplode nel secolo successivo diventando particolarmente
-                    evidente durante la crociata dei baroni, come testimoniano tutte le fonti e
-                    soprattutto la <hi rend="italic">Continuation Rothelin</hi> (si veda l’ottima
-                    sintesi di Balard 1989 e Lower 2005, pp. 167-175).</p>
-                <p corresp="#RS.1133.fro[range(@n=21,@n=24)]">Più che all’inettitudine dei capi della spedizione – critica che molti
-                    storici non hanno risparmiato a Thibaut de Champagne – l’autore della canzone
-                    sembra attribuire la causa dell’inattività principalmente alle divisioni e alle
-                    invidie interne al fronte cristiano e alle iniziative personali dei baroni.</p>
-                <p corresp="#RS.1133.fro:(n=28)">Emerge anche in questo testo, come in RS 164, la sottolineatura dell’elemento
-                    nazionale francese (si veda anche il v. 41), che caratterizza l’esperienza delle
-                    ultime crociate.</p>
-                <p corresp="#RS.1133.fro[range(@n=31,@n=40)]">I baccellieri sono giovani cavalieri o aspiranti tali, generalmente privi
-                    di feudo e destinati all’attività militare al servizio di un signore; i
-                    valvassori costituiscono uno dei gradi più bassi della gerarchia feudale,
-                    titolari di un piccolo feudo sul quale non possono esercitare pieni diritti,
-                    poiché alcuni di essi restano appannaggio dei signori di grado superiore, e
-                    tenuti comunque a prestare un servizio militare al proprio signore. Il
-                    particolare sistema ereditario dei feudi comportava frequentemente
+                <p corresp="#RS.1133.fro[range(@n=7,@n=8)]">Questi versi sembrano confermare la
+                    morte del conte Enrico II di Bar-le-Duc a Gaza, che la stessa cronaca mette in
+                    dubbio nelle pagine precedenti (<hi rend="italic">Cont. Roth.</hi> p. 546), ma
+                    che le altre fonti certificano. Si veda la nota al v. 20 della canzone RS
+                    164.</p>
+                <p corresp="#RS.1133.fro[range(@n=13,@n=15)]">Il problema delle invidie e delle
+                    divisioni interne al fronte dei crociati, già emerso in modo evidente durante la
+                    prima crociata, sembra attenuato o comunque applicabile al solo livello dei
+                    sovrani nelle crociate del XII secolo, ma riesplode nel secolo successivo
+                    diventando particolarmente evidente durante la crociata dei baroni, come
+                    testimoniano tutte le fonti e soprattutto la <hi rend="italic">Continuation
+                        Rothelin</hi> (si veda l’ottima sintesi di Balard 1989 e Lower 2005, pp.
+                    167-175).</p>
+                <p corresp="#RS.1133.fro[range(@n=21,@n=24)]">Più che all’inettitudine dei capi
+                    della spedizione – critica che molti storici non hanno risparmiato a Thibaut de
+                    Champagne – l’autore della canzone sembra attribuire la causa dell’inattività
+                    principalmente alle divisioni e alle invidie interne al fronte cristiano e alle
+                    iniziative personali dei baroni.</p>
+                <p corresp="#RS.1133.fro:(n=28)">Emerge anche in questo testo, come in RS 164, la
+                    sottolineatura dell’elemento nazionale francese (si veda anche il v. 41), che
+                    caratterizza l’esperienza delle ultime crociate.</p>
+                <p corresp="#RS.1133.fro[range(@n=31,@n=40)]">I baccellieri sono giovani cavalieri o
+                    aspiranti tali, generalmente privi di feudo e destinati all’attività militare al
+                    servizio di un signore; i valvassori costituiscono uno dei gradi più bassi della
+                    gerarchia feudale, titolari di un piccolo feudo sul quale non possono esercitare
+                    pieni diritti, poiché alcuni di essi restano appannaggio dei signori di grado
+                    superiore, e tenuti comunque a prestare un servizio militare al proprio signore.
+                    Il particolare sistema ereditario dei feudi comportava frequentemente
                     l’impoverimento di queste due classi, e l’equazione tra valvassori e povertà è
                     spesso presente nella letteratura cortese, che in alcuni casi tende ad esaltare
                     la dignità e la nobiltà d’animo degli appartenenti a queste classi (Köhler
@@ -430,10 +478,10 @@
                     quale fanno riferimento i vv. 33-34. Questa strofe sembra solidarizzare proprio
                     con le classi inferiori della società feudale, alle quali appartiene
                     verosimilmente lo stesso autore.</p>
-                <p corresp="#RS.1133.fro[range(@n=41,@n=47)]">Questi versi sintetizzano bene da un lato l’atmosfera di disillusione per
-                    l’esito sempre più negativo che vanno assumendo le spedizioni in Terra Santa, e
-                    dall’altro la residua speranza in un intervento divino, che solo può garantire
-                    il successo delle operazioni.</p>
+                <p corresp="#RS.1133.fro[range(@n=41,@n=47)]">Questi versi sintetizzano bene da un
+                    lato l’atmosfera di disillusione per l’esito sempre più negativo che vanno
+                    assumendo le spedizioni in Terra Santa, e dall’altro la residua speranza in un
+                    intervento divino, che solo può garantire il successo delle operazioni.</p>
             </div>
         </back>
     </text>

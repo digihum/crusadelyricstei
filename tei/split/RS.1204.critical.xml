@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc><titleStmt><title>Se j’ai lonc tans esté en Romenie (RS 1204)</title><author>Raoul de Soissons (?)</author><funder>AHRC</funder><principal>Linda Paterson</principal><respStmt><name>Steve Ranford</name><name>Mike Paterson</name><resp xml:lang="en">Conversion to TEI-conformant markup by</resp><resp xml:lang="it">Conversione al markup conforme a TEI di</resp></respStmt>        <respStmt>
+      <name>Luca Barbieri</name>
+      <resp xml:lang="en">Italian Translation by</resp>
+      <resp xml:lang="it">Traduzione italiana di</resp>
+    </respStmt>
+      
+      <respStmt>
+        <name>Anna Radaelli</name>
+        <resp xml:lang="en">Italian translation checked by</resp>
+        <resp xml:lang="it">Traduzione italiana controllata da</resp>
+      </respStmt>
+    </titleStmt>      <editionStmt>
+      <edition><date>2014</date></edition>
+    </editionStmt>
+      <publicationStmt>
+        <publisher>French Department, University of Warwick</publisher>
+        <date>2014</date><availability status="free"><licence xml:lang="en" target="https://creativecommons.org/licenses/by-sa/4.0/legalcode"> Distributed under the Creative Commons Attribution-ShareAlike 4.0 International Public License</licence><licence xml:lang="it" target="https://creativecommons.org/licenses/by-sa/4.0/legalcode.it">Distribuito sotto la Licenza Pubblica Creative Commons Attribuzione-CondividiAlloStessoModo 4.0 Internazionale</licence></availability></publicationStmt>
+      
+      <sourceDesc>
+        <listBibl type="previous_editions">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>La Ravallière 1742, <hi rend="smallcaps">ii</hi> 144; Tarbé 1850, 63; Winkler 1914,
+            46; Baumgartner 1983, 122; Rosenberg-Tischler 1995, 646; Hardy 2009
+            (www.lfa.uottawa.ca/activites/textes/ineke/Chansons/ R1204ed.htm).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl>(4): B 8v (anonymous), N 63d (<hi rend="italic">Mes sires T. de soissons</hi>), Me
+            64r? (<hi rend="italic">Messire Thierri de Soissons</hi>), V 59c (anon., modern
+            attribution <hi rend="italic">Raoul de Soissons</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl>(4): B 8v (anonima), N 63d (<hi rend="italic">Mes sires T. de soissons</hi>), Me
+            64r? (<hi rend="italic">Messire Thierri de Soissons</hi>), V 59c (anon., attribuzione
+            moderna <hi rend="italic">Raoul de Soissons</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;">
+        <p>10a’b’b’a’a’b’b’a’a’ (MW 1310,2 = Frank 477); 5 <hi rend="italic">coblas doblas</hi>,
+          plus three initial lines of what is probably a sixth stanza (rhymes a’b’b’ repeated from
+          the fifth stanza); rhyme a = <hi rend="italic">-ie</hi>, <hi rend="italic">-aine</hi>, <hi rend="italic">-ele</hi>; rhyme b = <hi rend="italic">-age</hi>, <hi rend="italic">-ance</hi>, <hi rend="italic">-ee</hi>; numerous rich and leonine rhymes, including
+          some involving the repetition of whole words, vv. 11 and 16 (<hi rend="italic">sage</hi>
+          and <hi rend="italic">visage</hi>), 12 and 15 (<hi rend="italic">rage </hi>and<hi rend="italic"> coraige</hi>), 24-25 (<hi rend="italic">semblance</hi>, <hi rend="italic">lance</hi>); there is a lyric caesura in v. 28 and a feminine caesura with elision in
+          vv. 9 and 10. Melody in N and a second independent melody in V (T 682).</p>
+      </metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;">
+        <p>10a’b’b’a’a’b’b’a’a’ (MW 1310,2 = Frank 477); 5 <hi rend="italic">coblas doblas</hi>, più
+          tre versi iniziali di una probabile sesta strofa (rime a’b’b’ riprese dalla quinta
+          strofa); rima a = <hi rend="italic">-ie</hi>, <hi rend="italic">-aine</hi>, <hi rend="italic">-ele</hi>; rima b = <hi rend="italic">-age</hi>, <hi rend="italic">-ance</hi>, <hi rend="italic">-ee</hi>; numerose rime ricche e leonine; rima paronima
+          ai vv. 11 e 16 (<hi rend="italic">sage</hi> e <hi rend="italic">visage</hi>), 12 e 15 (<hi rend="italic">rage </hi>e<hi rend="italic"> coraige</hi>), 24-25 (<hi rend="italic">semblance</hi>, <hi rend="italic">lance</hi>); vi è cesura lirica al v. 28 e cesura
+          femminile con elisione ai vv. 9 e 10. Melodia in N e seconda melodia indipendente in V (T
+          682).</p>
+      </metDecl>
+      <editorialDecl xml:lang="en">
+        <p>Analysis of the ms. readings show the division NV and B, confirming the stemma of Schwan
+          1886, p. 171 which also appears in other editions and studies. V shows its typical
+          independence, thought this is noticeably more pronounced than usual. The evidence from Me
+          is negligible since it is reduced to the first two lines of the song. The edition is based
+          on B, the only ms. to record the last incomplete stanza, and the transmitter of some
+          conservative readings.</p>
+      </editorialDecl>
+      <editorialDecl xml:lang="it">
+        <p>L’analisi delle lezioni permette di separare i mss. NV e B, confermando così lo stemma di
+          Schwan 1886, p. 171 nonché quanto è emerso in altre edizioni e in altri studi. Il
+          canzoniere V mostra l’autonomia di lezione tipica di questo testimone, ma notevolmente più
+          accentuata del consueto. L’apporto di Me è trascurabile in quanto ridotto ai primi due
+          versi della canzone. L’edizione si basa sulla lezione di B, unico testimone che riporta
+          l’ultima strofa incompleta e latore di alcune lezioni conservative.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2014-10-08T13:32:59Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Raoul de Soissons (?)</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="text" xml:id="rs.1204.fro" xml:lang="fro">
+        <lg n="1" type="stanza">
+          <l n="1">Se j’ai lonc tans esté en Romenie</l>
+          <l n="2">et outremer fet mon pelerinage,</l>
+          <l n="3">sousfert i ai moult dolereus domage</l>
+          <l n="4"> et enduré mainte grant maladie;</l>
+          <l n="5">mes or ai pis c’onques n’oi en Surie,</l>
+          <l n="6">que bone amour m’a doné tel malage</l>
+          <l n="7">dont nule foiz la dolour n’asouage,</l>
+          <l n="8">ains croist adés et double et monteplie,</l>
+          <l n="9">si que la face en ai tainte et palie.</l>
+        </lg>
+        <lg n="2" type="stanza">
+          <l n="10">Car jone dame et cointe et envoisie,</l>
+          <l n="11">douce et plaisant, belle et courtoise et sage</l>
+          <l n="12">m’a mis ou cuer une si douce rage</l>
+          <l n="13">que j’en oubli le veoir et l’oïe,</l>
+          <l n="14">si comme sil qui dort en letargie,</l>
+          <l n="15">dont nus ne puet esveillier son coraige;</l>
+          <l n="16">car quant je pens a son tres dous visage,</l>
+          <l n="17">de mon penser aim mielz la compeignie</l>
+          <l n="18">c’onques Tristans ne fist d’Yseu s’amie.</l>
+        </lg>
+        <lg n="3" type="stanza">
+          <l n="19">Bien m’a Amours feru en droite voine</l>
+          <l n="20">par .i. resgart plain de douce esperance,</l>
+          <l n="21">dont navré m’a la plus sage de France</l>
+          <l n="22">et de biauté la rose soverainne;</l>
+          <l n="23">si me merveil que la plaie ne sainne,</l>
+          <l n="24">car navré m’a de si douce sanblance</l>
+          <l n="25">c’onques ne vi si tranchant fer de lance;</l>
+          <l n="26">mes [est] sanblant au chant de la seraine,</l>
+          <l n="27">dont la douçours atret dolours et paine.</l>
+        </lg>
+        <lg n="4" type="stanza">
+          <l n="28">Si puisse je sentir sa douce alaine</l>
+          <l n="29">et retenir sa simple contenance,</l>
+          <l n="30">que je desir s’amour et s’acointance</l>
+          <l n="31">plus que Paris ne fist onques Elaine;</l>
+          <l n="32">et se Amour n’est en moi trop vilainne,</l>
+          <l n="33">ja sanz merci nem ferai penitance,</l>
+          <l n="34">car sa biauté et sa tres grant vaillance</l>
+          <l n="35">et li biaus vis ou la vi primieraine</l>
+          <l n="36">m’ont .c. soupirs le jour doné d’estraine.</l>
+        </lg>
+        <lg n="5" type="stanza">
+          <l n="37">Car sa face, qui tant est douce et bele,</l>
+          <l n="38">ne m’a laissié c’une seule pensee,</l>
+          <l n="39">et celle m’est au cuer si enbrasee</l>
+          <l n="40">que je la sent plus chaude et plus isnele</l>
+          <l n="41">c’onques ne fu ne brese n’estincele;</l>
+          <l n="42">si ne puis pas avoir longue duree</l>
+          <l n="43">se de pitié n’ai ma dame navree,</l>
+          <l n="44">quant ma chançon li dira la nouvele</l>
+          <l n="45">de la dolour qui pour lui me flaele.</l>
+        </lg>
+        <lg n="6" type="stanza">
+          <l n="46">Chançon, va t’en a Archier qui vielle</l>
+          <l n="47">et a Raoul de Soissons qui m’agree:</l>
+          <l n="48">di leur c’amours est trop tranchant espee</l>
+          <l n="49">[...]</l>
+        </lg>
+      </div></body><back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>The song is unanimously attributed to a certain Thierry de Soissons, if one ignores the
+          modern attribution found in ms. V. Two other elements would appear to exclude attribution
+          to Raoul: the allusion to <hi rend="italic">Romenie</hi>, which normally indicates the
+          Frankish possessions in Greece which Raoul does not seem ever to have visited (but see the
+          note to v. 1), and the dedication to <hi rend="italic">Raoul de Soissons</hi> in v. 47.
+          For these reasons some scholars have suggested that the song must have been written by an
+          unknown knight from Soissons after he had taken part in the fourth crusade of 1202-1204
+          (Winkler 1914, p. 25; Lubinski 1915, p. 474) and perhaps also the following one of
+          1215-1221 (Hardy, to justify <hi rend="italic">Surie</hi> of v. 5). In both cases, the
+          Raoul to whom the song is sent could be identified as the count of Soissons, the father
+          and homonym of the trouvère. However, first Paulin Paris and then Winkler suggested that
+          Thierry and Raoul could be the same person. The name Thierry de Soissons is actually only
+          found in mss. belonging to the same closely related group of the ms. tradition: N mainly,
+          but in some cases K and Me as well (and perhaps V, if only indirectly); besides this, in
+          four cases N’s attribution is refused by the same ms. K, which confirms the attribution to
+          Raoul by other mss. belonging to different branches of the tradition. For one of these
+          texts (RS 2063) the attribution to Thierry is definitely wrong, since it is a reply to a
+          song addressed by Thibaut de Champagne to Raoul de Soissons (RS 1811) himself; to these
+          cases are added song RS 1154 where Me’s attribution to Thierry is contradicted by that of
+          C to Raoul, and two other songs (RS 429 and RS 1911) where K’s attribution to Thierry is
+          isolated and contradicted by all the other mss. (even by N in the case of RS 429). For the
+          remaining compositions (including RS 1204) the mss. apart from KN(V) offer no attribution.
+          It is clear that the case for the attributions to Thierry de Soissons is quite weak,
+          especially given that outside mss. KNMe the name is never attested and no knight of the
+          castle of Nesle (the title <hi rend="italic">Messires</hi> used in the attributive rubrics
+          of N and Me point to this) has ever borne the name Thierry.</p>
+        <p>If we then examine the text we find a striking correspondence with the biographical
+          information contained in stanza III of RS 1154 – the long stay in the East, defeats and
+          imprisonment, illness – and it seems unlikely for such a coincidence to concern two
+          trouvères both coming from Soissons. In the light of these factors the attribution of song
+          RS 1204 to Raoul di Soissons seems highly probable. In this case the addressee mentioned
+          in v. 47 could be the trouvère’s nephew of the same name, the younger son of count John.
+          But there is a more intriguing possibility, and that is that Thierry de Soissons is an
+          alternative name for Raoul himself. This would easily account for the confusion of certain
+          scribes; in this case it would not be impossible for the author of the text, under the
+          name Thierry, to send the piece to himself under the name of Raoul, with a hint of irony
+          (for the phenomenon of alternative names in troubadours and trouvères see Rossi 2009).
+          This hypothesis may be supported by the existence of a <hi rend="italic">jeu-parti</hi>
+          between a Raoul and a Thierry (RS 1296) whose authorship the text does not allow us to
+          identify precisely, and whose four rhymes (<hi rend="italic">-ier</hi>, <hi rend="italic">-ent</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-i</hi>) are all found in the
+          poetic dialogue between Thibaut de Champagne and the same Raoul de Soissons (RS 1393). The
+          fact that, with the exception of ms. K which attributes some texts to Thierry and others
+          Raoul, the two names are often applied to the same texts, but never appear together in the
+          same ms., seems also to point in this direction: NMe do not mention the name Raoul, while
+          the other mss. do not mention that of Thierry.</p>
+        <p>Given its strong analogies with RS 1154, the text seems very likely to have been composed
+          in the same period, that is, after 1253-1254, even if there is nothing in it to pin down
+          the exact date. But it cannot be ruled out that the <hi rend="italic">terminus post
+            quem</hi> could be as early as the end of Raoul’s first long stay in the Holy Land, in
+          c. 1243.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>La canzone è unanimemente attribuita ad un certo Thierry de Soissons, se si prescinde
+          dall’indicazione moderna che si trova nel ms. V. Inoltre altri due elementi sembrerebbero
+          escludere l’attribuzione a Raoul: il riferimento alla <hi rend="italic">Romenie</hi>, che
+          normalmente indica i possedimenti franchi in Grecia che Raoul non sembra aver mai visitato
+          (ma si veda il nostro commento al v. 1), e la dedica proprio a <hi rend="italic">Raoul de
+            Soissons</hi> contenuta nel v. 47. Per questi motivi alcuni studiosi hanno suggerito che
+          debba trattarsi di una canzone scritta da uno sconosciuto cavaliere originario di Soissons
+          dopo aver partecipato alla quarta crociata del 1202-1204 (Winkler 1914, p. 25; Lubinski
+          1915, p. 474) e forse anche a quella successiva del 1215-1221 (Hardy, per giustificare <hi rend="italic">Surie</hi> del v. 5). In entrambi i casi, il Raoul al quale la canzone
+          viene inviata potrebbe essere identificato con il conte di Soissons padre e omonimo del
+          troviero. Tuttavia prima Paulin Paris e poi Winkler hanno avanzato l’ipotesi che Thierry e
+          Raoul possano essere la stessa persona. Il nome di Thierry de Soissons infatti si trova
+          solo in testimoni che appartengono allo stesso gruppo compatto della tradizione
+          manoscritta: N principalmente, ma in qualche caso anche K e Me (e forse V, sia pure in
+          modo indiretto); inoltre, in quattro casi l’attribuzione di N è smentita dallo stesso K,
+          che conferma l’attribuzione a Raoul di altri canzonieri anche di rami diversi della
+          tradizione. Per uno di questi testi (RS 2063) l’attribuzione a Thierry è sicuramente da
+          rigettare, in quanto si tratta di una risposta ad una canzone indirizzata da Thibaut de
+          Champagne proprio a Raoul de Soissons (RS 1811); a questi casi vanno aggiunti anche la
+          canzone RS 1154 dove l’attribuzione a Thierry di Me viene smentita da quella di C a Raoul,
+          e altre due canzoni (RS 429 e RS 1911) dove l’attribuzione di K a Thierry è isolata e
+          smentita da tutti gli altri testimoni (nel caso di RS 429 persino da N). Per i
+          componimenti restanti (tra i quali anche la canzone RS 1204) i testimoni diversi da KN(V)
+          non propongono nessuna attribuzione. Come si può vedere le attribuzioni a Thierry de
+          Soissons risultano assai deboli, tanto più che al di fuori dei canzonieri KNMe tale nome
+          non è mai attestato e nessun cavaliere del casato di Nesle (orienta in questa direzione
+          l’appellativo <hi rend="italic">Messires</hi> usato nelle rubriche attributive di N e Me)
+          risulta aver mai portato il nome Thierry.</p>
+        <p>Se si guarda poi al testo della canzone, vi si trova un’impressionante corrispondenza con
+          i dati biografici contenuti nella terza strofa della canzone RS 1154 – il lungo soggiorno
+          in Oriente, le sconfitte e la prigionia, la malattia – e non sembra verosimile che una
+          tale coincidenza possa riguardare due trovieri diversi entrambi provenienti da Soissons.
+          Alla luce di questi fattori, mi pare che l’attribuzione della canzone RS 1204 a Raoul di
+          Soissons possa considerarsi molto probabile e in questo caso l’invio contenuto nel v. 47
+          potrebbe riguardare il nipote omonimo del troviero, figlio cadetto del conte Jean. Ma
+          esiste anche una possibilità più intrigante, e cioè che Thierry de Soissons possa essere
+          un eteronimo di Raoul, cosa che giustificherebbe facilmente la confusione attributiva di
+          certi copisti; in questo caso non sarebbe impossibile che l’autore del testo, sotto il
+          nome di Thierry, inviasse con un pizzico d’ironia il componimento a se stesso sotto il
+          nome di Raoul (sul fenomeno dell’eteronimia nei trovatori e nei trovieri si veda Rossi
+          2009). Tale ipotesi potrebbe essere suffragata dall’esistenza di un <hi rend="italic">jeu-parti</hi> tra un Raoul e un Thierry (RS 1296) che il testo non permette di
+          identificare con precisione, le cui quattro rime (<hi rend="italic">-ier</hi>, <hi rend="italic">-ent</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-i</hi>) si
+          ritrovano tutte nel dialogo poetico tra Thibaut de Champagne e lo stesso Raoul de Soissons
+          (RS 1393). Sembra andare nella medesima direzione anche il fatto che, con l’eccezione del
+          ms. K che attribuisce alcuni testi a Thierry ed altri a Raoul, i due nomi sono spesso
+          applicati agli stessi testi, ma non compaiono mai insieme nello stesso manoscritto: NMe
+          ignorano il nome di Raoul, mentre gli altri testimoni ignorano quello di Thierry.</p>
+        <p>Viste le forti analogie con la canzone RS 1154, il testo potrebbe verosimilmente essere
+          stato scritto nello stesso periodo, cioè dopo il 1253-1254, anche se non esistono elementi
+          che permettano di precisare la data. Non si può pertanto escludere che il <hi rend="italic">terminus post quem</hi> possa essere anticipato alla fine della prima
+          lunga permanenza di Raoul in Terra Santa, verso il 1243.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>This song forms together with RS 421=422 and RS 502 of the Vidame de Chartres, RS 1575 of
+          Gautier de Dargies and the anonymous RS 227b a group of texts on the theme of distance
+          from the beloved lady and besides the obvious similarities of their opening lines shares
+          various motifs with these texts: mention of a long period of separation from the lady, the
+          difficulties and sufferings that have characterised the author’s life, the impossibility
+          of forgetting the lady and love for her, the comparison between the anxieties provoked by
+          life’s hardships and the pains of love. However, only in Raoul de Soissons’ texts,
+          certainly the latest in date, is there any explicit reference to crusading. As in the case
+          of RS 1154, allusions to crusading are concentrated in the first stanza and used to
+          express experience of suffering in the past which is compared with the greater suffering
+          provoked by a love relationship in the present. On this see the commentary to RS 1154 and
+          Toury 1989. From stanza II the song becomes a traditional courtly love lyric,
+          characterised by the presence of comparisons with famous lovers (Tristan and Yseut, Paris
+          and Helen) and by an allusion to the mythological figure of the siren.</p>
+        <p corresp="#rs.1204.fro[range(@n=1,@n=4)]">On the syntactic level, the initial <hi rend="italic">se</hi> has
+          clearly concessive force and the sentence has every appearance of being an interrupted
+          hypothetical phrase such as those signalled by Jensen § 976, p. 508, with the conditional
+          clause left in suspense, followed by a main clause in the present indicative expressing a
+          fact.</p>
+        <p corresp="#rs.1204.fro:(n=1)">In later texts, from the age of St Louis, <hi rend="italic">Romenie</hi> appears to designate not just the Latin empire of Constantinople, but all the Latin possessions in the East in general or even an important place of pilgrimage beyond the Alps independently of its geographical position. See for example RS 1729, 51 composed in 1248, before the seventh crusade of St Louis in Egypt, and RS 2125, where according to the editor <hi rend="italic">Romanie</hi> in v. 3 indicates the pilgrimage to Rome (Långfors 1937, p. 470). The same reading <hi rend="italic">Romenie</hi> can certainly be reconstructed in v. 5 of the anonymous song RS 227b.</p>
+        <p corresp="#rs.1204.fro:(n=2)"><hi rend="italic">pelerinage</hi>: for its possible connotation in the sense of
+          ‘crusade’ see for example Conon de Béthune RS 1125, 27 and Guiot de Dijon RS 21, 15.</p>
+        <p corresp="#rs.1204.fro:(n=5)">The author uses the name <hi rend="italic">Surie</hi> to designate the difficulties described in the preceding lines and linked to <hi rend="italic">Romenie</hi>, thereby establishing a sort of identity between the two names which seems to confirm my hypothesis about them.</p>
+        <p corresp="#rs.1204.fro:(n=21)"><hi rend="italic">sage</hi>: the author seems to insists particularly on the moral attributes of the lady rather than her physical qualities, and in this respect the readings of B, which always tend in this direction (see the interpretations of vv. 29 and 35), amount to <hi rend="italic">lectiones difficiliores</hi>.</p>
+        <p corresp="#rs.1204.fro:(n=26)">B’s text lack of one syllable must have been in the archetype, since the reading <hi rend="italic">sont</hi> of N presumes a plural subject of which there is no trace in the preceding line. La correction of <hi rend="italic">sont</hi> to <hi rend="italic">est</hi> is Winkler’s, repeated in Rosenberg and Baumgartner. In the absence of better alternatives I have accepted the suppletion <hi rend="italic">est</hi>, even though it is not particularly satisfactory, but have moved it to after <hi rend="italic">mes</hi>, since the partial homophony of the two terms could have led to the omission. For the image of the siren in the lyric see Comte de Bretagne RS 597, 12 and especially Châtelain d’Arras RS 140, vv. 11-16, a crusade <hi rend="italic">chanson de départie</hi> which also refers to the famous lovers Lancelot and Guinevere (vv. 33-38).</p>
+        <p corresp="#rs.1204.fro:(n=29)">In this context, the infinitive <hi rend="italic">retenir</hi> seems to mean ‘contemplate’ or, better, ‘enjoy’. I have opted for B’s reading <hi rend="italic">simple</hi> because it confirms the author’s tendency to privilege the moral attributes of the lady over the physical (to which the scribe of N, which has <hi rend="italic">bele</hi>, seems to turn systematically).</p>
+        <p corresp="#rs.1204.fro:(n=31)">In another song attributed to Thierry=Raoul de Soissons (RS
+          2106, 60) the figures of Tristan and Paris, evoked in our text, are found associated in
+          the same line.</p>
+        <p corresp="#rs.1204.fro:(n=32)">B’s reading is acceptable, despite apparently creating a hypometric line, if one assumes a hiatus between <hi rend="italic">se</hi> and <hi rend="italic">Amour</hi> (the elimination of the hiatus leading to a hypometric line is a widely-attested phenomenon in Occitan and Old French mss.), especially as the use of <hi rend="italic">en</hi> in the sense of ‘towards, against’ is rare but attested (TL 3, 148, 35-39), and hence constitutes a <hi rend="italic">lectio difficilior</hi>.</p>
+        <p corresp="#rs.1204.fro:(n=35)"><hi rend="italic">vis</hi>: Hardy thinks that this line was corrupt at the archetype stage, because she thinks that N’s reading <hi rend="italic">liz</hi> makes little sense and that B’s <hi rend="italic">vis</hi> is an erroneous anticipation of v. 37. In reality <hi rend="italic">vis</hi> can also mean ‘aspect, expression’, and again B’s reading seems to privilege the lady’s moral rather than physical attributes, which would be emphasises by the strong erotic connotation of <hi rend="italic">liz</hi>.</p>
+        <p corresp="#rs.1204.fro[range(@n=43,@n=44)]">The use of the present indicative to convey a
+          future idea is common in Old French hypothetical phrases, where the future tense is
+          extremely rare in the conditional clause (Ménard § 264 n. 1, p. 235; Jensen § 977 and 978,
+          p. 509). It is normal for the future to be employed correctly in the temporal clause, even
+          if this refers to something happening before or at the same time as the hypothetical
+          situation, and certainly not after it. </p>
+        <p corresp="#rs.1204.fro[range(@n=46,@n=48)]">These three lines constitute not a farewell but rather the beginning of a new incomplete stanza, because the rhymes correspond not to those of the final but to the initial lines of the preceding stanza, and because the final sentence seems left in suspense. There is no reason, however, to consider these lines as spurious, especially Raoul de Soissons seems to favour the structure of six <hi rend="italic">coblas doblas</hi> without <hi rend="italic">envoi</hi> (see RS 778, RS 1267, RS 1393, RS 2106, RS 2107). The dedication to <hi rend="italic">Archier qui vielle</hi> also seems to indicate the authenticity of these lines, since the same name is found at the beginning of song RS 1970 also attributed to Thierry=Raoul de Soissons. For attempts to identify <hi rend="italic">Archier / Harchier</hi> see Hardy 2009 (www.lfa.uottawa.ca/activites/textes/ineke/Chansons/Not1970.htm), 8.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Questa canzone forma insieme alle RS 421=422 e RS 502 del Vidame de Chartres, alla RS 1575 di Gautier de Dargies e all’anonima RS 227b un gruppo di testi sul tema della lontananza dalla dama amata e condivide con esse diversi motivi, oltre alle evidenti analogie dei versi esordiali: l’accenno a un lungo periodo di separazione dalla dama, le difficoltà e le sofferenze che hanno caratterizzato la vita dell’autore, l’impossibilità di dimenticare la dama e l’amore per lei, il paragone tra le angustie provocate dalle traversie della vita e le pene d’amore. Tuttavia, solo nei testi di Raoul de Soissons, certamente i più tardi, viene fatto un riferimento esplicito alle crociate. I riferimenti alla crociata sono concentrati nella prima strofa e, come nel caso della canzone RS 1154, sono utilizzati per indicare un’esperienza sofferta del passato alla quale paragonare la sofferenza più grave provocata da una relazione amorosa nel presente. A tale proposito si veda il commento alla canzone RS 1154 e Toury 1989. A partire dalla seconda strofa, la canzone diventa una tradizionale lirica d’amore cortese, caratterizzata dalla presenza di paragoni con alcune coppie di amanti celebri (Tristano e Isotta, Paride e Elena) e da un accenno mitologico alla figura della sirena.</p>
+        <p corresp="#rs.1204.fro[range(@n=1,@n=4)]">A livello sintattico, il <hi rend="italic">se</hi> iniziale assume un evidente valore concessivo e la frase ha il classico aspetto di un periodo ipotetico interrotto come quelli segnalati da Jensen § 976, p. 508, con la protasi lasciata in sospeso e seguita da una principale che esprime un’evidenza certa all’indicativo presente.</p>
+        <p corresp="#rs.1204.fro:(n=1)">Nei testi tardi <hi rend="italic">Romenie</hi> non sembra designare unicamente l’impero latino di Costantinopoli, ma in generale tutti i possedimenti latini d’Oriente o addirittura un importante luogo di pellegrinaggio d’oltralpe indipendentemente dalla collocazione geografica. Si veda per esempio RS 1729, 51 scritta nel 1248, prima della settima crociata di san Luigi diretta in Egitto, e RS 2125, dove secondo l’editore <hi rend="italic">Romanie</hi> al v. 3 indicherebbe il pellegrinaggio a Roma (Långfors 1937, p. 470). La stessa lezione <hi rend="italic">Romenie</hi> andrà quasi certamente ricostruita anche al v. 5 della canzone anonima RS 227b.</p>
+        <p corresp="#rs.1204.fro:(n=2)"><hi rend="italic">pelerinage</hi>: per la possibile connotazione di questo sostantivo nel senso di 'crociata' si veda per esempio Conon de Béthune RS 1125, 27 e Guiot de Dijon RS 21, 15.</p>
+        <p corresp="#rs.1204.fro:(n=5)">L’autore ricorre al nome <hi rend="italic">Surie</hi> per designare le difficoltà descritte nei versi precedenti e riferite alla <hi rend="italic">Romenie</hi>, stabilendo in questo modo una sorta d’identità tra i due nomi che sembra confermare la nostra ipotesi.</p>
+        <p corresp="#rs.1204.fro:(n=21)"><hi rend="italic">sage</hi>: l’autore sembra insistere in modo particolare sugli attributi morali piuttosto che sulle qualità fisiche della dama, e in questo senso le lezioni di B, che vanno sempre in questa direzione (si vedano le interpretazioni dei vv. 29 e 35), si configurano come <hi rend="italic">lectiones difficiliores</hi>.</p>
+        <p corresp="#rs.1204.fro:(n=26)">Il testo di B manca di una sillaba e l’ipometria doveva essere già nell’archetipo, perché la lezione <hi rend="italic">sont</hi> di N presume un soggetto plurale di cui non v’è traccia nei versi precedenti. La correzione di <hi rend="italic">sont</hi> in <hi rend="italic">est</hi> è di Winkler, ripresa da Rosenberg e Baumgartner. In assenza di alternative migliori si accoglie l’integrazione di <hi rend="italic">est</hi>, benché non particolarmente soddisfacente, ma spostandola dopo <hi rend="italic">mes</hi>, poiché la parziale omofonia dei due termini potrebbe aver facilitato l’omissione. Per l’immagine della sirena nella lirica si veda Comte de Bretagne RS 597, 12 e soprattutto Châtelain d’Arras RS 140, vv. 11-16, una <hi rend="italic">chanson de départie</hi> per la crociata che contiene ai vv. 33-38 anche un riferimento agli amanti celebri Lancillotto e Ginevra.</p>
+        <p corresp="#rs.1204.fro:(n=29)">In questo conteso, l’infinito <hi rend="italic">retenir</hi> assume a mio parere il senso di 'contemplare' o meglio 'godere di'. Si opta per la lezione <hi rend="italic">simple</hi> di B anche perché conferma la tendenza dell’autore a privilegiare le qualità morali della dama su quelle fisiche (sulle quali sembra virare sistematicamente il copista di N, che qui ha <hi rend="italic">bele</hi>).</p>
+        <p corresp="#rs.1204.fro:(n=31)">In un’altra canzone attribuita a Thierry=Raoul de Soissons
+          (RS 2106, 60) si trovano associate nello stesso verso le figure di Tristano e Paride che
+          sono evocate anche nel nostro testo.</p>
+        <p corresp="#rs.1204.fro:(n=32)">La lezione di B è accettabile, malgrado l’apparente ipometria, se si ricostruisce una forma dialefica <hi rend="italic">seˇAmour</hi> (l’eliminazione della dialefe con conseguente ipometria del verso è un fenomeno ampiamente attestato nei canzonieri occitanici e oitanici), tanto più che l’uso di <hi rend="italic">en</hi> nel senso di 'verso, contro' è raro ma attestato (<hi rend="italic">TL</hi> 3, 148, 35-39), e costituisce quindi una <hi rend="italic">lectio difficilior</hi>.</p>
+        <p corresp="#rs.1204.fro:(n=35)"><hi rend="italic">vis</hi>: Hardy ritiene questo verso corrotto fin dall’archetipo, poiché la lezione <hi rend="italic">liz</hi> di N avrebbe poco senso, mentre <hi rend="italic">vis</hi> di B sarebbe un’erronea anticipazione del v. 37. In realtà <hi rend="italic">vis</hi> può significare anche 'aspetto, espressione', e anche in questo caso la lezione di B sembra tendere a privilegiare le qualità morali della dama rispetto a quelle fisiche, che sarebbero accentuate dalla forte connotazione erotica suggerita da <hi rend="italic">liz</hi>.</p>
+        <p corresp="#rs.1204.fro[range(@n=43,@n=44)]">L’uso dell’indicativo presente anche per esprimere un’idea di futuro è comune nel periodo ipotetico dell’antico francese, dove il futuro nella protasi è estremamente raro (Ménard § 264 rem. 1, p. 235; Jensen § 977 e 978, p. 509), mentre è normale che il futuro sia correttamente impiegato nella temporale, benché essa indichi anteriorità o contemporaneità e certamente non posteriorità rispetto all’ipotetica</p>
+        <p corresp="#rs.1204.fro[range(@n=46,@n=48)]">Questi tre versi non costituiscono un congedo ma piuttosto l’inizio di una nuova strofa incompleta, perché le rime non corrispondono a quelle dei versi finali della strofa precedente ma a quelle dei versi iniziali e perché la frase finale sembra sospesa. Non vi sono però motivi seri per considerare spuri questi versi, tanto più che la struttura a sei <hi rend="italic">coblas doblas</hi> senza congedo sembra la preferita da Raoul de Soissons (si vedano i testi RS 778, RS 1267, RS 1393, RS 2106, RS 2107). Anche la dedica a <hi rend="italic">Archier qui vielle</hi> sembra indicare l’autenticità di questi versi, poiché lo stesso nome si trova all’inizio della canzone RS 1970 anch’essa attribuita a Thierry=Raoul de Soissons. Sulle ipotesi d’identificazione di <hi rend="italic">Archier / Harchier</hi> si veda Hardy 2009 (www.lfa.uottawa.ca/activites/textes/ineke/Chansons/Not1970.htm), 8.</p>
+      </div>
+    </back></text></TEI>

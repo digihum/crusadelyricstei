@@ -1,0 +1,737 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-09-15</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Wright 1839, 241; Böddeker 1878, 453; Meyer 1886, 338 (first stanza); Zettl 1935,
+            105; Aspin 1953, 83.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Wright 1839, 241; Böddeker 1878, 453; Meyer 1886, 338 (prima strofa); Zettl 1935,
+            105; Aspin 1953, 83.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: <hi rend="bold">(1). </hi>Cambridge, University Library,
+            Gg.1.1, f. 489b (anonymous).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Ms</hi>.: <hi rend="bold">(1). </hi>Cambridge, University Library,
+            Gg.1.1, f. 489b (anonimo).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’"><p>8ababbcbc(xx); for the
+        rhyme-scheme ababbcbc compare MW 1026 = Frank 323; 10 <hi rend="italic">coblas
+          singulars</hi>, which randomly mix m. and f. rhymes; the rhymes present various
+        irregularities and are often repeated in different places, and even in the same place. The
+        two lines with the x-rhyme are transcribed only after the first stanza, but could constitute
+        a refrain to be repeated at the end of each stanza; rhyme a: <hi rend="italic">-ant</hi>,
+          <hi rend="italic">-ire</hi>, <hi rend="italic">-ist</hi>, <hi rend="italic">-u</hi>, <hi
+          rend="italic">-ist</hi>, <hi rend="italic">-o(i)le</hi>, <hi rend="italic">-a</hi>, <hi
+          rend="italic">-esse</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic">-ie</hi>; rhyme
+        b: <hi rend="italic">-é</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic">-er(e)</hi>
+          (<hi rend="italic">-ire</hi> in one case), <hi rend="italic">-ie</hi>, <hi rend="italic"
+          >-er</hi>, <hi rend="italic">-ist</hi>, <hi rend="italic">-ir</hi>, <hi rend="italic"
+          >-é</hi>, <hi rend="italic">-é(r)</hi>, <hi rend="italic">-art/ard(e)</hi>; rhyme c: <hi
+          rend="italic">-ue</hi>, <hi rend="italic">-ine</hi>, <hi rend="italic">-aunce</hi>, <hi
+          rend="italic">-a</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic">-(o)ur</hi>, <hi
+          rend="italic">-ise</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic">-ere</hi>, <hi
+          rend="italic">-o(u)n</hi>; rhyme x: <hi rend="italic">-oun</hi> (repeating rhyme c of the
+        final stanza); in the ninth stanza the rhymes a and c coincide, giving rise to a
+        rhyme-scheme 8ababbaba; many lines are irregular and are variously hyper- and hypometric,
+        preserved in the edited text even though in some cases they could easily be corrected
+        conjecturally, for example by eliminating superfluous forms; paronymous and derivative
+        rhymes in vv. 21, 35 and 46 (<hi rend="italic">enprist-prist-prist</hi>), 40 and 64 (<hi
+          rend="italic">quere-conquere</hi>); paronymous rhyme in vv. 76 and 78 (<hi rend="italic"
+          >art-part</hi>); identical rhyme in vv. 4-73 (<hi rend="italic">bounté</hi>), 14-17-66
+          (<hi rend="italic">tere</hi>, in paronymous rhyme with vv. 67 <hi rend="italic"
+          >Engletere</hi> and 72 <hi rend="italic">entere</hi>), 15-42 (<hi rend="italic"
+        >fere</hi>), 31-77 (<hi rend="italic">mie</hi>), 35-46 (<hi rend="italic"
+          >prist</hi>).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’"><p>8ababbcbc(xx); per lo schema
+        ababbcbc si veda MW 1026 = Frank 323; 10 <hi rend="italic">coblas singulars</hi>, che
+        mescolano indifferentemente rime maschili e femminili; le rime presentano diverse
+        irregolarità e sono spesso ripetute in sedi diverse, ma anche nella medesima sede; i due
+        versi a rima x sono trascritti solo dopo la prima strofa, ma potrebbero costruire un <hi
+          rend="italic">refrain</hi> da ripetere alla fine di ogni strofa; rima a: <hi rend="italic"
+          >-ant</hi>, <hi rend="italic">-ire</hi>, <hi rend="italic">-ist</hi>, <hi rend="italic"
+          >-u</hi>, <hi rend="italic">-ist</hi>, <hi rend="italic">-o(i)le</hi>, <hi rend="italic"
+          >-a</hi>, <hi rend="italic">-esse</hi>, <hi rend="italic">-ere</hi>, <hi rend="italic"
+          >-ie</hi>; rima b: <hi rend="italic">-é</hi>, <hi rend="italic">-ere</hi>, <hi
+          rend="italic">-er(e)</hi> (<hi rend="italic">-ire</hi> in un caso), <hi rend="italic"
+          >-ie</hi>, <hi rend="italic">-er</hi>, <hi rend="italic">-ist</hi>, <hi rend="italic"
+          >-ir</hi>, <hi rend="italic">-é</hi>, <hi rend="italic">-é(r)</hi>, <hi rend="italic"
+          >-art/ard(e)</hi>; rima c: <hi rend="italic">-ue</hi>, <hi rend="italic">-ine</hi>, <hi
+          rend="italic">-aunce</hi>, <hi rend="italic">-a</hi>, <hi rend="italic">-ere</hi>, <hi
+          rend="italic">-(o)ur</hi>, <hi rend="italic">-ise</hi>, <hi rend="italic">-ere</hi>, <hi
+          rend="italic">-ere</hi>, <hi rend="italic">-o(u)n</hi>; rima x: <hi rend="italic"
+          >-oun</hi> (ripresa dalla rima c dell’ultima strofa); nella nona strofa le rime a e c
+        coincidono, dando luogo a uno schema 8ababbaba; molti versi sono irregolari e presentano
+        varie ipometrie e ipermetrie, che vengono conservate a testo benché in alcuni casi si
+        possano facilmente sanare per via congetturale, per esempio eliminando forme superflue; si
+        ha rima paronima e derivativa ai vv. 21, 35 e 46 (<hi rend="italic"
+        >enprist-prist-prist</hi>), 40 e 64 (<hi rend="italic">quere-conquere</hi>); rima paronima
+        ai vv. 76 e 78 (<hi rend="italic">art-part</hi>); rima identica ai vv. 4-73 (<hi
+          rend="italic">bounté</hi>), 14-17-66 (<hi rend="italic">tere</hi>, in rima paronima con i
+        vv. 67 <hi rend="italic">Engletere</hi> e 72 <hi rend="italic">entere</hi>), 15-42 (<hi
+          rend="italic">fere</hi>), 31-77 (<hi rend="italic">mie</hi>), 35-46 (<hi rend="italic"
+            >prist</hi>).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The text is found in a manuscript of
+        miscellaneous verse and prose texts, mainly in French. It is written at the end of a short
+        chronicle of the history of England in French prose (<hi rend="italic">Brut d’Angleterre
+          abrégé</hi>, ff. 484c-489b), possibly deriving from a verse model, which ends with the
+        death of Edward I (1307). The codex also contains the third part of Peter of Langtoft’s
+        chronicle of England (ff. 328v-345v), also devoted to the reign of Edward I. The manuscript,
+        compiled in England probably at the beginning of the 14th c., but in any case after 1307,
+        belonged to John Moore (1646-1714), bishop of Ely. In 1715 King George I gave John Moore’s
+        library to Cambridge University Library, where it still is. Given the obviously amateurish
+        nature of the composition and its numerous irregularities, I have preferred to present the
+        text as it is recorded in the manuscript, without trying to make any corrections other than
+        the completely obvious ones for scansion or grammar. In some lines a final unstressed <hi
+          rend="italic">e</hi>, superfluous from the morphological point of view and metrically
+        supernumerary or incorrect, has been placed in round brackets (vv. 13, 23, 25, 34, 44) and I
+        have made a few obvious suppletions, indicated by square brackets (vv. 37 and 77). The
+        language shows marked anglo-norman characteristics and the customary anglo-norman
+        carelessness can also partly explain the metrical irregularities.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>Il testo della canzone si trova in un manoscritto
+        miscellaneo contenente vari testi in versi e in prosa principalmente in francese. Il poema è
+        trascritto alla fine di una breve cronaca di storia d’Inghilterra in prosa francese (<hi
+          rend="italic">Brut d’Angleterre abrégé</hi>, ff. 484c-489b), derivante forse da un modello
+        in versi, che finisce con la morte di re Edoardo I (1307). Il codice contiene anche la terza
+        parte della cronaca d’Inghilterra di Pietro di Langtoft (ff. 328v-345v), consacrata
+        anch’essa al regno di Edoardo I. Il manoscritto, compilato in Inghilterra verosimilmente
+        all’inizio del XIV secolo, ma in ogni caso dopo il 1307, appartenne a John Moore
+        (1646-1714), vescovo di Ely. Nel 1715 il re Giorgio I donò il fondo librario di John Moore
+        alla Biblioteca universitaria di Cambridge, dove si trova tuttora. Dato il carattere
+        evidentemente dilettantesco della composizione e le numerose irregolarità che essa presenta,
+        si è preferito riportare il testo come lo si legge nel manoscritto, senza intervenire per
+        cercare di sanare le infrazioni alle norme metriche e grammaticali se non dove le correzioni
+        si impongono con evidenza. Si sono messe tra parentesi tonde alcune <hi rend="italic">e</hi>
+        finali atone superflue dal punto di vista morfologico e soprannumerarie o erronee dal punto
+        di vista metrico (vv. 13, 23, 25, 34, 44) e si sono operate un paio di evidenti integrazioni
+        segnalate da parentesi quadre (vv. 37 e 77). La lingua presenta spiccate caratteristiche
+        anglonormanne e la tradizionale trascuratezza anglonormanna può spiegare anche in parte le
+        irregolarità metriche.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-09-15T14:52:34Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Anonymous</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+         <div type="text" xml:id="rs.344a.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Seignurs, oiez, pur Dieu le grant, </l>
+            <l n="2"> chançonete de dure pité (+1)</l>
+            <l n="3">de la mort un rei vaillaunt; (−1)</l>
+            <l n="4"> homme fu de grant bounté, (−1)</l>
+            <l n="5">e que par sa leauté (−1)</l>
+            <l n="6">mut grant encuntre ad sustenue; </l>
+            <l n="7">ceste choseˇest bien prové:</l>
+            <l n="8"> de sa terre n’ad rien perdue.</l>
+            <l n="11"> (+2)</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="12">DeˇEngletereˇil fu sire,</l>
+            <l n="13">e rey qe mut savoit de guere;</l>
+            <l n="14">en nul(e) livre puet home lire</l>
+            <l n="15">de rei qe mieuz sustint sa tere;</l>
+            <l n="16">toutes ses choses qu’il vodreit fere, (+1)</l>
+            <l n="17">sagement les mist a fine. (−1)</l>
+            <l n="18">Ore si gist soun cors en tere,</l>
+            <l n="19">si va le siecleˇen decline.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="20">Le rei de Fraunce grant pecché fist(+1)</l>
+            <l n="21">le passageˇa desturber,</l>
+            <l n="22">qe rei Edward pur Dieu enprist, (+1)</l>
+            <l n="23">sur Sarazins l’ewe passer.</l>
+            <l n="24">Sun tresour fust outre la mer(e),</l>
+            <l n="25">e ordiné sa purveaunce</l>
+            <l n="26">seint Eglise pur sustenir(e):</l>
+            <l n="27">ore est la tere en desperaunce.</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="28">Jerusalem, tu as perdu</l>
+            <l n="29">la flour de ta chivalerie,</l>
+            <l n="30">rey Edward le viel chanu,</l>
+            <l n="31">qe tant ama ta seignurie.</l>
+            <l n="32">Ore est il mort; jeo ne sai mie</l>
+            <l n="33">toun baner qi le meintindra;</l>
+            <l n="34">sun duz quor par grant druerie</l>
+            <l n="35">outre la mer(e) vous mandera.</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="36">Un jour avant que mort li prist,</l>
+            <l n="37">od son barnage voleit parler; (+1)</l>
+            <l n="38">ses ch[i]valers devant li vist,</l>
+            <l n="39">durement commença de plurer: (+1)</l>
+            <l n="40">«Jeo murrai», dist, «par estover,</l>
+            <l n="41">jeo vei ma mort que me vent quere;</l>
+            <l n="42">fetes mon fiz rey corouner,</l>
+            <l n="43">qe Dampnedieu li don bien fere!».</l>
+          </lg>
+          <lg n="6" type="stanza">
+            <l n="44">A Peiters, a l’apostoile</l>
+            <l n="45">un(e) messager la mort li dist;</l>
+            <l n="46">e la pape vesti l’estole,</l>
+            <l n="47">a dure lermes les lettres prist: (+1)</l>
+            <l n="48">«Alas!», ceo dist, «comment? morist</l>
+            <l n="49">a qi Dieu douna tant honur?</l>
+            <l n="50">A l’alme en face Dieu mercist!</l>
+            <l n="51">De seint Eglise il fu la flour».</l>
+          </lg>
+          <lg n="7" type="stanza">
+            <l n="52">L’apostoile en sa chambre entra,</l>
+            <l n="53">a pein se poeit sustenir,</l>
+            <l n="54">e les cardinals trestuz manda; (+1)</l>
+            <l n="55">durement commença de plurir. (+1)</l>
+            <l n="56">Les cardinals li funt teisir,</l>
+            <l n="57">en haut commencent lur servise;</l>
+            <l n="58">parmy la cité funt sonir,</l>
+            <l n="59">e servir Dieu en seint eglise.</l>
+          </lg>
+          <lg n="8" type="stanza">
+            <l n="60">L’apostoile meimes vint a la messe(+2)</l>
+            <l n="61">ové mult grant sollempnité;</l>
+            <l n="62">l’alme pur soudre sovent se dresse, (+1)</l>
+            <l n="63">e dist par grant humilité:</l>
+            <l n="64">«Placeˇa Dieu en Trinité</l>
+            <l n="65">qe vostre fiz en pust conquere</l>
+            <l n="66">Jerusalem, la digne cité, (+1)</l>
+            <l n="67">e passer en la seinte tere!».</l>
+          </lg>
+          <lg n="9" type="stanza">
+            <l n="68">Le jeofne Edward d’Engletere</l>
+            <l n="69">rey est enoint e corouné:</l>
+            <l n="70">Dieu li doint tele conseil trere</l>
+            <l n="71">ki le païs seit gouverné,</l>
+            <l n="72">e la coroune si garder</l>
+            <l n="73">qe la tere seit entere, (−1)</l>
+            <l n="74">e lui crestreˇen bounté, (−1)</l>
+            <l n="75">car prodhome i fust son pere.</l>
+          </lg>
+          <lg n="10" type="stanza">
+            <l n="76">Si Aristotle fust en vie,</l>
+            <l n="77">e Virgile qe savoit l’art,</l>
+            <l n="78">les valurs ne dirr[ai]ent mie</l>
+            <l n="79">del prodhome la disme part.</l>
+            <l n="80">Ore est mort le rei Edward,</l>
+            <l n="81">pur qui mon quor est en trafon;</l>
+            <l n="82">l’alme Dieu la salu e garde,</l>
+            <l n="83">pur sa seintime passïoun!</l>
+            <l n="84">Amen.</l>
+          </lg>
+        </div>
+        <div type="translation" xml:id="rs.344a.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Listen, lords, for the sake of God the great, to a little song of profound pity for
+              the death of a valiant king. He was a man of great goodness, who through his loyalty
+              has undergone many a great battle. This thing is well known: of his land he has lost
+              nothing. <hi rend="italic">Let us devoutly pray to God to pardon him for his
+              sins</hi>.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>He was the ruler of England and a great expert in warfare; in no book can one read of
+              a king who better defended his land. All those things he wished to do he brought
+              wisely to fruition. Now his body lies in the ground, and the world is in decline.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>The king of France committed a great wrong in obstructing the crusade that Edward
+              undertook for God, to cross the sea against the Saracens. His treasure was overseas,
+              and his provisions organised for the support of the holy Church: now the Holy Land is
+              in despair.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Jerusalem, you have lost the flower of your chivalry, king Edward the old and hoary,
+              who so loved your nobility. Now he is dead and I know not who will sustain your
+              banner; out of great love he will send his dear heart overseas to you.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>One day before death took him he desired to speak with his barons; seeing his knights
+              before him he began to weep bitterly. ‘I must needs die,’ he said, ‘I can see death
+              coming for me; have my son crowned, and may God grant he do good!’</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>In Poitiers a messenger announced his death to the pope, and the pope donned the
+              stole and took the letters with hot tears. ‘Alas!’, he said, ‘how is this? Has the one
+              to whom God gave so much honour died? God have mercy on his soul! Of the holy Church
+              he was the flower.’</p>
+          </div>
+          <div n="7" type="stanza">
+            <p>The pope entered his chamber, and could hardly stand; he summoned all his cardinals
+              and began to weep bitterly. The cardinals console him and begin aloud their office
+              [for the dead]: they have the bells rung throughout the city and prayers said to God
+              in the holy church.</p>
+          </div>
+          <div n="8" type="stanza">
+            <p>The pope himself came to the Mass in great solemnity; often he rose to his feet to
+              free his soul (pray for the soul of the deceased), and spoke through great humility:
+              ‘May it please God the Three in One that your son may conquer Jerusalem, the noble
+              city, and make the crossing to the Holy Land!’</p>
+          </div>
+          <div n="9" type="stanza">
+            <p>The young Edward of England is anointed and crowned king: God grant him to make wise
+              decisions so that the land is governed [well], and to preserve the crown so that the
+              land remains intact and is full of grace, for his father was a great man.</p>
+          </div>
+          <div n="10" type="stanza">
+            <p>If Aristotle and Virgil, who knew the art [of rhetoric], were still alive, they would
+              not be able to tell the tenth part of the noble qualities of this great man. Now king
+              Edward, for whom my heart is in the depths of woe, is dead; God save and keep his
+              soul, through his most holy passion! Amen.</p>
+          </div>
+        </div>
+        <div type="translation" xml:id="rs.344a.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Ascoltate, signori, per il gran Dio, una canzonetta di profonda compassione per la
+              morte di un re valoroso; fu uomo di grande bontà, che per la sua lealtà ha sostenuto
+              molti grandi conflitti; questa è una cosa ben risaputa: non ha perduto nulla della sua
+              terra. <hi rend="italic">Preghiamo Dio devotamente affinché gli perdoni i suoi
+                peccati</hi>.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Egli è stato sovrano d’Inghilterra e re molto esperto di guerra; non si può leggere
+              in nessun libro di un re che abbia difeso meglio la sua terra. Tutte le cose che
+              avrebbe voluto fare le ha sapientemente condotte a termine. Ora il suo corpo giace
+              nella terra, e così il mondo è peggiorato.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Il re di Francia ha fatto molto male a ostacolare la crociata che Edoardo aveva
+              intrapreso per Dio, la traversata del mare contro i Saraceni. Il suo tesoro fu al di
+              là del mare, e la sua autorità ?? [è stata] orientata a sostenere la santa Chiesa: ora
+              la Terra Santa si dispera.</p>
+          </div>
+          <div n="4" type="stanza">
+            <p>Gerusalemme, hai perso il fiore della tua cavalleria, il vecchio e canuto re Edoardo,
+              che ha tanto amato la tua maestà. Ora egli è morto, e io non so chi sosterrà il tuo
+              vessillo; per la sua grande devozione ti manderà il suo dolce cuore oltremare.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Poco prima di morire ha voluto parlare con i suoi baroni; vedendo i suoi cavalieri
+              davanti a lui, cominciò a piangere amaramente, e disse: «Io sto davvero per morire,
+              vedo la morte che mi viene a prendere; fate incoronare re mio figlio, e che Dio gli
+              conceda di fare bene!».</p>
+          </div>
+          <div n="6" type="stanza">
+            <p>Un messaggero annunciò la morte (del re) al papa a Poitiers, e il papà indossò la
+              stola e prese la lettera con calde lacrime. «Aimè!», disse, «come? è morto colui a cui
+              Dio ha concesso tanto onore? Dio abbia misericordia della sua anima! Egli fu il fiore
+              della santa Chiesa».</p>
+          </div>
+          <div n="7" type="stanza">
+            <p>Il papa entrò nella sua stanza, poteva a stento reggersi in piedi; chiamò tutti i
+              cardinali e cominciò a piangere a dirotto. I cardinali lo consolarono e cominciarono
+              ad alta voce il loro ufficio (dei defunti): fanno suonare le campane in tutta la città
+              e fanno pregare Dio nella santa Chiesa.</p>
+          </div>
+          <div n="8" type="stanza">
+            <p>Il papa stesso partecipò alla messa con grande solennità; spesso si alza in piedi per
+              sciogliere l’anima [pregare per l’anima del defunto] e dice con grande umiltà:
+              «Piaccia a Dio Uno e Trino che vostro figlio possa conquistare Gerusalemme, la nobile
+              città, e fare la traversata in Terra Santa!».</p>
+          </div>
+          <div n="9" type="stanza">
+            <p>Il giovane Edoardo d’Inghilterra è unto e incoronato re: Dio gli conceda di avere un
+              tale discernimento che il paese sia (ben) governato, e di conservare la corona in modo
+              che la terra resti indivisa e di essere colmo di grazia, perché suo padre è stato un
+              grand’uomo.</p>
+          </div>
+          <div n="10" type="stanza">
+            <p>Se fossero ancora in vita Aristotele e Virgilio che conoscevano l’arte (retorica),
+              non potrebbero dire la decima parte del valore di questo grand’uomo. Ora è morto il re
+              Edoardo, per il quale il mio cuore è in lutto profondo; Dio salvi e custodisca la sua
+              anima, per la sua santissima passione! Amen.</p>
+          </div>
+        </div>
+        <div type="text" xml:lang="en ">
+          <p>Luca Barbieri 2016</p>
+        </div>
+        <div type="text" xml:lang="it ">
+          <p>Luca Barbieri 2016</p>
+        </div>
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>The song is an elegy on the death of Edward I of England, which occurred on 7 July 1307
+          (though the news only reached London on 25 July), and must therefore necessarily postdate
+          it. Lines 67-68 refer to Edward II’s coronation, which took place in Westminster Abbey on
+          25 February 1308, and suggest that the composition of the text must also postdate that
+          event. Such a late date can also be explained by the fact that the king’s solemn funeral
+          only took place on 27 October 1307 (Phillips 2010, p. 131; see the reference to the burial
+          in v. 17). The possibility that the author may have had access to the testimony of the
+          archbishop of Canterbury Robert Winchelsey or one of his suite (see the note to vv. 43-66)
+          would move the date of composition to after the latter’s return from French exile on 24
+          March 1308. The text was therefore probably written between the autumn of 1307 and the
+          spring of 1308, around the date of the king’s funeral or shortly after the archbishop of
+          Canterbury’s return home.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>La canzone è un’elegia per la morte di Edoardo I d’Inghilterra, avvenuta il 7 luglio 1307
+          (ma la notizia giunse a Londra solo il 25 luglio), e dev’essere dunque necessariamente
+          posteriore a questa data. I vv. 67-68 contengono un riferimento all’incoronazione di
+          Edoardo II, avvenuta nell’abbazia di Westminster il 25 febbraio 1308, e lasciano pensare
+          che la composizione del testo sia posteriore anche a questo evento. Una data così tarda si
+          può spiegare anche con il fatto che il funerale solenne del re ebbe luogo solo il 27
+          ottobre 1307 (Phillips 2010, p. 131; si veda l’accenno alla sepoltura del v. 17). La
+          possibilità che l’autore abbia avuto accesso alla testimonianza dell’arcivescovo di
+          Canterbury Robert Winchelsey o di qualcuno del suo seguito (si veda il commento ai vv.
+          43-66) inoltre sposterebbe la data di composizione dopo il rientro di quest’ultimo
+          dall’esilio francese, avvenuto il 24 marzo 1308. L’ipotesi più verosimile è dunque che il
+          testo sia stato scritto in un periodo compreso tra l’autunno del 1307 e la primavera del
+          1308, cioè attorno alla data del funerale del re o poco dopo il ritorno in patria
+          dell’arcivescovo di Canterbury.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>This funeral lament on the death of Edward I of England, probably composed by an English
+          cleric, extols at length the king’s devotion to the Holy Land (vv. 19-34), and also
+          mentions the long war with France as an obstacle to a possible crusade (vv. 19-22) and the
+          king’s express wish to send his heart to the Orient (vv. 33-34). The second part of the
+          text features the long description of Pope Clement V’s reaction to Edward’s death (vv.
+          43-66), which suggests access to a direct source, and ends with an exhortation to Edward
+          II to follow in his father’s footsteps and liberate Jerusalem (vv. 63-66). A Middle
+          English version is also preserved in its entirety in ms. Harley 2253 of the British
+          Library in London (f. 73rv), and in fragmentary form in ms. Cambridge, University Library,
+          Additional 4407 (26 lines); see the edition of this in Böddeker 1878, pp. 138-143 and
+          Aspin 1953, pp. 90-92. The same topic is treated in a Latin poem found in ms. Oxford,
+          Magdalen College, Lat. 6, which however develops it independently. The order of stanzas in
+          the English version is different and apparently more coherent (Aspin 1953, p. 81).</p>
+        <p corresp="#rs.344a.fro:(n=6)">The noun encuntre may be m. or f., and is probably used here
+          as a collective singular, with mut acquiring adjectival force with an analogous sense to
+          maint, according to a formula frequent in Occitan but much rarer in French (Tobler,
+          Vermischte Beiträge II, 49-50; Jensen § 804, p. 400); for the sense “encounter, conflict,
+          battle” see TL III, 235, 16ff. It is difficult to say whether the author is referring to a
+          particular episode, since there were many wars which Edward had to face and his enemies
+          were numerous: the Welsh, the Scots, Simon de Montfort, the king of France.</p>
+        <p corresp="#rs.344a.fro:(n=8)">This may be a specific reference to Gascony, which Edward
+          ceded to Philip the Fair in 1293, with the agreement that it would be restored to him as
+          dowry for Philip’s sister Blanche. But the wedding never took place because of the renewed
+          outbreak of war between France and England and Edward only regained Gascony in 1303, four
+          years after his marriage to Margaret, Blanche’s younger daughter. See D’Avray 1994, pp.
+          75; 264, § 4.4 and 268 § 3.4. See also vv. 13-16.</p>
+        <p corresp="#rs.344a.fro[range(@n=19,@n=22)]">Edward I’s interest in the Holy Land was real
+          and continuous over time, but his participation in crusading goes back to the period
+          before his coronation (1272). The passage may refer to other promises or aborted attempts
+          at expeditions to the Holy Land, plentiful during Edward’s lifetime (Prestwich 1997, pp.
+          326-333). Between 1274 and 1282 there were various contacts between Edward and the pope
+          regarding the king’s possible direct involvement in a future crusade in exchange for the
+          ecclesiastical tithe. In the spring of 1287 Edward took the Cross without following this
+          up. In 1291, the year of the fall of Acre, Pope Nicholas IV devolved the ecclesiastical
+          tithe to him for six years with the aim of launching a new crusade (see for example Rymer,
+          Foedera, I 2, pp. 743-752, especially p. 747). Various political problems, firstly the
+          Scottish question and then the war with France, notably between 1295 and 1298, made it
+          impossible to carry out this project. A paragraph of the Opus chronicorum, written in
+          1307-1308, relates that in 1295 Edward asked Boniface VIII to intervene in order to make
+          Philip the Fair abide by the agreements he had made with him, and promised to leave on
+          crusade once peace was obtained (Opus chronicorum, p. 58). But in other documents it is
+          Edward himself who claims that it is because of his war with the Scots, rather than
+          because of the tensions with the king of France, that it is impossible to set out
+          (Historia anglicana, I, pp. 114-115). The peace negotiations, begun in 1298 and ratified
+          by the marriage of Edward and Margaret, Philip the Fair’s sister, only led to a definitive
+          agreement in 1303 with the restitution of Gascony. Pope Clement V’s attempts to involve
+          Edward once more in a crusading project (Menache 1998, p. 105) generated a dense
+          correspondence between the two which reached its apogee at the end of 1306, when Edward
+          explicitly manifested his intention to take the Cross again, while nevertheless making
+          departure for the Holy Land subject to peace with the French king. See the pope’s letter
+          to Edward on 22 December 1306 (Rymer, Foedera, I 2, p. 1006), but more especially that of
+          28 November (Rymer, Foedera, I 2, p. 1005).</p>
+        <p corresp="#rs.344a.fro:(n=22)">For the preposition sur used to express a sense of
+          direction with the meaning “towards, against” see Jensen § 911, p. 465.</p>
+        <p corresp="#rs.344a.fro[range(@n=24,@n=25)]">The sentence is co-ordinated with the
+          preceding one, but the word order is distorted and can be reconstructed as follows: “his
+          decrees [have been</p>
+        <p corresp="#rs.344a.fro:(n=26)">The tere in question is indubitably the Holy Land.</p>
+        <p corresp="#rs.344a.fro[range(@n=27,@n=30)]">For the description of Edward I as defender of
+          the Holy Land see for example D’Avray 1994, pp. 264 § 4.3, 268 § 3.4, 276 § 7.</p>
+        <p corresp="#rs.344a.fro[range(@n=33,@n=34)]">The author gives credit to the tradition
+          according to which the king requested that his heart should be taken to the Holy Land by a
+          contingent of a hundred knights sent to fight the Saracens for a year (cfr. Aspin 1953, p.
+          88 and Annales regum Angliae, pp. 413-414; according to the Historia anglicana, I, pp.
+          114-115 there would have been 140 knights). His son Edward II did not respect his father’s
+          wishes and buried his body in Westminster Abbey after a solemn funeral service. If the
+          text was really composed after Edward II’s coronation, the future mandera used by the
+          author in v. 34 must be considered erroneous or contradictory, unless the author still
+          considered that Edward I’s wishes should be respected.</p>
+        <p corresp="#rs.344a.fro[range(@n=35,@n=42)]">Rather than referring to the episode of
+          spring-summer 1307 mentioned in the Historia anglicana, I, pp. 114-115 (Aspin 1953, p.
+          88), which concerns the reconstruction of the last conversation between Edward and his
+          son, this stanza seems to reflect what is found in another English chronicle concerning
+          Edward’s arrangements transmitted to certain noblemen concerning his succession (The Brut,
+          I, pp. 202-203).</p>
+        <p corresp="#rs.344a.fro[range(@n=43,@n=66)]">Various legends about Edward I’s death
+          circulated in contemporary chronicles (see for example Flores historiarum, III, p. 328 and
+          Peter Langtoft’s Chronicle, ed. Hearne, II, pp. 340-341) [</p>
+        <p corresp="#rs.344a.fro:(n=48)">For the relative proposition without antecedent see Jensen
+          § 456, p. 219, even if this construction rarely involves the use of the prepositional
+          dative.</p>
+        <p corresp="#rs.344a.fro:(n=54)">The repetition of v. 38, with sound change in the
+          conjugation of the verb needed for the rhyme, is more likely to be the result of the
+          author’s scant talent than of scribal error.</p>
+        <p corresp="#rs.344a.fro:(n=56)">For servise in the sense of “office of the dead” see
+          Godefroy 10, 669b.</p>
+        <p corresp="#rs.344a.fro:(n=57)">The infinitve sonir, as plurir in v. 54, can be explained
+          by a typical anglo-normal neo-formation.</p>
+        <p corresp="#rs.344a.fro[range(@n=59,@n=60)]">This emphasis is explained by the exceptional
+          nature of a pope’s solemn and official participation in a king’s funeral service
+          celebrated in the context of his curia. The form meimes, while rendering v. 60
+          hypermetric, can be justified by the unusual fact of the pope’s direct participation in
+          the funeral service performed by cardinal Niccolò Alberti bishop of Ostia.</p>
+        <p corresp="#rs.344a.fro:(n=61)">The noun alme ought to be the direct object of the
+          infinitive soudre, but its initial position and the absence of the subject pronoun give
+          the sentence an unusual structure constituting a sort of anacoluthon; the right word order
+          can be reconstructed by translating “[the pope</p>
+        <p corresp="#rs.344a.fro[range(@n=63,@n=66)]">According to historians, Clement V was
+          constantly concerned for the fate of the Holy Land, but did not manage to generate a full,
+          shared expedition during his pontificate, and he personally spent money to try to bring
+          about peace between France and England, a necessary condition for the realisation of a
+          crusade on a serious scale (Menache 1998, pp. 17-18 and 101). He assigned the island of
+          Rhodes to the Order of St John of Jerusalem and on 11 August 1308 launched an appeal for
+          crusade preaching to all the bishops, followed in June 1309 by another appeal for
+          financial assistance. Rhodes was conquered at the end of 1309, but the “passagium
+          generale” desired by the pope never came about, despite it being discussed at the council
+          of Vienne, at the session of 3 April 1312. In 1313 Edward II took the Cross in Paris along
+          with the king of France Philip the Fair (Menache 1998, p. 115), an event which seems to
+          support the papal prophecy contained in these lines. These observations do not mean that
+          the date of composition should be assigned to a yet later date, but they do constitute
+          confirmation of the attention paid to crusading on the part of the pope and the clergy,
+          which was still ongoing in Europe during the early decades of the 14th c. despite the
+          disappointing results of the most recent expeditions.</p>
+        <p corresp="#rs.344a.fro[range(@n=67,@n=68)]">This must refer to Edward II’s coronation (25
+          February 1308) and the demonstrable historical accuracy of the text suggests it should be
+          regarded as postdating that event. It should however be noted that Edward II was
+          proclaimed king immediately after his father’s death, on 20 July 1307 (Phillips 2010, pp.
+          125-126).</p>
+        <p corresp="#rs.344a.fro:(n=69)">Here it is necessary for correct scansion to keep the
+          feminine form of the adjective tele.</p>
+        <p corresp="#rs.344a.fro:(n=70)">If the ms. reading of this line is accepted, the form of
+          initial ki must be interpretated as a final conjunction. The confusion ke/ki is well
+          attestated in anglo-norman as far as the forms of the relative pronoun are concerned
+          (Short § 32.2), but it does not seem to apply also to ke as a conjunction. However the
+          parallel construction in vv. 71-72 also points in this direction. </p>
+        <p corresp="#rs.344a.fro:(n=73)">The three infinitives trere, garder and crestre are
+          probably coordinated and dependent on the optative formula Dieu li doint of v. 69. For the
+          expression see Adenet le Roi, Enfances Ogier, 4248-4249: «Dieus,» dist Ogiers, «pere de
+          majesté, / Ce chamberlenc vueilliez croistre en bonté» and Miracles de Nostre Dame par
+          personnages, XXXIV (Miracle de sainte Bautheuch), 2488: Seigneurs, Dieu vous croisse en
+          bonté!. The personal pronoun lui is probably reiterating the same pronoun (li) of v.
+          69.</p>
+        <p corresp="#rs.344a.fro:(n=80)">I have found no other attestation of trafon, given in the
+          AND with the meaning “depths of woe” and repeated in the DEAF with the meaning “profondeur
+          (du chagrin, du deuil)”.</p>
+        <p corresp="#rs.344a.fro:(n=81)">The verb sauvegarder is unattested in medieval French, even
+          if there are some traces of the noun salvegarde, especially after the middle of the 14th
+          c. (DEAF G, 165-166). Here we probably have a double subjunctive of exhortation or wish
+          salu(e) e garde, with the first form having lost the final unstressed e, as sometimes
+          occurs in anglo-norman (Short §§ 19.7 and 19.8). This interpretation allows us to restore
+          the correct line length, which would be hypometric if the verbal form salvegarde were
+          accepted. For saluer in the sense of “to save” see TL IX, 126, 21-25. Here also, as in v.
+          61, the noun alme, though in initial position, is the object of the sentence, not its
+          subject; here the feeling of being in the presence of an anacoluthon is emphasised by the
+          presence of the oblique case pronoun la.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Questa elegia funebre per la morte di Edoardo I d’Inghilterra, composta probabilmente da
+          un chierico inglese, esalta in un lungo passaggio l’attaccamento e la devozione del re
+          alla Terra Santa (vv. 19-34), menzionando anche la lunga guerra con la Francia come
+          ostacolo rispetto a una possibile crociata (vv. 19-22) e il desiderio espresso dal re di
+          far inviare il suo cuore in Oriente (vv. 33-34). La seconda parte del testo è
+          caratterizzata dalla lunga descrizione della reazione di papa Clemente V alla morte di
+          Edoardo (vv. 43-66) che sembra presupporre l’accesso a una fonte diretta e si conclude con
+          un’esortazione a Edoardo II affinché segua le orme del padre e liberi Gerusalemme (vv.
+          63-66). Di questo testo esiste anche una versione in medio inglese conservata
+          integralmente nel ms. Harley 2253 della British Library di Londra (f. 73rv), e in modo
+          frammentario nel ms. Cambridge, University Library, Additional 4407 (26 versi); se ne veda
+          l’edizione in Böddeker 1878, pp. 138-143 e Aspin 1953, pp. 90-92. Lo stesso argomento è
+          trattato in un poema latino contenuto nel ms. Oxford, Magdalen College, Lat. 6, che lo
+          sviluppa però in modo indipendente. L’ordine delle strofe della versione inglese è diverso
+          e apparentemente meglio articolato (Aspin 1953, p. 81).</p>
+        <p corresp="#rs.344a.fro:(n=6)">Il sostantivo encuntre può essere sia maschile sia
+          femminile, ed è qui utilizzato probabilmente come singolare collettivo, con mut che
+          riveste valore aggettivale con significato analogo a maint, secondo una formula frequente
+          in occitano ma molto più rara in francese (Tobler, Vermischte Beiträge II, 49-50; Jensen §
+          804, p. 400); per il significato di “scontro, conflitto, battaglia” si veda TL III, 235,
+          16ss. Risulta difficile dire se l’autore si riferisca a qualche episodio particolare, dal
+          momento che furono molti i conflitti che Edoardo si è trovato ad affrontare e numerosi i
+          suoi nemici: Gallesi, Scozzesi, Simone di Montfort, il re di Francia.</p>
+        <p corresp="#rs.344a.fro:(n=8)">Potrebbe trattarsi di un riferimento specifico alla
+          Guascogna, che Edoardo cedette a Filippo il Bello nel 1293, con l’accordo che gli sarebbe
+          stata restituita come dote della sorella di Filippo, Bianca. Ma il matrimonio non ebbe mai
+          luogo a causa della ripresa della guerra tra Francia e Inghilterra e Edoardo recuperò la
+          Guascogna solamente nel 1303, quattro anni dopo il matrimonio con Margherita, sorella
+          minore di Bianca. Si veda D’Avray 1994, pp. 75; 264, § 4.4 e 268 § 3.4. Si vedano anche i
+          vv. 13-16.</p>
+        <p corresp="#rs.344a.fro[range(@n=19,@n=22)]">L’interesse di Edoardo I per la Terra Santa fu
+          reale e continuo nel tempo, ma la sua partecipazione alle crociate risale al periodo
+          precedente la sua incoronazione (1272). Il passo può tuttavia riferirsi anche ad altre
+          promesse o tentativi abortiti di spedizioni in Terra Santa di cui la biografia di Edoardo
+          è ricca (Prestwich 1997, pp. 326-333). Tra il 1274 e il 1282 vi furono vari contatti tra
+          Edoardo e il papa riguardo il possibile impegno diretto del re in una futura crociata in
+          cambio delle decime ecclesiastiche. Nella primavera del 1287 Edoardo prese la croce senza
+          però dare seguito alla sua iniziativa. Nel 1291, anno della caduta di Acri, papa Nicola IV
+          devolvette a Edoardo la decima ecclesiastica per sei anni allo scopo di organizzare una
+          nuova crociata (si veda per esempio Rymer, Foedera, I 2, pp. 743-752, soprattutto p. 747).
+          Vari problemi politici, dapprima la questione scozzese e in seguito la guerra con la
+          Francia, soprattutto tra il 1295 e il 1298, resero tuttavia impossibile la realizzazione
+          di questo progetto negli anni successivi. In un paragrafo dell’Opus chronicorum, scritto
+          nel 1307-1308, si legge che nel 1295 Edoardo avrebbe chiesto a papa Bonifacio VIII di
+          intervenire per far rispettare gli accordi presi da Filippo il Bello nei suoi confronti,
+          promettendo di partire per la crociata una volta ottenuta la pace (Opus chronicorum, p.
+          58). In altri documenti tuttavia è Edoardo stesso a giustificare l’impossibilità di
+          partire evocando la guerra contro gli Scozzesi piuttosto che i dissidi col re di Francia
+          (Historia anglicana, I, pp. 114-115). Le trattative di pace, iniziate nel 1298 e sancite
+          dal matrimonio tra Edoardo e Margherita, sorella di Filippo il Bello, portarono a un
+          accordo definitivo solo nel 1303 con la restituzione della Guascogna. I tentativi di papa
+          Clemente V di coinvolgere nuovamente Edoardo in un progetto di crociata (Menache 1998, p.
+          105) generarono una fitta corrispondenza tra i due che raggiunse il suo apice alla fine
+          del 1306, quando Edoardo manifestò esplicitamente l’intenzione di riprendere la croce,
+          subordinando tuttavia la partenza per la Terra Santa alla pace col re di Francia. Si veda
+          la lettera del papa a Edoardo del 22 dicembre 1306 (Rymer, Foedera, I 2, p. 1006), ma
+          soprattutto quella del 28 novembre (Rymer, Foedera, I 2, p. 1005).</p>
+        <p corresp="#rs.344a.fro:(n=22)">Per la preposizione sur usata per esprimere un senso di
+          direzione col significato di “verso, contro” si veda Jensen § 911, p. 465.</p>
+        <p corresp="#rs.344a.fro[range(@n=24,@n=25)]">La frase è coordinata con la precedente, ma
+          l’ordine delle parole è stravolto e va ricostruito come segue: “i suoi decreti [sono
+          stati</p>
+        <p corresp="#rs.344a.fro:(n=26)">La tere in questione è senza dubbio la Terra Santa.</p>
+        <p corresp="#rs.344a.fro[range(@n=27,@n=30)]">Per la descrizione di Edoardo I come difensore
+          della Terra Santa si veda per esempio D’Avray 1994, pp. 264 § 4.3, 268 § 3.4, 276 § 7.</p>
+        <p corresp="#rs.344a.fro[range(@n=33,@n=34)]">L’autore del poema dà credito alla tradizione
+          secondo la quale il re Edoardo avrebbe richiesto che il proprio cuore fosse trasportato in
+          Terra Santa da un contingente di cento cavalieri inviati a combattere i Saraceni per un
+          anno (cfr. Aspin 1953, p. 88 e Annales regum Angliae, pp. 413-414; secondo Historia
+          anglicana, I, pp. 114-115 i cavalieri sarebbero stati invece 140). Il figlio Edoardo II
+          non rispettò la volontà paterna e ne fece seppellire il corpo nell’abbazia di Westminster
+          dopo il funerale solenne. Se il testo è davvero stato scritto dopo l’incoronazione di
+          Edoardo II, il futuro mandera utilizzato dall’autore al v. 34 dev’essere considerato
+          erroneo o contraddittorio, a meno che l’autore ritenesse ancora che la volontà di Edoardo
+          I sarebbe stata rispettata.</p>
+        <p corresp="#rs.344a.fro[range(@n=35,@n=42)]">Più che all’episodio della primavera-estate
+          1307 menzionato da Historia anglicana, I, pp. 114-115 (Aspin 1953, p. 88), che riguarda la
+          ricostruzione dell’ultimo colloquio di Edoardo col figlio, questa strofa sembra riflettere
+          quanto si legge in un’altra cronaca inglese circa le disposizioni date da Edoardo ad
+          alcuni nobili a proposito sua successione (The Brut, I, pp. 202-203).</p>
+        <p corresp="#rs.344a.fro[range(@n=43,@n=66)]">Nelle cronache contemporanee circolavano varie
+          leggende circa la morte di Edoardo I (si veda per esempio Flores historiarum, III, p. 328
+          e Peter Langtoft’s Chronicle, ed. Hearne, II, pp. 340-341) [</p>
+        <p corresp="#rs.344a.fro:(n=48)">Per la proposizione relativa priva di antecedente si veda
+          Jensen § 456, p. 219, anche se raramente questa costruzione prevede l’uso del dativo
+          preposizionale.</p>
+        <p corresp="#rs.344a.fro:(n=54)">Ripetizione del v. 38, con metaplasmo di coniugazione del
+          verbo necessario per la rima. È più probabile che si tratti di una prova dello scarso
+          talento dell’autore piuttosto che di un errore del copista.</p>
+        <p corresp="#rs.344a.fro:(n=56)">Per servise nel senso di “ufficio dei defunti” si veda
+          Godefroy 10, 669b.</p>
+        <p corresp="#rs.344a.fro:(n=57)">L’infinito sonir, come plurir al v. 54, si può spiegare
+          come una tipica neoformazione anglonormanna.</p>
+        <p corresp="#rs.344a.fro[range(@n=59,@n=60)]">Questa sottolineatura si spiega per
+          l’eccezionalità della partecipazione solenne e ufficiale di un pontefice alle esequie di
+          un re celebrate presso la sua curia. La forma meimes, pur favorendo l’ipermetria del v.
+          60, trova una giustificazione nel fatto inconsueto della partecipazione diretta del papa
+          alle esequie celebrate dal cardinale Niccolò Alberti vescovo di Ostia.</p>
+        <p corresp="#rs.344a.fro:(n=61)">Il sostantivo alme dovrebbe essere il complemento diretto
+          dell’infinito soudre, ma la posizione iniziale e l’assenza del pronome soggetto danno alla
+          frase un andamento inconsueto costituendo una sorta di anacoluto; l’ordine corretto si può
+          ricostruire grazie alla traduzione: “[il papa</p>
+        <p corresp="#rs.344a.fro[range(@n=63,@n=66)]">Secondo gli storici, Clemente V ebbe una
+          preoccupazione costante per le sorti della Terra Santa, pur non riuscendo durante il suo
+          pontificato a promuovere una spedizione ampia e condivisa, e si spese personalmente per
+          contribuire alla pace tra Francia e Inghilterra, condizione necessaria per la
+          realizzazione di una crociata di qualche ambizione (Menache 1998, pp. 17-18 e 101). Egli
+          assegnò l’isola di Rodi all’Ordine di San Giovanni di Gerusalemme e l’11 agosto 1308
+          lanciò un appello a tutti i vescovi per la predicazione della crociata, seguito nel giugno
+          1309 da un altro appello per ottenere aiuti finanziari. Rodi fu conquistata alla fine del
+          1309, ma il “passagium generale” desiderato dal papa non si realizzò mai, malgrado esso
+          fosse stato messo a tema al concilio di Vienne, nella sessione del 3 aprile 1312. Nel 1313
+          anche Edoardo II prese la croce a Parigi insieme al re di Francia Filippo il Bello
+          (Menache 1998, p. 115), evento che sembra confermare la profezia papale contenuta in
+          questi versi. Queste osservazioni non obbligano necessariamente a spostare ancora più
+          avanti la data di composizione del testo, ma costituiscono in ogni caso una conferma
+          dell’attenzione del papato e di parte del clero al tema della crociata, ancora presente e
+          sentito nell’Europa dei primi decenni del XIV secolo, malgrado i risultati deludenti delle
+          ultime spedizioni.</p>
+        <p corresp="#rs.344a.fro[range(@n=67,@n=68)]">Dovrebbe trattarsi di un riferimento
+          all’incoronazione di Edoardo II (25 febbraio 1308) e il comprovato realismo storico del
+          compianto suggerisce di collocare la sua composizione dopo questa data. Va tuttavia
+          ricordato che Edoardo II fu proclamato re subito dopo la morte del padre, il 20 luglio
+          1307 (Phillips 2010, pp. 125-126).</p>
+        <p corresp="#rs.344a.fro:(n=69)">In questo caso il mantenimento della forma femminile
+          dell’aggettivo tele è necessario per la correttezza metrica del verso.</p>
+        <p corresp="#rs.344a.fro:(n=70)">Se si accetta la lezione di questo verso, la forma ki
+          iniziale dev’essere interpretata come una congiunzione finale. La confusione ke/ki è ben
+          attestata in anglonormanno per quanto riguarda le forme del pronome relativo (Short §
+          32.2), ma non sembra estendibile anche a ke congiunzione. Spinge tuttavia in questa
+          direzione anche la costruzione parallela dei vv. 71-72.</p>
+        <p corresp="#rs.344a.fro:(n=73)">I tre infiniti trere, garder e crestre sono probabilmente
+          coordinati e dipendenti dalla formula ottativa Dieu li doint del v. 69. Per l’espressione
+          si veda Adenet le Roi, Enfances Ogier, 4248-4249: «Dieus,» dist Ogiers, «pere de majesté,
+          / Ce chamberlenc vueilliez croistre en bonté» e Miracles de Nostre Dame par personnages,
+          XXXIV (Miracle de sainte Bautheuch), 2488: Seigneurs, Dieu vous croisse en bonté!. Il
+          pronome personale lui riprende probabilmente il medesimo pronome (li) del v. 69.</p>
+        <p corresp="#rs.344a.fro:(n=80)">Non ho trovato altre attestazioni di trafon, che è
+          segnalato dall’AND col significato di “depths of woe” e ripreso dal DEAF con il senso di
+          “profondeur (du chagrin, du deuil)”.</p>
+        <p corresp="#rs.344a.fro:(n=81)">Il verbo sauvegarder non ha di fatto alcuna attestazione in
+          francese medievale, anche se si può trovare qualche traccia del sostantivo salvegarde,
+          soprattutto a partire dalla seconda metà del XIV secolo (DEAF G, 165-166). Si tratterà più
+          probabilmente di un doppio congiuntivo esortativo o desiderativo salu(e) e garde, con la
+          prima forma che avrebbe perso la e atona finale come a volte accade in anglonormanno
+          (Short §§ 19.7 e 19.8). Questa interpretazione permette inoltre di ripristinare la
+          corretta lunghezza del verso, che risulterebbe ipometrico se si accettasse la forma
+          verbale salvegarde. Per saluer nel senso di “salvare” si veda TL IX, 126, 21-25. Anche
+          qui, come già al v. 61, il sostantivo alme, pur trovandosi in posizione iniziale, non è il
+          soggetto della frase ma il complemento; in questo caso la sensazione di trovarsi in
+          presenza di un anacoluto è accentuata dalla presenza del pronome regime la.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

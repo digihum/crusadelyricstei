@@ -1,0 +1,462 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2015-12-01</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde 1780, II, 211; Paris 1833, 103; Leroux de Lincy 1841-1842,<hi
+              rend="smallcaps"> I,</hi> 116; Dinaux 1837-1863, <hi rend="smallcaps">I</hi>, 140;
+            Brakelmann 1870, 56; Meyer 1877, II, 367; Bédier 1906, 379; Bédier-Aubry 1909, 62;
+            Gennrich 1951, 24; Wentzlaff-Eggebert 1960, 154; Cluzel 1969, 46; Schöber 1976, 162;
+            Dufournet 1989, 100; Dijkstra 1995a, 192.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>de la Borde 1780, II, 211; Paris 1833, 103; Leroux de Lincy 1841-1842,<hi
+              rend="smallcaps"> I,</hi> 116; Dinaux 1837-1863, <hi rend="smallcaps">I</hi>, 140;
+            Brakelmann 1870, 56; Meyer 1877, II, 367; Bédier 1906, 379; Bédier-Aubry 1909, 62;
+            Gennrich 1951, 24; Wentzlaff-Eggebert 1960, 154; Cluzel 1969, 46; Schöber 1976, 162;
+            Dufournet 1989, 100; Dijkstra 1995a, 192.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(2).</hi> M 50a (<hi rend="italic">Me sire hues doysj</hi>), T 53r
+              (<hi rend="italic">Me sire hues doisy</hi>).</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">(2).</hi> M 50a (<hi rend="italic">Me sire hues doysj</hi>), T 53r
+              (<hi rend="italic">Me sire hues doisy</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’"><p>10ababbaba (MW 902,1 = Frank
+        302); 3 <hi rend="italic">coblas doblas</hi> (2+1); the first stanza has only 6 lines, with
+        the rhyme-scheme 10abbaba: there may have been a gap in a previous exemplar or the stanza
+        may form a sort of refrain; rhyme a: <hi rend="italic">-i</hi>, <hi rend="italic">-a</hi>;
+        rhyme b: <hi rend="italic">-ans</hi>, <hi rend="italic">-ier</hi>. Three of the four rhymes
+          (<hi rend="italic">-i</hi>, <hi rend="italic">-ans</hi>, <hi rend="italic">-ier</hi>) also
+        appear in RS 1314 by Conon de Béthune. The versification is very common, but Huon d’Oisy is
+        imiting Conon de Béthune’s song RS 1125 in particular, though the latter has a feminine
+        a-rhyme. Identical rhyme vv. 15 and 20 (the whole expression <hi rend="italic">quant il s’en
+          ala</hi>), equivocal rhyme vv. 6 and 12 (<hi rend="italic">failli</hi>, first a verb and
+        then an adjective), paronymous rhyme vv. 9 and 14 (<hi rend="italic">ci-merci</hi>, also for
+        the ear in <hi rend="italic">ausi</hi> v. 1), etymological figure vv. 3 and 16 (<hi
+          rend="italic">preechemans-preechier</hi>); lyric caesura vv. 2, 10 and 15 (but the latter
+        is probably a case of a median caesura 5+5); feminine caesura with elision v. 11; melody in
+        both mss., with melodic structure ABAB CDC’D’ (T 601).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’"><p>10ababbaba (MW 902,1 = Frank
+        302); 3 <hi rend="italic">coblas doblas</hi> (2+1); la prima strofa è di soli 6 versi con
+        schema 10abbaba: potrebbe trattarsi di una lacuna materiale della tradizione o di una specie
+        di <hi rend="italic">refrain</hi>; rima a: <hi rend="italic">-i</hi>, <hi rend="italic"
+          >-a</hi>; rima b: <hi rend="italic">-ans</hi>, <hi rend="italic">-ier</hi>; tre rime su
+        quattro (<hi rend="italic">-i</hi>, <hi rend="italic">-ans</hi>, <hi rend="italic"
+        >-ier</hi>) si trovano anche nella canzone RS 1314 di Conon de Béthune; lo schema è molto
+        diffuso, ma Huon d’Oisy imita in particolare la canzone RS 1125 di Conon de Béthune, che
+        però ha la rima a femminile; si ha rima identica ai vv. 15 e 20 (tutta l’espressione <hi
+          rend="italic">quant il s’en ala</hi>), rima equivoca ai vv. 6 e 12 (<hi rend="italic"
+          >failli</hi>, prima verbo e poi aggettivo), rima paronima ai vv. 9 e 14 (<hi rend="italic"
+          >ci-merci</hi>, all’orecchio anche con <hi rend="italic">ausi</hi> del v. 1), figura
+        etimologica ai vv. 3 e 16 (<hi rend="italic">preechemans-preechier</hi>); vi è cesura lirica
+        ai vv. 2, 10 e 15 (ma in quest’ultimo caso si tratta più probabilmente di una cesura mediana
+        5+5); cesura femminile con elisione al v. 11; melodia in entrambi i canzonieri, con schema
+        melodico ABAB CDC’D’ (T 601).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>The two manuscript versions are virtually
+        identical, with minimal variants. In both there are two lines rhyming ab apparently missing
+        in the first stanza. The various editors indicate the lacuna as corresponding to two initial
+        lines or vv. 3-4. However there are no noticeable skips or breaks in the stanza’s syntactic
+        structure and the melody is marked out regularly in both cases; it may be a case of a type
+        of refrain rather than a gap in the common source, and given this uncertainty it is better
+        not to indicate missing lines in the printed text. T’s graphy is essentially followed, its
+        northern features being preserved. For the alternation of the forms <hi rend="italic"
+          >Diu/Dieu</hi> in particular see Gossen 1976, § 9, pp. 55-58 (compare also <hi
+          rend="italic">liu</hi> for <hi rend="italic">lieu</hi> in v. 19). M is used only for v. 3
+        where there is an error in T (<hi rend="italic">preemans</hi> which generates a hypometric
+        line).</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>I due testimoni hanno la stessa lezione, con
+        varianti minime. In entrambi i canzonieri mancano due versi con rima ab nella prima strofa.
+        I vari editori segnalano la lacuna in corrispondenza dei primi due versi o dei vv. 3-4. Non
+        si notano però salti o fratture nella struttura sintattica della strofa e la melodia è
+        regolarmente tracciata in entrambi i casi; potrebbe anche trattarsi di una sorta di <hi
+          rend="italic">refrain</hi> piuttosto che di una lacuna materiale e, vista l’incertezza, si
+        preferisce non segnalare graficamente i versi mancanti. Si segue sostanzialmente la lezione
+        e la grafia di T, conservandone anche i tratti settentrionali. In particolare per
+        l’alternanza delle forme <hi rend="italic">Diu/Dieu</hi> si veda Gossen 1976, § 9, pp. 55-58
+        (si veda anche <hi rend="italic">liu</hi> per <hi rend="italic">lieu</hi> al v. 19). Si
+        ricorre alla lezione di M solo al v. 3 dove si riscontra un errore di T (<hi rend="italic"
+          >preemans</hi> che genera ipometria).</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2015-12-10T17:18:08Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Huon d’Oisy</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+        <div type="text" xml:id="rs.1030.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Maugré tous sains et maugré Diu ausi</l>
+            <l n="2">revient Quenes, et mal soit il vegnans!</l>
+            <l n="3">Honis soit il et ses preechemans,</l>
+            <l n="4">et honis soit ki de lui ne dist: «fi»!</l>
+            <l n="5">Quant Diex verra que ses besoins ert grans,</l>
+            <l n="6">il li faura, quant il li a failli.</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="7">Ne chantés mais, Quenes, je vos em pri,</l>
+            <l n="8">car vos chançons ne sont mais avenans;</l>
+            <l n="9">or menrés vos honteuse vie ci:</l>
+            <l n="10">ne volsistes pour Dieu morir joians,</l>
+            <l n="11">or vos conte on avoec les recreans,</l>
+            <l n="12">si remanrés avoec vo roi failli;</l>
+            <l n="13">ja Damedius, ki sor tous est poissans,</l>
+            <l n="14">del roi avant et de vos n’ait merci!</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="15">Molt fu Quenes preus, quant il s’en ala,</l>
+            <l n="16">de sermoner et de gent preechier,</l>
+            <l n="17">et quant uns seus en remanoit decha,</l>
+            <l n="18">il li disoit et honte et reprovier;</l>
+            <l n="19">or est venus son liu recunchiier,</l>
+            <l n="20">et s’est plus ors que quant il s’en ala;</l>
+            <l n="21">bien poet sa crois garder et estoier, k’encor l’a il tele k’il l’emporta.</l>
+          </lg>
+        </div>
+        <div type="translation" xml:id="rs.1030.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Despite all the saints and despite God Himself Conon is returning, and a curse on his
+              return! Shame on him and his preaching, and shame on anyone who does not say to him
+              ‘fie upon you’! When God sees him in great need He will not help him, just as he has
+              not helped Him.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Sing no more, Conon, I pray you, for your songs are no more pleasing. Now you will
+              live a shameful life here; you did not choose to die joyfully for God, and now you are
+              counted among the cowards, so you will stay here with your failed king. May Our Lord,
+              who has power over all people, have no pity, first on the king and [then] on you! </p>
+          </div>
+          <div n="3" type="stanza">
+            <p>When he set off, Conon was very brave in giving sermons and preaching to people, and
+              if a single man stayed behind, he covered him in shame and reproach. Now he has
+              returned to soil his home [his nest?], and he is filthier than when he left. For sure,
+              he can keep his cross and stow away, as it is in the same state as it was when he
+              carried it away.</p>
+          </div>
+        </div>
+        <div type="translation" xml:id="rs.1030.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>A dispetto di tutti i santi e di Dio stesso, Conon ritorna e che sia malvenuto. Sia
+              infamato lui e la sua predicazione, e sia infamato (anche) chi non gli dice
+              «vergogna»! Quando Dio lo vedrà in grande bisogno non lo soccorrerà, dal momento che
+              lui non L’ha soccorso.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Non cantate più, Conon, ve ne prego, perché le vostre canzoni non sono più piacevoli.
+              Ora resterete qui a condurre una vita disonorevole; non avete voluto morire in letizia
+              per Dio, e adesso fate parte dei codardi, così resterete con il vostro re imbelle.
+              Nostro Signore, che ha potere di giudicare tutti, non abbia pietà né del re né di
+              voi.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Conon, quando partì, fu molto zelante nel predicare e arringare la gente, e se solo
+              uno voleva restare qui, lo copriva di disonore e biasimo. Ora è tornato a insozzare la
+              sua dimora [il suo nido?], ed è più sporca di quando è partito. Può davvero riporre e
+              custodire la sua croce, perché è ancora tale e quale come quando l’ha presa.</p>
+          </div>
+        </div>
+        <div type="text" xml:lang="en ">
+          <p>Luca Barbieri 2015</p>
+        </div>
+        <div type="text" xml:lang="it ">
+          <p>Luca Barbieri 2015</p>
+        </div>
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>Huon III, lord of Oisy-le-Verger (Pas-de-Calais, arr. Arras), Montmirail and Crèvecœur,
+          viscount of Meaux and castellan of Cambrai, is considered one of the earliest trouvères. A
+          loyal vassal of the count of Flanders Philip of Alsace, whose sister Gertrude he took as
+          his first wife, Huon supported him during the war of 1181-1185 against the king of France,
+          Philip Augustus (Cartellieri 1899-1922, I, p. 107). Huon d’Oisy was distantly related to
+          Conon de Béthune, and it is the same Conon who indicates him as his master in the art of
+          poetry (RS 1314, vv. 51-52). They are also linked through their support of the count of
+          Flanders against the political action of Philip Augustus (see Barbieri 2013, p. 289-290).
+          The evident dependence of RS 1030 on Conon de Béthune’s two crusade songs has generated
+          various doubts as to the date and attribution of the latter, since it has long been
+          accepted that Conon returned from the Third Crusade with Philip Augustus in 1191, while
+          historical documents attest the death of Huon d’Oisy between 1189 and 1190. In fact the
+          various indications from the sources seem to converge on a single hypothesis. Firstly, the
+          attribution of the text to Huon is indirectly confirmed by the fact that in the mss. this
+          is followed by his <hi rend="italic">Tornoiement des Dames</hi> (RS 1924a), whose
+          attribution is proved by internal elements of the text. Secondly, there is no objective
+          evidence that Conon took part in the Third Crusade, and his involvement in Philip
+          Augustus’s expedition seems unlikely, given that his work and biography tesitfy to his
+          hostility to the King. Conon’s father made the journey to the Holy Land joining up with
+          one of the Flemish contingents that left their native land from the autumn of 1188
+          onwards; Robert V of Béthune died during the siege of Acre on 18 January 1191. The content
+          and heavily sarcastic tone of Huon’s text would be hard to explain if it had been written
+          after even a short stay in the Holy Land on Conon’s part and after his father’s death on
+          crusade. Finally, there is no reason to question the date of Huon’s death recorded in the
+          documents. The annals of the abbey of Anchin register it in the year 1189, while the
+          necrology of the abbey of Cantimpré, founded by the same Huon, provides us with the
+          precise date: 20 August. Other documents conferm that Huon was still alive in 1189, and
+          that he was dead by 1190 (Schöber 1976, pp. 154-156). The Cantimpré necrology also informs
+          us of a journey to the Holy Land undertaken by Huon d’Oisy; this could be a pilgrimage
+          preceding Saladin’s capture of Jerusalem in 1187, and this seems confirmed by the the fact
+          that Huon was able to bring back certain relics from the Holy Land (Dijkstra 1995a, pp.
+          93-94). Such a pilgrimage would give greater authority to the song RS 1030’s sarcastic
+          remarks. It remains only to conclude that in all probability Conon de Béthune did not take
+          part in the Third Crusade, and certaintly did not do so before Huon d’Oisy’s death. It may
+          be supposed that if he did set out with his father in the early months of 1189 (Bédier
+          1906, p. 59), whether with the intention of leaving with him or with that of accompanying
+          him part of the way, for some reason unknown to us he rapidly returned. If this was the
+          occasion of RS 1030’s composition, it must have been written between January and August
+          1189. The fact that Conon de Béthune may have indeed set out on crusade after Huon’s
+          death, perhaps in the entourage of Philip of Alsace, has no influence on the date and
+          circumstances of composition and in any case has no documentary confirmation.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Huon III, signore di Oisy-le-Verger (Pas-de-Calais, arr. Arras), di Montmirail e di
+          Crèvecœur, visconte di Meaux e castellano di Cambrai è considerato uno dei primi trovieri
+          in lingua francese. Vassallo fedele del conte di Fiandra Filippo d’Alsazia, di cui sposò
+          in prime nozze la sorella Gertrude, Huon lo sostenne durante la guerra del 1181-1185
+          contro Filippo Augusto (Cartellieri 1899-1922, I, p. 107). Huon d’Oisy è legato a Conon de
+          Béthune da una lontana parentela, ed è lo stesso Conon a indicarlo come suo maestro
+          nell’arte poetica (RS 1314, vv. 51-52). Li unisce anche il sostegno accordato al conte di
+          Fiandra contro l’azione politica del re di Francia Filippo Augusto (si veda Barbieri 2013,
+          p. 289-290). L’evidente dipendenza dalle due canzoni di crociata di Conon de Béthune della
+          canzone RS 1030 ha fatto sorgere vari dubbi sulla data e sull’attribuzione di
+          quest’ultima, poiché si è a lungo ritenuto che Conon fosse tornato dalla terza crociata
+          nel 1191 con Filippo Augusto, mentre i documenti storici attestano la morte di Huon d’Oisy
+          tra il 1189 e il 1190. In realtà, le varie indicazioni delle fonti sembrano convergere
+          verso un’unica ipotesi. Innanzitutto l’attribuzione del testo a Huon è confermata
+          indirettamente dal fatto che nei manoscritti esso è seguito dal suo <hi rend="italic"
+            >Tornoiement des Dames</hi> (RS 1924a), la cui attribuzione è certificata da elementi
+          interni al testo. Inoltre non vi è nessuna prova oggettiva della partecipazione di Conon
+          de Béthune alla terza crociata e pare comunque inverosimile un suo coinvolgimento nella
+          spedizione di Filippo Augusto, visto che tutta la sua opera e la sua biografia
+          testimoniano la sua ostilità al re. Lo stesso padre di Conon fece il viaggio in Terra
+          Santa aggregandosi a uno dei contingenti fiamminghi che hanno lasciato le terre natali a
+          partire dall’autunno del 1188; Roberto V di Béthune morì durante l’assedio di Acri il 18
+          gennaio 1191. Il contenuto e il tono fortemente sarcastico del testo di Huon sarebbero
+          difficilmente giustificabili se esso fosse stato scritto dopo un soggiorno anche breve di
+          Conon in Terra Santa e dopo la morte del padre in crociata. Infine, non vi è alcun motivo
+          di dubitare dei documenti che attestano la data della morte di Huon. Gli annali
+          dell’abbazia d’Anchin la registrano nell’anno 1189, mentre il necrologio dell’abbazia di
+          Cantimpré, fondata dallo stesso Huon, ci fornisce la data esatta: il 20 agosto; altri
+          documenti confermano che Huon era ancora in vita nel 1189 e che era già morto nel 1190
+          (Schöber 1976, pp. 154-156). Lo stesso necrologio di Cantimpré ci informa di un viaggio in
+          Terra Santa compiuto da Huon d’Oisy; potrebbe trattarsi di un pellegrinaggio effettuato
+          prima della presa di Gerusalemme da parte di Saladino nel 1187, come sembra confermare il
+          fatto che Huon poté portare con sé alcune reliquie dalla Terra Santa (Dijkstra 1995a, pp.
+          93-94). Tale pellegrinaggio darebbe maggiore autorità al sarcasmo della canzone RS 1030.
+          Non resta che concludere che con tutta probabilità Conon de Béthune non ha partecipato
+          alla terza crociata, e certamente non prima della morte di Huon d’Oisy. Si può supporre
+          che si sia mosso con il padre nei primi mesi del 1189 (Bédier 1906, p. 59), non si sa se
+          con l’intenzione di partire con lui o di accompagnarlo per un tratto di strada, e che per
+          qualche ragione a noi ignota sia rapidamente tornato indietro. Se questa è stata
+          l’occasione per la composizione della canzone RS 1030, essa dev’essere stata scritta tra
+          gennaio e agosto del 1189. Il fatto che Conon de Béthune possa essere davvero partito per
+          la crociata dopo la morte di Huon, magari al seguito di Filippo d’Alsazia, non ha alcuna
+          influenza sulla data e sulle circostanze della composizione della canzone e non trova
+          comunque nessuna conferma documentaria.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>Huon d’Oisy’s text is neither a song of crusading exhortation nor a <hi rend="italic"
+            >chanson de départie</hi>, but bears witness to the rapid reception and popularity of
+          Conon de Béthune’s crusade songs, representing as it does a sarcastic riposte made up
+          almost entirely of more or less literal responses to RS 1125 and RS 1314. Essentially Huon
+          throws back in Conon’s face his failure to practise what he had preached, turning back on
+          him all the rebukes he had made to those who chose not to take part in the crusade. Huon’s
+          text demonstrates that Conon’s songs were heard and interpreted as propaganda, given the
+          absence of any reference to separation from the beloved lady which constituted a
+          distinctive element of that trouvère’s songs. Huon’s harsh sarcasm should not necessarily
+          be interpreted literally, and it is not impossible that it simply forms a literary game.
+          Apart from his sarcastic echoing of Conon’s songs, Huon also copies their rhetorical
+          structure, based on the semantic opposition <hi rend="italic">honte-honor</hi> and on
+          their antitheses; see for example <hi rend="italic">honis</hi> (vv. 3 and 4), <hi
+            rend="italic">honteuse vie</hi> (v. 9), <hi rend="italic">recreans</hi> (v. 11), <hi
+            rend="italic">preus</hi> (v. 15), <hi rend="italic">honte</hi> (v. 18). The numerous
+          echoes are indicated in detail in the notes.</p>
+        <p corresp="#rs.1030.fro:(n=1)">The first line echoes RS 1314, 20-22: Dieus! ke porront
+          faire si anemi, / quant tot li saint trambleront de dotance / devant Celui ki onques ne
+          menti?</p>
+        <p corresp="#rs.1030.fro:(n=2)">The meaning of the verb revient here has been the subject of
+          much discussion; together with ala in vv. 15 and 20 it seems to indicate some departure
+          and return on Conon’s part. But to what exactly does this refer? To a real departure on
+          crusade, to a short and swiftly aborted journey, or simply to a desire to leave? In view
+          of the content of vv. 15-16, where the verb aler is linked to Conon’s propaganda activity,
+          it cannot be ruled out that ala does indeed refer to the decision to depart on crusade and
+          revient to some event which prevented this from happening.</p>
+        <p corresp="#rs.1030.fro[range(@n=3,@n=4)]">These lines echo RS 1125, 21: Saichiés chil sont
+          trop honi ki n’iront and RS 1314, 39-40: Po en i a n’ait son renne honi, / por tant qu’il
+          ait sor ses homes possance.</p>
+        <p corresp="#rs.1030.fro[range(@n=5,@n=6)]">An ironic allusion to the Last Judgment, evoked
+          by Conon in RS 1314, 20-24; but see also vv. 13-14. The wordplay with repetition of the
+          verb faillir is found in RS 1125, 11-12: ki li faura a cest besoig d’aïe, / saiciés ke il
+          li faura a grignor; Huon also echoes its syntactic ambiguity, with the personal pronouns
+          il and li which refer in turn to God and Conon.</p>
+        <p corresp="#rs.1030.fro[range(@n=7,@n=8)]">These lines may perhaps constitute a response to
+          the beginning and end of RS 1314, where Conon questions the appropriateness of writing a
+          song or not and acknowledges Huon d’Oisy as his master in the art of poetry; see RS 1314,
+          1-2: Bien me deüsse targier / de chançon faire et de mos et de chans and 51-52: si s’an
+          praingnent a mon mastre d’Oissi, / qui m’at apris a chanter tres m’anfance.</p>
+        <p corresp="#rs.1030.fro[range(@n=9,@n=10)]">These lines echo RS 1125, 33-34: Ki chi ne velt
+          avoir vie anuieuse / si voist por Dieu morir liés et joieus; for v. 9 see also RS 1125,
+          48: a tos jors mais iert no vie honteuse.</p>
+        <p corresp="#rs.1030.fro[range(@n=11,@n=12)]">These lines echo RS 1125, 23-24: et cil ki
+          sain et jone et riche sont / ne poevent pas demorer sans hontaige; for v. 12 see also RS
+          1314, 26: ne remanrai chi avoc ces tirans.</p>
+        <p corresp="#rs.1030.fro:(n=12)">The expression vo roi should not be taken as an indication
+          of a particular closeness between Conon de Béthune and Philip Augustus, since Conon, like
+          Huon, was the direct vassal of Philip of Alsace and not the King and revealed his aversion
+          towards the sovereign on various occasions (see Barbieri 2013, pp. 289-290). The verb
+          remanrés seems to indicate that the King has not yet left on crusade. For the attack on
+          the delaying tactics of Philip Augustus and other sovereigns and barons see for example
+          the refrain and vv. 51-58 in Maistre Renaut’s RS 886, which also echo the reference to the
+          Last Judgment and the same play on words with the repetition of the faillir in v. 6; for
+          Occitan lyric see Bertran de Born BdT 80.4, 15-21 and perhaps BdT 80.17, 20 and 29-35 (6
+          and 15-21 ed. Gouiran). The opening lines of the Tornoiement des dames also suggest
+          criticism of inaction on the barons’ part, also found in Conon’s songs (vv. 1-5: En l’an
+          que chevalier sont / Abaubi, / Ke d’armes noient ne font / Li hardi, / Lez damez tournoier
+          vont).</p>
+        <p corresp="#rs.1030.fro[range(@n=13,@n=14)]">Another probable allusion to the Last
+          Judgment, as the expression ki sor tous est poissans probably indicates the power of God’s
+          judgment. These lines echo RS 1314, 23-24: Adont seront pecheor mal bailli, / se sa pitiés
+          ne cuevre sa poissance.</p>
+        <p corresp="#rs.1030.fro[range(@n=15,@n=16)]">These lines echo RS 1125, 41-42: Diex! tant
+          avons esté prex par huiseuse, / or i parra ki a certes iert prex.</p>
+        <p corresp="#rs.1030.fro:(n=19)">The line echoes RS 1314, 37-38: Dehait li bers qui est de
+          tel sanblance / con li oixel qui conchïet son nit!. Huon’s riposte to RS 1314, 38 would be
+          more precise if the text read nit (niu?) instead of liu. Could this point to an archetype
+          error? In either case the text works in the same way and it seems inappropriate to
+          correct.</p>
+        <p corresp="#rs.1030.fro[range(@n=21,@n=22)]">These lines seem to confirm that when the
+          author was writing to him, Conon de Béthune had not reached the Holy Land, and that his
+          intention to leave on crusade had not materialised.</p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Il testo di Huon d’Oisy non è né una canzone di esortazione alla crociata né una <hi
+            rend="italic">chanson de départie</hi>, ma contribuisce ad attestare la rapida ricezione
+          e la popolarità delle canzoni di crociata di Conon de Béthune, trattandosi di una risposta
+          sarcastica costituita quasi esclusivamente di repliche più o meno letterali alle canzoni
+          RS 1125 e RS 1314. In sostanza Huon rinfaccia a Conon le sue inadempienze, ritorcendogli
+          contro tutti gli ammonimenti da lui rivolti a chi non voleva partecipare alla crociata.
+          Questo testo ci conferma che le canzoni di Conon sono state recepite e interpretate come
+          testi di propaganda, vista l’assenza di qualsiasi riferimento alla separazione dalla dama
+          amata, che pure costituiva un elemento distintivo delle canzoni del troviero di Béthune.
+          Il duro sarcasmo di Huon non dov’essere necessariamente interpretato in senso letterale, e
+          non è escluso che si tratti di un semplice gioco letterario. Huon d’Oisy riprende anche lo
+          schema retorico delle canzoni di Conon, basate sui poli semantici <hi rend="italic"
+            >honte-honor</hi> e sulla loro antitesi; si veda per esempio <hi rend="italic"
+            >honis</hi> (vv. 3 e 4), <hi rend="italic">honteuse vie</hi> (v. 9), <hi rend="italic"
+            >recreans</hi> (v. 11), <hi rend="italic">preus</hi> (v. 15), <hi rend="italic"
+            >honte</hi> (v. 18). Le numerose riprese dei testi di Conon verranno segnalate in modo
+          puntuale nel commento.</p>
+        <p corresp="#rs.1030.fro:(n=1)">Il verso iniziale riprende RS 1314, 20-22: Dieus! ke porront
+          faire si anemi, / quant tot li saint trambleront de dotance / devant Celui ki onques ne
+          menti?.</p>
+        <p corresp="#rs.1030.fro:(n=2)">Si è molto discusso sul senso da attribuire al verbo
+          revient, che insieme ad ala dei vv. 15 e 20 sembra indicare una partenza e un ritorno di
+          Conon. Ma a cosa si riferisce esattamente Huon? A una vera partenza per la crociata, a un
+          breve viaggio rapidamente abortito o alla semplice intenzione di partire? Visto il
+          contenuto dei vv. 15-16, dove il verbo aler è legato all’attività propagandistica di
+          Conon, non è escluso che ala si riferisca alla decisione di partire per la crociata e
+          revient a qualche evento che ha impedito al progetto di realizzarsi.</p>
+        <p corresp="#rs.1030.fro[range(@n=3,@n=4)]">Questi versi riprendono RS 1125, 21: Saichiés
+          chil sont trop honi ki n’iront e RS 1314, 39-40: Po en i a n’ait son renne honi, / por
+          tant qu’il ait sor ses homes possance.</p>
+        <p corresp="#rs.1030.fro[range(@n=5,@n=6)]">Ironica allusione al giudizio universale,
+          evocato da Conon nella canzone RS 1314, 20-24; ma si vedano anche i vv. 13-14. Il gioco di
+          parole con ripetizione del verbo faillir si trova invece in RS 1125, 11-12: ki li faura a
+          cest besoig d’aïe, / saiciés ke il li faura a grignor; Huon ne riprende anche l’ambiguità
+          sintattica, con il pronome personali il e li che si riferiscono alternativamente a Dio e a
+          Conon.</p>
+        <p corresp="#rs.1030.fro[range(@n=7,@n=8)]">Questi versi costituiscono forse una replica
+          all’esordio e alla conclusione della canzone RS 1314, dove Conon s’interrogava circa
+          l’opportunità di scrivere o meno una canzone e riconosceva in Huon d’Oisy il suo maestro
+          nell’arte poetica; si veda RS 1314, 1-2: Bien me deüsse targier / de chançon faire et de
+          mos et de chans e 51-52: si s’an praingnent a mon mastre d’Oissi, / qui m’at apris a
+          chanter tres m’anfance.</p>
+        <p corresp="#rs.1030.fro[range(@n=9,@n=10)]">Questi versi riprendono RS 1125, 33-34: Ki chi
+          ne velt avoir vie anuieuse / si voist por Dieu morir liés et joieus; per il v. 9 si veda
+          anche RS 1125, 48: a tos jors mais iert no vie honteuse.</p>
+        <p corresp="#rs.1030.fro[range(@n=11,@n=12)]">Questi versi riprendono RS 1125, 23-24: et cil
+          ki sain et jone et riche sont / ne poevent pas demorer sans hontaige; per il v. 12 si veda
+          anche RS 1314, 26: ne remanrai chi avoc ces tirans.</p>
+        <p corresp="#rs.1030.fro:(n=12)">L’espressione vo roi non va presa come indizio di una
+          particolare vicinanza di Conon de Béthune a Filippo Augusto, perché Conon era, come Huon,
+          vassallo diretto di Filippo d’Alsazia e non del re e ha lasciato trasparire in più
+          occasioni la sua avversione verso il sovrano (si veda Barbieri 2013, pp. 289-290). Il
+          verbo remanrés sembra indicare che il re non si è ancora mosso per la crociata. Per
+          l’attacco alla posizione attendista di Filippo Augusto e di altri sovrani e baroni si veda
+          per esempio Maistre Renaut RS 886, refrain e vv. 51-58, che riprendono anche l’accenno al
+          giudizio universale e il medesimo gioco di parole con ripetizione del verbo faillir del v.
+          6; per la lirica provenzale si veda Bertran de Born BdT 80.4, 15-21 e forse BdT 80.17, 20
+          e 29-35 (6 e 15-21 ed. Gouiran). Anche i versi iniziali del Tornoiement des dames sembrano
+          accennare una critica all’inazione dei baroni, che si trova anche nelle canzoni di Conon
+          (vv. 1-5: En l’an que chevalier sont / Abaubi, / Ke d’armes noient ne font / Li hardi, /
+          Lez damez tournoier vont).</p>
+        <p corresp="#rs.1030.fro[range(@n=13,@n=14)]">Altro probabile riferimento al giudizio
+          universale, poiché l’espressione ki sor tous est poissans indica verosimilmente il potere
+          di giudizio di Dio. Questi versi riprendono RS 1314, 23-24: Adont seront pecheor mal
+          bailli, / se sa pitiés ne cuevre sa poissance.</p>
+        <p corresp="#rs.1030.fro[range(@n=15,@n=16)]">Questi versi riprendono RS 1125, 41-42: Diex!
+          tant avons esté prex par huiseuse, / or i parra ki a certes iert prex.</p>
+        <p corresp="#rs.1030.fro:(n=19)">Il verso riprende RS 1314, 37-38: Dehait li bers qui est de
+          tel sanblance / con li oixel qui conchïet son nit!. La replica di Huon a RS 1314, 38
+          sarebbe più precisa se il testo avesse la lezione nit (niu?) al posto di liu. Potrebbe
+          trattarsi di un errore d’archetipo? In ogni caso il testo funziona anche così e non sembra
+          opportuno correggerlo.</p>
+        <p corresp="#rs.1030.fro[range(@n=21,@n=22)]">Questi versi sembrano confermare che quando
+          l’autore li scriveva Conon de Béthune non aveva raggiunto la Terra Santa, e che il suo
+          progetto di partire per la crociata non si era concretizzato.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

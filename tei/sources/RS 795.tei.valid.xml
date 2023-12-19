@@ -1,0 +1,440 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-03-05</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Huet 1912, p. 29; Vaillant 1913,<hi rend="exldetailsdisplayval"> </hi>p. 28; Raugei
+            1981, p. 175.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Huet 1912, p. 29; Vaillant 1913,<hi rend="exldetailsdisplayval"> </hi>p. 28; Raugei
+            1981, p. 175.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss</hi>.: <hi rend="bold">(2).</hi> M 88r-88v (<hi rend="italic"
+              >~Me s(ire) Gautiers dargies</hi>), T 143r (<hi rend="italic">Me sire gautiers
+              dargies</hi>).</bibl>
+          <bibl> [@type=manuscripts,@xml:lang=it]</bibl>
+          <bibl><hi rend="bold">Mss</hi>.: <hi rend="bold">(2).</hi> M 88r-88v (<hi rend="italic"
+              >~Me s(ire) Gautiers dargies</hi>), T 143r (<hi rend="italic">Me sire gautiers
+              dargies</hi>).</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’"
+        ><p>7a4b7a4b7a4b7a4b4a4a4a4b4a4a4a4b4a4a8b (MW 693,1); 4 <hi rend="italic">coblas
+          singulars</hi> and an 11-line <hi rend="italic">envoi</hi> a4a4a4b4a4a4a4b4a4a8b; rhyme a
+        = <hi rend="italic">-er, -ant, -ié, -é</hi>; rhyme b = <hi rend="italic">-ir, -ai, -ort,
+          -ent</hi>; between stanzas III and IV the two mss. also transmit a probably interpolated
+        stanza distinguished by the alternation of m. and f. rhymes (rhyme a’ = <hi rend="italic"
+          >-ie</hi>; rhyme b = <hi rend="italic">is</hi>). Unicum. For further details see Raugei,
+        pp. 175-176. The melody is transmitted in both mss.with the structure ABCD ABCD EFGH IKG’L
+        MNO (T 467).</p></metDecl>
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’"
+        ><p>7a4b7a4b7a4b7a4b4a4a4a4b4a4a4a4b4a4a8b (MW 693,1); 4 <hi rend="italic">coblas
+          singulars</hi>, con un <hi rend="italic">envoi</hi> di 11 versi (a4a4a4b4a4a4a4b4a4a8b);
+        rima a = <hi rend="italic">-er, -ant, -ié, -é</hi>; rima b = <hi rend="italic">-ir, -ai,
+          -ort, -ent</hi>; tra le strofe III e IV i due manoscritti riportano una strofa
+        probabilmente interpolata, caratterizzata da una rima ‘a’ femminile (rima a’ = <hi
+          rend="italic">-ie</hi>; rima b = <hi rend="italic">is</hi>). <hi rend="italic"
+        >Unicum</hi>. Per ulteriori dettagli si veda Raugei, pp. 175-176. La melodia è trasmessa da
+          entrambi i manoscritti, secondo lo schema ABCD ABCD EFGH IKG’L MNO (T 467).</p></metDecl>
+      <editorialDecl xml:lang="en"><p>Apart from a few minor variants the two mss.
+        transmit the same text, including st. IIIb, though T has an inferior (erroneous?) reading in
+        v. 42 and errors in 60 and 61, as well as a lacuna from v. 17 to v. 33; a modern hand has
+        filled in the missing lines from the text of M. Graphy M.</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>A parte qualche minima variante i manoscritti
+        riportano lo stesso testo, che include la strofa IIIb, anche se T ha una lezione deteriore
+        (erronea?) al v. 42 e lezioni erronee ai vv. 60 e 61, oltra a una lacuna dal v. 17 al v. 33;
+        una mano moderna ha integrato i versi mancanti secondo la lezione di M. Grafia di
+        M.</p></editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-03-13T10:18:23Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Gautier de Dargies</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front>
+    <body>
+        <div type="text" xml:id="rs.795.fro" xml:lang="fro">
+          <lg n="1" type="stanza">
+            <l n="1">Bien me quidai de chanter</l>
+            <l n="2">touz jours tenir,</l>
+            <l n="3">maiz plus bel ne sai penser</l>
+            <l n="4"> ne regehir</l>
+            <l n="5">mon corage et mon penser,</l>
+            <l n="6">dont trop m’aïr;</l>
+            <l n="7">de mon cuer m’estuet sevrer</l>
+            <l n="8">et departir.</l>
+            <l n="9">Gent cors, vis cler,</l>
+            <l n="10">trop vous comper;</l>
+            <l n="11">mout truis amer</l>
+            <l n="12">le souvenir</l>
+            <l n="13">de vostre aler,</l>
+            <l n="14">vostre parler,</l>
+            <l n="15">vostre joer,</l>
+            <l n="16">vostre venir;</l>
+            <l n="17">or puis plourer</l>
+            <l n="18">et dementer;</l>
+            <l n="19">tart vendrai maiz au repentir!</l>
+          </lg>
+          <lg n="2" type="stanza">
+            <l n="20">Sa simple chiere rïant</l>
+            <l n="21">mar acointai,</l>
+            <l n="22">son cler vis fres et plaisant;</l>
+            <l n="23">quant l’esguardai,</l>
+            <l n="24">mout la vi tresdoucement,</l>
+            <l n="25">si l’aamai.</l>
+            <l n="26">Or m’a mis en dolour grant;</l>
+            <l n="27">Dex, qu’en ferai!</l>
+            <l n="28">Tout dolousant,</l>
+            <l n="29">grant duel faisant,</l>
+            <l n="30">mout esmaiant,</l>
+            <l n="31">l’eslongerai</l>
+            <l n="32">d’ore en avant:</l>
+            <l n="33">la tresvaillant</l>
+            <l n="34">qui je aim tant</l>
+            <l n="35">de cuer verai.</l>
+            <l n="36">Petit dormant</l>
+            <l n="37">et bien veillant</l>
+            <l n="38">desoremaiz m’i trouverai.</l>
+          </lg>
+          <lg n="3" type="stanza">
+            <l n="39">A celi ai pris congié</l>
+            <l n="40">qui si m’a mort;</l>
+            <l n="41">j’en ai eü grant pitié,</l>
+            <l n="42">et si fu tort.</l>
+            <l n="43">Bien m’a tenu souz le pié</l>
+            <l n="44">et sanz deport</l>
+            <l n="45">et tous jours m’a eslongié</l>
+            <l n="46">de son acort.</l>
+            <l n="47">Ele a pechié,</l>
+            <l n="48">quant si leissié</l>
+            <l n="49">m’a engignié</l>
+            <l n="50">et de confort</l>
+            <l n="51">m’a pou leissié.</l>
+            <l n="52">Or m’en plaig gié;</l>
+            <l n="53">trop m’a chargié,</l>
+            <l n="54">grant fais en port.</l>
+            <l n="55">J’ai pourchacié</l>
+            <l n="56">et atirié</l>
+            <l n="57">qu’en souspirant m’en vois au port.</l>
+          </lg>
+          <lg n="13" type="stanza">
+            <l n="58">Dolanz lais ma douce amie (mss. MT)</l>
+            <l n="59">et mout maris.</l>
+            <l n="60">Conment ai u cors la vie,</l>
+            <l n="61">quant partis</l>
+            <l n="62">me sui de sa compaignie</l>
+            <l n="63">or m’en est pis:</l>
+            <l n="64">si m’est ma joie faillie.</l>
+            <l n="65">Ce m’est vis</l>
+            <l n="66">que desservie</l>
+            <l n="67">n’en ai mie,</l>
+            <l n="68">ainz est perie</l>
+            <l n="69">ma mercis</l>
+            <l n="70">qu’ai couvoitié</l>
+            <l n="71">par folie;</l>
+            <l n="72">l’ai laissié</l>
+            <l n="73">en son païs,</l>
+            <l n="74">en la Berrie,</l>
+            <l n="75">et en Surie</l>
+            <l n="76">m’en vois pour li mout pensis.</l>
+          </lg>
+          <lg n="4" type="stanza">
+            <l n="77">Bien m’a ma dame mené</l>
+            <l n="78">a son talent,</l>
+            <l n="79">que j’ai loiaument amé</l>
+            <l n="80">et longuement;</l>
+            <l n="81">maint bel samblant m’a moustré</l>
+            <l n="82">et faussement</l>
+            <l n="83">que j’ai mout chier achaté.</l>
+            <l n="84">Encor m’en sent:</l>
+            <l n="85">mout m’a grevé</l>
+            <l n="86">et empiré</l>
+            <l n="87">– s’ai enduré</l>
+            <l n="88">mout bonement –</l>
+            <l n="89">et mout pené,</l>
+            <l n="90">maint mal doné;</l>
+            <l n="91">de ma santé</l>
+            <l n="92">petit ament.</l>
+            <l n="93">Tant ai erré</l>
+            <l n="94">qu’or sunt doublé,</l>
+            <l n="95">sachiez de voir, tuit mi tourment.</l>
+          </lg>
+          <lg n="5" type="stanza">
+            <l n="96">En loiauté</l>
+            <l n="97">ai mout esté,</l>
+            <l n="98">s’ai conquesté</l>
+            <l n="99">si povrement;</l>
+            <l n="100">humilité</l>
+            <l n="101">i ai trouvé.</l>
+            <l n="102">Je di verté:</l>
+            <l n="103">se je ne ment,</l>
+            <l n="104">guerredouné</l>
+            <l n="105">m’a a son gré.</l>
+            <l n="106">Folz est qui lor merite atent.</l>
+          </lg>
+        </div>
+        <div type="translation" xml:id="rs.795.en" xml:lang="en">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>I certainly imagined I would refrain from singing forever, but I cannot think of a
+              better way to express my heart and thoughts, which are making me very angry; I am
+              forced to divide and separate myself from my heart. Sweet person, fair of face, I pay
+              too dearly for you; most bitter do I find the memory of your bearing, your speech,
+              your playfulness, your approach; now I can weep and give myself over to sorrow; it
+              will be long before I ever repent of this!</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>To come to see her candid laughing countenance – her bright face, fresh and pleasing
+              – was my doom; when I looked on her, I gazed on her most sweetly, and fell in love
+              with her. Now she has plunged me into great affliction; God, what shall I do! Full of
+              sorrow and sore laments, deeply troubled, henceforth I shall take my distance from
+              her: the most worthy lady whom I love so much with a true heart. Hereafter I shall
+              find myself sleeping little and waking much.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>I have taken leave of the one who has slain me so; I had great suffering for it, but
+              this was wrong. She kept me firmly underfoot, with no pleasure, and she always kept me
+              away from contact with her. She did wrong to deceive me, neglected as I was, and left
+              me little comfort. Now I arraign her: she has burdened me too much, and I bear a heavy
+              load. I have made my preparations and my decision for, sighing, I am on my way to the
+              port (the end?). </p>
+          </div>
+          <div n="13" type="stanza">
+            <p><hi rend="italic">Sorrowfully I leave my sweet love and in great sadness. Although I
+                still have life in my body, after leaving her company things are now worse for me:
+                my joy has ended. It seems to me that I have in no way deserved this, but rather the
+                pity I foolishly yearned for has perished; I have left it in her land, in Brie (?),
+                and I go off to Syria most downcast because of her.</hi></p>
+          </div>
+          <div n="4" type="stanza">
+            <p>My lady, whom I have loyally loved, and for a long time, has certainly strung me
+              along as she wished; she gave me many a fair look, but falsely, and I have most dearly
+              paid for it. I still feel its effects: she has severely wounded and damaged me – I
+              have endured this most patiently – and caused me great pain and much (love-)sickness;
+              I have little help for my health; I have gone so far astray that now, be truly aware
+              of this, my torments are all doubled.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>I have long remained loyal, but have gained so little; I found humiliation. I tell
+              the truth: unless I lie, she has rewarded me to her liking. So a man who expects his
+              just deserts is a fool.</p>
+          </div>
+        </div>
+        <div type="translation" xml:id="rs.795.it" xml:lang="it">
+          <head> Translation </head>
+          <div n="1" type="stanza">
+            <p>Ho pensato seriamente di smettere di cantare per sempre, ma non riesco a immaginare
+              un modo migliore per esprimere il mio stato d’animo e il mio pensiero, che mi esaspera
+              oltremodo; sono costretto a separarmi dal mio cuore e abbandonarlo. Bella persona,
+              viso grazioso, pago un prezzo troppo alto per voi; trovo particolarmente amaro il
+              ricordo del vostro portamento, delle vostre parole, della vostra allegria, del vostro
+              appressarvi; ora posso (solo) piangere e lasciarmi sopraffare dal dolore; sarà troppo
+              tardi quando me ne pentirò.</p>
+          </div>
+          <div n="2" type="stanza">
+            <p>Vedere il suo volto candido e sorridente, il suo viso luminoso, fresco e piacevole, è
+              stata la mia rovina; quando la guardai, l’osservai con tenerezza, e mi innamorai di
+              lei. Ora mi ha gettato in un grande sconforto; Dio, che farò? Pieno di tristezza e di
+              grande dolore, profondamente turbato, d’ora in poi l’eviterò: la donna più nobile, che
+              amo così tanto di vero cuore. Oramai mi toccherà dormire poco e vegliare molto.</p>
+          </div>
+          <div n="3" type="stanza">
+            <p>Ho detto addio a colei che mi ha ucciso in questo modo; ne ho sofferto molto, e ho
+              fatto male. Mi ha tenuto saldamente sotto i piedi, privo di piacere, e mi ha sempre
+              escluso dalla sua considerazione. Si è comportata male quando, dopo avermi trascurato,
+              mi ha ingannato e mi ha concesso ben poco conforto. Ora io l’accuso: mi ha troppo
+              oppresso, e ne porto un grande peso. Ho procurato e deciso di incamminarmi sospirando
+              verso il porto (la fine?).</p>
+          </div>
+          <div n="13" type="stanza">
+            <p><hi rend="italic">Dolente e molto triste lascio il mio dolce amore. Anche se ho
+                (ancora) vita in corpo, dopo aver lasciato la sua compagnia tutto va male: la mia
+                gioia è finita. Mi sembra di non avere in alcun modo meritato questo, ma è morta per
+                me la pietà che ho vanamente agognato; l’ho lasciata nella sua terra, a Brie (?), e
+                me ne vado molto afflitto a causa sua.</hi></p>
+          </div>
+          <div n="4" type="stanza">
+            <p>La mia signora, che ho amato fedelmente e a lungo, si è davvero presa gioco di me; mi
+              ha illuso mostrandosi falsamente ben disposta, e l’ho pagato a caro prezzo. Ne sento
+              ancora gli effetti: mi ha molto tormentato e prostrato – e l’ho sopportato
+              pazientemente – e mi ha molto angustiato e fatto soffrire; ma per la mia salute ho
+              poco giovamento; ho tanto vagato a vuoto, sappiatelo bene, che ora tutti i miei
+              tormenti sono raddoppiati.</p>
+          </div>
+          <div n="5" type="stanza">
+            <p>Sono rimasto fedele a lungo, e ne ho guadagnato così poco; vi ho trovato (solo)
+              commiserazione. Dico la verità: se non mi sbaglio, mi ha ripagato a suo capriccio. È
+              folle chi si aspetta la loro riconoscenza.</p>
+          </div>
+        </div>
+        <div type="text" xml:lang="en ">
+          <p>Anna Maria Raugei 1981 (with a few punctuation changes).</p>
+        </div>
+        <div type="text" xml:lang="it ">
+          <p>Anna Maria Raugei 1981, con alcune modifiche di punteggiatura.</p>
+        </div>
+    </body>
+    <back>
+      <div type="historical" xml:lang="en">
+        <head> Historical context and dating </head>
+        <p>Gautier de Dargies (now a small village c. 6 km. from Grandvilliers, Oise, arr. Beauvais)
+          was a contemporary of Gace Brulé, with whom he appears to have had strong ties of
+          friendship, and whom he regarded as his poetic master and model. He exchanged <hi
+            rend="italic">tensos</hi> with a certain Richart, probably Richart de Fournival, of
+          younger generation. Gautier lived between c. 1170-1175 and 1236 (see Raugei, pp. 30-33).
+          For the issue of whether he went on crusade or not, see the introduction to our notes.</p>
+      </div>
+      <div type="historical" xml:lang="it">
+        <head> Contesto storico e datazione </head>
+        <p>Gautier de Dargies (attualmente un piccolo villaggio a circa 6 km da Grandvilliers, Oise,
+          arr. Beauvais) fu un contemporaneo di Gace Brulé, con il quale sembra aver avuto un forte
+          legame di amicizia, considerandolo suo maestro e modello. Scambiò versi con un certo
+          Richart, probabilmente Richart de Fournival, di una generazione più giovane. Gautier visse
+          tra il 1170-1175 e il 1236 (si veda Raugei, pp. 30-33). Sulla questione della sua
+          eventuale partecipazione a una crociata si veda la nota introduttiva.</p>
+      </div>
+      <div type="notes" xml:lang="en">
+        <head> Notes </head>
+        <p>Raugei, no doubt rightly, considers stanza IIIb as an inauthentic interpolation. She
+          observes that here the poet rebukes himself and not the lady for the estrangement, in
+          striking contrast to the rest of the song and notably the two stanzas surrounding it, both
+          of which clearly blame the lady’s conduct; that its mention of the specific geographical
+          locations <hi rend="italic">berrie</hi> and <hi rend="italic">syrie</hi> are alien to the
+          rest of Gautier’s production, the poet avoiding any mention of the lady’s name or origin
+          according to the courtly requirements of secrecy; that its versification is
+          uncharacteristically highly careless (see p. 180), and moreover the ‘a’ rhyme is feminine
+          whereas it is masculine in the other stanzas; and that it is pedestrian in its development
+          of the motif of separation and, possibly, departure for a distant land, which however may
+          or may not be evoked in the preceding stanza (<hi rend="italic">qu’en souspirant m’en vois
+            au port</hi>, v. 57). In her note to v. 57 she comments that the port to which the poet
+          refers here may be literal, but may alternatively be figurative in the sense of ‘end,
+          point of arrival, conclusion’, and argues that nothing here authorises us to assume that
+          the distance created from the lady implies a sea voyage; the sense could therefore, she
+          argues, be ‘I have prepared and decided to journey sighing to the end (of my sorrowful
+          state?)’. She does however note that when other trouvères use the noun <hi rend="italic"
+            >port</hi> figuratively it is never determined by the definite article, which it is
+          here, and that the anonymous interpolater interprets <hi rend="italic">port</hi>
+          literally. We have included the piece in our corpus partly because of this last point,
+          partly because Gautier states in RS 1575 that he has been abroad for a long time (v. 1)
+          and because even though that song contains no direct allusions to a crusade it forms part
+          of a fairly uniform group of texts on the distance of the lady (see for example the
+          introductory notes to RS 1204 and RS 421), some of which refer to crusading explicitly.
+          Raugei does not include it in her text but gives it in the critical apparatus following
+          M’s graphy. For full details, particularly of stylistic analogies with other OF and
+          Occitan lyrics, and a sensitive literary analysis of the text, see Raugei, p. 179 ff. For
+            <hi rend="italic">berrie</hi> as a geographical reference in v. 17 of IIIb, perhaps
+          ‘Brie’, whose precision is uncharacteristic of Gautier de Dargies, see Raugei, p. 180.</p>
+        <p corresp="#rs.795.fro:(n=41)">As Raugei notes, pitié here means ‘suffering, pain’: cf TL,
+          VII, 985, ‘Jammer, Elend’.</p>
+        <p corresp="#rs.795.fro[range(@n=55,@n=56)]">Raugei observes that atirier can mean either
+          ‘arrange, prepare’ or ‘decide, establish’, giving either a synonymous repetition or a
+          hysteron-proteron (a figure of speech in which the natural or rational order of its terms
+          is reversed).</p>
+        <p corresp="#rs.795.fro:(n=57)">See the introductory note above.</p>
+        <p corresp="#rs.795.fro:(n=67)">Raugei takes M’s empiré as difficilior with respect to T’s
+          more obvious tormenté.</p>
+        <p corresp="#rs.795.fro[range(@n=72,@n=73)]">Raugei takes santé here to refer specifically
+          to the condition affected by Ovidian love-sickness, translating petit ament as ‘ho poco
+          giovamento’.</p>
+        <p corresp="#rs.795.fro:(n=81)">Raugei interprets humilité in this context as the affability
+          with which the capricious lady briefly gratified the poet, but compare v. 43 and FEW, IV,
+          511, II. </p>
+      </div>
+      <div type="notes" xml:lang="it">
+        <head> Note </head>
+        <p>Raugei, certamente a ragione, considera la strofa IIIb un’interpolazione spuria,
+          osservando che qui il poeta rimprovera se stesso e non la dama per la separazione, in
+          evidente contrasto con il resto della canzone e in particolare con le due strofe contigue,
+          ognuna delle quali biasima in modo evidente il comportamento della dama; inoltre le
+          indicazioni geografiche specifiche <hi rend="italic">berrie</hi> e <hi rend="italic"
+            >syrie</hi> sono estranee al resto della produzione di Gautier, dove il poeta evita ogni
+          menzione del nome e del luogo d’origine della dama conformemente al precetto cortese di
+          segretezza; anche la versificazione è insolitamente molto trascurata (si veda p. 180),
+          inoltre la rima ‘a’ è femminile mentre è maschile nelle altre strofe; infine, questa
+          strofa sviluppa in modo banale il motivo della separazione e dell’eventuale partenza per
+          terre lontane, che potrebbe o meno essere evocata nella strofa precedente (<hi
+            rend="italic">qu’en souspirant m’en vois au port</hi>, v. 57). Nella sua nota al v. 57,
+          Raugei commenta che il porto al quale il poeta si riferisce potrebbe essere preso in senso
+          letterale ma anche figurato col valore di ‘fine, punto d’arrivo, conclusione’, e sostiene
+          che nulla ci autorizza ad assumere che il distacco dalla dama implichi un viaggio
+          oltremare; il senso perciò potrebbe essere ‘ho procurato e deciso di incamminarmi
+          sospirando verso la fine (di questo mio stato doloroso?)’. Raugei osserva tuttavia che
+          quando altri trovieri impiegano il sostantivo <hi rend="italic">port</hi> in senso
+          figurato esso non è mai determinato dall’articolo, come avviene invece in questo caso, e
+          che l’anonimo interpolatore interpreta <hi rend="italic">port</hi> in senso letterale.
+          Abbiamo incluso questa canzone nel nostro corpus in parte per quest’ultima osservazione,
+          in parte perché Gautier afferma nella canzone RS 1575 di essere stato lontano per un lungo
+          tempo (v. 1) e perché, anche se questa canzone non contiene allusioni dirette a una
+          crociata, essa fa parte di un gruppo piuttosto compatto di testi sulla lontananza dalla
+          dama (si vedano per esempio le note introduttive a RS 1204 e RS 421), alcuni dei quali si
+          riferiscono esplicitamente alla crociata. Raugei non include questa strofa nel suo testo
+          critico, ma la riporta nell’apparato secondo la grafia di M. Per ulteriori dettagli,
+          specialmente circa le analogie stilistiche con altre canzoni francesi e occitane, e per
+          una delicata analisi letteraria del testo, si veda Raugei, pp. 179ss. Per <hi
+            rend="italic">berrie</hi> quale possibile riferimento geografico al v. 17 della strofa
+          IIIb, forse ‘Brie’, la cui precisione è inusuale per Gautier de Dargies, si veda Raugei,
+          p. 180.</p>
+        <p corresp="#rs.795.fro:(n=41)">Come rileva Raugei, pitié qui significa ‘sofferenza,
+          dolore’: si veda TL VII, 985, ‘Jammer, Elend’.</p>
+        <p corresp="#rs.795.fro[range(@n=55,@n=56)]">Raugei osserva che atirier può significare
+          tanto ‘procacciare, preparare’ quanto ‘decidere, stabilire’, costituendo nel primo caso
+          un’iterazione sinonimica e nel secondo caso un hysteron-proteron (una figura retorica dove
+          l’ordine naturale o logico dei termini è invertito).</p>
+        <p corresp="#rs.795.fro:(n=57)">Si veda sopra la nota introduttiva.</p>
+        <p corresp="#rs.795.fro:(n=67)">Raugei ritiene la lezione empiré di M difficilior rispetto
+          alla più ovvia tormenté di T.</p>
+        <p corresp="#rs.795.fro[range(@n=72,@n=73)]">Raugei considera santé riferito in modo
+          specifico al topos ovidiano dell’amore-malattia, traducendo petit ament con ‘ho poco
+          giovamento’.</p>
+        <p corresp="#rs.795.fro:(n=81)">Raugei interpreta humilité in questo contesto come
+          l’affabilità di cui la dama capricciosa ha gratificato per breve tempo il poeta, ma si
+          confronti il v. 43 con FEW IV, 511, II.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

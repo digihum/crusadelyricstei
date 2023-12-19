@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author><name>Linda</name><surname>Paterson</surname></author>
+        <funder>AHRC</funder>
+        <principal>Linda Paterson</principal>
+        <editor>The person who did the editing</editor>
+        <respStmt>
+          <name>Steve Ranford</name>
+          <resp>Conversion to TEI-conformant markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>joe bloggs</name>
+          <resp>Translation to Italian of xyz</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2016-02-24</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>University of Warwick? (The publisher is the person or institution by whose
+          authority a given edition of the file is made public.)</publisher>
+        <date>2014</date>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl type="previous_editions" xml:lang="en">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Jubinal 1838, 37; Michel 1839, 52; Buchon 1840, I, 425; Leroux de Lincy
+              1841-1842,<hi rend="smallcaps"> I,</hi> 122; Wackernagel 1846, 34; Paris 1890a, 294;
+            Bédier-Aubry 1909, 145; Serper 1983, 82; Guida 1992, 98; Dijkstra 1995a, 202.</bibl>
+        </listBibl>
+        <listBibl type="previous_editions" xml:lang="it">
+          <head> Previous Editions/Edizioni precedenti </head>
+          <bibl>Jubinal 1838, 37; Michel 1839, 52; Buchon 1840, I, 425; Leroux de Lincy
+              1841-1842,<hi rend="smallcaps"> I,</hi> 122; Wackernagel 1846, 34; Paris 1890a, 294;
+            Bédier-Aubry 1909, 145; Serper 1983, 82; Guida 1992, 98; Dijkstra 1995a, 202.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="en">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss. (3).</hi> C 96r (anonymous), M 81b (<hi rend="italic">Hues de
+              saint quentin</hi>), T 42v (<hi rend="italic">Hues de saint quentin</hi>); M’s text is
+            mutilated because of the removal of a vignette; the attribution appears in the initial
+            table of the songbook.</bibl>
+        </listBibl>
+        <listBibl type="manuscripts" xml:lang="it">
+          <head> Mss. </head>
+          <bibl><hi rend="bold">Mss. (3).</hi> C 96r (anonima), M 81b (<hi rend="italic">Hues de
+              saint quentin</hi>), T 42v (<hi rend="italic">Hues de saint quentin</hi>); il testo di
+            M è mutilato a causa dell’ablazione di una vignetta; l’attribuzione si legge nella
+            tavola iniziale del canzoniere.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:lang="en" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;">
+        <p>10ababbbaabba (MW 961,1); 4 <hi rend="italic">coblas doblas capcaudadas</hi>; rhyme a:
+            <hi rend="italic">-is</hi>, <hi rend="italic">-on</hi>; rhyme b: <hi rend="italic">-ent</hi>, <hi rend="italic">-ier</hi>; the metrical shape is a <hi rend="italic">unicum</hi> in Old French lyric and there are no examples in troubadour lyric;
+          paronymous rhymes in vv. 3-22 (<hi rend="italic">amis-pramis</hi>), 14-18-19 (<hi rend="italic">souspris-pris-repris</hi>, also derivative), 25-41-44 (<hi rend="italic">pardon-guerredon-don</hi>); <hi rend="italic">ment</hi> in v. 20 constitutes a
+          paronymous rhyme with numerous forms of the rich rhyme <hi rend="italic">-ment</hi> in the
+          first two stanzas (vv. 2, 5, 6, 9, 16, 17); lyric caesura in vv. 17, 28 and 42; feminine
+          caesura with elision in v. 10; melody in MT, with the melodic scheme ABAB CDEFGHI (T
+          911).</p>
+      </metDecl>
+      <metDecl xml:lang="it" pattern="10a&#x2019;ba&#x2019;bba&#x2019;ba&#x2019;">
+        <p>10ababbbaabba (MW 961,1); 4 <hi rend="italic">coblas doblas capcaudadas</hi>; rima a: <hi rend="italic">-is</hi>, <hi rend="italic">-on</hi>; rima b: <hi rend="italic">-ent</hi>,
+            <hi rend="italic">-ier</hi>; lo schema metrico è un <hi rend="italic">unicum</hi> nella
+          lirica francese e non se ne trovano esempi nella lirica trobadorica; si ha rima paronima
+          ai vv. 3-22 (<hi rend="italic">amis-pramis</hi>), 14-18-19 (<hi rend="italic">souspris-pris-repris</hi>, anche derivativa), 25-41-44 (<hi rend="italic">pardon-guerredon-don</hi>); <hi rend="italic">ment</hi> al v. 20 costituisce rima
+          paronima con numerose forme in rima ricca <hi rend="italic">-ment</hi> delle prime due
+          strofe (vv. 2, 5, 6, 9, 16, 17); cesura lirica ai vv. 17, 28 e 42; cesura femminile con
+          elisione al v. 10; melodia in MT, con schema melodico ABAB CDEFGHI (T 911).</p>
+      </metDecl>
+      <editorialDecl xml:lang="en">
+        <p>The absence of v. 26 unites the three witnesses and represents an archetype error; the
+          absence of v. 19 unites mss. MT in error against C. MT’s text is, as is often the case,
+          generally better and is therefore used as base. Because of material gaps in M’s text the
+          more northern graphy of ms. T is followed, which probably respects the author’s more
+          closely. The main northern features are: <hi rend="italic">u</hi> for <hi rend="italic">ou</hi> (vv. 2, 6, 29), <hi rend="italic">cascun(s)</hi> (vv. 5, 13, 22, 41), <hi rend="italic">liu</hi> v. 6, <hi rend="italic">faura</hi> v. 11, <hi rend="italic">Diu(s)</hi> (vv. 20 and 22), <hi rend="italic">ara</hi> v. 43; on the morphological
+          level see <hi rend="italic">le</hi> for <hi rend="italic">la</hi> in vv. 9-10. T’s reading
+          is rejected each time it is opposed to the joint reading of C and M (v. 2 <hi rend="italic">doucement</hi>, v. 4 <hi rend="italic">son cors</hi>, v. 31 <hi rend="italic">qui</hi>, v. 35 <hi rend="italic">k’il</hi> and <hi rend="italic">vai
+            a</hi>). In the absence of M, C’s reading has been preferred in v. 14, where T presents
+          an improbable syntactic alternative (<hi rend="italic">mais que</hi>). Finally I complete
+          v. 19 according to C’s reading, the only manuscript to transmit it, and in v. 21 (<hi rend="italic">recolu</hi>) correct the graphy of T, which often confuses <hi rend="italic">c</hi> and <hi rend="italic">t</hi> in conformity with the northern
+          “scripta”.</p>
+      </editorialDecl>
+      <editorialDecl xml:lang="it">
+        <p>L’assenza del v. 26 unisce i tre testimoni e costituisce un errore d’archetipo; l’assenza
+          del v. 19 unisce in errore i mss. MT contro C. La lezione di MT è come spesso accade
+          generalmente migliore e quindi viene utilizzata come base. In particolare, anche a causa
+          delle lacune materiali del testo di M, si segue la grafia più settentrionale del ms. T,
+          che probabilmente rispecchia più da vicino quella dell’autore. I principali tratti
+          settentrionali sono: <hi rend="italic">u</hi> per <hi rend="italic">ou</hi> (vv. 2, 6,
+          29), <hi rend="italic">cascun(s)</hi> (vv. 5, 13, 22, 41), <hi rend="italic">liu</hi> v.
+          6, <hi rend="italic">faura</hi> v. 11, <hi rend="italic">Diu(s)</hi> (vv. 20 e 22), <hi rend="italic">ara</hi> v. 43; a livello morfologico si veda <hi rend="italic">le</hi>
+          per <hi rend="italic">la</hi> ai vv. 9-10. Si abbandona la lezione di T ogni volta che a
+          essa si oppone la lezione congiunta di C e M (v. 2 <hi rend="italic">doucement</hi>, v. 4
+            <hi rend="italic">son cors</hi>, v. 31 <hi rend="italic">qui</hi>, v. 35 <hi rend="italic">k’il</hi> e <hi rend="italic">vai a</hi>). In assenza di M, si preferisce
+          la lezione di C al v. 14, dove T presenta un’alternativa sintatticamente improbabile (<hi rend="italic">mais que</hi>). Infine si integra il v. 19 secondo la lezione di C, unico
+          testimone a riportarlo, e si corregge al v. 21 la grafia di T (<hi rend="italic">recolu</hi>), che conformemente alla “scripta” settentrionale confonde spesso <hi rend="italic">c</hi> e <hi rend="italic">t</hi>.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-03-13T09:37:45Z</date><name>Linda Paterson</name></change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader><text><front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Huon de Saint-Quentin</titlePart>
+          <titlePart type="sub"/>
+        </docTitle>
+        <docAuthor/>
+      </titlePage>
+      <div type="abstract"/>
+    </front><body><div type="translation" xml:id="rs.1576.en" xml:lang="en">
+        <head> Translation </head>
+        <div n="1" type="stanza">
+          <p>Jerusalem laments, and the land where the Lord God suffered death most gently, because
+            this side of the sea it has few friends who offer it the slightest help. If each one
+            remembered the judgment (the Last Judgment) and the holy place where He suffered torture
+            when He forgave Longinus for His death, he would not readily renounce his crusading vow;
+            for whoever takes the cross with full consent for God’s sake denies Him on the day he
+            gives it back, and like Judas will lose paradise.</p>
+        </div>
+        <div n="2" type="stanza">
+          <p>Our shepherds take little care of their sheep when each of them sells them to the wolf
+            for money, but sin has so taken hold of them that they have forgotten God for the sake
+            of silver. What will become of the rich ornaments they acquire most shamefully with the
+            fraudulent payment they have taken from the crusaders? Be well aware that they will be
+            blamed for this, if loyalty and God and faith do not lie; they have stolen from Acre and
+            Bethlehem what each had promised to God.</p>
+        </div>
+        <div n="3" type="stanza">
+          <p>Who will dare to preach and speak of God any more in square or cloister, and announce
+            benefits and indulgences, [<hi rend="italic">when no-one is disposed to perform</hi>]
+            anything which can assist Our Lord to conquer and win back the land where He paid our
+            ransom with His blood? Lord prelates, it is neither good nor just that you so delay his
+            help: you, this can certainly be said, have made Roland of God and Ganelon of
+            yourselves.</p>
+        </div>
+        <div n="4" type="stanza">
+          <p>There is no wisdom nor intelligence in anyone who knows this without helping to avenge
+            those who are over there in prison for God’s sake, and to remove their souls from
+            danger. Since one has to die here, one should not fear pain or torment, shame or harm:
+            everything one does in His name is for God, who will give to each such a reward that the
+            heart of man could not appreciate its worth; for he will receive paradise as a reward,
+            and no-one has ever had such a rich gift for so little.</p>
+        </div>
+      </div><div type="translation" xml:id="rs.1576.it" xml:lang="it">
+        <head> Translation </head>
+        <div n="1" type="stanza">
+          <p>Gerusalemme si lamenta, e la terra dove Dio sopportò la morte con mansuetudine, perché
+            da questa parte del mare ha pochi amici che siano disposti a prestarle soccorso. Se
+            ciascuno si ricordasse del giudizio e del santo luogo dove egli patì il supplizio quando
+            perdonò Longino per la sua morte, non rinuncerebbero a cuor leggero al voto di crociata;
+            perché chi prende con pieno consenso la croce per Dio, lo rinnega il giorno che la
+            restituisce, e come Giuda perderà il paradiso.</p>
+        </div>
+        <div n="2" type="stanza">
+          <p>I nostri pastori curano male le loro pecore dato che ognuno le vende al lupo per
+            denaro, ma il peccato ha talmente preso possesso di loro che hanno dimenticato Dio per i
+            soldi. Che ne sarà dei ricchi ornamenti che acquistano vergognosamente con i vili
+            contributi che hanno riscosso dai crociati? Sappiate che saranno per loro motivo di
+            biasimo, se la lealtà, Dio e la fede non mentono; hanno sottratto a Acri e a Betlemme
+            ciò che ognuno aveva promesso a Dio.</p>
+        </div>
+        <div n="3" type="stanza">
+          <p>Chi oserà più predicare e parlare di Dio in piazza o in convento, e annunciare
+            gratificazioni e indulgenze, [<hi rend="italic">quando nessuno è disposto a
+              compiere</hi>] atti che possano aiutare Nostro Signore a conquistare e recuperare la
+            terra dove pagò il prezzo del nostro riscatto con il suo sangue? Signori prelati, non è
+            né buono né giusto che facciate tardare così tanto il suo soccorso: voi avete fatto, lo
+            si può ben dire, di Dio Orlando e di voi stessi Gano.</p>
+        </div>
+        <div n="4" type="stanza">
+          <p>Non ha saggezza né intelligenza chi sa tutto questo e non contribuisce a riscattare
+            coloro che sono laggiù in prigione per Dio, per allontanare le loro anime dal pericolo.
+            Poiché si deve comunque morire, non si devono temere pena e tormento, ingiuria o danno:
+            tutto ciò che si fa in suo nome è per Dio, che darà a ciascuno una tale ricompensa che
+            nessuno potrebbe stimarne il valore; perché riceverà in premio il paradiso, e nessuno ha
+            mai ricevuto un così grande dono per così poco.</p>
+        </div>
+      </div></body></text></TEI>

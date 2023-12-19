@@ -105,7 +105,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <metDecl type="music" xml:lang="en" pattern="10a’ba’bba’ba’"><p>10ab'ab'aab' (MW 626,3 = Frank
+      <metDecl xml:lang="en" pattern="10a’ba’bba’ba’"><p>10ab'ab'aab' (MW 626,3 = Frank
         215:1); the possible models are to be found in <hi rend="italic">Plaindre m’estuet de la
           bele en chantant</hi> (RS 319) of Robert de Reins, who probably belonged to the first
         generation of Old French trouvères composing between the end of the XIIth and the early
@@ -122,7 +122,7 @@
           doblas</hi> (Bédier 1909, 277, see the Notes below). The way in which the text is set out
         with blank spaces and the exact estimation of the necessary number of lines for the
         transcription of possible missing stanzas is found in the manuscript as a whole.</p></metDecl>
-      <metDecl type="music" xml:lang="it" pattern="10a’ba’bba’ba’"><p>10ab'ab'aab' (MW 626,3 = Frank
+      <metDecl xml:lang="it" pattern="10a’ba’bba’ba’"><p>10ab'ab'aab' (MW 626,3 = Frank
         215:1); i possibili modelli sono da ricercarsi in <hi rend="italic">Plaindre m’estuet de la
           bele en chantant</hi> (RS 319) di Robert de Reins, probabile esponente della prima
         generazione oitanica, collocabile tra la fine del XII e i primi anni del XIII (cfr.
@@ -139,7 +139,7 @@
           doblas</hi> (Bédier 1909, 277). Le modalità della disposizione con la presenza degli spazi
         bianchi e la stima esatta delle righe necessarie per la trascrizione delle eventuali strofi
         mancanti è diffusa in tutto il manoscritto.</p></metDecl>
-      <editorialDecl type="analysis" xml:lang="en">The song is ascribed to Gautier d'Espinal by Du
+      <editorialDecl xml:lang="en"><p>The song is ascribed to Gautier d'Espinal by Du
         Méril 1850 («une de ses plus jolies chansons») and Schultz 1891 («das hübsche Lied»).
         Lindelöf and Wallensköld 1901, 60, place it in an appendix among the <hi rend="italic"
           >chansons incertaines</hi>, considering this attribution as «plus que douteuse» and also
@@ -174,8 +174,8 @@
         Bédier 1909) and to legitimise its assignment in the Table to the repertory of Jehan de
         Nuevile, an exponent of the municipal poetic school of Arras of the second half of the
         XIIIth c., whose collection of songs contains numerous unica preserved by M from an
-        individual source (see also Lindelöf and Wallensköld, p. 26).</editorialDecl>
-      <editorialDecl type="analysis" xml:lang="it">La canzone è assegnata a Gautier d'Espinal da Du
+        individual source (see also Lindelöf and Wallensköld, p. 26).</p></editorialDecl>
+      <editorialDecl xml:lang="it"><p>La canzone è assegnata a Gautier d'Espinal da Du
         Méril 1850 («une de ses plus jolies chansons») e Schultz 1891 («das hübsche Lied»). Lindelöf
         e Wallensköld 1901, 60, la mettono in Appendice tra le <hi rend="italic">chansons
           incertaines</hi>, considerando la sua attribuzione «plus que douteuse» e fondando la
@@ -211,7 +211,7 @@
         legittimare la assegnazione della Tavola al repertorio di Jehan de Nuevile, esponente della
         scuola poetica municipale di Arras della seconda metà del XIII, il cui canzoniere conta
         numerosi unica, forniti a M dall'apporto di una fonte peculiare (cfr. anche Lindelöf e
-        Wallensköld, p. 26).</editorialDecl>
+        Wallensköld, p. 26).</p></editorialDecl>
     </encodingDesc>
     <revisionDesc>
       <listChange>
